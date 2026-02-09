@@ -1,0 +1,5002 @@
+[
+  {
+    "QUOTE_ID": 1,
+    "CUSTOMER_ID": 663,
+    "VALID_UNTIL": "2023-09-13"
+  },
+  {
+    "QUOTE_ID": 2,
+    "CUSTOMER_ID": 173,
+    "VALID_UNTIL": "2024-04-14"
+  },
+  {
+    "QUOTE_ID": 3,
+    "CUSTOMER_ID": 32,
+    "VALID_UNTIL": "2024-11-19"
+  },
+  {
+    "QUOTE_ID": 4,
+    "CUSTOMER_ID": 370,
+    "VALID_UNTIL": "2024-08-14"
+  },
+  {
+    "QUOTE_ID": 5,
+    "CUSTOMER_ID": 386,
+    "VALID_UNTIL": "2024-10-29"
+  },
+  {
+    "QUOTE_ID": 6,
+    "CUSTOMER_ID": 775,
+    "VALID_UNTIL": "2023-11-13"
+  },
+  {
+    "QUOTE_ID": 7,
+    "CUSTOMER_ID": 170,
+    "VALID_UNTIL": "2024-05-15"
+  },
+  {
+    "QUOTE_ID": 8,
+    "CUSTOMER_ID": 431,
+    "VALID_UNTIL": "2024-06-06"
+  },
+  {
+    "QUOTE_ID": 9,
+    "CUSTOMER_ID": 300,
+    "VALID_UNTIL": "2024-07-12"
+  },
+  {
+    "QUOTE_ID": 10,
+    "CUSTOMER_ID": 215,
+    "VALID_UNTIL": "2023-05-12"
+  },
+  {
+    "QUOTE_ID": 11,
+    "CUSTOMER_ID": 870,
+    "VALID_UNTIL": "2024-04-29"
+  },
+  {
+    "QUOTE_ID": 12,
+    "CUSTOMER_ID": 198,
+    "VALID_UNTIL": "2023-02-02"
+  },
+  {
+    "QUOTE_ID": 13,
+    "CUSTOMER_ID": 394,
+    "VALID_UNTIL": "2024-03-18"
+  },
+  {
+    "QUOTE_ID": 14,
+    "CUSTOMER_ID": 187,
+    "VALID_UNTIL": "2024-09-26"
+  },
+  {
+    "QUOTE_ID": 15,
+    "CUSTOMER_ID": 219,
+    "VALID_UNTIL": "2024-12-03"
+  },
+  {
+    "QUOTE_ID": 16,
+    "CUSTOMER_ID": 990,
+    "VALID_UNTIL": "2024-11-18"
+  },
+  {
+    "QUOTE_ID": 17,
+    "CUSTOMER_ID": 937,
+    "VALID_UNTIL": "2024-12-28"
+  },
+  {
+    "QUOTE_ID": 18,
+    "CUSTOMER_ID": 89,
+    "VALID_UNTIL": "2024-02-15"
+  },
+  {
+    "QUOTE_ID": 19,
+    "CUSTOMER_ID": 95,
+    "VALID_UNTIL": "2024-07-26"
+  },
+  {
+    "QUOTE_ID": 20,
+    "CUSTOMER_ID": 946,
+    "VALID_UNTIL": "2023-05-03"
+  },
+  {
+    "QUOTE_ID": 21,
+    "CUSTOMER_ID": 480,
+    "VALID_UNTIL": "2024-08-06"
+  },
+  {
+    "QUOTE_ID": 22,
+    "CUSTOMER_ID": 513,
+    "VALID_UNTIL": "2023-07-03"
+  },
+  {
+    "QUOTE_ID": 23,
+    "CUSTOMER_ID": 302,
+    "VALID_UNTIL": "2023-06-30"
+  },
+  {
+    "QUOTE_ID": 24,
+    "CUSTOMER_ID": 908,
+    "VALID_UNTIL": "2024-02-25"
+  },
+  {
+    "QUOTE_ID": 25,
+    "CUSTOMER_ID": 844,
+    "VALID_UNTIL": "2024-02-05"
+  },
+  {
+    "QUOTE_ID": 26,
+    "CUSTOMER_ID": 842,
+    "VALID_UNTIL": "2024-01-14"
+  },
+  {
+    "QUOTE_ID": 27,
+    "CUSTOMER_ID": 577,
+    "VALID_UNTIL": "2023-12-16"
+  },
+  {
+    "QUOTE_ID": 28,
+    "CUSTOMER_ID": 425,
+    "VALID_UNTIL": "2024-10-29"
+  },
+  {
+    "QUOTE_ID": 29,
+    "CUSTOMER_ID": 562,
+    "VALID_UNTIL": "2024-09-29"
+  },
+  {
+    "QUOTE_ID": 30,
+    "CUSTOMER_ID": 857,
+    "VALID_UNTIL": "2023-02-23"
+  },
+  {
+    "QUOTE_ID": 31,
+    "CUSTOMER_ID": 956,
+    "VALID_UNTIL": "2024-04-05"
+  },
+  {
+    "QUOTE_ID": 32,
+    "CUSTOMER_ID": 951,
+    "VALID_UNTIL": "2023-07-06"
+  },
+  {
+    "QUOTE_ID": 33,
+    "CUSTOMER_ID": 242,
+    "VALID_UNTIL": "2023-06-16"
+  },
+  {
+    "QUOTE_ID": 34,
+    "CUSTOMER_ID": 472,
+    "VALID_UNTIL": "2023-06-27"
+  },
+  {
+    "QUOTE_ID": 35,
+    "CUSTOMER_ID": 226,
+    "VALID_UNTIL": "2024-11-30"
+  },
+  {
+    "QUOTE_ID": 36,
+    "CUSTOMER_ID": 486,
+    "VALID_UNTIL": "2023-06-01"
+  },
+  {
+    "QUOTE_ID": 37,
+    "CUSTOMER_ID": 462,
+    "VALID_UNTIL": "2024-10-31"
+  },
+  {
+    "QUOTE_ID": 38,
+    "CUSTOMER_ID": 515,
+    "VALID_UNTIL": "2024-09-15"
+  },
+  {
+    "QUOTE_ID": 39,
+    "CUSTOMER_ID": 28,
+    "VALID_UNTIL": "2023-07-05"
+  },
+  {
+    "QUOTE_ID": 40,
+    "CUSTOMER_ID": 906,
+    "VALID_UNTIL": "2023-07-25"
+  },
+  {
+    "QUOTE_ID": 41,
+    "CUSTOMER_ID": 234,
+    "VALID_UNTIL": "2024-05-27"
+  },
+  {
+    "QUOTE_ID": 42,
+    "CUSTOMER_ID": 696,
+    "VALID_UNTIL": "2024-09-08"
+  },
+  {
+    "QUOTE_ID": 43,
+    "CUSTOMER_ID": 58,
+    "VALID_UNTIL": "2023-03-08"
+  },
+  {
+    "QUOTE_ID": 44,
+    "CUSTOMER_ID": 726,
+    "VALID_UNTIL": "2024-04-13"
+  },
+  {
+    "QUOTE_ID": 45,
+    "CUSTOMER_ID": 324,
+    "VALID_UNTIL": "2023-11-06"
+  },
+  {
+    "QUOTE_ID": 46,
+    "CUSTOMER_ID": 894,
+    "VALID_UNTIL": "2024-08-08"
+  },
+  {
+    "QUOTE_ID": 47,
+    "CUSTOMER_ID": 643,
+    "VALID_UNTIL": "2024-11-14"
+  },
+  {
+    "QUOTE_ID": 48,
+    "CUSTOMER_ID": 459,
+    "VALID_UNTIL": "2023-03-28"
+  },
+  {
+    "QUOTE_ID": 49,
+    "CUSTOMER_ID": 688,
+    "VALID_UNTIL": "2024-08-18"
+  },
+  {
+    "QUOTE_ID": 50,
+    "CUSTOMER_ID": 288,
+    "VALID_UNTIL": "2024-05-22"
+  },
+  {
+    "QUOTE_ID": 51,
+    "CUSTOMER_ID": 458,
+    "VALID_UNTIL": "2024-09-16"
+  },
+  {
+    "QUOTE_ID": 52,
+    "CUSTOMER_ID": 331,
+    "VALID_UNTIL": "2023-10-23"
+  },
+  {
+    "QUOTE_ID": 53,
+    "CUSTOMER_ID": 73,
+    "VALID_UNTIL": "2024-11-03"
+  },
+  {
+    "QUOTE_ID": 54,
+    "CUSTOMER_ID": 811,
+    "VALID_UNTIL": "2024-04-30"
+  },
+  {
+    "QUOTE_ID": 55,
+    "CUSTOMER_ID": 431,
+    "VALID_UNTIL": "2024-06-22"
+  },
+  {
+    "QUOTE_ID": 56,
+    "CUSTOMER_ID": 322,
+    "VALID_UNTIL": "2023-12-18"
+  },
+  {
+    "QUOTE_ID": 57,
+    "CUSTOMER_ID": 208,
+    "VALID_UNTIL": "2024-09-29"
+  },
+  {
+    "QUOTE_ID": 58,
+    "CUSTOMER_ID": 538,
+    "VALID_UNTIL": "2023-04-20"
+  },
+  {
+    "QUOTE_ID": 59,
+    "CUSTOMER_ID": 839,
+    "VALID_UNTIL": "2024-08-10"
+  },
+  {
+    "QUOTE_ID": 60,
+    "CUSTOMER_ID": 554,
+    "VALID_UNTIL": "2024-10-31"
+  },
+  {
+    "QUOTE_ID": 61,
+    "CUSTOMER_ID": 702,
+    "VALID_UNTIL": "2023-03-12"
+  },
+  {
+    "QUOTE_ID": 62,
+    "CUSTOMER_ID": 864,
+    "VALID_UNTIL": "2024-05-08"
+  },
+  {
+    "QUOTE_ID": 63,
+    "CUSTOMER_ID": 767,
+    "VALID_UNTIL": "2023-09-03"
+  },
+  {
+    "QUOTE_ID": 64,
+    "CUSTOMER_ID": 474,
+    "VALID_UNTIL": "2024-07-10"
+  },
+  {
+    "QUOTE_ID": 65,
+    "CUSTOMER_ID": 68,
+    "VALID_UNTIL": "2024-01-27"
+  },
+  {
+    "QUOTE_ID": 66,
+    "CUSTOMER_ID": 598,
+    "VALID_UNTIL": "2023-04-07"
+  },
+  {
+    "QUOTE_ID": 67,
+    "CUSTOMER_ID": 329,
+    "VALID_UNTIL": "2024-06-19"
+  },
+  {
+    "QUOTE_ID": 68,
+    "CUSTOMER_ID": 617,
+    "VALID_UNTIL": "2023-03-31"
+  },
+  {
+    "QUOTE_ID": 69,
+    "CUSTOMER_ID": 572,
+    "VALID_UNTIL": "2024-09-16"
+  },
+  {
+    "QUOTE_ID": 70,
+    "CUSTOMER_ID": 310,
+    "VALID_UNTIL": "2024-02-13"
+  },
+  {
+    "QUOTE_ID": 71,
+    "CUSTOMER_ID": 523,
+    "VALID_UNTIL": "2024-10-15"
+  },
+  {
+    "QUOTE_ID": 72,
+    "CUSTOMER_ID": 781,
+    "VALID_UNTIL": "2024-11-03"
+  },
+  {
+    "QUOTE_ID": 73,
+    "CUSTOMER_ID": 400,
+    "VALID_UNTIL": "2023-07-21"
+  },
+  {
+    "QUOTE_ID": 74,
+    "CUSTOMER_ID": 415,
+    "VALID_UNTIL": "2024-08-16"
+  },
+  {
+    "QUOTE_ID": 75,
+    "CUSTOMER_ID": 216,
+    "VALID_UNTIL": "2024-07-01"
+  },
+  {
+    "QUOTE_ID": 76,
+    "CUSTOMER_ID": 270,
+    "VALID_UNTIL": "2024-08-16"
+  },
+  {
+    "QUOTE_ID": 77,
+    "CUSTOMER_ID": 525,
+    "VALID_UNTIL": "2024-04-28"
+  },
+  {
+    "QUOTE_ID": 78,
+    "CUSTOMER_ID": 421,
+    "VALID_UNTIL": "2023-08-29"
+  },
+  {
+    "QUOTE_ID": 79,
+    "CUSTOMER_ID": 538,
+    "VALID_UNTIL": "2023-02-23"
+  },
+  {
+    "QUOTE_ID": 80,
+    "CUSTOMER_ID": 882,
+    "VALID_UNTIL": "2023-07-09"
+  },
+  {
+    "QUOTE_ID": 81,
+    "CUSTOMER_ID": 983,
+    "VALID_UNTIL": "2023-02-17"
+  },
+  {
+    "QUOTE_ID": 82,
+    "CUSTOMER_ID": 702,
+    "VALID_UNTIL": "2024-06-04"
+  },
+  {
+    "QUOTE_ID": 83,
+    "CUSTOMER_ID": 409,
+    "VALID_UNTIL": "2023-04-22"
+  },
+  {
+    "QUOTE_ID": 84,
+    "CUSTOMER_ID": 155,
+    "VALID_UNTIL": "2023-10-01"
+  },
+  {
+    "QUOTE_ID": 85,
+    "CUSTOMER_ID": 608,
+    "VALID_UNTIL": "2024-03-14"
+  },
+  {
+    "QUOTE_ID": 86,
+    "CUSTOMER_ID": 698,
+    "VALID_UNTIL": "2023-05-22"
+  },
+  {
+    "QUOTE_ID": 87,
+    "CUSTOMER_ID": 185,
+    "VALID_UNTIL": "2023-05-28"
+  },
+  {
+    "QUOTE_ID": 88,
+    "CUSTOMER_ID": 959,
+    "VALID_UNTIL": "2024-11-07"
+  },
+  {
+    "QUOTE_ID": 89,
+    "CUSTOMER_ID": 806,
+    "VALID_UNTIL": "2024-12-14"
+  },
+  {
+    "QUOTE_ID": 90,
+    "CUSTOMER_ID": 618,
+    "VALID_UNTIL": "2023-02-28"
+  },
+  {
+    "QUOTE_ID": 91,
+    "CUSTOMER_ID": 648,
+    "VALID_UNTIL": "2024-01-07"
+  },
+  {
+    "QUOTE_ID": 92,
+    "CUSTOMER_ID": 756,
+    "VALID_UNTIL": "2023-05-01"
+  },
+  {
+    "QUOTE_ID": 93,
+    "CUSTOMER_ID": 561,
+    "VALID_UNTIL": "2024-08-12"
+  },
+  {
+    "QUOTE_ID": 94,
+    "CUSTOMER_ID": 103,
+    "VALID_UNTIL": "2023-07-08"
+  },
+  {
+    "QUOTE_ID": 95,
+    "CUSTOMER_ID": 951,
+    "VALID_UNTIL": "2024-09-02"
+  },
+  {
+    "QUOTE_ID": 96,
+    "CUSTOMER_ID": 663,
+    "VALID_UNTIL": "2024-08-05"
+  },
+  {
+    "QUOTE_ID": 97,
+    "CUSTOMER_ID": 536,
+    "VALID_UNTIL": "2024-11-20"
+  },
+  {
+    "QUOTE_ID": 98,
+    "CUSTOMER_ID": 397,
+    "VALID_UNTIL": "2024-12-02"
+  },
+  {
+    "QUOTE_ID": 99,
+    "CUSTOMER_ID": 803,
+    "VALID_UNTIL": "2023-05-11"
+  },
+  {
+    "QUOTE_ID": 100,
+    "CUSTOMER_ID": 524,
+    "VALID_UNTIL": "2023-06-17"
+  },
+  {
+    "QUOTE_ID": 101,
+    "CUSTOMER_ID": 836,
+    "VALID_UNTIL": "2023-02-27"
+  },
+  {
+    "QUOTE_ID": 102,
+    "CUSTOMER_ID": 665,
+    "VALID_UNTIL": "2024-06-14"
+  },
+  {
+    "QUOTE_ID": 103,
+    "CUSTOMER_ID": 8,
+    "VALID_UNTIL": "2024-03-17"
+  },
+  {
+    "QUOTE_ID": 104,
+    "CUSTOMER_ID": 398,
+    "VALID_UNTIL": "2024-10-02"
+  },
+  {
+    "QUOTE_ID": 105,
+    "CUSTOMER_ID": 38,
+    "VALID_UNTIL": "2023-06-01"
+  },
+  {
+    "QUOTE_ID": 106,
+    "CUSTOMER_ID": 49,
+    "VALID_UNTIL": "2024-05-10"
+  },
+  {
+    "QUOTE_ID": 107,
+    "CUSTOMER_ID": 601,
+    "VALID_UNTIL": "2023-06-15"
+  },
+  {
+    "QUOTE_ID": 108,
+    "CUSTOMER_ID": 225,
+    "VALID_UNTIL": "2024-06-06"
+  },
+  {
+    "QUOTE_ID": 109,
+    "CUSTOMER_ID": 799,
+    "VALID_UNTIL": "2023-06-30"
+  },
+  {
+    "QUOTE_ID": 110,
+    "CUSTOMER_ID": 604,
+    "VALID_UNTIL": "2024-08-21"
+  },
+  {
+    "QUOTE_ID": 111,
+    "CUSTOMER_ID": 148,
+    "VALID_UNTIL": "2024-03-02"
+  },
+  {
+    "QUOTE_ID": 112,
+    "CUSTOMER_ID": 567,
+    "VALID_UNTIL": "2024-10-13"
+  },
+  {
+    "QUOTE_ID": 113,
+    "CUSTOMER_ID": 915,
+    "VALID_UNTIL": "2023-09-24"
+  },
+  {
+    "QUOTE_ID": 114,
+    "CUSTOMER_ID": 230,
+    "VALID_UNTIL": "2023-11-08"
+  },
+  {
+    "QUOTE_ID": 115,
+    "CUSTOMER_ID": 928,
+    "VALID_UNTIL": "2024-07-07"
+  },
+  {
+    "QUOTE_ID": 116,
+    "CUSTOMER_ID": 679,
+    "VALID_UNTIL": "2024-04-22"
+  },
+  {
+    "QUOTE_ID": 117,
+    "CUSTOMER_ID": 678,
+    "VALID_UNTIL": "2023-12-08"
+  },
+  {
+    "QUOTE_ID": 118,
+    "CUSTOMER_ID": 623,
+    "VALID_UNTIL": "2024-05-10"
+  },
+  {
+    "QUOTE_ID": 119,
+    "CUSTOMER_ID": 944,
+    "VALID_UNTIL": "2023-03-19"
+  },
+  {
+    "QUOTE_ID": 120,
+    "CUSTOMER_ID": 249,
+    "VALID_UNTIL": "2023-12-20"
+  },
+  {
+    "QUOTE_ID": 121,
+    "CUSTOMER_ID": 46,
+    "VALID_UNTIL": "2024-04-05"
+  },
+  {
+    "QUOTE_ID": 122,
+    "CUSTOMER_ID": 503,
+    "VALID_UNTIL": "2024-01-01"
+  },
+  {
+    "QUOTE_ID": 123,
+    "CUSTOMER_ID": 472,
+    "VALID_UNTIL": "2024-07-07"
+  },
+  {
+    "QUOTE_ID": 124,
+    "CUSTOMER_ID": 629,
+    "VALID_UNTIL": "2024-03-29"
+  },
+  {
+    "QUOTE_ID": 125,
+    "CUSTOMER_ID": 883,
+    "VALID_UNTIL": "2024-07-15"
+  },
+  {
+    "QUOTE_ID": 126,
+    "CUSTOMER_ID": 802,
+    "VALID_UNTIL": "2023-09-18"
+  },
+  {
+    "QUOTE_ID": 127,
+    "CUSTOMER_ID": 998,
+    "VALID_UNTIL": "2023-08-14"
+  },
+  {
+    "QUOTE_ID": 128,
+    "CUSTOMER_ID": 347,
+    "VALID_UNTIL": "2024-01-28"
+  },
+  {
+    "QUOTE_ID": 129,
+    "CUSTOMER_ID": 708,
+    "VALID_UNTIL": "2024-05-01"
+  },
+  {
+    "QUOTE_ID": 130,
+    "CUSTOMER_ID": 14,
+    "VALID_UNTIL": "2024-06-12"
+  },
+  {
+    "QUOTE_ID": 131,
+    "CUSTOMER_ID": 453,
+    "VALID_UNTIL": "2023-09-29"
+  },
+  {
+    "QUOTE_ID": 132,
+    "CUSTOMER_ID": 758,
+    "VALID_UNTIL": "2023-05-14"
+  },
+  {
+    "QUOTE_ID": 133,
+    "CUSTOMER_ID": 785,
+    "VALID_UNTIL": "2023-07-24"
+  },
+  {
+    "QUOTE_ID": 134,
+    "CUSTOMER_ID": 861,
+    "VALID_UNTIL": "2024-12-04"
+  },
+  {
+    "QUOTE_ID": 135,
+    "CUSTOMER_ID": 921,
+    "VALID_UNTIL": "2023-09-11"
+  },
+  {
+    "QUOTE_ID": 136,
+    "CUSTOMER_ID": 103,
+    "VALID_UNTIL": "2023-12-27"
+  },
+  {
+    "QUOTE_ID": 137,
+    "CUSTOMER_ID": 338,
+    "VALID_UNTIL": "2024-01-14"
+  },
+  {
+    "QUOTE_ID": 138,
+    "CUSTOMER_ID": 648,
+    "VALID_UNTIL": "2023-03-15"
+  },
+  {
+    "QUOTE_ID": 139,
+    "CUSTOMER_ID": 698,
+    "VALID_UNTIL": "2023-12-22"
+  },
+  {
+    "QUOTE_ID": 140,
+    "CUSTOMER_ID": 451,
+    "VALID_UNTIL": "2024-12-23"
+  },
+  {
+    "QUOTE_ID": 141,
+    "CUSTOMER_ID": 927,
+    "VALID_UNTIL": "2023-03-05"
+  },
+  {
+    "QUOTE_ID": 142,
+    "CUSTOMER_ID": 367,
+    "VALID_UNTIL": "2023-06-10"
+  },
+  {
+    "QUOTE_ID": 143,
+    "CUSTOMER_ID": 660,
+    "VALID_UNTIL": "2023-05-06"
+  },
+  {
+    "QUOTE_ID": 144,
+    "CUSTOMER_ID": 538,
+    "VALID_UNTIL": "2024-06-03"
+  },
+  {
+    "QUOTE_ID": 145,
+    "CUSTOMER_ID": 633,
+    "VALID_UNTIL": "2024-10-09"
+  },
+  {
+    "QUOTE_ID": 146,
+    "CUSTOMER_ID": 692,
+    "VALID_UNTIL": "2023-09-15"
+  },
+  {
+    "QUOTE_ID": 147,
+    "CUSTOMER_ID": 529,
+    "VALID_UNTIL": "2023-11-07"
+  },
+  {
+    "QUOTE_ID": 148,
+    "CUSTOMER_ID": 728,
+    "VALID_UNTIL": "2023-11-13"
+  },
+  {
+    "QUOTE_ID": 149,
+    "CUSTOMER_ID": 270,
+    "VALID_UNTIL": "2023-03-17"
+  },
+  {
+    "QUOTE_ID": 150,
+    "CUSTOMER_ID": 319,
+    "VALID_UNTIL": "2024-02-11"
+  },
+  {
+    "QUOTE_ID": 151,
+    "CUSTOMER_ID": 522,
+    "VALID_UNTIL": "2024-08-03"
+  },
+  {
+    "QUOTE_ID": 152,
+    "CUSTOMER_ID": 215,
+    "VALID_UNTIL": "2023-05-18"
+  },
+  {
+    "QUOTE_ID": 153,
+    "CUSTOMER_ID": 996,
+    "VALID_UNTIL": "2023-04-19"
+  },
+  {
+    "QUOTE_ID": 154,
+    "CUSTOMER_ID": 319,
+    "VALID_UNTIL": "2023-04-06"
+  },
+  {
+    "QUOTE_ID": 155,
+    "CUSTOMER_ID": 316,
+    "VALID_UNTIL": "2024-06-08"
+  },
+  {
+    "QUOTE_ID": 156,
+    "CUSTOMER_ID": 974,
+    "VALID_UNTIL": "2023-03-24"
+  },
+  {
+    "QUOTE_ID": 157,
+    "CUSTOMER_ID": 668,
+    "VALID_UNTIL": "2023-05-15"
+  },
+  {
+    "QUOTE_ID": 158,
+    "CUSTOMER_ID": 771,
+    "VALID_UNTIL": "2023-07-06"
+  },
+  {
+    "QUOTE_ID": 159,
+    "CUSTOMER_ID": 959,
+    "VALID_UNTIL": "2023-09-20"
+  },
+  {
+    "QUOTE_ID": 160,
+    "CUSTOMER_ID": 664,
+    "VALID_UNTIL": "2023-12-27"
+  },
+  {
+    "QUOTE_ID": 161,
+    "CUSTOMER_ID": 872,
+    "VALID_UNTIL": "2023-03-22"
+  },
+  {
+    "QUOTE_ID": 162,
+    "CUSTOMER_ID": 204,
+    "VALID_UNTIL": "2024-03-16"
+  },
+  {
+    "QUOTE_ID": 163,
+    "CUSTOMER_ID": 549,
+    "VALID_UNTIL": "2024-04-29"
+  },
+  {
+    "QUOTE_ID": 164,
+    "CUSTOMER_ID": 117,
+    "VALID_UNTIL": "2023-12-29"
+  },
+  {
+    "QUOTE_ID": 165,
+    "CUSTOMER_ID": 643,
+    "VALID_UNTIL": "2024-03-08"
+  },
+  {
+    "QUOTE_ID": 166,
+    "CUSTOMER_ID": 839,
+    "VALID_UNTIL": "2024-07-30"
+  },
+  {
+    "QUOTE_ID": 167,
+    "CUSTOMER_ID": 617,
+    "VALID_UNTIL": "2023-04-17"
+  },
+  {
+    "QUOTE_ID": 168,
+    "CUSTOMER_ID": 762,
+    "VALID_UNTIL": "2023-03-10"
+  },
+  {
+    "QUOTE_ID": 169,
+    "CUSTOMER_ID": 597,
+    "VALID_UNTIL": "2024-11-15"
+  },
+  {
+    "QUOTE_ID": 170,
+    "CUSTOMER_ID": 449,
+    "VALID_UNTIL": "2024-05-06"
+  },
+  {
+    "QUOTE_ID": 171,
+    "CUSTOMER_ID": 633,
+    "VALID_UNTIL": "2024-05-02"
+  },
+  {
+    "QUOTE_ID": 172,
+    "CUSTOMER_ID": 551,
+    "VALID_UNTIL": "2023-03-26"
+  },
+  {
+    "QUOTE_ID": 173,
+    "CUSTOMER_ID": 895,
+    "VALID_UNTIL": "2023-06-25"
+  },
+  {
+    "QUOTE_ID": 174,
+    "CUSTOMER_ID": 238,
+    "VALID_UNTIL": "2024-11-15"
+  },
+  {
+    "QUOTE_ID": 175,
+    "CUSTOMER_ID": 997,
+    "VALID_UNTIL": "2023-12-06"
+  },
+  {
+    "QUOTE_ID": 176,
+    "CUSTOMER_ID": 824,
+    "VALID_UNTIL": "2024-11-03"
+  },
+  {
+    "QUOTE_ID": 177,
+    "CUSTOMER_ID": 274,
+    "VALID_UNTIL": "2024-01-31"
+  },
+  {
+    "QUOTE_ID": 178,
+    "CUSTOMER_ID": 437,
+    "VALID_UNTIL": "2024-07-08"
+  },
+  {
+    "QUOTE_ID": 179,
+    "CUSTOMER_ID": 299,
+    "VALID_UNTIL": "2023-10-27"
+  },
+  {
+    "QUOTE_ID": 180,
+    "CUSTOMER_ID": 422,
+    "VALID_UNTIL": "2024-05-29"
+  },
+  {
+    "QUOTE_ID": 181,
+    "CUSTOMER_ID": 589,
+    "VALID_UNTIL": "2023-11-27"
+  },
+  {
+    "QUOTE_ID": 182,
+    "CUSTOMER_ID": 26,
+    "VALID_UNTIL": "2023-09-25"
+  },
+  {
+    "QUOTE_ID": 183,
+    "CUSTOMER_ID": 840,
+    "VALID_UNTIL": "2024-04-08"
+  },
+  {
+    "QUOTE_ID": 184,
+    "CUSTOMER_ID": 744,
+    "VALID_UNTIL": "2024-04-12"
+  },
+  {
+    "QUOTE_ID": 185,
+    "CUSTOMER_ID": 977,
+    "VALID_UNTIL": "2023-12-02"
+  },
+  {
+    "QUOTE_ID": 186,
+    "CUSTOMER_ID": 834,
+    "VALID_UNTIL": "2023-02-22"
+  },
+  {
+    "QUOTE_ID": 187,
+    "CUSTOMER_ID": 68,
+    "VALID_UNTIL": "2024-04-17"
+  },
+  {
+    "QUOTE_ID": 188,
+    "CUSTOMER_ID": 224,
+    "VALID_UNTIL": "2023-06-17"
+  },
+  {
+    "QUOTE_ID": 189,
+    "CUSTOMER_ID": 628,
+    "VALID_UNTIL": "2023-12-23"
+  },
+  {
+    "QUOTE_ID": 190,
+    "CUSTOMER_ID": 492,
+    "VALID_UNTIL": "2023-09-11"
+  },
+  {
+    "QUOTE_ID": 191,
+    "CUSTOMER_ID": 777,
+    "VALID_UNTIL": "2024-06-24"
+  },
+  {
+    "QUOTE_ID": 192,
+    "CUSTOMER_ID": 519,
+    "VALID_UNTIL": "2024-12-08"
+  },
+  {
+    "QUOTE_ID": 193,
+    "CUSTOMER_ID": 214,
+    "VALID_UNTIL": "2023-06-01"
+  },
+  {
+    "QUOTE_ID": 194,
+    "CUSTOMER_ID": 364,
+    "VALID_UNTIL": "2024-09-18"
+  },
+  {
+    "QUOTE_ID": 195,
+    "CUSTOMER_ID": 968,
+    "VALID_UNTIL": "2024-06-24"
+  },
+  {
+    "QUOTE_ID": 196,
+    "CUSTOMER_ID": 375,
+    "VALID_UNTIL": "2024-05-08"
+  },
+  {
+    "QUOTE_ID": 197,
+    "CUSTOMER_ID": 724,
+    "VALID_UNTIL": "2023-07-14"
+  },
+  {
+    "QUOTE_ID": 198,
+    "CUSTOMER_ID": 616,
+    "VALID_UNTIL": "2024-12-16"
+  },
+  {
+    "QUOTE_ID": 199,
+    "CUSTOMER_ID": 151,
+    "VALID_UNTIL": "2024-12-09"
+  },
+  {
+    "QUOTE_ID": 200,
+    "CUSTOMER_ID": 450,
+    "VALID_UNTIL": "2023-09-27"
+  },
+  {
+    "QUOTE_ID": 201,
+    "CUSTOMER_ID": 107,
+    "VALID_UNTIL": "2024-07-05"
+  },
+  {
+    "QUOTE_ID": 202,
+    "CUSTOMER_ID": 403,
+    "VALID_UNTIL": "2024-08-25"
+  },
+  {
+    "QUOTE_ID": 203,
+    "CUSTOMER_ID": 793,
+    "VALID_UNTIL": "2023-09-01"
+  },
+  {
+    "QUOTE_ID": 204,
+    "CUSTOMER_ID": 728,
+    "VALID_UNTIL": "2023-03-10"
+  },
+  {
+    "QUOTE_ID": 205,
+    "CUSTOMER_ID": 140,
+    "VALID_UNTIL": "2024-08-31"
+  },
+  {
+    "QUOTE_ID": 206,
+    "CUSTOMER_ID": 850,
+    "VALID_UNTIL": "2023-05-01"
+  },
+  {
+    "QUOTE_ID": 207,
+    "CUSTOMER_ID": 340,
+    "VALID_UNTIL": "2024-08-25"
+  },
+  {
+    "QUOTE_ID": 208,
+    "CUSTOMER_ID": 378,
+    "VALID_UNTIL": "2024-12-08"
+  },
+  {
+    "QUOTE_ID": 209,
+    "CUSTOMER_ID": 312,
+    "VALID_UNTIL": "2024-11-18"
+  },
+  {
+    "QUOTE_ID": 210,
+    "CUSTOMER_ID": 168,
+    "VALID_UNTIL": "2023-09-20"
+  },
+  {
+    "QUOTE_ID": 211,
+    "CUSTOMER_ID": 233,
+    "VALID_UNTIL": "2023-07-29"
+  },
+  {
+    "QUOTE_ID": 212,
+    "CUSTOMER_ID": 308,
+    "VALID_UNTIL": "2023-05-03"
+  },
+  {
+    "QUOTE_ID": 213,
+    "CUSTOMER_ID": 385,
+    "VALID_UNTIL": "2024-02-16"
+  },
+  {
+    "QUOTE_ID": 214,
+    "CUSTOMER_ID": 71,
+    "VALID_UNTIL": "2024-08-16"
+  },
+  {
+    "QUOTE_ID": 215,
+    "CUSTOMER_ID": 356,
+    "VALID_UNTIL": "2024-11-02"
+  },
+  {
+    "QUOTE_ID": 216,
+    "CUSTOMER_ID": 757,
+    "VALID_UNTIL": "2023-10-18"
+  },
+  {
+    "QUOTE_ID": 217,
+    "CUSTOMER_ID": 551,
+    "VALID_UNTIL": "2023-10-11"
+  },
+  {
+    "QUOTE_ID": 218,
+    "CUSTOMER_ID": 598,
+    "VALID_UNTIL": "2024-04-18"
+  },
+  {
+    "QUOTE_ID": 219,
+    "CUSTOMER_ID": 817,
+    "VALID_UNTIL": "2024-03-04"
+  },
+  {
+    "QUOTE_ID": 220,
+    "CUSTOMER_ID": 25,
+    "VALID_UNTIL": "2024-05-22"
+  },
+  {
+    "QUOTE_ID": 221,
+    "CUSTOMER_ID": 933,
+    "VALID_UNTIL": "2023-08-31"
+  },
+  {
+    "QUOTE_ID": 222,
+    "CUSTOMER_ID": 308,
+    "VALID_UNTIL": "2023-11-25"
+  },
+  {
+    "QUOTE_ID": 223,
+    "CUSTOMER_ID": 814,
+    "VALID_UNTIL": "2024-02-28"
+  },
+  {
+    "QUOTE_ID": 224,
+    "CUSTOMER_ID": 867,
+    "VALID_UNTIL": "2024-05-27"
+  },
+  {
+    "QUOTE_ID": 225,
+    "CUSTOMER_ID": 727,
+    "VALID_UNTIL": "2023-10-18"
+  },
+  {
+    "QUOTE_ID": 226,
+    "CUSTOMER_ID": 399,
+    "VALID_UNTIL": "2023-07-30"
+  },
+  {
+    "QUOTE_ID": 227,
+    "CUSTOMER_ID": 745,
+    "VALID_UNTIL": "2023-06-05"
+  },
+  {
+    "QUOTE_ID": 228,
+    "CUSTOMER_ID": 354,
+    "VALID_UNTIL": "2024-11-08"
+  },
+  {
+    "QUOTE_ID": 229,
+    "CUSTOMER_ID": 587,
+    "VALID_UNTIL": "2024-01-31"
+  },
+  {
+    "QUOTE_ID": 230,
+    "CUSTOMER_ID": 558,
+    "VALID_UNTIL": "2023-11-17"
+  },
+  {
+    "QUOTE_ID": 231,
+    "CUSTOMER_ID": 666,
+    "VALID_UNTIL": "2023-04-25"
+  },
+  {
+    "QUOTE_ID": 232,
+    "CUSTOMER_ID": 944,
+    "VALID_UNTIL": "2024-11-03"
+  },
+  {
+    "QUOTE_ID": 233,
+    "CUSTOMER_ID": 499,
+    "VALID_UNTIL": "2023-11-01"
+  },
+  {
+    "QUOTE_ID": 234,
+    "CUSTOMER_ID": 759,
+    "VALID_UNTIL": "2024-10-16"
+  },
+  {
+    "QUOTE_ID": 235,
+    "CUSTOMER_ID": 118,
+    "VALID_UNTIL": "2024-04-09"
+  },
+  {
+    "QUOTE_ID": 236,
+    "CUSTOMER_ID": 66,
+    "VALID_UNTIL": "2024-04-27"
+  },
+  {
+    "QUOTE_ID": 237,
+    "CUSTOMER_ID": 4,
+    "VALID_UNTIL": "2024-01-10"
+  },
+  {
+    "QUOTE_ID": 238,
+    "CUSTOMER_ID": 14,
+    "VALID_UNTIL": "2023-07-15"
+  },
+  {
+    "QUOTE_ID": 239,
+    "CUSTOMER_ID": 920,
+    "VALID_UNTIL": "2023-07-19"
+  },
+  {
+    "QUOTE_ID": 240,
+    "CUSTOMER_ID": 79,
+    "VALID_UNTIL": "2024-07-09"
+  },
+  {
+    "QUOTE_ID": 241,
+    "CUSTOMER_ID": 681,
+    "VALID_UNTIL": "2023-05-07"
+  },
+  {
+    "QUOTE_ID": 242,
+    "CUSTOMER_ID": 415,
+    "VALID_UNTIL": "2024-08-31"
+  },
+  {
+    "QUOTE_ID": 243,
+    "CUSTOMER_ID": 566,
+    "VALID_UNTIL": "2023-04-14"
+  },
+  {
+    "QUOTE_ID": 244,
+    "CUSTOMER_ID": 662,
+    "VALID_UNTIL": "2023-11-20"
+  },
+  {
+    "QUOTE_ID": 245,
+    "CUSTOMER_ID": 913,
+    "VALID_UNTIL": "2023-05-12"
+  },
+  {
+    "QUOTE_ID": 246,
+    "CUSTOMER_ID": 234,
+    "VALID_UNTIL": "2023-12-04"
+  },
+  {
+    "QUOTE_ID": 247,
+    "CUSTOMER_ID": 858,
+    "VALID_UNTIL": "2023-11-07"
+  },
+  {
+    "QUOTE_ID": 248,
+    "CUSTOMER_ID": 684,
+    "VALID_UNTIL": "2024-06-05"
+  },
+  {
+    "QUOTE_ID": 249,
+    "CUSTOMER_ID": 396,
+    "VALID_UNTIL": "2023-03-31"
+  },
+  {
+    "QUOTE_ID": 250,
+    "CUSTOMER_ID": 723,
+    "VALID_UNTIL": "2024-09-26"
+  },
+  {
+    "QUOTE_ID": 251,
+    "CUSTOMER_ID": 262,
+    "VALID_UNTIL": "2024-08-28"
+  },
+  {
+    "QUOTE_ID": 252,
+    "CUSTOMER_ID": 209,
+    "VALID_UNTIL": "2024-06-12"
+  },
+  {
+    "QUOTE_ID": 253,
+    "CUSTOMER_ID": 831,
+    "VALID_UNTIL": "2024-05-05"
+  },
+  {
+    "QUOTE_ID": 254,
+    "CUSTOMER_ID": 295,
+    "VALID_UNTIL": "2023-02-26"
+  },
+  {
+    "QUOTE_ID": 255,
+    "CUSTOMER_ID": 754,
+    "VALID_UNTIL": "2023-06-11"
+  },
+  {
+    "QUOTE_ID": 256,
+    "CUSTOMER_ID": 606,
+    "VALID_UNTIL": "2023-06-08"
+  },
+  {
+    "QUOTE_ID": 257,
+    "CUSTOMER_ID": 549,
+    "VALID_UNTIL": "2024-03-20"
+  },
+  {
+    "QUOTE_ID": 258,
+    "CUSTOMER_ID": 296,
+    "VALID_UNTIL": "2024-12-11"
+  },
+  {
+    "QUOTE_ID": 259,
+    "CUSTOMER_ID": 653,
+    "VALID_UNTIL": "2023-10-05"
+  },
+  {
+    "QUOTE_ID": 260,
+    "CUSTOMER_ID": 995,
+    "VALID_UNTIL": "2023-08-25"
+  },
+  {
+    "QUOTE_ID": 261,
+    "CUSTOMER_ID": 790,
+    "VALID_UNTIL": "2023-03-01"
+  },
+  {
+    "QUOTE_ID": 262,
+    "CUSTOMER_ID": 832,
+    "VALID_UNTIL": "2023-07-05"
+  },
+  {
+    "QUOTE_ID": 263,
+    "CUSTOMER_ID": 435,
+    "VALID_UNTIL": "2024-11-10"
+  },
+  {
+    "QUOTE_ID": 264,
+    "CUSTOMER_ID": 357,
+    "VALID_UNTIL": "2023-03-02"
+  },
+  {
+    "QUOTE_ID": 265,
+    "CUSTOMER_ID": 589,
+    "VALID_UNTIL": "2024-11-22"
+  },
+  {
+    "QUOTE_ID": 266,
+    "CUSTOMER_ID": 600,
+    "VALID_UNTIL": "2024-02-28"
+  },
+  {
+    "QUOTE_ID": 267,
+    "CUSTOMER_ID": 725,
+    "VALID_UNTIL": "2023-08-10"
+  },
+  {
+    "QUOTE_ID": 268,
+    "CUSTOMER_ID": 120,
+    "VALID_UNTIL": "2024-08-24"
+  },
+  {
+    "QUOTE_ID": 269,
+    "CUSTOMER_ID": 913,
+    "VALID_UNTIL": "2023-08-12"
+  },
+  {
+    "QUOTE_ID": 270,
+    "CUSTOMER_ID": 426,
+    "VALID_UNTIL": "2024-02-21"
+  },
+  {
+    "QUOTE_ID": 271,
+    "CUSTOMER_ID": 464,
+    "VALID_UNTIL": "2024-05-15"
+  },
+  {
+    "QUOTE_ID": 272,
+    "CUSTOMER_ID": 127,
+    "VALID_UNTIL": "2024-10-06"
+  },
+  {
+    "QUOTE_ID": 273,
+    "CUSTOMER_ID": 765,
+    "VALID_UNTIL": "2024-02-21"
+  },
+  {
+    "QUOTE_ID": 274,
+    "CUSTOMER_ID": 426,
+    "VALID_UNTIL": "2024-03-29"
+  },
+  {
+    "QUOTE_ID": 275,
+    "CUSTOMER_ID": 446,
+    "VALID_UNTIL": "2023-04-20"
+  },
+  {
+    "QUOTE_ID": 276,
+    "CUSTOMER_ID": 2,
+    "VALID_UNTIL": "2023-06-22"
+  },
+  {
+    "QUOTE_ID": 277,
+    "CUSTOMER_ID": 321,
+    "VALID_UNTIL": "2024-03-09"
+  },
+  {
+    "QUOTE_ID": 278,
+    "CUSTOMER_ID": 938,
+    "VALID_UNTIL": "2023-10-04"
+  },
+  {
+    "QUOTE_ID": 279,
+    "CUSTOMER_ID": 285,
+    "VALID_UNTIL": "2023-07-28"
+  },
+  {
+    "QUOTE_ID": 280,
+    "CUSTOMER_ID": 831,
+    "VALID_UNTIL": "2023-03-04"
+  },
+  {
+    "QUOTE_ID": 281,
+    "CUSTOMER_ID": 138,
+    "VALID_UNTIL": "2023-06-11"
+  },
+  {
+    "QUOTE_ID": 282,
+    "CUSTOMER_ID": 137,
+    "VALID_UNTIL": "2024-12-27"
+  },
+  {
+    "QUOTE_ID": 283,
+    "CUSTOMER_ID": 716,
+    "VALID_UNTIL": "2023-09-13"
+  },
+  {
+    "QUOTE_ID": 284,
+    "CUSTOMER_ID": 276,
+    "VALID_UNTIL": "2024-10-20"
+  },
+  {
+    "QUOTE_ID": 285,
+    "CUSTOMER_ID": 603,
+    "VALID_UNTIL": "2024-08-10"
+  },
+  {
+    "QUOTE_ID": 286,
+    "CUSTOMER_ID": 41,
+    "VALID_UNTIL": "2023-04-15"
+  },
+  {
+    "QUOTE_ID": 287,
+    "CUSTOMER_ID": 922,
+    "VALID_UNTIL": "2023-09-01"
+  },
+  {
+    "QUOTE_ID": 288,
+    "CUSTOMER_ID": 743,
+    "VALID_UNTIL": "2024-04-23"
+  },
+  {
+    "QUOTE_ID": 289,
+    "CUSTOMER_ID": 996,
+    "VALID_UNTIL": "2024-04-08"
+  },
+  {
+    "QUOTE_ID": 290,
+    "CUSTOMER_ID": 568,
+    "VALID_UNTIL": "2023-09-14"
+  },
+  {
+    "QUOTE_ID": 291,
+    "CUSTOMER_ID": 913,
+    "VALID_UNTIL": "2024-04-06"
+  },
+  {
+    "QUOTE_ID": 292,
+    "CUSTOMER_ID": 500,
+    "VALID_UNTIL": "2024-02-01"
+  },
+  {
+    "QUOTE_ID": 293,
+    "CUSTOMER_ID": 633,
+    "VALID_UNTIL": "2023-02-16"
+  },
+  {
+    "QUOTE_ID": 294,
+    "CUSTOMER_ID": 97,
+    "VALID_UNTIL": "2024-05-30"
+  },
+  {
+    "QUOTE_ID": 295,
+    "CUSTOMER_ID": 885,
+    "VALID_UNTIL": "2024-05-08"
+  },
+  {
+    "QUOTE_ID": 296,
+    "CUSTOMER_ID": 630,
+    "VALID_UNTIL": "2023-04-14"
+  },
+  {
+    "QUOTE_ID": 297,
+    "CUSTOMER_ID": 336,
+    "VALID_UNTIL": "2023-07-03"
+  },
+  {
+    "QUOTE_ID": 298,
+    "CUSTOMER_ID": 651,
+    "VALID_UNTIL": "2023-12-08"
+  },
+  {
+    "QUOTE_ID": 299,
+    "CUSTOMER_ID": 283,
+    "VALID_UNTIL": "2024-03-19"
+  },
+  {
+    "QUOTE_ID": 300,
+    "CUSTOMER_ID": 124,
+    "VALID_UNTIL": "2023-11-07"
+  },
+  {
+    "QUOTE_ID": 301,
+    "CUSTOMER_ID": 301,
+    "VALID_UNTIL": "2023-02-27"
+  },
+  {
+    "QUOTE_ID": 302,
+    "CUSTOMER_ID": 632,
+    "VALID_UNTIL": "2023-07-18"
+  },
+  {
+    "QUOTE_ID": 303,
+    "CUSTOMER_ID": 217,
+    "VALID_UNTIL": "2023-10-09"
+  },
+  {
+    "QUOTE_ID": 304,
+    "CUSTOMER_ID": 796,
+    "VALID_UNTIL": "2024-01-24"
+  },
+  {
+    "QUOTE_ID": 305,
+    "CUSTOMER_ID": 65,
+    "VALID_UNTIL": "2024-05-13"
+  },
+  {
+    "QUOTE_ID": 306,
+    "CUSTOMER_ID": 312,
+    "VALID_UNTIL": "2024-03-10"
+  },
+  {
+    "QUOTE_ID": 307,
+    "CUSTOMER_ID": 930,
+    "VALID_UNTIL": "2024-02-04"
+  },
+  {
+    "QUOTE_ID": 308,
+    "CUSTOMER_ID": 445,
+    "VALID_UNTIL": "2023-12-11"
+  },
+  {
+    "QUOTE_ID": 309,
+    "CUSTOMER_ID": 144,
+    "VALID_UNTIL": "2024-02-20"
+  },
+  {
+    "QUOTE_ID": 310,
+    "CUSTOMER_ID": 834,
+    "VALID_UNTIL": "2023-03-25"
+  },
+  {
+    "QUOTE_ID": 311,
+    "CUSTOMER_ID": 113,
+    "VALID_UNTIL": "2024-08-15"
+  },
+  {
+    "QUOTE_ID": 312,
+    "CUSTOMER_ID": 393,
+    "VALID_UNTIL": "2023-10-10"
+  },
+  {
+    "QUOTE_ID": 313,
+    "CUSTOMER_ID": 502,
+    "VALID_UNTIL": "2023-06-11"
+  },
+  {
+    "QUOTE_ID": 314,
+    "CUSTOMER_ID": 389,
+    "VALID_UNTIL": "2023-09-11"
+  },
+  {
+    "QUOTE_ID": 315,
+    "CUSTOMER_ID": 69,
+    "VALID_UNTIL": "2024-09-03"
+  },
+  {
+    "QUOTE_ID": 316,
+    "CUSTOMER_ID": 599,
+    "VALID_UNTIL": "2024-01-31"
+  },
+  {
+    "QUOTE_ID": 317,
+    "CUSTOMER_ID": 753,
+    "VALID_UNTIL": "2024-11-19"
+  },
+  {
+    "QUOTE_ID": 318,
+    "CUSTOMER_ID": 391,
+    "VALID_UNTIL": "2024-10-19"
+  },
+  {
+    "QUOTE_ID": 319,
+    "CUSTOMER_ID": 649,
+    "VALID_UNTIL": "2024-01-08"
+  },
+  {
+    "QUOTE_ID": 320,
+    "CUSTOMER_ID": 365,
+    "VALID_UNTIL": "2024-09-18"
+  },
+  {
+    "QUOTE_ID": 321,
+    "CUSTOMER_ID": 777,
+    "VALID_UNTIL": "2023-07-11"
+  },
+  {
+    "QUOTE_ID": 322,
+    "CUSTOMER_ID": 655,
+    "VALID_UNTIL": "2023-08-06"
+  },
+  {
+    "QUOTE_ID": 323,
+    "CUSTOMER_ID": 498,
+    "VALID_UNTIL": "2024-04-24"
+  },
+  {
+    "QUOTE_ID": 324,
+    "CUSTOMER_ID": 385,
+    "VALID_UNTIL": "2023-10-27"
+  },
+  {
+    "QUOTE_ID": 325,
+    "CUSTOMER_ID": 832,
+    "VALID_UNTIL": "2023-05-05"
+  },
+  {
+    "QUOTE_ID": 326,
+    "CUSTOMER_ID": 306,
+    "VALID_UNTIL": "2024-10-14"
+  },
+  {
+    "QUOTE_ID": 327,
+    "CUSTOMER_ID": 47,
+    "VALID_UNTIL": "2023-02-26"
+  },
+  {
+    "QUOTE_ID": 328,
+    "CUSTOMER_ID": 222,
+    "VALID_UNTIL": "2024-08-13"
+  },
+  {
+    "QUOTE_ID": 329,
+    "CUSTOMER_ID": 332,
+    "VALID_UNTIL": "2023-02-02"
+  },
+  {
+    "QUOTE_ID": 330,
+    "CUSTOMER_ID": 997,
+    "VALID_UNTIL": "2023-08-02"
+  },
+  {
+    "QUOTE_ID": 331,
+    "CUSTOMER_ID": 761,
+    "VALID_UNTIL": "2024-01-08"
+  },
+  {
+    "QUOTE_ID": 332,
+    "CUSTOMER_ID": 352,
+    "VALID_UNTIL": "2023-04-06"
+  },
+  {
+    "QUOTE_ID": 333,
+    "CUSTOMER_ID": 747,
+    "VALID_UNTIL": "2023-09-01"
+  },
+  {
+    "QUOTE_ID": 334,
+    "CUSTOMER_ID": 852,
+    "VALID_UNTIL": "2023-11-04"
+  },
+  {
+    "QUOTE_ID": 335,
+    "CUSTOMER_ID": 799,
+    "VALID_UNTIL": "2023-11-22"
+  },
+  {
+    "QUOTE_ID": 336,
+    "CUSTOMER_ID": 948,
+    "VALID_UNTIL": "2024-12-30"
+  },
+  {
+    "QUOTE_ID": 337,
+    "CUSTOMER_ID": 262,
+    "VALID_UNTIL": "2024-08-15"
+  },
+  {
+    "QUOTE_ID": 338,
+    "CUSTOMER_ID": 409,
+    "VALID_UNTIL": "2024-06-06"
+  },
+  {
+    "QUOTE_ID": 339,
+    "CUSTOMER_ID": 145,
+    "VALID_UNTIL": "2023-08-03"
+  },
+  {
+    "QUOTE_ID": 340,
+    "CUSTOMER_ID": 547,
+    "VALID_UNTIL": "2024-08-01"
+  },
+  {
+    "QUOTE_ID": 341,
+    "CUSTOMER_ID": 235,
+    "VALID_UNTIL": "2024-09-08"
+  },
+  {
+    "QUOTE_ID": 342,
+    "CUSTOMER_ID": 1,
+    "VALID_UNTIL": "2023-12-04"
+  },
+  {
+    "QUOTE_ID": 343,
+    "CUSTOMER_ID": 481,
+    "VALID_UNTIL": "2023-10-04"
+  },
+  {
+    "QUOTE_ID": 344,
+    "CUSTOMER_ID": 980,
+    "VALID_UNTIL": "2023-09-27"
+  },
+  {
+    "QUOTE_ID": 345,
+    "CUSTOMER_ID": 68,
+    "VALID_UNTIL": "2023-10-16"
+  },
+  {
+    "QUOTE_ID": 346,
+    "CUSTOMER_ID": 948,
+    "VALID_UNTIL": "2024-02-04"
+  },
+  {
+    "QUOTE_ID": 347,
+    "CUSTOMER_ID": 283,
+    "VALID_UNTIL": "2024-02-22"
+  },
+  {
+    "QUOTE_ID": 348,
+    "CUSTOMER_ID": 749,
+    "VALID_UNTIL": "2023-04-26"
+  },
+  {
+    "QUOTE_ID": 349,
+    "CUSTOMER_ID": 383,
+    "VALID_UNTIL": "2024-06-07"
+  },
+  {
+    "QUOTE_ID": 350,
+    "CUSTOMER_ID": 300,
+    "VALID_UNTIL": "2024-09-16"
+  },
+  {
+    "QUOTE_ID": 351,
+    "CUSTOMER_ID": 850,
+    "VALID_UNTIL": "2023-08-21"
+  },
+  {
+    "QUOTE_ID": 352,
+    "CUSTOMER_ID": 153,
+    "VALID_UNTIL": "2024-02-01"
+  },
+  {
+    "QUOTE_ID": 353,
+    "CUSTOMER_ID": 96,
+    "VALID_UNTIL": "2023-05-28"
+  },
+  {
+    "QUOTE_ID": 354,
+    "CUSTOMER_ID": 267,
+    "VALID_UNTIL": "2024-09-24"
+  },
+  {
+    "QUOTE_ID": 355,
+    "CUSTOMER_ID": 469,
+    "VALID_UNTIL": "2024-07-22"
+  },
+  {
+    "QUOTE_ID": 356,
+    "CUSTOMER_ID": 530,
+    "VALID_UNTIL": "2024-05-22"
+  },
+  {
+    "QUOTE_ID": 357,
+    "CUSTOMER_ID": 604,
+    "VALID_UNTIL": "2023-12-21"
+  },
+  {
+    "QUOTE_ID": 358,
+    "CUSTOMER_ID": 219,
+    "VALID_UNTIL": "2023-04-06"
+  },
+  {
+    "QUOTE_ID": 359,
+    "CUSTOMER_ID": 138,
+    "VALID_UNTIL": "2023-02-08"
+  },
+  {
+    "QUOTE_ID": 360,
+    "CUSTOMER_ID": 297,
+    "VALID_UNTIL": "2023-02-14"
+  },
+  {
+    "QUOTE_ID": 361,
+    "CUSTOMER_ID": 598,
+    "VALID_UNTIL": "2023-12-26"
+  },
+  {
+    "QUOTE_ID": 362,
+    "CUSTOMER_ID": 293,
+    "VALID_UNTIL": "2023-10-07"
+  },
+  {
+    "QUOTE_ID": 363,
+    "CUSTOMER_ID": 452,
+    "VALID_UNTIL": "2024-06-21"
+  },
+  {
+    "QUOTE_ID": 364,
+    "CUSTOMER_ID": 667,
+    "VALID_UNTIL": "2024-04-20"
+  },
+  {
+    "QUOTE_ID": 365,
+    "CUSTOMER_ID": 436,
+    "VALID_UNTIL": "2023-05-08"
+  },
+  {
+    "QUOTE_ID": 366,
+    "CUSTOMER_ID": 527,
+    "VALID_UNTIL": "2023-08-17"
+  },
+  {
+    "QUOTE_ID": 367,
+    "CUSTOMER_ID": 54,
+    "VALID_UNTIL": "2024-07-25"
+  },
+  {
+    "QUOTE_ID": 368,
+    "CUSTOMER_ID": 824,
+    "VALID_UNTIL": "2024-02-17"
+  },
+  {
+    "QUOTE_ID": 369,
+    "CUSTOMER_ID": 515,
+    "VALID_UNTIL": "2023-03-24"
+  },
+  {
+    "QUOTE_ID": 370,
+    "CUSTOMER_ID": 62,
+    "VALID_UNTIL": "2023-05-13"
+  },
+  {
+    "QUOTE_ID": 371,
+    "CUSTOMER_ID": 741,
+    "VALID_UNTIL": "2024-08-01"
+  },
+  {
+    "QUOTE_ID": 372,
+    "CUSTOMER_ID": 492,
+    "VALID_UNTIL": "2023-10-07"
+  },
+  {
+    "QUOTE_ID": 373,
+    "CUSTOMER_ID": 88,
+    "VALID_UNTIL": "2023-12-16"
+  },
+  {
+    "QUOTE_ID": 374,
+    "CUSTOMER_ID": 212,
+    "VALID_UNTIL": "2024-09-18"
+  },
+  {
+    "QUOTE_ID": 375,
+    "CUSTOMER_ID": 87,
+    "VALID_UNTIL": "2023-12-29"
+  },
+  {
+    "QUOTE_ID": 376,
+    "CUSTOMER_ID": 95,
+    "VALID_UNTIL": "2023-04-07"
+  },
+  {
+    "QUOTE_ID": 377,
+    "CUSTOMER_ID": 257,
+    "VALID_UNTIL": "2023-09-22"
+  },
+  {
+    "QUOTE_ID": 378,
+    "CUSTOMER_ID": 444,
+    "VALID_UNTIL": "2024-06-06"
+  },
+  {
+    "QUOTE_ID": 379,
+    "CUSTOMER_ID": 548,
+    "VALID_UNTIL": "2024-03-28"
+  },
+  {
+    "QUOTE_ID": 380,
+    "CUSTOMER_ID": 175,
+    "VALID_UNTIL": "2024-11-07"
+  },
+  {
+    "QUOTE_ID": 381,
+    "CUSTOMER_ID": 107,
+    "VALID_UNTIL": "2023-02-15"
+  },
+  {
+    "QUOTE_ID": 382,
+    "CUSTOMER_ID": 498,
+    "VALID_UNTIL": "2024-08-14"
+  },
+  {
+    "QUOTE_ID": 383,
+    "CUSTOMER_ID": 80,
+    "VALID_UNTIL": "2024-08-14"
+  },
+  {
+    "QUOTE_ID": 384,
+    "CUSTOMER_ID": 468,
+    "VALID_UNTIL": "2023-05-10"
+  },
+  {
+    "QUOTE_ID": 385,
+    "CUSTOMER_ID": 47,
+    "VALID_UNTIL": "2024-10-21"
+  },
+  {
+    "QUOTE_ID": 386,
+    "CUSTOMER_ID": 688,
+    "VALID_UNTIL": "2024-03-21"
+  },
+  {
+    "QUOTE_ID": 387,
+    "CUSTOMER_ID": 647,
+    "VALID_UNTIL": "2024-07-21"
+  },
+  {
+    "QUOTE_ID": 388,
+    "CUSTOMER_ID": 328,
+    "VALID_UNTIL": "2024-04-08"
+  },
+  {
+    "QUOTE_ID": 389,
+    "CUSTOMER_ID": 309,
+    "VALID_UNTIL": "2023-06-11"
+  },
+  {
+    "QUOTE_ID": 390,
+    "CUSTOMER_ID": 339,
+    "VALID_UNTIL": "2024-05-10"
+  },
+  {
+    "QUOTE_ID": 391,
+    "CUSTOMER_ID": 860,
+    "VALID_UNTIL": "2023-03-26"
+  },
+  {
+    "QUOTE_ID": 392,
+    "CUSTOMER_ID": 417,
+    "VALID_UNTIL": "2024-11-18"
+  },
+  {
+    "QUOTE_ID": 393,
+    "CUSTOMER_ID": 562,
+    "VALID_UNTIL": "2024-11-28"
+  },
+  {
+    "QUOTE_ID": 394,
+    "CUSTOMER_ID": 858,
+    "VALID_UNTIL": "2023-02-02"
+  },
+  {
+    "QUOTE_ID": 395,
+    "CUSTOMER_ID": 147,
+    "VALID_UNTIL": "2024-04-13"
+  },
+  {
+    "QUOTE_ID": 396,
+    "CUSTOMER_ID": 842,
+    "VALID_UNTIL": "2024-09-14"
+  },
+  {
+    "QUOTE_ID": 397,
+    "CUSTOMER_ID": 673,
+    "VALID_UNTIL": "2023-08-21"
+  },
+  {
+    "QUOTE_ID": 398,
+    "CUSTOMER_ID": 251,
+    "VALID_UNTIL": "2023-04-14"
+  },
+  {
+    "QUOTE_ID": 399,
+    "CUSTOMER_ID": 382,
+    "VALID_UNTIL": "2023-10-27"
+  },
+  {
+    "QUOTE_ID": 400,
+    "CUSTOMER_ID": 184,
+    "VALID_UNTIL": "2023-08-19"
+  },
+  {
+    "QUOTE_ID": 401,
+    "CUSTOMER_ID": 13,
+    "VALID_UNTIL": "2024-03-19"
+  },
+  {
+    "QUOTE_ID": 402,
+    "CUSTOMER_ID": 35,
+    "VALID_UNTIL": "2023-03-26"
+  },
+  {
+    "QUOTE_ID": 403,
+    "CUSTOMER_ID": 190,
+    "VALID_UNTIL": "2023-08-18"
+  },
+  {
+    "QUOTE_ID": 404,
+    "CUSTOMER_ID": 56,
+    "VALID_UNTIL": "2023-08-08"
+  },
+  {
+    "QUOTE_ID": 405,
+    "CUSTOMER_ID": 982,
+    "VALID_UNTIL": "2024-06-28"
+  },
+  {
+    "QUOTE_ID": 406,
+    "CUSTOMER_ID": 443,
+    "VALID_UNTIL": "2024-01-09"
+  },
+  {
+    "QUOTE_ID": 407,
+    "CUSTOMER_ID": 663,
+    "VALID_UNTIL": "2024-01-09"
+  },
+  {
+    "QUOTE_ID": 408,
+    "CUSTOMER_ID": 932,
+    "VALID_UNTIL": "2023-02-19"
+  },
+  {
+    "QUOTE_ID": 409,
+    "CUSTOMER_ID": 692,
+    "VALID_UNTIL": "2023-12-31"
+  },
+  {
+    "QUOTE_ID": 410,
+    "CUSTOMER_ID": 938,
+    "VALID_UNTIL": "2023-06-21"
+  },
+  {
+    "QUOTE_ID": 411,
+    "CUSTOMER_ID": 173,
+    "VALID_UNTIL": "2023-11-22"
+  },
+  {
+    "QUOTE_ID": 412,
+    "CUSTOMER_ID": 759,
+    "VALID_UNTIL": "2023-05-08"
+  },
+  {
+    "QUOTE_ID": 413,
+    "CUSTOMER_ID": 99,
+    "VALID_UNTIL": "2023-11-23"
+  },
+  {
+    "QUOTE_ID": 414,
+    "CUSTOMER_ID": 808,
+    "VALID_UNTIL": "2023-07-07"
+  },
+  {
+    "QUOTE_ID": 415,
+    "CUSTOMER_ID": 28,
+    "VALID_UNTIL": "2024-03-19"
+  },
+  {
+    "QUOTE_ID": 416,
+    "CUSTOMER_ID": 419,
+    "VALID_UNTIL": "2024-06-05"
+  },
+  {
+    "QUOTE_ID": 417,
+    "CUSTOMER_ID": 38,
+    "VALID_UNTIL": "2023-05-16"
+  },
+  {
+    "QUOTE_ID": 418,
+    "CUSTOMER_ID": 323,
+    "VALID_UNTIL": "2023-04-18"
+  },
+  {
+    "QUOTE_ID": 419,
+    "CUSTOMER_ID": 263,
+    "VALID_UNTIL": "2023-12-24"
+  },
+  {
+    "QUOTE_ID": 420,
+    "CUSTOMER_ID": 757,
+    "VALID_UNTIL": "2024-09-24"
+  },
+  {
+    "QUOTE_ID": 421,
+    "CUSTOMER_ID": 580,
+    "VALID_UNTIL": "2023-06-25"
+  },
+  {
+    "QUOTE_ID": 422,
+    "CUSTOMER_ID": 20,
+    "VALID_UNTIL": "2023-05-08"
+  },
+  {
+    "QUOTE_ID": 423,
+    "CUSTOMER_ID": 881,
+    "VALID_UNTIL": "2024-03-17"
+  },
+  {
+    "QUOTE_ID": 424,
+    "CUSTOMER_ID": 435,
+    "VALID_UNTIL": "2023-10-13"
+  },
+  {
+    "QUOTE_ID": 425,
+    "CUSTOMER_ID": 211,
+    "VALID_UNTIL": "2024-07-15"
+  },
+  {
+    "QUOTE_ID": 426,
+    "CUSTOMER_ID": 145,
+    "VALID_UNTIL": "2023-06-11"
+  },
+  {
+    "QUOTE_ID": 427,
+    "CUSTOMER_ID": 139,
+    "VALID_UNTIL": "2023-06-19"
+  },
+  {
+    "QUOTE_ID": 428,
+    "CUSTOMER_ID": 285,
+    "VALID_UNTIL": "2023-03-10"
+  },
+  {
+    "QUOTE_ID": 429,
+    "CUSTOMER_ID": 33,
+    "VALID_UNTIL": "2023-12-24"
+  },
+  {
+    "QUOTE_ID": 430,
+    "CUSTOMER_ID": 238,
+    "VALID_UNTIL": "2024-09-23"
+  },
+  {
+    "QUOTE_ID": 431,
+    "CUSTOMER_ID": 134,
+    "VALID_UNTIL": "2023-08-07"
+  },
+  {
+    "QUOTE_ID": 432,
+    "CUSTOMER_ID": 681,
+    "VALID_UNTIL": "2023-07-30"
+  },
+  {
+    "QUOTE_ID": 433,
+    "CUSTOMER_ID": 49,
+    "VALID_UNTIL": "2024-02-16"
+  },
+  {
+    "QUOTE_ID": 434,
+    "CUSTOMER_ID": 387,
+    "VALID_UNTIL": "2023-06-23"
+  },
+  {
+    "QUOTE_ID": 435,
+    "CUSTOMER_ID": 671,
+    "VALID_UNTIL": "2023-02-28"
+  },
+  {
+    "QUOTE_ID": 436,
+    "CUSTOMER_ID": 98,
+    "VALID_UNTIL": "2024-12-10"
+  },
+  {
+    "QUOTE_ID": 437,
+    "CUSTOMER_ID": 757,
+    "VALID_UNTIL": "2024-10-20"
+  },
+  {
+    "QUOTE_ID": 438,
+    "CUSTOMER_ID": 776,
+    "VALID_UNTIL": "2023-03-19"
+  },
+  {
+    "QUOTE_ID": 439,
+    "CUSTOMER_ID": 871,
+    "VALID_UNTIL": "2023-04-18"
+  },
+  {
+    "QUOTE_ID": 440,
+    "CUSTOMER_ID": 117,
+    "VALID_UNTIL": "2023-08-31"
+  },
+  {
+    "QUOTE_ID": 441,
+    "CUSTOMER_ID": 263,
+    "VALID_UNTIL": "2024-07-31"
+  },
+  {
+    "QUOTE_ID": 442,
+    "CUSTOMER_ID": 315,
+    "VALID_UNTIL": "2023-09-02"
+  },
+  {
+    "QUOTE_ID": 443,
+    "CUSTOMER_ID": 229,
+    "VALID_UNTIL": "2024-09-11"
+  },
+  {
+    "QUOTE_ID": 444,
+    "CUSTOMER_ID": 104,
+    "VALID_UNTIL": "2023-08-16"
+  },
+  {
+    "QUOTE_ID": 445,
+    "CUSTOMER_ID": 234,
+    "VALID_UNTIL": "2024-11-18"
+  },
+  {
+    "QUOTE_ID": 446,
+    "CUSTOMER_ID": 179,
+    "VALID_UNTIL": "2024-02-07"
+  },
+  {
+    "QUOTE_ID": 447,
+    "CUSTOMER_ID": 186,
+    "VALID_UNTIL": "2024-07-13"
+  },
+  {
+    "QUOTE_ID": 448,
+    "CUSTOMER_ID": 388,
+    "VALID_UNTIL": "2023-05-30"
+  },
+  {
+    "QUOTE_ID": 449,
+    "CUSTOMER_ID": 816,
+    "VALID_UNTIL": "2023-09-07"
+  },
+  {
+    "QUOTE_ID": 450,
+    "CUSTOMER_ID": 163,
+    "VALID_UNTIL": "2023-10-07"
+  },
+  {
+    "QUOTE_ID": 451,
+    "CUSTOMER_ID": 751,
+    "VALID_UNTIL": "2024-10-04"
+  },
+  {
+    "QUOTE_ID": 452,
+    "CUSTOMER_ID": 261,
+    "VALID_UNTIL": "2024-01-09"
+  },
+  {
+    "QUOTE_ID": 453,
+    "CUSTOMER_ID": 853,
+    "VALID_UNTIL": "2024-03-27"
+  },
+  {
+    "QUOTE_ID": 454,
+    "CUSTOMER_ID": 696,
+    "VALID_UNTIL": "2023-11-17"
+  },
+  {
+    "QUOTE_ID": 455,
+    "CUSTOMER_ID": 342,
+    "VALID_UNTIL": "2023-06-09"
+  },
+  {
+    "QUOTE_ID": 456,
+    "CUSTOMER_ID": 222,
+    "VALID_UNTIL": "2023-12-08"
+  },
+  {
+    "QUOTE_ID": 457,
+    "CUSTOMER_ID": 191,
+    "VALID_UNTIL": "2024-06-26"
+  },
+  {
+    "QUOTE_ID": 458,
+    "CUSTOMER_ID": 410,
+    "VALID_UNTIL": "2023-12-02"
+  },
+  {
+    "QUOTE_ID": 459,
+    "CUSTOMER_ID": 792,
+    "VALID_UNTIL": "2023-12-02"
+  },
+  {
+    "QUOTE_ID": 460,
+    "CUSTOMER_ID": 625,
+    "VALID_UNTIL": "2024-04-28"
+  },
+  {
+    "QUOTE_ID": 461,
+    "CUSTOMER_ID": 439,
+    "VALID_UNTIL": "2023-02-05"
+  },
+  {
+    "QUOTE_ID": 462,
+    "CUSTOMER_ID": 178,
+    "VALID_UNTIL": "2023-10-28"
+  },
+  {
+    "QUOTE_ID": 463,
+    "CUSTOMER_ID": 598,
+    "VALID_UNTIL": "2024-07-08"
+  },
+  {
+    "QUOTE_ID": 464,
+    "CUSTOMER_ID": 441,
+    "VALID_UNTIL": "2024-04-14"
+  },
+  {
+    "QUOTE_ID": 465,
+    "CUSTOMER_ID": 198,
+    "VALID_UNTIL": "2023-11-01"
+  },
+  {
+    "QUOTE_ID": 466,
+    "CUSTOMER_ID": 179,
+    "VALID_UNTIL": "2023-03-27"
+  },
+  {
+    "QUOTE_ID": 467,
+    "CUSTOMER_ID": 748,
+    "VALID_UNTIL": "2024-09-19"
+  },
+  {
+    "QUOTE_ID": 468,
+    "CUSTOMER_ID": 974,
+    "VALID_UNTIL": "2024-01-31"
+  },
+  {
+    "QUOTE_ID": 469,
+    "CUSTOMER_ID": 254,
+    "VALID_UNTIL": "2024-04-22"
+  },
+  {
+    "QUOTE_ID": 470,
+    "CUSTOMER_ID": 769,
+    "VALID_UNTIL": "2024-05-09"
+  },
+  {
+    "QUOTE_ID": 471,
+    "CUSTOMER_ID": 652,
+    "VALID_UNTIL": "2024-12-17"
+  },
+  {
+    "QUOTE_ID": 472,
+    "CUSTOMER_ID": 485,
+    "VALID_UNTIL": "2024-11-01"
+  },
+  {
+    "QUOTE_ID": 473,
+    "CUSTOMER_ID": 927,
+    "VALID_UNTIL": "2023-10-06"
+  },
+  {
+    "QUOTE_ID": 474,
+    "CUSTOMER_ID": 284,
+    "VALID_UNTIL": "2024-12-08"
+  },
+  {
+    "QUOTE_ID": 475,
+    "CUSTOMER_ID": 587,
+    "VALID_UNTIL": "2024-08-16"
+  },
+  {
+    "QUOTE_ID": 476,
+    "CUSTOMER_ID": 653,
+    "VALID_UNTIL": "2024-11-01"
+  },
+  {
+    "QUOTE_ID": 477,
+    "CUSTOMER_ID": 370,
+    "VALID_UNTIL": "2023-07-31"
+  },
+  {
+    "QUOTE_ID": 478,
+    "CUSTOMER_ID": 637,
+    "VALID_UNTIL": "2024-05-28"
+  },
+  {
+    "QUOTE_ID": 479,
+    "CUSTOMER_ID": 851,
+    "VALID_UNTIL": "2023-09-25"
+  },
+  {
+    "QUOTE_ID": 480,
+    "CUSTOMER_ID": 365,
+    "VALID_UNTIL": "2024-03-20"
+  },
+  {
+    "QUOTE_ID": 481,
+    "CUSTOMER_ID": 855,
+    "VALID_UNTIL": "2023-05-05"
+  },
+  {
+    "QUOTE_ID": 482,
+    "CUSTOMER_ID": 343,
+    "VALID_UNTIL": "2023-07-31"
+  },
+  {
+    "QUOTE_ID": 483,
+    "CUSTOMER_ID": 393,
+    "VALID_UNTIL": "2024-03-19"
+  },
+  {
+    "QUOTE_ID": 484,
+    "CUSTOMER_ID": 380,
+    "VALID_UNTIL": "2024-01-06"
+  },
+  {
+    "QUOTE_ID": 485,
+    "CUSTOMER_ID": 577,
+    "VALID_UNTIL": "2023-04-08"
+  },
+  {
+    "QUOTE_ID": 486,
+    "CUSTOMER_ID": 274,
+    "VALID_UNTIL": "2024-06-13"
+  },
+  {
+    "QUOTE_ID": 487,
+    "CUSTOMER_ID": 783,
+    "VALID_UNTIL": "2024-03-05"
+  },
+  {
+    "QUOTE_ID": 488,
+    "CUSTOMER_ID": 984,
+    "VALID_UNTIL": "2023-07-11"
+  },
+  {
+    "QUOTE_ID": 489,
+    "CUSTOMER_ID": 379,
+    "VALID_UNTIL": "2023-10-10"
+  },
+  {
+    "QUOTE_ID": 490,
+    "CUSTOMER_ID": 894,
+    "VALID_UNTIL": "2024-11-15"
+  },
+  {
+    "QUOTE_ID": 491,
+    "CUSTOMER_ID": 524,
+    "VALID_UNTIL": "2023-04-03"
+  },
+  {
+    "QUOTE_ID": 492,
+    "CUSTOMER_ID": 635,
+    "VALID_UNTIL": "2024-04-01"
+  },
+  {
+    "QUOTE_ID": 493,
+    "CUSTOMER_ID": 427,
+    "VALID_UNTIL": "2023-12-04"
+  },
+  {
+    "QUOTE_ID": 494,
+    "CUSTOMER_ID": 108,
+    "VALID_UNTIL": "2023-10-30"
+  },
+  {
+    "QUOTE_ID": 495,
+    "CUSTOMER_ID": 485,
+    "VALID_UNTIL": "2024-02-13"
+  },
+  {
+    "QUOTE_ID": 496,
+    "CUSTOMER_ID": 225,
+    "VALID_UNTIL": "2023-10-13"
+  },
+  {
+    "QUOTE_ID": 497,
+    "CUSTOMER_ID": 415,
+    "VALID_UNTIL": "2024-09-17"
+  },
+  {
+    "QUOTE_ID": 498,
+    "CUSTOMER_ID": 715,
+    "VALID_UNTIL": "2024-02-14"
+  },
+  {
+    "QUOTE_ID": 499,
+    "CUSTOMER_ID": 164,
+    "VALID_UNTIL": "2023-11-22"
+  },
+  {
+    "QUOTE_ID": 500,
+    "CUSTOMER_ID": 900,
+    "VALID_UNTIL": "2024-04-27"
+  },
+  {
+    "QUOTE_ID": 501,
+    "CUSTOMER_ID": 797,
+    "VALID_UNTIL": "2023-11-04"
+  },
+  {
+    "QUOTE_ID": 502,
+    "CUSTOMER_ID": 946,
+    "VALID_UNTIL": "2024-03-09"
+  },
+  {
+    "QUOTE_ID": 503,
+    "CUSTOMER_ID": 445,
+    "VALID_UNTIL": "2023-12-22"
+  },
+  {
+    "QUOTE_ID": 504,
+    "CUSTOMER_ID": 683,
+    "VALID_UNTIL": "2023-09-26"
+  },
+  {
+    "QUOTE_ID": 505,
+    "CUSTOMER_ID": 347,
+    "VALID_UNTIL": "2023-09-01"
+  },
+  {
+    "QUOTE_ID": 506,
+    "CUSTOMER_ID": 575,
+    "VALID_UNTIL": "2024-09-16"
+  },
+  {
+    "QUOTE_ID": 507,
+    "CUSTOMER_ID": 716,
+    "VALID_UNTIL": "2024-03-23"
+  },
+  {
+    "QUOTE_ID": 508,
+    "CUSTOMER_ID": 131,
+    "VALID_UNTIL": "2024-11-10"
+  },
+  {
+    "QUOTE_ID": 509,
+    "CUSTOMER_ID": 902,
+    "VALID_UNTIL": "2024-09-12"
+  },
+  {
+    "QUOTE_ID": 510,
+    "CUSTOMER_ID": 565,
+    "VALID_UNTIL": "2024-01-13"
+  },
+  {
+    "QUOTE_ID": 511,
+    "CUSTOMER_ID": 766,
+    "VALID_UNTIL": "2023-10-13"
+  },
+  {
+    "QUOTE_ID": 512,
+    "CUSTOMER_ID": 158,
+    "VALID_UNTIL": "2023-11-23"
+  },
+  {
+    "QUOTE_ID": 513,
+    "CUSTOMER_ID": 208,
+    "VALID_UNTIL": "2024-03-03"
+  },
+  {
+    "QUOTE_ID": 514,
+    "CUSTOMER_ID": 506,
+    "VALID_UNTIL": "2024-09-28"
+  },
+  {
+    "QUOTE_ID": 515,
+    "CUSTOMER_ID": 155,
+    "VALID_UNTIL": "2023-12-01"
+  },
+  {
+    "QUOTE_ID": 516,
+    "CUSTOMER_ID": 106,
+    "VALID_UNTIL": "2024-01-12"
+  },
+  {
+    "QUOTE_ID": 517,
+    "CUSTOMER_ID": 487,
+    "VALID_UNTIL": "2023-04-24"
+  },
+  {
+    "QUOTE_ID": 518,
+    "CUSTOMER_ID": 161,
+    "VALID_UNTIL": "2024-11-17"
+  },
+  {
+    "QUOTE_ID": 519,
+    "CUSTOMER_ID": 469,
+    "VALID_UNTIL": "2024-11-21"
+  },
+  {
+    "QUOTE_ID": 520,
+    "CUSTOMER_ID": 715,
+    "VALID_UNTIL": "2024-04-03"
+  },
+  {
+    "QUOTE_ID": 521,
+    "CUSTOMER_ID": 974,
+    "VALID_UNTIL": "2023-08-20"
+  },
+  {
+    "QUOTE_ID": 522,
+    "CUSTOMER_ID": 763,
+    "VALID_UNTIL": "2024-11-01"
+  },
+  {
+    "QUOTE_ID": 523,
+    "CUSTOMER_ID": 561,
+    "VALID_UNTIL": "2023-09-17"
+  },
+  {
+    "QUOTE_ID": 524,
+    "CUSTOMER_ID": 332,
+    "VALID_UNTIL": "2023-11-04"
+  },
+  {
+    "QUOTE_ID": 525,
+    "CUSTOMER_ID": 218,
+    "VALID_UNTIL": "2024-12-06"
+  },
+  {
+    "QUOTE_ID": 526,
+    "CUSTOMER_ID": 294,
+    "VALID_UNTIL": "2024-03-26"
+  },
+  {
+    "QUOTE_ID": 527,
+    "CUSTOMER_ID": 562,
+    "VALID_UNTIL": "2024-01-02"
+  },
+  {
+    "QUOTE_ID": 528,
+    "CUSTOMER_ID": 513,
+    "VALID_UNTIL": "2024-04-14"
+  },
+  {
+    "QUOTE_ID": 529,
+    "CUSTOMER_ID": 253,
+    "VALID_UNTIL": "2024-12-15"
+  },
+  {
+    "QUOTE_ID": 530,
+    "CUSTOMER_ID": 592,
+    "VALID_UNTIL": "2023-02-26"
+  },
+  {
+    "QUOTE_ID": 531,
+    "CUSTOMER_ID": 423,
+    "VALID_UNTIL": "2023-05-14"
+  },
+  {
+    "QUOTE_ID": 532,
+    "CUSTOMER_ID": 403,
+    "VALID_UNTIL": "2024-08-04"
+  },
+  {
+    "QUOTE_ID": 533,
+    "CUSTOMER_ID": 151,
+    "VALID_UNTIL": "2023-11-30"
+  },
+  {
+    "QUOTE_ID": 534,
+    "CUSTOMER_ID": 580,
+    "VALID_UNTIL": "2024-05-26"
+  },
+  {
+    "QUOTE_ID": 535,
+    "CUSTOMER_ID": 605,
+    "VALID_UNTIL": "2024-11-15"
+  },
+  {
+    "QUOTE_ID": 536,
+    "CUSTOMER_ID": 243,
+    "VALID_UNTIL": "2024-10-22"
+  },
+  {
+    "QUOTE_ID": 537,
+    "CUSTOMER_ID": 624,
+    "VALID_UNTIL": "2024-08-12"
+  },
+  {
+    "QUOTE_ID": 538,
+    "CUSTOMER_ID": 807,
+    "VALID_UNTIL": "2024-12-04"
+  },
+  {
+    "QUOTE_ID": 539,
+    "CUSTOMER_ID": 80,
+    "VALID_UNTIL": "2024-03-31"
+  },
+  {
+    "QUOTE_ID": 540,
+    "CUSTOMER_ID": 99,
+    "VALID_UNTIL": "2024-01-28"
+  },
+  {
+    "QUOTE_ID": 541,
+    "CUSTOMER_ID": 882,
+    "VALID_UNTIL": "2023-09-17"
+  },
+  {
+    "QUOTE_ID": 542,
+    "CUSTOMER_ID": 690,
+    "VALID_UNTIL": "2024-06-26"
+  },
+  {
+    "QUOTE_ID": 543,
+    "CUSTOMER_ID": 86,
+    "VALID_UNTIL": "2023-05-14"
+  },
+  {
+    "QUOTE_ID": 544,
+    "CUSTOMER_ID": 404,
+    "VALID_UNTIL": "2024-07-11"
+  },
+  {
+    "QUOTE_ID": 545,
+    "CUSTOMER_ID": 672,
+    "VALID_UNTIL": "2023-08-20"
+  },
+  {
+    "QUOTE_ID": 546,
+    "CUSTOMER_ID": 712,
+    "VALID_UNTIL": "2024-05-17"
+  },
+  {
+    "QUOTE_ID": 547,
+    "CUSTOMER_ID": 91,
+    "VALID_UNTIL": "2023-03-01"
+  },
+  {
+    "QUOTE_ID": 548,
+    "CUSTOMER_ID": 251,
+    "VALID_UNTIL": "2023-02-23"
+  },
+  {
+    "QUOTE_ID": 549,
+    "CUSTOMER_ID": 510,
+    "VALID_UNTIL": "2023-09-01"
+  },
+  {
+    "QUOTE_ID": 550,
+    "CUSTOMER_ID": 486,
+    "VALID_UNTIL": "2023-06-13"
+  },
+  {
+    "QUOTE_ID": 551,
+    "CUSTOMER_ID": 389,
+    "VALID_UNTIL": "2023-04-01"
+  },
+  {
+    "QUOTE_ID": 552,
+    "CUSTOMER_ID": 483,
+    "VALID_UNTIL": "2023-07-20"
+  },
+  {
+    "QUOTE_ID": 553,
+    "CUSTOMER_ID": 794,
+    "VALID_UNTIL": "2023-02-04"
+  },
+  {
+    "QUOTE_ID": 554,
+    "CUSTOMER_ID": 966,
+    "VALID_UNTIL": "2023-05-08"
+  },
+  {
+    "QUOTE_ID": 555,
+    "CUSTOMER_ID": 281,
+    "VALID_UNTIL": "2024-08-02"
+  },
+  {
+    "QUOTE_ID": 556,
+    "CUSTOMER_ID": 629,
+    "VALID_UNTIL": "2024-04-08"
+  },
+  {
+    "QUOTE_ID": 557,
+    "CUSTOMER_ID": 835,
+    "VALID_UNTIL": "2024-06-07"
+  },
+  {
+    "QUOTE_ID": 558,
+    "CUSTOMER_ID": 982,
+    "VALID_UNTIL": "2024-08-20"
+  },
+  {
+    "QUOTE_ID": 559,
+    "CUSTOMER_ID": 926,
+    "VALID_UNTIL": "2023-02-19"
+  },
+  {
+    "QUOTE_ID": 560,
+    "CUSTOMER_ID": 570,
+    "VALID_UNTIL": "2023-06-23"
+  },
+  {
+    "QUOTE_ID": 561,
+    "CUSTOMER_ID": 396,
+    "VALID_UNTIL": "2023-11-08"
+  },
+  {
+    "QUOTE_ID": 562,
+    "CUSTOMER_ID": 588,
+    "VALID_UNTIL": "2023-08-31"
+  },
+  {
+    "QUOTE_ID": 563,
+    "CUSTOMER_ID": 121,
+    "VALID_UNTIL": "2023-06-14"
+  },
+  {
+    "QUOTE_ID": 564,
+    "CUSTOMER_ID": 126,
+    "VALID_UNTIL": "2023-11-19"
+  },
+  {
+    "QUOTE_ID": 565,
+    "CUSTOMER_ID": 408,
+    "VALID_UNTIL": "2023-08-20"
+  },
+  {
+    "QUOTE_ID": 566,
+    "CUSTOMER_ID": 607,
+    "VALID_UNTIL": "2023-12-01"
+  },
+  {
+    "QUOTE_ID": 567,
+    "CUSTOMER_ID": 802,
+    "VALID_UNTIL": "2024-04-27"
+  },
+  {
+    "QUOTE_ID": 568,
+    "CUSTOMER_ID": 407,
+    "VALID_UNTIL": "2023-08-07"
+  },
+  {
+    "QUOTE_ID": 569,
+    "CUSTOMER_ID": 332,
+    "VALID_UNTIL": "2024-11-18"
+  },
+  {
+    "QUOTE_ID": 570,
+    "CUSTOMER_ID": 285,
+    "VALID_UNTIL": "2023-06-27"
+  },
+  {
+    "QUOTE_ID": 571,
+    "CUSTOMER_ID": 767,
+    "VALID_UNTIL": "2024-09-14"
+  },
+  {
+    "QUOTE_ID": 572,
+    "CUSTOMER_ID": 852,
+    "VALID_UNTIL": "2024-11-09"
+  },
+  {
+    "QUOTE_ID": 573,
+    "CUSTOMER_ID": 169,
+    "VALID_UNTIL": "2024-03-03"
+  },
+  {
+    "QUOTE_ID": 574,
+    "CUSTOMER_ID": 863,
+    "VALID_UNTIL": "2023-11-30"
+  },
+  {
+    "QUOTE_ID": 575,
+    "CUSTOMER_ID": 353,
+    "VALID_UNTIL": "2024-03-21"
+  },
+  {
+    "QUOTE_ID": 576,
+    "CUSTOMER_ID": 211,
+    "VALID_UNTIL": "2023-08-14"
+  },
+  {
+    "QUOTE_ID": 577,
+    "CUSTOMER_ID": 613,
+    "VALID_UNTIL": "2023-05-22"
+  },
+  {
+    "QUOTE_ID": 578,
+    "CUSTOMER_ID": 472,
+    "VALID_UNTIL": "2023-06-22"
+  },
+  {
+    "QUOTE_ID": 579,
+    "CUSTOMER_ID": 767,
+    "VALID_UNTIL": "2024-09-21"
+  },
+  {
+    "QUOTE_ID": 580,
+    "CUSTOMER_ID": 882,
+    "VALID_UNTIL": "2024-09-24"
+  },
+  {
+    "QUOTE_ID": 581,
+    "CUSTOMER_ID": 646,
+    "VALID_UNTIL": "2023-12-04"
+  },
+  {
+    "QUOTE_ID": 582,
+    "CUSTOMER_ID": 12,
+    "VALID_UNTIL": "2023-09-08"
+  },
+  {
+    "QUOTE_ID": 583,
+    "CUSTOMER_ID": 405,
+    "VALID_UNTIL": "2024-09-08"
+  },
+  {
+    "QUOTE_ID": 584,
+    "CUSTOMER_ID": 269,
+    "VALID_UNTIL": "2024-07-01"
+  },
+  {
+    "QUOTE_ID": 585,
+    "CUSTOMER_ID": 867,
+    "VALID_UNTIL": "2024-12-11"
+  },
+  {
+    "QUOTE_ID": 586,
+    "CUSTOMER_ID": 82,
+    "VALID_UNTIL": "2024-12-14"
+  },
+  {
+    "QUOTE_ID": 587,
+    "CUSTOMER_ID": 113,
+    "VALID_UNTIL": "2023-08-04"
+  },
+  {
+    "QUOTE_ID": 588,
+    "CUSTOMER_ID": 658,
+    "VALID_UNTIL": "2024-03-29"
+  },
+  {
+    "QUOTE_ID": 589,
+    "CUSTOMER_ID": 720,
+    "VALID_UNTIL": "2024-02-27"
+  },
+  {
+    "QUOTE_ID": 590,
+    "CUSTOMER_ID": 736,
+    "VALID_UNTIL": "2023-11-26"
+  },
+  {
+    "QUOTE_ID": 591,
+    "CUSTOMER_ID": 581,
+    "VALID_UNTIL": "2024-05-16"
+  },
+  {
+    "QUOTE_ID": 592,
+    "CUSTOMER_ID": 91,
+    "VALID_UNTIL": "2024-10-27"
+  },
+  {
+    "QUOTE_ID": 593,
+    "CUSTOMER_ID": 420,
+    "VALID_UNTIL": "2024-05-07"
+  },
+  {
+    "QUOTE_ID": 594,
+    "CUSTOMER_ID": 689,
+    "VALID_UNTIL": "2023-02-26"
+  },
+  {
+    "QUOTE_ID": 595,
+    "CUSTOMER_ID": 422,
+    "VALID_UNTIL": "2024-12-29"
+  },
+  {
+    "QUOTE_ID": 596,
+    "CUSTOMER_ID": 911,
+    "VALID_UNTIL": "2024-08-16"
+  },
+  {
+    "QUOTE_ID": 597,
+    "CUSTOMER_ID": 230,
+    "VALID_UNTIL": "2023-09-11"
+  },
+  {
+    "QUOTE_ID": 598,
+    "CUSTOMER_ID": 337,
+    "VALID_UNTIL": "2023-09-13"
+  },
+  {
+    "QUOTE_ID": 599,
+    "CUSTOMER_ID": 615,
+    "VALID_UNTIL": "2023-05-24"
+  },
+  {
+    "QUOTE_ID": 600,
+    "CUSTOMER_ID": 34,
+    "VALID_UNTIL": "2023-05-18"
+  },
+  {
+    "QUOTE_ID": 601,
+    "CUSTOMER_ID": 979,
+    "VALID_UNTIL": "2024-03-04"
+  },
+  {
+    "QUOTE_ID": 602,
+    "CUSTOMER_ID": 111,
+    "VALID_UNTIL": "2023-07-23"
+  },
+  {
+    "QUOTE_ID": 603,
+    "CUSTOMER_ID": 359,
+    "VALID_UNTIL": "2024-09-06"
+  },
+  {
+    "QUOTE_ID": 604,
+    "CUSTOMER_ID": 29,
+    "VALID_UNTIL": "2023-05-27"
+  },
+  {
+    "QUOTE_ID": 605,
+    "CUSTOMER_ID": 411,
+    "VALID_UNTIL": "2023-10-10"
+  },
+  {
+    "QUOTE_ID": 606,
+    "CUSTOMER_ID": 582,
+    "VALID_UNTIL": "2024-10-08"
+  },
+  {
+    "QUOTE_ID": 607,
+    "CUSTOMER_ID": 279,
+    "VALID_UNTIL": "2024-09-21"
+  },
+  {
+    "QUOTE_ID": 608,
+    "CUSTOMER_ID": 35,
+    "VALID_UNTIL": "2023-04-24"
+  },
+  {
+    "QUOTE_ID": 609,
+    "CUSTOMER_ID": 200,
+    "VALID_UNTIL": "2023-09-19"
+  },
+  {
+    "QUOTE_ID": 610,
+    "CUSTOMER_ID": 238,
+    "VALID_UNTIL": "2023-11-05"
+  },
+  {
+    "QUOTE_ID": 611,
+    "CUSTOMER_ID": 996,
+    "VALID_UNTIL": "2023-11-05"
+  },
+  {
+    "QUOTE_ID": 612,
+    "CUSTOMER_ID": 221,
+    "VALID_UNTIL": "2024-06-01"
+  },
+  {
+    "QUOTE_ID": 613,
+    "CUSTOMER_ID": 940,
+    "VALID_UNTIL": "2024-12-12"
+  },
+  {
+    "QUOTE_ID": 614,
+    "CUSTOMER_ID": 430,
+    "VALID_UNTIL": "2024-06-07"
+  },
+  {
+    "QUOTE_ID": 615,
+    "CUSTOMER_ID": 673,
+    "VALID_UNTIL": "2023-08-29"
+  },
+  {
+    "QUOTE_ID": 616,
+    "CUSTOMER_ID": 980,
+    "VALID_UNTIL": "2023-11-07"
+  },
+  {
+    "QUOTE_ID": 617,
+    "CUSTOMER_ID": 547,
+    "VALID_UNTIL": "2023-05-13"
+  },
+  {
+    "QUOTE_ID": 618,
+    "CUSTOMER_ID": 289,
+    "VALID_UNTIL": "2023-03-18"
+  },
+  {
+    "QUOTE_ID": 619,
+    "CUSTOMER_ID": 846,
+    "VALID_UNTIL": "2024-08-29"
+  },
+  {
+    "QUOTE_ID": 620,
+    "CUSTOMER_ID": 559,
+    "VALID_UNTIL": "2023-10-29"
+  },
+  {
+    "QUOTE_ID": 621,
+    "CUSTOMER_ID": 91,
+    "VALID_UNTIL": "2023-04-04"
+  },
+  {
+    "QUOTE_ID": 622,
+    "CUSTOMER_ID": 978,
+    "VALID_UNTIL": "2023-04-13"
+  },
+  {
+    "QUOTE_ID": 623,
+    "CUSTOMER_ID": 886,
+    "VALID_UNTIL": "2024-04-19"
+  },
+  {
+    "QUOTE_ID": 624,
+    "CUSTOMER_ID": 506,
+    "VALID_UNTIL": "2024-10-06"
+  },
+  {
+    "QUOTE_ID": 625,
+    "CUSTOMER_ID": 222,
+    "VALID_UNTIL": "2023-03-10"
+  },
+  {
+    "QUOTE_ID": 626,
+    "CUSTOMER_ID": 76,
+    "VALID_UNTIL": "2023-10-15"
+  },
+  {
+    "QUOTE_ID": 627,
+    "CUSTOMER_ID": 931,
+    "VALID_UNTIL": "2024-08-10"
+  },
+  {
+    "QUOTE_ID": 628,
+    "CUSTOMER_ID": 94,
+    "VALID_UNTIL": "2023-05-17"
+  },
+  {
+    "QUOTE_ID": 629,
+    "CUSTOMER_ID": 411,
+    "VALID_UNTIL": "2023-02-10"
+  },
+  {
+    "QUOTE_ID": 630,
+    "CUSTOMER_ID": 999,
+    "VALID_UNTIL": "2023-11-16"
+  },
+  {
+    "QUOTE_ID": 631,
+    "CUSTOMER_ID": 593,
+    "VALID_UNTIL": "2024-12-01"
+  },
+  {
+    "QUOTE_ID": 632,
+    "CUSTOMER_ID": 728,
+    "VALID_UNTIL": "2024-09-26"
+  },
+  {
+    "QUOTE_ID": 633,
+    "CUSTOMER_ID": 679,
+    "VALID_UNTIL": "2024-12-04"
+  },
+  {
+    "QUOTE_ID": 634,
+    "CUSTOMER_ID": 86,
+    "VALID_UNTIL": "2023-02-25"
+  },
+  {
+    "QUOTE_ID": 635,
+    "CUSTOMER_ID": 49,
+    "VALID_UNTIL": "2023-12-16"
+  },
+  {
+    "QUOTE_ID": 636,
+    "CUSTOMER_ID": 672,
+    "VALID_UNTIL": "2023-07-15"
+  },
+  {
+    "QUOTE_ID": 637,
+    "CUSTOMER_ID": 916,
+    "VALID_UNTIL": "2023-03-11"
+  },
+  {
+    "QUOTE_ID": 638,
+    "CUSTOMER_ID": 155,
+    "VALID_UNTIL": "2024-07-26"
+  },
+  {
+    "QUOTE_ID": 639,
+    "CUSTOMER_ID": 576,
+    "VALID_UNTIL": "2024-04-02"
+  },
+  {
+    "QUOTE_ID": 640,
+    "CUSTOMER_ID": 874,
+    "VALID_UNTIL": "2024-04-02"
+  },
+  {
+    "QUOTE_ID": 641,
+    "CUSTOMER_ID": 949,
+    "VALID_UNTIL": "2023-06-01"
+  },
+  {
+    "QUOTE_ID": 642,
+    "CUSTOMER_ID": 414,
+    "VALID_UNTIL": "2024-08-10"
+  },
+  {
+    "QUOTE_ID": 643,
+    "CUSTOMER_ID": 34,
+    "VALID_UNTIL": "2023-04-15"
+  },
+  {
+    "QUOTE_ID": 644,
+    "CUSTOMER_ID": 898,
+    "VALID_UNTIL": "2024-10-27"
+  },
+  {
+    "QUOTE_ID": 645,
+    "CUSTOMER_ID": 617,
+    "VALID_UNTIL": "2023-03-12"
+  },
+  {
+    "QUOTE_ID": 646,
+    "CUSTOMER_ID": 253,
+    "VALID_UNTIL": "2023-11-25"
+  },
+  {
+    "QUOTE_ID": 647,
+    "CUSTOMER_ID": 148,
+    "VALID_UNTIL": "2023-06-04"
+  },
+  {
+    "QUOTE_ID": 648,
+    "CUSTOMER_ID": 978,
+    "VALID_UNTIL": "2023-08-24"
+  },
+  {
+    "QUOTE_ID": 649,
+    "CUSTOMER_ID": 265,
+    "VALID_UNTIL": "2024-06-27"
+  },
+  {
+    "QUOTE_ID": 650,
+    "CUSTOMER_ID": 917,
+    "VALID_UNTIL": "2024-01-03"
+  },
+  {
+    "QUOTE_ID": 651,
+    "CUSTOMER_ID": 310,
+    "VALID_UNTIL": "2024-08-19"
+  },
+  {
+    "QUOTE_ID": 652,
+    "CUSTOMER_ID": 268,
+    "VALID_UNTIL": "2023-07-09"
+  },
+  {
+    "QUOTE_ID": 653,
+    "CUSTOMER_ID": 62,
+    "VALID_UNTIL": "2023-09-02"
+  },
+  {
+    "QUOTE_ID": 654,
+    "CUSTOMER_ID": 327,
+    "VALID_UNTIL": "2023-08-21"
+  },
+  {
+    "QUOTE_ID": 655,
+    "CUSTOMER_ID": 77,
+    "VALID_UNTIL": "2024-04-10"
+  },
+  {
+    "QUOTE_ID": 656,
+    "CUSTOMER_ID": 63,
+    "VALID_UNTIL": "2024-06-03"
+  },
+  {
+    "QUOTE_ID": 657,
+    "CUSTOMER_ID": 580,
+    "VALID_UNTIL": "2024-12-18"
+  },
+  {
+    "QUOTE_ID": 658,
+    "CUSTOMER_ID": 99,
+    "VALID_UNTIL": "2024-06-11"
+  },
+  {
+    "QUOTE_ID": 659,
+    "CUSTOMER_ID": 858,
+    "VALID_UNTIL": "2024-09-27"
+  },
+  {
+    "QUOTE_ID": 660,
+    "CUSTOMER_ID": 103,
+    "VALID_UNTIL": "2023-08-29"
+  },
+  {
+    "QUOTE_ID": 661,
+    "CUSTOMER_ID": 943,
+    "VALID_UNTIL": "2024-08-09"
+  },
+  {
+    "QUOTE_ID": 662,
+    "CUSTOMER_ID": 392,
+    "VALID_UNTIL": "2023-04-01"
+  },
+  {
+    "QUOTE_ID": 663,
+    "CUSTOMER_ID": 82,
+    "VALID_UNTIL": "2023-12-28"
+  },
+  {
+    "QUOTE_ID": 664,
+    "CUSTOMER_ID": 807,
+    "VALID_UNTIL": "2024-06-06"
+  },
+  {
+    "QUOTE_ID": 665,
+    "CUSTOMER_ID": 102,
+    "VALID_UNTIL": "2023-04-29"
+  },
+  {
+    "QUOTE_ID": 666,
+    "CUSTOMER_ID": 810,
+    "VALID_UNTIL": "2024-06-21"
+  },
+  {
+    "QUOTE_ID": 667,
+    "CUSTOMER_ID": 119,
+    "VALID_UNTIL": "2023-08-27"
+  },
+  {
+    "QUOTE_ID": 668,
+    "CUSTOMER_ID": 898,
+    "VALID_UNTIL": "2023-06-18"
+  },
+  {
+    "QUOTE_ID": 669,
+    "CUSTOMER_ID": 802,
+    "VALID_UNTIL": "2023-05-11"
+  },
+  {
+    "QUOTE_ID": 670,
+    "CUSTOMER_ID": 597,
+    "VALID_UNTIL": "2024-12-29"
+  },
+  {
+    "QUOTE_ID": 671,
+    "CUSTOMER_ID": 317,
+    "VALID_UNTIL": "2023-02-16"
+  },
+  {
+    "QUOTE_ID": 672,
+    "CUSTOMER_ID": 139,
+    "VALID_UNTIL": "2023-12-07"
+  },
+  {
+    "QUOTE_ID": 673,
+    "CUSTOMER_ID": 928,
+    "VALID_UNTIL": "2024-05-20"
+  },
+  {
+    "QUOTE_ID": 674,
+    "CUSTOMER_ID": 686,
+    "VALID_UNTIL": "2023-02-04"
+  },
+  {
+    "QUOTE_ID": 675,
+    "CUSTOMER_ID": 166,
+    "VALID_UNTIL": "2024-07-17"
+  },
+  {
+    "QUOTE_ID": 676,
+    "CUSTOMER_ID": 569,
+    "VALID_UNTIL": "2024-12-01"
+  },
+  {
+    "QUOTE_ID": 677,
+    "CUSTOMER_ID": 91,
+    "VALID_UNTIL": "2023-11-23"
+  },
+  {
+    "QUOTE_ID": 678,
+    "CUSTOMER_ID": 95,
+    "VALID_UNTIL": "2023-06-02"
+  },
+  {
+    "QUOTE_ID": 679,
+    "CUSTOMER_ID": 136,
+    "VALID_UNTIL": "2024-07-30"
+  },
+  {
+    "QUOTE_ID": 680,
+    "CUSTOMER_ID": 471,
+    "VALID_UNTIL": "2024-11-08"
+  },
+  {
+    "QUOTE_ID": 681,
+    "CUSTOMER_ID": 307,
+    "VALID_UNTIL": "2023-12-21"
+  },
+  {
+    "QUOTE_ID": 682,
+    "CUSTOMER_ID": 140,
+    "VALID_UNTIL": "2024-06-10"
+  },
+  {
+    "QUOTE_ID": 683,
+    "CUSTOMER_ID": 957,
+    "VALID_UNTIL": "2023-04-17"
+  },
+  {
+    "QUOTE_ID": 684,
+    "CUSTOMER_ID": 792,
+    "VALID_UNTIL": "2024-10-14"
+  },
+  {
+    "QUOTE_ID": 685,
+    "CUSTOMER_ID": 219,
+    "VALID_UNTIL": "2024-04-21"
+  },
+  {
+    "QUOTE_ID": 686,
+    "CUSTOMER_ID": 488,
+    "VALID_UNTIL": "2024-07-06"
+  },
+  {
+    "QUOTE_ID": 687,
+    "CUSTOMER_ID": 378,
+    "VALID_UNTIL": "2024-06-16"
+  },
+  {
+    "QUOTE_ID": 688,
+    "CUSTOMER_ID": 390,
+    "VALID_UNTIL": "2023-11-28"
+  },
+  {
+    "QUOTE_ID": 689,
+    "CUSTOMER_ID": 881,
+    "VALID_UNTIL": "2024-04-13"
+  },
+  {
+    "QUOTE_ID": 690,
+    "CUSTOMER_ID": 193,
+    "VALID_UNTIL": "2024-10-11"
+  },
+  {
+    "QUOTE_ID": 691,
+    "CUSTOMER_ID": 74,
+    "VALID_UNTIL": "2023-10-02"
+  },
+  {
+    "QUOTE_ID": 692,
+    "CUSTOMER_ID": 568,
+    "VALID_UNTIL": "2023-04-22"
+  },
+  {
+    "QUOTE_ID": 693,
+    "CUSTOMER_ID": 39,
+    "VALID_UNTIL": "2024-11-13"
+  },
+  {
+    "QUOTE_ID": 694,
+    "CUSTOMER_ID": 512,
+    "VALID_UNTIL": "2023-12-05"
+  },
+  {
+    "QUOTE_ID": 695,
+    "CUSTOMER_ID": 630,
+    "VALID_UNTIL": "2023-05-24"
+  },
+  {
+    "QUOTE_ID": 696,
+    "CUSTOMER_ID": 674,
+    "VALID_UNTIL": "2024-02-23"
+  },
+  {
+    "QUOTE_ID": 697,
+    "CUSTOMER_ID": 126,
+    "VALID_UNTIL": "2024-09-13"
+  },
+  {
+    "QUOTE_ID": 698,
+    "CUSTOMER_ID": 294,
+    "VALID_UNTIL": "2023-07-23"
+  },
+  {
+    "QUOTE_ID": 699,
+    "CUSTOMER_ID": 256,
+    "VALID_UNTIL": "2024-11-17"
+  },
+  {
+    "QUOTE_ID": 700,
+    "CUSTOMER_ID": 156,
+    "VALID_UNTIL": "2023-06-01"
+  },
+  {
+    "QUOTE_ID": 701,
+    "CUSTOMER_ID": 357,
+    "VALID_UNTIL": "2023-11-17"
+  },
+  {
+    "QUOTE_ID": 702,
+    "CUSTOMER_ID": 899,
+    "VALID_UNTIL": "2023-03-21"
+  },
+  {
+    "QUOTE_ID": 703,
+    "CUSTOMER_ID": 78,
+    "VALID_UNTIL": "2023-10-01"
+  },
+  {
+    "QUOTE_ID": 704,
+    "CUSTOMER_ID": 85,
+    "VALID_UNTIL": "2024-01-09"
+  },
+  {
+    "QUOTE_ID": 705,
+    "CUSTOMER_ID": 224,
+    "VALID_UNTIL": "2024-01-05"
+  },
+  {
+    "QUOTE_ID": 706,
+    "CUSTOMER_ID": 53,
+    "VALID_UNTIL": "2024-03-26"
+  },
+  {
+    "QUOTE_ID": 707,
+    "CUSTOMER_ID": 612,
+    "VALID_UNTIL": "2024-12-10"
+  },
+  {
+    "QUOTE_ID": 708,
+    "CUSTOMER_ID": 444,
+    "VALID_UNTIL": "2024-12-08"
+  },
+  {
+    "QUOTE_ID": 709,
+    "CUSTOMER_ID": 190,
+    "VALID_UNTIL": "2024-03-03"
+  },
+  {
+    "QUOTE_ID": 710,
+    "CUSTOMER_ID": 69,
+    "VALID_UNTIL": "2024-03-22"
+  },
+  {
+    "QUOTE_ID": 711,
+    "CUSTOMER_ID": 562,
+    "VALID_UNTIL": "2023-10-17"
+  },
+  {
+    "QUOTE_ID": 712,
+    "CUSTOMER_ID": 834,
+    "VALID_UNTIL": "2024-01-18"
+  },
+  {
+    "QUOTE_ID": 713,
+    "CUSTOMER_ID": 346,
+    "VALID_UNTIL": "2023-07-21"
+  },
+  {
+    "QUOTE_ID": 714,
+    "CUSTOMER_ID": 331,
+    "VALID_UNTIL": "2023-07-29"
+  },
+  {
+    "QUOTE_ID": 715,
+    "CUSTOMER_ID": 776,
+    "VALID_UNTIL": "2024-12-02"
+  },
+  {
+    "QUOTE_ID": 716,
+    "CUSTOMER_ID": 509,
+    "VALID_UNTIL": "2023-12-16"
+  },
+  {
+    "QUOTE_ID": 717,
+    "CUSTOMER_ID": 915,
+    "VALID_UNTIL": "2023-04-17"
+  },
+  {
+    "QUOTE_ID": 718,
+    "CUSTOMER_ID": 3,
+    "VALID_UNTIL": "2023-06-22"
+  },
+  {
+    "QUOTE_ID": 719,
+    "CUSTOMER_ID": 649,
+    "VALID_UNTIL": "2024-02-07"
+  },
+  {
+    "QUOTE_ID": 720,
+    "CUSTOMER_ID": 290,
+    "VALID_UNTIL": "2024-06-12"
+  },
+  {
+    "QUOTE_ID": 721,
+    "CUSTOMER_ID": 738,
+    "VALID_UNTIL": "2023-04-07"
+  },
+  {
+    "QUOTE_ID": 722,
+    "CUSTOMER_ID": 957,
+    "VALID_UNTIL": "2024-05-22"
+  },
+  {
+    "QUOTE_ID": 723,
+    "CUSTOMER_ID": 598,
+    "VALID_UNTIL": "2024-08-08"
+  },
+  {
+    "QUOTE_ID": 724,
+    "CUSTOMER_ID": 612,
+    "VALID_UNTIL": "2024-10-20"
+  },
+  {
+    "QUOTE_ID": 725,
+    "CUSTOMER_ID": 283,
+    "VALID_UNTIL": "2024-07-17"
+  },
+  {
+    "QUOTE_ID": 726,
+    "CUSTOMER_ID": 539,
+    "VALID_UNTIL": "2024-02-02"
+  },
+  {
+    "QUOTE_ID": 727,
+    "CUSTOMER_ID": 437,
+    "VALID_UNTIL": "2024-03-05"
+  },
+  {
+    "QUOTE_ID": 728,
+    "CUSTOMER_ID": 620,
+    "VALID_UNTIL": "2023-11-16"
+  },
+  {
+    "QUOTE_ID": 729,
+    "CUSTOMER_ID": 519,
+    "VALID_UNTIL": "2024-09-05"
+  },
+  {
+    "QUOTE_ID": 730,
+    "CUSTOMER_ID": 973,
+    "VALID_UNTIL": "2024-10-04"
+  },
+  {
+    "QUOTE_ID": 731,
+    "CUSTOMER_ID": 227,
+    "VALID_UNTIL": "2023-03-31"
+  },
+  {
+    "QUOTE_ID": 732,
+    "CUSTOMER_ID": 32,
+    "VALID_UNTIL": "2024-02-13"
+  },
+  {
+    "QUOTE_ID": 733,
+    "CUSTOMER_ID": 109,
+    "VALID_UNTIL": "2024-09-27"
+  },
+  {
+    "QUOTE_ID": 734,
+    "CUSTOMER_ID": 644,
+    "VALID_UNTIL": "2024-01-14"
+  },
+  {
+    "QUOTE_ID": 735,
+    "CUSTOMER_ID": 444,
+    "VALID_UNTIL": "2024-05-07"
+  },
+  {
+    "QUOTE_ID": 736,
+    "CUSTOMER_ID": 357,
+    "VALID_UNTIL": "2024-12-10"
+  },
+  {
+    "QUOTE_ID": 737,
+    "CUSTOMER_ID": 940,
+    "VALID_UNTIL": "2024-03-17"
+  },
+  {
+    "QUOTE_ID": 738,
+    "CUSTOMER_ID": 214,
+    "VALID_UNTIL": "2024-02-09"
+  },
+  {
+    "QUOTE_ID": 739,
+    "CUSTOMER_ID": 373,
+    "VALID_UNTIL": "2024-06-30"
+  },
+  {
+    "QUOTE_ID": 740,
+    "CUSTOMER_ID": 304,
+    "VALID_UNTIL": "2023-06-29"
+  },
+  {
+    "QUOTE_ID": 741,
+    "CUSTOMER_ID": 873,
+    "VALID_UNTIL": "2023-08-07"
+  },
+  {
+    "QUOTE_ID": 742,
+    "CUSTOMER_ID": 460,
+    "VALID_UNTIL": "2024-11-14"
+  },
+  {
+    "QUOTE_ID": 743,
+    "CUSTOMER_ID": 742,
+    "VALID_UNTIL": "2023-04-29"
+  },
+  {
+    "QUOTE_ID": 744,
+    "CUSTOMER_ID": 467,
+    "VALID_UNTIL": "2023-07-09"
+  },
+  {
+    "QUOTE_ID": 745,
+    "CUSTOMER_ID": 400,
+    "VALID_UNTIL": "2024-03-19"
+  },
+  {
+    "QUOTE_ID": 746,
+    "CUSTOMER_ID": 137,
+    "VALID_UNTIL": "2024-11-30"
+  },
+  {
+    "QUOTE_ID": 747,
+    "CUSTOMER_ID": 371,
+    "VALID_UNTIL": "2024-03-20"
+  },
+  {
+    "QUOTE_ID": 748,
+    "CUSTOMER_ID": 376,
+    "VALID_UNTIL": "2023-02-26"
+  },
+  {
+    "QUOTE_ID": 749,
+    "CUSTOMER_ID": 266,
+    "VALID_UNTIL": "2024-02-26"
+  },
+  {
+    "QUOTE_ID": 750,
+    "CUSTOMER_ID": 895,
+    "VALID_UNTIL": "2023-02-08"
+  },
+  {
+    "QUOTE_ID": 751,
+    "CUSTOMER_ID": 488,
+    "VALID_UNTIL": "2023-02-23"
+  },
+  {
+    "QUOTE_ID": 752,
+    "CUSTOMER_ID": 680,
+    "VALID_UNTIL": "2023-03-15"
+  },
+  {
+    "QUOTE_ID": 753,
+    "CUSTOMER_ID": 85,
+    "VALID_UNTIL": "2023-11-28"
+  },
+  {
+    "QUOTE_ID": 754,
+    "CUSTOMER_ID": 880,
+    "VALID_UNTIL": "2024-11-30"
+  },
+  {
+    "QUOTE_ID": 755,
+    "CUSTOMER_ID": 944,
+    "VALID_UNTIL": "2023-11-08"
+  },
+  {
+    "QUOTE_ID": 756,
+    "CUSTOMER_ID": 114,
+    "VALID_UNTIL": "2023-09-15"
+  },
+  {
+    "QUOTE_ID": 757,
+    "CUSTOMER_ID": 6,
+    "VALID_UNTIL": "2024-02-22"
+  },
+  {
+    "QUOTE_ID": 758,
+    "CUSTOMER_ID": 522,
+    "VALID_UNTIL": "2024-11-24"
+  },
+  {
+    "QUOTE_ID": 759,
+    "CUSTOMER_ID": 979,
+    "VALID_UNTIL": "2024-04-06"
+  },
+  {
+    "QUOTE_ID": 760,
+    "CUSTOMER_ID": 882,
+    "VALID_UNTIL": "2023-08-03"
+  },
+  {
+    "QUOTE_ID": 761,
+    "CUSTOMER_ID": 267,
+    "VALID_UNTIL": "2023-03-13"
+  },
+  {
+    "QUOTE_ID": 762,
+    "CUSTOMER_ID": 807,
+    "VALID_UNTIL": "2024-07-08"
+  },
+  {
+    "QUOTE_ID": 763,
+    "CUSTOMER_ID": 456,
+    "VALID_UNTIL": "2023-05-16"
+  },
+  {
+    "QUOTE_ID": 764,
+    "CUSTOMER_ID": 898,
+    "VALID_UNTIL": "2023-02-05"
+  },
+  {
+    "QUOTE_ID": 765,
+    "CUSTOMER_ID": 4,
+    "VALID_UNTIL": "2024-11-14"
+  },
+  {
+    "QUOTE_ID": 766,
+    "CUSTOMER_ID": 833,
+    "VALID_UNTIL": "2024-03-27"
+  },
+  {
+    "QUOTE_ID": 767,
+    "CUSTOMER_ID": 419,
+    "VALID_UNTIL": "2024-08-07"
+  },
+  {
+    "QUOTE_ID": 768,
+    "CUSTOMER_ID": 614,
+    "VALID_UNTIL": "2023-04-01"
+  },
+  {
+    "QUOTE_ID": 769,
+    "CUSTOMER_ID": 689,
+    "VALID_UNTIL": "2023-11-05"
+  },
+  {
+    "QUOTE_ID": 770,
+    "CUSTOMER_ID": 996,
+    "VALID_UNTIL": "2023-05-13"
+  },
+  {
+    "QUOTE_ID": 771,
+    "CUSTOMER_ID": 498,
+    "VALID_UNTIL": "2023-06-18"
+  },
+  {
+    "QUOTE_ID": 772,
+    "CUSTOMER_ID": 550,
+    "VALID_UNTIL": "2023-06-24"
+  },
+  {
+    "QUOTE_ID": 773,
+    "CUSTOMER_ID": 8,
+    "VALID_UNTIL": "2024-05-28"
+  },
+  {
+    "QUOTE_ID": 774,
+    "CUSTOMER_ID": 418,
+    "VALID_UNTIL": "2023-07-22"
+  },
+  {
+    "QUOTE_ID": 775,
+    "CUSTOMER_ID": 197,
+    "VALID_UNTIL": "2024-06-27"
+  },
+  {
+    "QUOTE_ID": 776,
+    "CUSTOMER_ID": 738,
+    "VALID_UNTIL": "2023-05-24"
+  },
+  {
+    "QUOTE_ID": 777,
+    "CUSTOMER_ID": 125,
+    "VALID_UNTIL": "2024-01-25"
+  },
+  {
+    "QUOTE_ID": 778,
+    "CUSTOMER_ID": 892,
+    "VALID_UNTIL": "2024-12-06"
+  },
+  {
+    "QUOTE_ID": 779,
+    "CUSTOMER_ID": 166,
+    "VALID_UNTIL": "2023-06-23"
+  },
+  {
+    "QUOTE_ID": 780,
+    "CUSTOMER_ID": 235,
+    "VALID_UNTIL": "2023-06-26"
+  },
+  {
+    "QUOTE_ID": 781,
+    "CUSTOMER_ID": 566,
+    "VALID_UNTIL": "2023-07-01"
+  },
+  {
+    "QUOTE_ID": 782,
+    "CUSTOMER_ID": 186,
+    "VALID_UNTIL": "2023-07-29"
+  },
+  {
+    "QUOTE_ID": 783,
+    "CUSTOMER_ID": 570,
+    "VALID_UNTIL": "2023-07-08"
+  },
+  {
+    "QUOTE_ID": 784,
+    "CUSTOMER_ID": 291,
+    "VALID_UNTIL": "2023-02-13"
+  },
+  {
+    "QUOTE_ID": 785,
+    "CUSTOMER_ID": 549,
+    "VALID_UNTIL": "2023-11-11"
+  },
+  {
+    "QUOTE_ID": 786,
+    "CUSTOMER_ID": 483,
+    "VALID_UNTIL": "2023-12-31"
+  },
+  {
+    "QUOTE_ID": 787,
+    "CUSTOMER_ID": 888,
+    "VALID_UNTIL": "2023-07-09"
+  },
+  {
+    "QUOTE_ID": 788,
+    "CUSTOMER_ID": 539,
+    "VALID_UNTIL": "2023-08-16"
+  },
+  {
+    "QUOTE_ID": 789,
+    "CUSTOMER_ID": 367,
+    "VALID_UNTIL": "2024-10-12"
+  },
+  {
+    "QUOTE_ID": 790,
+    "CUSTOMER_ID": 606,
+    "VALID_UNTIL": "2024-10-01"
+  },
+  {
+    "QUOTE_ID": 791,
+    "CUSTOMER_ID": 305,
+    "VALID_UNTIL": "2023-03-04"
+  },
+  {
+    "QUOTE_ID": 792,
+    "CUSTOMER_ID": 2,
+    "VALID_UNTIL": "2023-11-06"
+  },
+  {
+    "QUOTE_ID": 793,
+    "CUSTOMER_ID": 95,
+    "VALID_UNTIL": "2023-03-11"
+  },
+  {
+    "QUOTE_ID": 794,
+    "CUSTOMER_ID": 744,
+    "VALID_UNTIL": "2024-08-20"
+  },
+  {
+    "QUOTE_ID": 795,
+    "CUSTOMER_ID": 275,
+    "VALID_UNTIL": "2024-05-08"
+  },
+  {
+    "QUOTE_ID": 796,
+    "CUSTOMER_ID": 620,
+    "VALID_UNTIL": "2023-05-29"
+  },
+  {
+    "QUOTE_ID": 797,
+    "CUSTOMER_ID": 234,
+    "VALID_UNTIL": "2024-02-16"
+  },
+  {
+    "QUOTE_ID": 798,
+    "CUSTOMER_ID": 912,
+    "VALID_UNTIL": "2023-05-15"
+  },
+  {
+    "QUOTE_ID": 799,
+    "CUSTOMER_ID": 722,
+    "VALID_UNTIL": "2023-05-29"
+  },
+  {
+    "QUOTE_ID": 800,
+    "CUSTOMER_ID": 959,
+    "VALID_UNTIL": "2023-10-10"
+  },
+  {
+    "QUOTE_ID": 801,
+    "CUSTOMER_ID": 356,
+    "VALID_UNTIL": "2024-12-14"
+  },
+  {
+    "QUOTE_ID": 802,
+    "CUSTOMER_ID": 31,
+    "VALID_UNTIL": "2023-12-18"
+  },
+  {
+    "QUOTE_ID": 803,
+    "CUSTOMER_ID": 199,
+    "VALID_UNTIL": "2023-12-23"
+  },
+  {
+    "QUOTE_ID": 804,
+    "CUSTOMER_ID": 991,
+    "VALID_UNTIL": "2024-04-28"
+  },
+  {
+    "QUOTE_ID": 805,
+    "CUSTOMER_ID": 950,
+    "VALID_UNTIL": "2023-06-29"
+  },
+  {
+    "QUOTE_ID": 806,
+    "CUSTOMER_ID": 169,
+    "VALID_UNTIL": "2024-11-19"
+  },
+  {
+    "QUOTE_ID": 807,
+    "CUSTOMER_ID": 544,
+    "VALID_UNTIL": "2024-09-28"
+  },
+  {
+    "QUOTE_ID": 808,
+    "CUSTOMER_ID": 135,
+    "VALID_UNTIL": "2023-02-07"
+  },
+  {
+    "QUOTE_ID": 809,
+    "CUSTOMER_ID": 811,
+    "VALID_UNTIL": "2024-04-22"
+  },
+  {
+    "QUOTE_ID": 810,
+    "CUSTOMER_ID": 297,
+    "VALID_UNTIL": "2023-05-31"
+  },
+  {
+    "QUOTE_ID": 811,
+    "CUSTOMER_ID": 655,
+    "VALID_UNTIL": "2024-12-11"
+  },
+  {
+    "QUOTE_ID": 812,
+    "CUSTOMER_ID": 369,
+    "VALID_UNTIL": "2024-06-15"
+  },
+  {
+    "QUOTE_ID": 813,
+    "CUSTOMER_ID": 570,
+    "VALID_UNTIL": "2023-03-13"
+  },
+  {
+    "QUOTE_ID": 814,
+    "CUSTOMER_ID": 614,
+    "VALID_UNTIL": "2024-05-20"
+  },
+  {
+    "QUOTE_ID": 815,
+    "CUSTOMER_ID": 537,
+    "VALID_UNTIL": "2023-10-04"
+  },
+  {
+    "QUOTE_ID": 816,
+    "CUSTOMER_ID": 30,
+    "VALID_UNTIL": "2023-06-10"
+  },
+  {
+    "QUOTE_ID": 817,
+    "CUSTOMER_ID": 949,
+    "VALID_UNTIL": "2024-08-06"
+  },
+  {
+    "QUOTE_ID": 818,
+    "CUSTOMER_ID": 18,
+    "VALID_UNTIL": "2023-04-15"
+  },
+  {
+    "QUOTE_ID": 819,
+    "CUSTOMER_ID": 25,
+    "VALID_UNTIL": "2023-12-04"
+  },
+  {
+    "QUOTE_ID": 820,
+    "CUSTOMER_ID": 105,
+    "VALID_UNTIL": "2024-10-28"
+  },
+  {
+    "QUOTE_ID": 821,
+    "CUSTOMER_ID": 295,
+    "VALID_UNTIL": "2024-01-03"
+  },
+  {
+    "QUOTE_ID": 822,
+    "CUSTOMER_ID": 249,
+    "VALID_UNTIL": "2023-12-05"
+  },
+  {
+    "QUOTE_ID": 823,
+    "CUSTOMER_ID": 80,
+    "VALID_UNTIL": "2024-10-19"
+  },
+  {
+    "QUOTE_ID": 824,
+    "CUSTOMER_ID": 341,
+    "VALID_UNTIL": "2023-06-09"
+  },
+  {
+    "QUOTE_ID": 825,
+    "CUSTOMER_ID": 806,
+    "VALID_UNTIL": "2024-07-06"
+  },
+  {
+    "QUOTE_ID": 826,
+    "CUSTOMER_ID": 780,
+    "VALID_UNTIL": "2023-05-08"
+  },
+  {
+    "QUOTE_ID": 827,
+    "CUSTOMER_ID": 953,
+    "VALID_UNTIL": "2024-12-02"
+  },
+  {
+    "QUOTE_ID": 828,
+    "CUSTOMER_ID": 269,
+    "VALID_UNTIL": "2023-11-21"
+  },
+  {
+    "QUOTE_ID": 829,
+    "CUSTOMER_ID": 481,
+    "VALID_UNTIL": "2024-08-22"
+  },
+  {
+    "QUOTE_ID": 830,
+    "CUSTOMER_ID": 420,
+    "VALID_UNTIL": "2024-05-10"
+  },
+  {
+    "QUOTE_ID": 831,
+    "CUSTOMER_ID": 295,
+    "VALID_UNTIL": "2024-11-04"
+  },
+  {
+    "QUOTE_ID": 832,
+    "CUSTOMER_ID": 132,
+    "VALID_UNTIL": "2024-08-16"
+  },
+  {
+    "QUOTE_ID": 833,
+    "CUSTOMER_ID": 38,
+    "VALID_UNTIL": "2023-07-29"
+  },
+  {
+    "QUOTE_ID": 834,
+    "CUSTOMER_ID": 88,
+    "VALID_UNTIL": "2024-11-17"
+  },
+  {
+    "QUOTE_ID": 835,
+    "CUSTOMER_ID": 523,
+    "VALID_UNTIL": "2024-12-21"
+  },
+  {
+    "QUOTE_ID": 836,
+    "CUSTOMER_ID": 569,
+    "VALID_UNTIL": "2024-10-16"
+  },
+  {
+    "QUOTE_ID": 837,
+    "CUSTOMER_ID": 229,
+    "VALID_UNTIL": "2023-02-23"
+  },
+  {
+    "QUOTE_ID": 838,
+    "CUSTOMER_ID": 395,
+    "VALID_UNTIL": "2023-09-15"
+  },
+  {
+    "QUOTE_ID": 839,
+    "CUSTOMER_ID": 775,
+    "VALID_UNTIL": "2024-01-18"
+  },
+  {
+    "QUOTE_ID": 840,
+    "CUSTOMER_ID": 510,
+    "VALID_UNTIL": "2024-08-25"
+  },
+  {
+    "QUOTE_ID": 841,
+    "CUSTOMER_ID": 658,
+    "VALID_UNTIL": "2023-02-25"
+  },
+  {
+    "QUOTE_ID": 842,
+    "CUSTOMER_ID": 690,
+    "VALID_UNTIL": "2023-09-20"
+  },
+  {
+    "QUOTE_ID": 843,
+    "CUSTOMER_ID": 476,
+    "VALID_UNTIL": "2024-08-24"
+  },
+  {
+    "QUOTE_ID": 844,
+    "CUSTOMER_ID": 600,
+    "VALID_UNTIL": "2023-05-29"
+  },
+  {
+    "QUOTE_ID": 845,
+    "CUSTOMER_ID": 684,
+    "VALID_UNTIL": "2023-06-29"
+  },
+  {
+    "QUOTE_ID": 846,
+    "CUSTOMER_ID": 100,
+    "VALID_UNTIL": "2023-09-15"
+  },
+  {
+    "QUOTE_ID": 847,
+    "CUSTOMER_ID": 844,
+    "VALID_UNTIL": "2024-12-07"
+  },
+  {
+    "QUOTE_ID": 848,
+    "CUSTOMER_ID": 636,
+    "VALID_UNTIL": "2024-04-30"
+  },
+  {
+    "QUOTE_ID": 849,
+    "CUSTOMER_ID": 257,
+    "VALID_UNTIL": "2023-10-03"
+  },
+  {
+    "QUOTE_ID": 850,
+    "CUSTOMER_ID": 842,
+    "VALID_UNTIL": "2024-03-18"
+  },
+  {
+    "QUOTE_ID": 851,
+    "CUSTOMER_ID": 611,
+    "VALID_UNTIL": "2024-09-11"
+  },
+  {
+    "QUOTE_ID": 852,
+    "CUSTOMER_ID": 15,
+    "VALID_UNTIL": "2023-12-23"
+  },
+  {
+    "QUOTE_ID": 853,
+    "CUSTOMER_ID": 834,
+    "VALID_UNTIL": "2024-01-05"
+  },
+  {
+    "QUOTE_ID": 854,
+    "CUSTOMER_ID": 566,
+    "VALID_UNTIL": "2023-12-27"
+  },
+  {
+    "QUOTE_ID": 855,
+    "CUSTOMER_ID": 981,
+    "VALID_UNTIL": "2024-01-18"
+  },
+  {
+    "QUOTE_ID": 856,
+    "CUSTOMER_ID": 937,
+    "VALID_UNTIL": "2024-06-18"
+  },
+  {
+    "QUOTE_ID": 857,
+    "CUSTOMER_ID": 804,
+    "VALID_UNTIL": "2024-02-16"
+  },
+  {
+    "QUOTE_ID": 858,
+    "CUSTOMER_ID": 607,
+    "VALID_UNTIL": "2024-09-07"
+  },
+  {
+    "QUOTE_ID": 859,
+    "CUSTOMER_ID": 314,
+    "VALID_UNTIL": "2023-02-21"
+  },
+  {
+    "QUOTE_ID": 860,
+    "CUSTOMER_ID": 558,
+    "VALID_UNTIL": "2023-11-11"
+  },
+  {
+    "QUOTE_ID": 861,
+    "CUSTOMER_ID": 192,
+    "VALID_UNTIL": "2024-09-11"
+  },
+  {
+    "QUOTE_ID": 862,
+    "CUSTOMER_ID": 917,
+    "VALID_UNTIL": "2023-01-31"
+  },
+  {
+    "QUOTE_ID": 863,
+    "CUSTOMER_ID": 855,
+    "VALID_UNTIL": "2024-04-04"
+  },
+  {
+    "QUOTE_ID": 864,
+    "CUSTOMER_ID": 618,
+    "VALID_UNTIL": "2024-04-15"
+  },
+  {
+    "QUOTE_ID": 865,
+    "CUSTOMER_ID": 581,
+    "VALID_UNTIL": "2024-11-13"
+  },
+  {
+    "QUOTE_ID": 866,
+    "CUSTOMER_ID": 51,
+    "VALID_UNTIL": "2023-12-02"
+  },
+  {
+    "QUOTE_ID": 867,
+    "CUSTOMER_ID": 368,
+    "VALID_UNTIL": "2023-07-06"
+  },
+  {
+    "QUOTE_ID": 868,
+    "CUSTOMER_ID": 533,
+    "VALID_UNTIL": "2024-10-14"
+  },
+  {
+    "QUOTE_ID": 869,
+    "CUSTOMER_ID": 821,
+    "VALID_UNTIL": "2024-08-09"
+  },
+  {
+    "QUOTE_ID": 870,
+    "CUSTOMER_ID": 440,
+    "VALID_UNTIL": "2023-02-15"
+  },
+  {
+    "QUOTE_ID": 871,
+    "CUSTOMER_ID": 387,
+    "VALID_UNTIL": "2023-04-09"
+  },
+  {
+    "QUOTE_ID": 872,
+    "CUSTOMER_ID": 746,
+    "VALID_UNTIL": "2023-03-21"
+  },
+  {
+    "QUOTE_ID": 873,
+    "CUSTOMER_ID": 398,
+    "VALID_UNTIL": "2024-01-05"
+  },
+  {
+    "QUOTE_ID": 874,
+    "CUSTOMER_ID": 431,
+    "VALID_UNTIL": "2024-05-15"
+  },
+  {
+    "QUOTE_ID": 875,
+    "CUSTOMER_ID": 247,
+    "VALID_UNTIL": "2023-09-27"
+  },
+  {
+    "QUOTE_ID": 876,
+    "CUSTOMER_ID": 464,
+    "VALID_UNTIL": "2023-11-06"
+  },
+  {
+    "QUOTE_ID": 877,
+    "CUSTOMER_ID": 381,
+    "VALID_UNTIL": "2024-04-29"
+  },
+  {
+    "QUOTE_ID": 878,
+    "CUSTOMER_ID": 916,
+    "VALID_UNTIL": "2023-03-16"
+  },
+  {
+    "QUOTE_ID": 879,
+    "CUSTOMER_ID": 85,
+    "VALID_UNTIL": "2024-03-14"
+  },
+  {
+    "QUOTE_ID": 880,
+    "CUSTOMER_ID": 326,
+    "VALID_UNTIL": "2023-06-27"
+  },
+  {
+    "QUOTE_ID": 881,
+    "CUSTOMER_ID": 455,
+    "VALID_UNTIL": "2024-03-30"
+  },
+  {
+    "QUOTE_ID": 882,
+    "CUSTOMER_ID": 96,
+    "VALID_UNTIL": "2023-09-16"
+  },
+  {
+    "QUOTE_ID": 883,
+    "CUSTOMER_ID": 429,
+    "VALID_UNTIL": "2024-12-10"
+  },
+  {
+    "QUOTE_ID": 884,
+    "CUSTOMER_ID": 574,
+    "VALID_UNTIL": "2023-04-11"
+  },
+  {
+    "QUOTE_ID": 885,
+    "CUSTOMER_ID": 307,
+    "VALID_UNTIL": "2024-09-23"
+  },
+  {
+    "QUOTE_ID": 886,
+    "CUSTOMER_ID": 921,
+    "VALID_UNTIL": "2024-08-18"
+  },
+  {
+    "QUOTE_ID": 887,
+    "CUSTOMER_ID": 60,
+    "VALID_UNTIL": "2023-06-23"
+  },
+  {
+    "QUOTE_ID": 888,
+    "CUSTOMER_ID": 367,
+    "VALID_UNTIL": "2023-09-13"
+  },
+  {
+    "QUOTE_ID": 889,
+    "CUSTOMER_ID": 651,
+    "VALID_UNTIL": "2023-02-20"
+  },
+  {
+    "QUOTE_ID": 890,
+    "CUSTOMER_ID": 525,
+    "VALID_UNTIL": "2023-11-14"
+  },
+  {
+    "QUOTE_ID": 891,
+    "CUSTOMER_ID": 200,
+    "VALID_UNTIL": "2024-06-04"
+  },
+  {
+    "QUOTE_ID": 892,
+    "CUSTOMER_ID": 741,
+    "VALID_UNTIL": "2024-03-14"
+  },
+  {
+    "QUOTE_ID": 893,
+    "CUSTOMER_ID": 631,
+    "VALID_UNTIL": "2024-10-20"
+  },
+  {
+    "QUOTE_ID": 894,
+    "CUSTOMER_ID": 165,
+    "VALID_UNTIL": "2024-11-16"
+  },
+  {
+    "QUOTE_ID": 895,
+    "CUSTOMER_ID": 628,
+    "VALID_UNTIL": "2024-03-13"
+  },
+  {
+    "QUOTE_ID": 896,
+    "CUSTOMER_ID": 303,
+    "VALID_UNTIL": "2023-11-02"
+  },
+  {
+    "QUOTE_ID": 897,
+    "CUSTOMER_ID": 309,
+    "VALID_UNTIL": "2024-05-15"
+  },
+  {
+    "QUOTE_ID": 898,
+    "CUSTOMER_ID": 793,
+    "VALID_UNTIL": "2024-06-24"
+  },
+  {
+    "QUOTE_ID": 899,
+    "CUSTOMER_ID": 881,
+    "VALID_UNTIL": "2023-08-03"
+  },
+  {
+    "QUOTE_ID": 900,
+    "CUSTOMER_ID": 331,
+    "VALID_UNTIL": "2023-02-09"
+  },
+  {
+    "QUOTE_ID": 901,
+    "CUSTOMER_ID": 545,
+    "VALID_UNTIL": "2023-11-15"
+  },
+  {
+    "QUOTE_ID": 902,
+    "CUSTOMER_ID": 692,
+    "VALID_UNTIL": "2023-08-07"
+  },
+  {
+    "QUOTE_ID": 903,
+    "CUSTOMER_ID": 247,
+    "VALID_UNTIL": "2023-06-24"
+  },
+  {
+    "QUOTE_ID": 904,
+    "CUSTOMER_ID": 923,
+    "VALID_UNTIL": "2023-10-14"
+  },
+  {
+    "QUOTE_ID": 905,
+    "CUSTOMER_ID": 179,
+    "VALID_UNTIL": "2023-09-05"
+  },
+  {
+    "QUOTE_ID": 906,
+    "CUSTOMER_ID": 309,
+    "VALID_UNTIL": "2024-07-08"
+  },
+  {
+    "QUOTE_ID": 907,
+    "CUSTOMER_ID": 5,
+    "VALID_UNTIL": "2023-03-04"
+  },
+  {
+    "QUOTE_ID": 908,
+    "CUSTOMER_ID": 281,
+    "VALID_UNTIL": "2023-04-22"
+  },
+  {
+    "QUOTE_ID": 909,
+    "CUSTOMER_ID": 466,
+    "VALID_UNTIL": "2023-06-09"
+  },
+  {
+    "QUOTE_ID": 910,
+    "CUSTOMER_ID": 316,
+    "VALID_UNTIL": "2023-05-24"
+  },
+  {
+    "QUOTE_ID": 911,
+    "CUSTOMER_ID": 738,
+    "VALID_UNTIL": "2024-01-04"
+  },
+  {
+    "QUOTE_ID": 912,
+    "CUSTOMER_ID": 351,
+    "VALID_UNTIL": "2023-10-10"
+  },
+  {
+    "QUOTE_ID": 913,
+    "CUSTOMER_ID": 965,
+    "VALID_UNTIL": "2024-03-13"
+  },
+  {
+    "QUOTE_ID": 914,
+    "CUSTOMER_ID": 615,
+    "VALID_UNTIL": "2023-05-21"
+  },
+  {
+    "QUOTE_ID": 915,
+    "CUSTOMER_ID": 336,
+    "VALID_UNTIL": "2024-07-31"
+  },
+  {
+    "QUOTE_ID": 916,
+    "CUSTOMER_ID": 347,
+    "VALID_UNTIL": "2023-12-19"
+  },
+  {
+    "QUOTE_ID": 917,
+    "CUSTOMER_ID": 470,
+    "VALID_UNTIL": "2023-11-15"
+  },
+  {
+    "QUOTE_ID": 918,
+    "CUSTOMER_ID": 867,
+    "VALID_UNTIL": "2024-09-20"
+  },
+  {
+    "QUOTE_ID": 919,
+    "CUSTOMER_ID": 951,
+    "VALID_UNTIL": "2023-03-01"
+  },
+  {
+    "QUOTE_ID": 920,
+    "CUSTOMER_ID": 394,
+    "VALID_UNTIL": "2023-07-28"
+  },
+  {
+    "QUOTE_ID": 921,
+    "CUSTOMER_ID": 855,
+    "VALID_UNTIL": "2024-06-24"
+  },
+  {
+    "QUOTE_ID": 922,
+    "CUSTOMER_ID": 577,
+    "VALID_UNTIL": "2024-02-22"
+  },
+  {
+    "QUOTE_ID": 923,
+    "CUSTOMER_ID": 16,
+    "VALID_UNTIL": "2023-07-16"
+  },
+  {
+    "QUOTE_ID": 924,
+    "CUSTOMER_ID": 285,
+    "VALID_UNTIL": "2023-07-18"
+  },
+  {
+    "QUOTE_ID": 925,
+    "CUSTOMER_ID": 378,
+    "VALID_UNTIL": "2024-05-08"
+  },
+  {
+    "QUOTE_ID": 926,
+    "CUSTOMER_ID": 63,
+    "VALID_UNTIL": "2023-10-02"
+  },
+  {
+    "QUOTE_ID": 927,
+    "CUSTOMER_ID": 782,
+    "VALID_UNTIL": "2023-09-06"
+  },
+  {
+    "QUOTE_ID": 928,
+    "CUSTOMER_ID": 227,
+    "VALID_UNTIL": "2024-12-03"
+  },
+  {
+    "QUOTE_ID": 929,
+    "CUSTOMER_ID": 148,
+    "VALID_UNTIL": "2024-10-27"
+  },
+  {
+    "QUOTE_ID": 930,
+    "CUSTOMER_ID": 814,
+    "VALID_UNTIL": "2024-01-12"
+  },
+  {
+    "QUOTE_ID": 931,
+    "CUSTOMER_ID": 692,
+    "VALID_UNTIL": "2024-10-06"
+  },
+  {
+    "QUOTE_ID": 932,
+    "CUSTOMER_ID": 299,
+    "VALID_UNTIL": "2024-02-02"
+  },
+  {
+    "QUOTE_ID": 933,
+    "CUSTOMER_ID": 186,
+    "VALID_UNTIL": "2023-09-15"
+  },
+  {
+    "QUOTE_ID": 934,
+    "CUSTOMER_ID": 869,
+    "VALID_UNTIL": "2023-04-25"
+  },
+  {
+    "QUOTE_ID": 935,
+    "CUSTOMER_ID": 330,
+    "VALID_UNTIL": "2024-11-16"
+  },
+  {
+    "QUOTE_ID": 936,
+    "CUSTOMER_ID": 551,
+    "VALID_UNTIL": "2023-06-22"
+  },
+  {
+    "QUOTE_ID": 937,
+    "CUSTOMER_ID": 538,
+    "VALID_UNTIL": "2024-03-02"
+  },
+  {
+    "QUOTE_ID": 938,
+    "CUSTOMER_ID": 232,
+    "VALID_UNTIL": "2023-03-19"
+  },
+  {
+    "QUOTE_ID": 939,
+    "CUSTOMER_ID": 287,
+    "VALID_UNTIL": "2023-02-20"
+  },
+  {
+    "QUOTE_ID": 940,
+    "CUSTOMER_ID": 934,
+    "VALID_UNTIL": "2023-06-23"
+  },
+  {
+    "QUOTE_ID": 941,
+    "CUSTOMER_ID": 620,
+    "VALID_UNTIL": "2024-04-20"
+  },
+  {
+    "QUOTE_ID": 942,
+    "CUSTOMER_ID": 402,
+    "VALID_UNTIL": "2023-08-07"
+  },
+  {
+    "QUOTE_ID": 943,
+    "CUSTOMER_ID": 927,
+    "VALID_UNTIL": "2024-10-24"
+  },
+  {
+    "QUOTE_ID": 944,
+    "CUSTOMER_ID": 615,
+    "VALID_UNTIL": "2023-05-03"
+  },
+  {
+    "QUOTE_ID": 945,
+    "CUSTOMER_ID": 454,
+    "VALID_UNTIL": "2023-07-11"
+  },
+  {
+    "QUOTE_ID": 946,
+    "CUSTOMER_ID": 102,
+    "VALID_UNTIL": "2024-06-11"
+  },
+  {
+    "QUOTE_ID": 947,
+    "CUSTOMER_ID": 303,
+    "VALID_UNTIL": "2023-07-10"
+  },
+  {
+    "QUOTE_ID": 948,
+    "CUSTOMER_ID": 615,
+    "VALID_UNTIL": "2023-06-22"
+  },
+  {
+    "QUOTE_ID": 949,
+    "CUSTOMER_ID": 850,
+    "VALID_UNTIL": "2023-06-14"
+  },
+  {
+    "QUOTE_ID": 950,
+    "CUSTOMER_ID": 28,
+    "VALID_UNTIL": "2023-12-06"
+  },
+  {
+    "QUOTE_ID": 951,
+    "CUSTOMER_ID": 90,
+    "VALID_UNTIL": "2024-03-23"
+  },
+  {
+    "QUOTE_ID": 952,
+    "CUSTOMER_ID": 476,
+    "VALID_UNTIL": "2024-08-07"
+  },
+  {
+    "QUOTE_ID": 953,
+    "CUSTOMER_ID": 950,
+    "VALID_UNTIL": "2023-07-31"
+  },
+  {
+    "QUOTE_ID": 954,
+    "CUSTOMER_ID": 927,
+    "VALID_UNTIL": "2023-06-02"
+  },
+  {
+    "QUOTE_ID": 955,
+    "CUSTOMER_ID": 368,
+    "VALID_UNTIL": "2024-12-31"
+  },
+  {
+    "QUOTE_ID": 956,
+    "CUSTOMER_ID": 247,
+    "VALID_UNTIL": "2024-09-26"
+  },
+  {
+    "QUOTE_ID": 957,
+    "CUSTOMER_ID": 181,
+    "VALID_UNTIL": "2024-03-21"
+  },
+  {
+    "QUOTE_ID": 958,
+    "CUSTOMER_ID": 392,
+    "VALID_UNTIL": "2024-10-10"
+  },
+  {
+    "QUOTE_ID": 959,
+    "CUSTOMER_ID": 215,
+    "VALID_UNTIL": "2024-05-31"
+  },
+  {
+    "QUOTE_ID": 960,
+    "CUSTOMER_ID": 880,
+    "VALID_UNTIL": "2023-02-05"
+  },
+  {
+    "QUOTE_ID": 961,
+    "CUSTOMER_ID": 406,
+    "VALID_UNTIL": "2023-09-14"
+  },
+  {
+    "QUOTE_ID": 962,
+    "CUSTOMER_ID": 130,
+    "VALID_UNTIL": "2024-01-29"
+  },
+  {
+    "QUOTE_ID": 963,
+    "CUSTOMER_ID": 770,
+    "VALID_UNTIL": "2023-03-05"
+  },
+  {
+    "QUOTE_ID": 964,
+    "CUSTOMER_ID": 995,
+    "VALID_UNTIL": "2023-09-08"
+  },
+  {
+    "QUOTE_ID": 965,
+    "CUSTOMER_ID": 125,
+    "VALID_UNTIL": "2023-09-24"
+  },
+  {
+    "QUOTE_ID": 966,
+    "CUSTOMER_ID": 601,
+    "VALID_UNTIL": "2023-07-10"
+  },
+  {
+    "QUOTE_ID": 967,
+    "CUSTOMER_ID": 513,
+    "VALID_UNTIL": "2023-03-18"
+  },
+  {
+    "QUOTE_ID": 968,
+    "CUSTOMER_ID": 310,
+    "VALID_UNTIL": "2024-07-28"
+  },
+  {
+    "QUOTE_ID": 969,
+    "CUSTOMER_ID": 799,
+    "VALID_UNTIL": "2024-02-01"
+  },
+  {
+    "QUOTE_ID": 970,
+    "CUSTOMER_ID": 8,
+    "VALID_UNTIL": "2023-08-08"
+  },
+  {
+    "QUOTE_ID": 971,
+    "CUSTOMER_ID": 155,
+    "VALID_UNTIL": "2023-03-18"
+  },
+  {
+    "QUOTE_ID": 972,
+    "CUSTOMER_ID": 429,
+    "VALID_UNTIL": "2023-05-08"
+  },
+  {
+    "QUOTE_ID": 973,
+    "CUSTOMER_ID": 688,
+    "VALID_UNTIL": "2024-09-21"
+  },
+  {
+    "QUOTE_ID": 974,
+    "CUSTOMER_ID": 50,
+    "VALID_UNTIL": "2023-05-19"
+  },
+  {
+    "QUOTE_ID": 975,
+    "CUSTOMER_ID": 591,
+    "VALID_UNTIL": "2023-10-03"
+  },
+  {
+    "QUOTE_ID": 976,
+    "CUSTOMER_ID": 659,
+    "VALID_UNTIL": "2023-10-07"
+  },
+  {
+    "QUOTE_ID": 977,
+    "CUSTOMER_ID": 217,
+    "VALID_UNTIL": "2024-02-17"
+  },
+  {
+    "QUOTE_ID": 978,
+    "CUSTOMER_ID": 634,
+    "VALID_UNTIL": "2023-09-19"
+  },
+  {
+    "QUOTE_ID": 979,
+    "CUSTOMER_ID": 502,
+    "VALID_UNTIL": "2024-10-10"
+  },
+  {
+    "QUOTE_ID": 980,
+    "CUSTOMER_ID": 499,
+    "VALID_UNTIL": "2023-04-27"
+  },
+  {
+    "QUOTE_ID": 981,
+    "CUSTOMER_ID": 619,
+    "VALID_UNTIL": "2023-04-04"
+  },
+  {
+    "QUOTE_ID": 982,
+    "CUSTOMER_ID": 3,
+    "VALID_UNTIL": "2023-03-31"
+  },
+  {
+    "QUOTE_ID": 983,
+    "CUSTOMER_ID": 662,
+    "VALID_UNTIL": "2023-02-22"
+  },
+  {
+    "QUOTE_ID": 984,
+    "CUSTOMER_ID": 189,
+    "VALID_UNTIL": "2024-09-17"
+  },
+  {
+    "QUOTE_ID": 985,
+    "CUSTOMER_ID": 664,
+    "VALID_UNTIL": "2024-01-15"
+  },
+  {
+    "QUOTE_ID": 986,
+    "CUSTOMER_ID": 441,
+    "VALID_UNTIL": "2023-05-12"
+  },
+  {
+    "QUOTE_ID": 987,
+    "CUSTOMER_ID": 386,
+    "VALID_UNTIL": "2023-06-29"
+  },
+  {
+    "QUOTE_ID": 988,
+    "CUSTOMER_ID": 189,
+    "VALID_UNTIL": "2024-01-14"
+  },
+  {
+    "QUOTE_ID": 989,
+    "CUSTOMER_ID": 386,
+    "VALID_UNTIL": "2024-12-24"
+  },
+  {
+    "QUOTE_ID": 990,
+    "CUSTOMER_ID": 288,
+    "VALID_UNTIL": "2024-06-18"
+  },
+  {
+    "QUOTE_ID": 991,
+    "CUSTOMER_ID": 66,
+    "VALID_UNTIL": "2024-07-10"
+  },
+  {
+    "QUOTE_ID": 992,
+    "CUSTOMER_ID": 758,
+    "VALID_UNTIL": "2024-02-12"
+  },
+  {
+    "QUOTE_ID": 993,
+    "CUSTOMER_ID": 363,
+    "VALID_UNTIL": "2024-10-06"
+  },
+  {
+    "QUOTE_ID": 994,
+    "CUSTOMER_ID": 317,
+    "VALID_UNTIL": "2023-02-02"
+  },
+  {
+    "QUOTE_ID": 995,
+    "CUSTOMER_ID": 745,
+    "VALID_UNTIL": "2024-05-05"
+  },
+  {
+    "QUOTE_ID": 996,
+    "CUSTOMER_ID": 594,
+    "VALID_UNTIL": "2024-10-28"
+  },
+  {
+    "QUOTE_ID": 997,
+    "CUSTOMER_ID": 832,
+    "VALID_UNTIL": "2023-06-26"
+  },
+  {
+    "QUOTE_ID": 998,
+    "CUSTOMER_ID": 233,
+    "VALID_UNTIL": "2023-01-31"
+  },
+  {
+    "QUOTE_ID": 999,
+    "CUSTOMER_ID": 293,
+    "VALID_UNTIL": "2024-01-18"
+  },
+  {
+    "QUOTE_ID": 1000,
+    "CUSTOMER_ID": 745,
+    "VALID_UNTIL": "2023-09-10"
+  }
+]

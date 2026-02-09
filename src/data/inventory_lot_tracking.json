@@ -1,0 +1,5002 @@
+[
+  {
+    "LOT_ID": 1,
+    "LOT_NUMBER": "LOT00000001",
+    "EXPIRY_DATE": "2023-08-14"
+  },
+  {
+    "LOT_ID": 2,
+    "LOT_NUMBER": "LOT00000002",
+    "EXPIRY_DATE": "2026-07-31"
+  },
+  {
+    "LOT_ID": 3,
+    "LOT_NUMBER": "LOT00000003",
+    "EXPIRY_DATE": "2027-11-14"
+  },
+  {
+    "LOT_ID": 4,
+    "LOT_NUMBER": "LOT00000004",
+    "EXPIRY_DATE": "2024-06-22"
+  },
+  {
+    "LOT_ID": 5,
+    "LOT_NUMBER": "LOT00000005",
+    "EXPIRY_DATE": "2025-10-23"
+  },
+  {
+    "LOT_ID": 6,
+    "LOT_NUMBER": "LOT00000006",
+    "EXPIRY_DATE": "2022-02-28"
+  },
+  {
+    "LOT_ID": 7,
+    "LOT_NUMBER": "LOT00000007",
+    "EXPIRY_DATE": "2024-04-11"
+  },
+  {
+    "LOT_ID": 8,
+    "LOT_NUMBER": "LOT00000008",
+    "EXPIRY_DATE": "2025-09-17"
+  },
+  {
+    "LOT_ID": 9,
+    "LOT_NUMBER": "LOT00000009",
+    "EXPIRY_DATE": "2026-07-26"
+  },
+  {
+    "LOT_ID": 10,
+    "LOT_NUMBER": "LOT00000010",
+    "EXPIRY_DATE": "2026-09-28"
+  },
+  {
+    "LOT_ID": 11,
+    "LOT_NUMBER": "LOT00000011",
+    "EXPIRY_DATE": "2022-01-16"
+  },
+  {
+    "LOT_ID": 12,
+    "LOT_NUMBER": "LOT00000012",
+    "EXPIRY_DATE": "2026-06-30"
+  },
+  {
+    "LOT_ID": 13,
+    "LOT_NUMBER": "LOT00000013",
+    "EXPIRY_DATE": "2025-12-12"
+  },
+  {
+    "LOT_ID": 14,
+    "LOT_NUMBER": "LOT00000014",
+    "EXPIRY_DATE": "2025-07-16"
+  },
+  {
+    "LOT_ID": 15,
+    "LOT_NUMBER": "LOT00000015",
+    "EXPIRY_DATE": "2027-04-01"
+  },
+  {
+    "LOT_ID": 16,
+    "LOT_NUMBER": "LOT00000016",
+    "EXPIRY_DATE": "2025-10-13"
+  },
+  {
+    "LOT_ID": 17,
+    "LOT_NUMBER": "LOT00000017",
+    "EXPIRY_DATE": "2024-12-10"
+  },
+  {
+    "LOT_ID": 18,
+    "LOT_NUMBER": "LOT00000018",
+    "EXPIRY_DATE": "2027-06-25"
+  },
+  {
+    "LOT_ID": 19,
+    "LOT_NUMBER": "LOT00000019",
+    "EXPIRY_DATE": "2022-08-11"
+  },
+  {
+    "LOT_ID": 20,
+    "LOT_NUMBER": "LOT00000020",
+    "EXPIRY_DATE": "2022-11-10"
+  },
+  {
+    "LOT_ID": 21,
+    "LOT_NUMBER": "LOT00000021",
+    "EXPIRY_DATE": "2026-02-17"
+  },
+  {
+    "LOT_ID": 22,
+    "LOT_NUMBER": "LOT00000022",
+    "EXPIRY_DATE": "2027-03-02"
+  },
+  {
+    "LOT_ID": 23,
+    "LOT_NUMBER": "LOT00000023",
+    "EXPIRY_DATE": "2025-01-10"
+  },
+  {
+    "LOT_ID": 24,
+    "LOT_NUMBER": "LOT00000024",
+    "EXPIRY_DATE": "2022-11-22"
+  },
+  {
+    "LOT_ID": 25,
+    "LOT_NUMBER": "LOT00000025",
+    "EXPIRY_DATE": "2024-03-10"
+  },
+  {
+    "LOT_ID": 26,
+    "LOT_NUMBER": "LOT00000026",
+    "EXPIRY_DATE": "2023-05-20"
+  },
+  {
+    "LOT_ID": 27,
+    "LOT_NUMBER": "LOT00000027",
+    "EXPIRY_DATE": "2026-08-18"
+  },
+  {
+    "LOT_ID": 28,
+    "LOT_NUMBER": "LOT00000028",
+    "EXPIRY_DATE": "2024-07-10"
+  },
+  {
+    "LOT_ID": 29,
+    "LOT_NUMBER": "LOT00000029",
+    "EXPIRY_DATE": "2026-07-15"
+  },
+  {
+    "LOT_ID": 30,
+    "LOT_NUMBER": "LOT00000030",
+    "EXPIRY_DATE": "2024-09-20"
+  },
+  {
+    "LOT_ID": 31,
+    "LOT_NUMBER": "LOT00000031",
+    "EXPIRY_DATE": "2027-05-14"
+  },
+  {
+    "LOT_ID": 32,
+    "LOT_NUMBER": "LOT00000032",
+    "EXPIRY_DATE": "2022-09-05"
+  },
+  {
+    "LOT_ID": 33,
+    "LOT_NUMBER": "LOT00000033",
+    "EXPIRY_DATE": "2023-08-05"
+  },
+  {
+    "LOT_ID": 34,
+    "LOT_NUMBER": "LOT00000034",
+    "EXPIRY_DATE": "2026-05-29"
+  },
+  {
+    "LOT_ID": 35,
+    "LOT_NUMBER": "LOT00000035",
+    "EXPIRY_DATE": "2027-11-29"
+  },
+  {
+    "LOT_ID": 36,
+    "LOT_NUMBER": "LOT00000036",
+    "EXPIRY_DATE": "2026-06-22"
+  },
+  {
+    "LOT_ID": 37,
+    "LOT_NUMBER": "LOT00000037",
+    "EXPIRY_DATE": "2022-12-31"
+  },
+  {
+    "LOT_ID": 38,
+    "LOT_NUMBER": "LOT00000038",
+    "EXPIRY_DATE": "2023-07-30"
+  },
+  {
+    "LOT_ID": 39,
+    "LOT_NUMBER": "LOT00000039",
+    "EXPIRY_DATE": "2025-03-25"
+  },
+  {
+    "LOT_ID": 40,
+    "LOT_NUMBER": "LOT00000040",
+    "EXPIRY_DATE": "2025-10-19"
+  },
+  {
+    "LOT_ID": 41,
+    "LOT_NUMBER": "LOT00000041",
+    "EXPIRY_DATE": "2026-05-22"
+  },
+  {
+    "LOT_ID": 42,
+    "LOT_NUMBER": "LOT00000042",
+    "EXPIRY_DATE": "2027-01-23"
+  },
+  {
+    "LOT_ID": 43,
+    "LOT_NUMBER": "LOT00000043",
+    "EXPIRY_DATE": "2025-11-30"
+  },
+  {
+    "LOT_ID": 44,
+    "LOT_NUMBER": "LOT00000044",
+    "EXPIRY_DATE": "2024-07-19"
+  },
+  {
+    "LOT_ID": 45,
+    "LOT_NUMBER": "LOT00000045",
+    "EXPIRY_DATE": "2022-10-15"
+  },
+  {
+    "LOT_ID": 46,
+    "LOT_NUMBER": "LOT00000046",
+    "EXPIRY_DATE": "2027-07-23"
+  },
+  {
+    "LOT_ID": 47,
+    "LOT_NUMBER": "LOT00000047",
+    "EXPIRY_DATE": "2022-12-08"
+  },
+  {
+    "LOT_ID": 48,
+    "LOT_NUMBER": "LOT00000048",
+    "EXPIRY_DATE": "2026-06-07"
+  },
+  {
+    "LOT_ID": 49,
+    "LOT_NUMBER": "LOT00000049",
+    "EXPIRY_DATE": "2023-04-16"
+  },
+  {
+    "LOT_ID": 50,
+    "LOT_NUMBER": "LOT00000050",
+    "EXPIRY_DATE": "2022-06-26"
+  },
+  {
+    "LOT_ID": 51,
+    "LOT_NUMBER": "LOT00000051",
+    "EXPIRY_DATE": "2023-08-28"
+  },
+  {
+    "LOT_ID": 52,
+    "LOT_NUMBER": "LOT00000052",
+    "EXPIRY_DATE": "2026-11-10"
+  },
+  {
+    "LOT_ID": 53,
+    "LOT_NUMBER": "LOT00000053",
+    "EXPIRY_DATE": "2025-10-04"
+  },
+  {
+    "LOT_ID": 54,
+    "LOT_NUMBER": "LOT00000054",
+    "EXPIRY_DATE": "2026-04-22"
+  },
+  {
+    "LOT_ID": 55,
+    "LOT_NUMBER": "LOT00000055",
+    "EXPIRY_DATE": "2024-12-09"
+  },
+  {
+    "LOT_ID": 56,
+    "LOT_NUMBER": "LOT00000056",
+    "EXPIRY_DATE": "2025-08-22"
+  },
+  {
+    "LOT_ID": 57,
+    "LOT_NUMBER": "LOT00000057",
+    "EXPIRY_DATE": "2025-08-07"
+  },
+  {
+    "LOT_ID": 58,
+    "LOT_NUMBER": "LOT00000058",
+    "EXPIRY_DATE": "2027-12-11"
+  },
+  {
+    "LOT_ID": 59,
+    "LOT_NUMBER": "LOT00000059",
+    "EXPIRY_DATE": "2023-03-22"
+  },
+  {
+    "LOT_ID": 60,
+    "LOT_NUMBER": "LOT00000060",
+    "EXPIRY_DATE": "2027-06-25"
+  },
+  {
+    "LOT_ID": 61,
+    "LOT_NUMBER": "LOT00000061",
+    "EXPIRY_DATE": "2024-04-23"
+  },
+  {
+    "LOT_ID": 62,
+    "LOT_NUMBER": "LOT00000062",
+    "EXPIRY_DATE": "2023-02-09"
+  },
+  {
+    "LOT_ID": 63,
+    "LOT_NUMBER": "LOT00000063",
+    "EXPIRY_DATE": "2027-09-09"
+  },
+  {
+    "LOT_ID": 64,
+    "LOT_NUMBER": "LOT00000064",
+    "EXPIRY_DATE": "2024-05-20"
+  },
+  {
+    "LOT_ID": 65,
+    "LOT_NUMBER": "LOT00000065",
+    "EXPIRY_DATE": "2023-12-27"
+  },
+  {
+    "LOT_ID": 66,
+    "LOT_NUMBER": "LOT00000066",
+    "EXPIRY_DATE": "2023-03-11"
+  },
+  {
+    "LOT_ID": 67,
+    "LOT_NUMBER": "LOT00000067",
+    "EXPIRY_DATE": "2022-04-26"
+  },
+  {
+    "LOT_ID": 68,
+    "LOT_NUMBER": "LOT00000068",
+    "EXPIRY_DATE": "2023-09-21"
+  },
+  {
+    "LOT_ID": 69,
+    "LOT_NUMBER": "LOT00000069",
+    "EXPIRY_DATE": "2026-12-12"
+  },
+  {
+    "LOT_ID": 70,
+    "LOT_NUMBER": "LOT00000070",
+    "EXPIRY_DATE": "2024-11-12"
+  },
+  {
+    "LOT_ID": 71,
+    "LOT_NUMBER": "LOT00000071",
+    "EXPIRY_DATE": "2023-05-02"
+  },
+  {
+    "LOT_ID": 72,
+    "LOT_NUMBER": "LOT00000072",
+    "EXPIRY_DATE": "2022-07-25"
+  },
+  {
+    "LOT_ID": 73,
+    "LOT_NUMBER": "LOT00000073",
+    "EXPIRY_DATE": "2023-02-27"
+  },
+  {
+    "LOT_ID": 74,
+    "LOT_NUMBER": "LOT00000074",
+    "EXPIRY_DATE": "2027-10-12"
+  },
+  {
+    "LOT_ID": 75,
+    "LOT_NUMBER": "LOT00000075",
+    "EXPIRY_DATE": "2026-03-27"
+  },
+  {
+    "LOT_ID": 76,
+    "LOT_NUMBER": "LOT00000076",
+    "EXPIRY_DATE": "2022-06-04"
+  },
+  {
+    "LOT_ID": 77,
+    "LOT_NUMBER": "LOT00000077",
+    "EXPIRY_DATE": "2026-07-02"
+  },
+  {
+    "LOT_ID": 78,
+    "LOT_NUMBER": "LOT00000078",
+    "EXPIRY_DATE": "2024-02-18"
+  },
+  {
+    "LOT_ID": 79,
+    "LOT_NUMBER": "LOT00000079",
+    "EXPIRY_DATE": "2025-10-25"
+  },
+  {
+    "LOT_ID": 80,
+    "LOT_NUMBER": "LOT00000080",
+    "EXPIRY_DATE": "2027-11-16"
+  },
+  {
+    "LOT_ID": 81,
+    "LOT_NUMBER": "LOT00000081",
+    "EXPIRY_DATE": "2022-07-19"
+  },
+  {
+    "LOT_ID": 82,
+    "LOT_NUMBER": "LOT00000082",
+    "EXPIRY_DATE": "2026-02-04"
+  },
+  {
+    "LOT_ID": 83,
+    "LOT_NUMBER": "LOT00000083",
+    "EXPIRY_DATE": "2022-11-28"
+  },
+  {
+    "LOT_ID": 84,
+    "LOT_NUMBER": "LOT00000084",
+    "EXPIRY_DATE": "2027-11-13"
+  },
+  {
+    "LOT_ID": 85,
+    "LOT_NUMBER": "LOT00000085",
+    "EXPIRY_DATE": "2022-02-08"
+  },
+  {
+    "LOT_ID": 86,
+    "LOT_NUMBER": "LOT00000086",
+    "EXPIRY_DATE": "2026-02-13"
+  },
+  {
+    "LOT_ID": 87,
+    "LOT_NUMBER": "LOT00000087",
+    "EXPIRY_DATE": "2024-05-06"
+  },
+  {
+    "LOT_ID": 88,
+    "LOT_NUMBER": "LOT00000088",
+    "EXPIRY_DATE": "2024-01-27"
+  },
+  {
+    "LOT_ID": 89,
+    "LOT_NUMBER": "LOT00000089",
+    "EXPIRY_DATE": "2026-11-18"
+  },
+  {
+    "LOT_ID": 90,
+    "LOT_NUMBER": "LOT00000090",
+    "EXPIRY_DATE": "2027-02-17"
+  },
+  {
+    "LOT_ID": 91,
+    "LOT_NUMBER": "LOT00000091",
+    "EXPIRY_DATE": "2022-01-30"
+  },
+  {
+    "LOT_ID": 92,
+    "LOT_NUMBER": "LOT00000092",
+    "EXPIRY_DATE": "2024-08-20"
+  },
+  {
+    "LOT_ID": 93,
+    "LOT_NUMBER": "LOT00000093",
+    "EXPIRY_DATE": "2025-02-26"
+  },
+  {
+    "LOT_ID": 94,
+    "LOT_NUMBER": "LOT00000094",
+    "EXPIRY_DATE": "2024-08-05"
+  },
+  {
+    "LOT_ID": 95,
+    "LOT_NUMBER": "LOT00000095",
+    "EXPIRY_DATE": "2025-04-14"
+  },
+  {
+    "LOT_ID": 96,
+    "LOT_NUMBER": "LOT00000096",
+    "EXPIRY_DATE": "2026-03-13"
+  },
+  {
+    "LOT_ID": 97,
+    "LOT_NUMBER": "LOT00000097",
+    "EXPIRY_DATE": "2023-06-27"
+  },
+  {
+    "LOT_ID": 98,
+    "LOT_NUMBER": "LOT00000098",
+    "EXPIRY_DATE": "2024-07-19"
+  },
+  {
+    "LOT_ID": 99,
+    "LOT_NUMBER": "LOT00000099",
+    "EXPIRY_DATE": "2027-08-25"
+  },
+  {
+    "LOT_ID": 100,
+    "LOT_NUMBER": "LOT00000100",
+    "EXPIRY_DATE": "2023-12-16"
+  },
+  {
+    "LOT_ID": 101,
+    "LOT_NUMBER": "LOT00000101",
+    "EXPIRY_DATE": "2024-02-03"
+  },
+  {
+    "LOT_ID": 102,
+    "LOT_NUMBER": "LOT00000102",
+    "EXPIRY_DATE": "2022-05-13"
+  },
+  {
+    "LOT_ID": 103,
+    "LOT_NUMBER": "LOT00000103",
+    "EXPIRY_DATE": "2023-08-01"
+  },
+  {
+    "LOT_ID": 104,
+    "LOT_NUMBER": "LOT00000104",
+    "EXPIRY_DATE": "2026-04-12"
+  },
+  {
+    "LOT_ID": 105,
+    "LOT_NUMBER": "LOT00000105",
+    "EXPIRY_DATE": "2023-11-10"
+  },
+  {
+    "LOT_ID": 106,
+    "LOT_NUMBER": "LOT00000106",
+    "EXPIRY_DATE": "2027-01-05"
+  },
+  {
+    "LOT_ID": 107,
+    "LOT_NUMBER": "LOT00000107",
+    "EXPIRY_DATE": "2025-01-29"
+  },
+  {
+    "LOT_ID": 108,
+    "LOT_NUMBER": "LOT00000108",
+    "EXPIRY_DATE": "2026-09-28"
+  },
+  {
+    "LOT_ID": 109,
+    "LOT_NUMBER": "LOT00000109",
+    "EXPIRY_DATE": "2023-11-03"
+  },
+  {
+    "LOT_ID": 110,
+    "LOT_NUMBER": "LOT00000110",
+    "EXPIRY_DATE": "2024-01-05"
+  },
+  {
+    "LOT_ID": 111,
+    "LOT_NUMBER": "LOT00000111",
+    "EXPIRY_DATE": "2027-06-02"
+  },
+  {
+    "LOT_ID": 112,
+    "LOT_NUMBER": "LOT00000112",
+    "EXPIRY_DATE": "2022-08-21"
+  },
+  {
+    "LOT_ID": 113,
+    "LOT_NUMBER": "LOT00000113",
+    "EXPIRY_DATE": "2026-06-14"
+  },
+  {
+    "LOT_ID": 114,
+    "LOT_NUMBER": "LOT00000114",
+    "EXPIRY_DATE": "2027-10-27"
+  },
+  {
+    "LOT_ID": 115,
+    "LOT_NUMBER": "LOT00000115",
+    "EXPIRY_DATE": "2026-09-15"
+  },
+  {
+    "LOT_ID": 116,
+    "LOT_NUMBER": "LOT00000116",
+    "EXPIRY_DATE": "2027-08-13"
+  },
+  {
+    "LOT_ID": 117,
+    "LOT_NUMBER": "LOT00000117",
+    "EXPIRY_DATE": "2022-03-13"
+  },
+  {
+    "LOT_ID": 118,
+    "LOT_NUMBER": "LOT00000118",
+    "EXPIRY_DATE": "2023-08-28"
+  },
+  {
+    "LOT_ID": 119,
+    "LOT_NUMBER": "LOT00000119",
+    "EXPIRY_DATE": "2025-12-12"
+  },
+  {
+    "LOT_ID": 120,
+    "LOT_NUMBER": "LOT00000120",
+    "EXPIRY_DATE": "2024-01-23"
+  },
+  {
+    "LOT_ID": 121,
+    "LOT_NUMBER": "LOT00000121",
+    "EXPIRY_DATE": "2027-08-18"
+  },
+  {
+    "LOT_ID": 122,
+    "LOT_NUMBER": "LOT00000122",
+    "EXPIRY_DATE": "2027-05-20"
+  },
+  {
+    "LOT_ID": 123,
+    "LOT_NUMBER": "LOT00000123",
+    "EXPIRY_DATE": "2022-12-10"
+  },
+  {
+    "LOT_ID": 124,
+    "LOT_NUMBER": "LOT00000124",
+    "EXPIRY_DATE": "2023-06-30"
+  },
+  {
+    "LOT_ID": 125,
+    "LOT_NUMBER": "LOT00000125",
+    "EXPIRY_DATE": "2027-04-27"
+  },
+  {
+    "LOT_ID": 126,
+    "LOT_NUMBER": "LOT00000126",
+    "EXPIRY_DATE": "2024-02-03"
+  },
+  {
+    "LOT_ID": 127,
+    "LOT_NUMBER": "LOT00000127",
+    "EXPIRY_DATE": "2027-07-10"
+  },
+  {
+    "LOT_ID": 128,
+    "LOT_NUMBER": "LOT00000128",
+    "EXPIRY_DATE": "2026-06-06"
+  },
+  {
+    "LOT_ID": 129,
+    "LOT_NUMBER": "LOT00000129",
+    "EXPIRY_DATE": "2027-06-09"
+  },
+  {
+    "LOT_ID": 130,
+    "LOT_NUMBER": "LOT00000130",
+    "EXPIRY_DATE": "2027-01-21"
+  },
+  {
+    "LOT_ID": 131,
+    "LOT_NUMBER": "LOT00000131",
+    "EXPIRY_DATE": "2022-12-23"
+  },
+  {
+    "LOT_ID": 132,
+    "LOT_NUMBER": "LOT00000132",
+    "EXPIRY_DATE": "2027-03-22"
+  },
+  {
+    "LOT_ID": 133,
+    "LOT_NUMBER": "LOT00000133",
+    "EXPIRY_DATE": "2024-09-23"
+  },
+  {
+    "LOT_ID": 134,
+    "LOT_NUMBER": "LOT00000134",
+    "EXPIRY_DATE": "2022-11-14"
+  },
+  {
+    "LOT_ID": 135,
+    "LOT_NUMBER": "LOT00000135",
+    "EXPIRY_DATE": "2022-03-07"
+  },
+  {
+    "LOT_ID": 136,
+    "LOT_NUMBER": "LOT00000136",
+    "EXPIRY_DATE": "2024-11-23"
+  },
+  {
+    "LOT_ID": 137,
+    "LOT_NUMBER": "LOT00000137",
+    "EXPIRY_DATE": "2027-04-04"
+  },
+  {
+    "LOT_ID": 138,
+    "LOT_NUMBER": "LOT00000138",
+    "EXPIRY_DATE": "2027-07-16"
+  },
+  {
+    "LOT_ID": 139,
+    "LOT_NUMBER": "LOT00000139",
+    "EXPIRY_DATE": "2023-02-01"
+  },
+  {
+    "LOT_ID": 140,
+    "LOT_NUMBER": "LOT00000140",
+    "EXPIRY_DATE": "2026-03-15"
+  },
+  {
+    "LOT_ID": 141,
+    "LOT_NUMBER": "LOT00000141",
+    "EXPIRY_DATE": "2023-04-23"
+  },
+  {
+    "LOT_ID": 142,
+    "LOT_NUMBER": "LOT00000142",
+    "EXPIRY_DATE": "2022-10-21"
+  },
+  {
+    "LOT_ID": 143,
+    "LOT_NUMBER": "LOT00000143",
+    "EXPIRY_DATE": "2023-04-30"
+  },
+  {
+    "LOT_ID": 144,
+    "LOT_NUMBER": "LOT00000144",
+    "EXPIRY_DATE": "2025-05-16"
+  },
+  {
+    "LOT_ID": 145,
+    "LOT_NUMBER": "LOT00000145",
+    "EXPIRY_DATE": "2026-04-17"
+  },
+  {
+    "LOT_ID": 146,
+    "LOT_NUMBER": "LOT00000146",
+    "EXPIRY_DATE": "2024-11-19"
+  },
+  {
+    "LOT_ID": 147,
+    "LOT_NUMBER": "LOT00000147",
+    "EXPIRY_DATE": "2026-10-04"
+  },
+  {
+    "LOT_ID": 148,
+    "LOT_NUMBER": "LOT00000148",
+    "EXPIRY_DATE": "2022-02-07"
+  },
+  {
+    "LOT_ID": 149,
+    "LOT_NUMBER": "LOT00000149",
+    "EXPIRY_DATE": "2023-04-15"
+  },
+  {
+    "LOT_ID": 150,
+    "LOT_NUMBER": "LOT00000150",
+    "EXPIRY_DATE": "2024-01-03"
+  },
+  {
+    "LOT_ID": 151,
+    "LOT_NUMBER": "LOT00000151",
+    "EXPIRY_DATE": "2027-05-29"
+  },
+  {
+    "LOT_ID": 152,
+    "LOT_NUMBER": "LOT00000152",
+    "EXPIRY_DATE": "2023-02-13"
+  },
+  {
+    "LOT_ID": 153,
+    "LOT_NUMBER": "LOT00000153",
+    "EXPIRY_DATE": "2027-06-25"
+  },
+  {
+    "LOT_ID": 154,
+    "LOT_NUMBER": "LOT00000154",
+    "EXPIRY_DATE": "2022-07-29"
+  },
+  {
+    "LOT_ID": 155,
+    "LOT_NUMBER": "LOT00000155",
+    "EXPIRY_DATE": "2026-10-25"
+  },
+  {
+    "LOT_ID": 156,
+    "LOT_NUMBER": "LOT00000156",
+    "EXPIRY_DATE": "2024-08-02"
+  },
+  {
+    "LOT_ID": 157,
+    "LOT_NUMBER": "LOT00000157",
+    "EXPIRY_DATE": "2025-09-25"
+  },
+  {
+    "LOT_ID": 158,
+    "LOT_NUMBER": "LOT00000158",
+    "EXPIRY_DATE": "2022-03-11"
+  },
+  {
+    "LOT_ID": 159,
+    "LOT_NUMBER": "LOT00000159",
+    "EXPIRY_DATE": "2023-12-03"
+  },
+  {
+    "LOT_ID": 160,
+    "LOT_NUMBER": "LOT00000160",
+    "EXPIRY_DATE": "2023-12-26"
+  },
+  {
+    "LOT_ID": 161,
+    "LOT_NUMBER": "LOT00000161",
+    "EXPIRY_DATE": "2022-07-11"
+  },
+  {
+    "LOT_ID": 162,
+    "LOT_NUMBER": "LOT00000162",
+    "EXPIRY_DATE": "2024-10-14"
+  },
+  {
+    "LOT_ID": 163,
+    "LOT_NUMBER": "LOT00000163",
+    "EXPIRY_DATE": "2023-06-24"
+  },
+  {
+    "LOT_ID": 164,
+    "LOT_NUMBER": "LOT00000164",
+    "EXPIRY_DATE": "2027-09-03"
+  },
+  {
+    "LOT_ID": 165,
+    "LOT_NUMBER": "LOT00000165",
+    "EXPIRY_DATE": "2023-06-03"
+  },
+  {
+    "LOT_ID": 166,
+    "LOT_NUMBER": "LOT00000166",
+    "EXPIRY_DATE": "2026-09-07"
+  },
+  {
+    "LOT_ID": 167,
+    "LOT_NUMBER": "LOT00000167",
+    "EXPIRY_DATE": "2027-12-29"
+  },
+  {
+    "LOT_ID": 168,
+    "LOT_NUMBER": "LOT00000168",
+    "EXPIRY_DATE": "2027-11-20"
+  },
+  {
+    "LOT_ID": 169,
+    "LOT_NUMBER": "LOT00000169",
+    "EXPIRY_DATE": "2023-01-23"
+  },
+  {
+    "LOT_ID": 170,
+    "LOT_NUMBER": "LOT00000170",
+    "EXPIRY_DATE": "2022-05-19"
+  },
+  {
+    "LOT_ID": 171,
+    "LOT_NUMBER": "LOT00000171",
+    "EXPIRY_DATE": "2024-08-03"
+  },
+  {
+    "LOT_ID": 172,
+    "LOT_NUMBER": "LOT00000172",
+    "EXPIRY_DATE": "2025-07-26"
+  },
+  {
+    "LOT_ID": 173,
+    "LOT_NUMBER": "LOT00000173",
+    "EXPIRY_DATE": "2027-12-13"
+  },
+  {
+    "LOT_ID": 174,
+    "LOT_NUMBER": "LOT00000174",
+    "EXPIRY_DATE": "2026-03-15"
+  },
+  {
+    "LOT_ID": 175,
+    "LOT_NUMBER": "LOT00000175",
+    "EXPIRY_DATE": "2024-05-19"
+  },
+  {
+    "LOT_ID": 176,
+    "LOT_NUMBER": "LOT00000176",
+    "EXPIRY_DATE": "2026-12-10"
+  },
+  {
+    "LOT_ID": 177,
+    "LOT_NUMBER": "LOT00000177",
+    "EXPIRY_DATE": "2022-02-09"
+  },
+  {
+    "LOT_ID": 178,
+    "LOT_NUMBER": "LOT00000178",
+    "EXPIRY_DATE": "2022-08-12"
+  },
+  {
+    "LOT_ID": 179,
+    "LOT_NUMBER": "LOT00000179",
+    "EXPIRY_DATE": "2022-05-25"
+  },
+  {
+    "LOT_ID": 180,
+    "LOT_NUMBER": "LOT00000180",
+    "EXPIRY_DATE": "2024-10-16"
+  },
+  {
+    "LOT_ID": 181,
+    "LOT_NUMBER": "LOT00000181",
+    "EXPIRY_DATE": "2022-08-28"
+  },
+  {
+    "LOT_ID": 182,
+    "LOT_NUMBER": "LOT00000182",
+    "EXPIRY_DATE": "2024-10-22"
+  },
+  {
+    "LOT_ID": 183,
+    "LOT_NUMBER": "LOT00000183",
+    "EXPIRY_DATE": "2023-11-27"
+  },
+  {
+    "LOT_ID": 184,
+    "LOT_NUMBER": "LOT00000184",
+    "EXPIRY_DATE": "2023-12-24"
+  },
+  {
+    "LOT_ID": 185,
+    "LOT_NUMBER": "LOT00000185",
+    "EXPIRY_DATE": "2026-06-11"
+  },
+  {
+    "LOT_ID": 186,
+    "LOT_NUMBER": "LOT00000186",
+    "EXPIRY_DATE": "2027-11-05"
+  },
+  {
+    "LOT_ID": 187,
+    "LOT_NUMBER": "LOT00000187",
+    "EXPIRY_DATE": "2024-01-31"
+  },
+  {
+    "LOT_ID": 188,
+    "LOT_NUMBER": "LOT00000188",
+    "EXPIRY_DATE": "2023-09-05"
+  },
+  {
+    "LOT_ID": 189,
+    "LOT_NUMBER": "LOT00000189",
+    "EXPIRY_DATE": "2022-03-06"
+  },
+  {
+    "LOT_ID": 190,
+    "LOT_NUMBER": "LOT00000190",
+    "EXPIRY_DATE": "2027-11-04"
+  },
+  {
+    "LOT_ID": 191,
+    "LOT_NUMBER": "LOT00000191",
+    "EXPIRY_DATE": "2027-08-16"
+  },
+  {
+    "LOT_ID": 192,
+    "LOT_NUMBER": "LOT00000192",
+    "EXPIRY_DATE": "2026-10-11"
+  },
+  {
+    "LOT_ID": 193,
+    "LOT_NUMBER": "LOT00000193",
+    "EXPIRY_DATE": "2026-10-24"
+  },
+  {
+    "LOT_ID": 194,
+    "LOT_NUMBER": "LOT00000194",
+    "EXPIRY_DATE": "2022-02-10"
+  },
+  {
+    "LOT_ID": 195,
+    "LOT_NUMBER": "LOT00000195",
+    "EXPIRY_DATE": "2022-05-13"
+  },
+  {
+    "LOT_ID": 196,
+    "LOT_NUMBER": "LOT00000196",
+    "EXPIRY_DATE": "2026-04-16"
+  },
+  {
+    "LOT_ID": 197,
+    "LOT_NUMBER": "LOT00000197",
+    "EXPIRY_DATE": "2024-06-20"
+  },
+  {
+    "LOT_ID": 198,
+    "LOT_NUMBER": "LOT00000198",
+    "EXPIRY_DATE": "2026-08-13"
+  },
+  {
+    "LOT_ID": 199,
+    "LOT_NUMBER": "LOT00000199",
+    "EXPIRY_DATE": "2027-04-10"
+  },
+  {
+    "LOT_ID": 200,
+    "LOT_NUMBER": "LOT00000200",
+    "EXPIRY_DATE": "2025-10-06"
+  },
+  {
+    "LOT_ID": 201,
+    "LOT_NUMBER": "LOT00000201",
+    "EXPIRY_DATE": "2024-07-07"
+  },
+  {
+    "LOT_ID": 202,
+    "LOT_NUMBER": "LOT00000202",
+    "EXPIRY_DATE": "2023-09-17"
+  },
+  {
+    "LOT_ID": 203,
+    "LOT_NUMBER": "LOT00000203",
+    "EXPIRY_DATE": "2023-02-17"
+  },
+  {
+    "LOT_ID": 204,
+    "LOT_NUMBER": "LOT00000204",
+    "EXPIRY_DATE": "2022-11-16"
+  },
+  {
+    "LOT_ID": 205,
+    "LOT_NUMBER": "LOT00000205",
+    "EXPIRY_DATE": "2025-07-13"
+  },
+  {
+    "LOT_ID": 206,
+    "LOT_NUMBER": "LOT00000206",
+    "EXPIRY_DATE": "2027-12-26"
+  },
+  {
+    "LOT_ID": 207,
+    "LOT_NUMBER": "LOT00000207",
+    "EXPIRY_DATE": "2022-01-02"
+  },
+  {
+    "LOT_ID": 208,
+    "LOT_NUMBER": "LOT00000208",
+    "EXPIRY_DATE": "2023-06-13"
+  },
+  {
+    "LOT_ID": 209,
+    "LOT_NUMBER": "LOT00000209",
+    "EXPIRY_DATE": "2025-03-07"
+  },
+  {
+    "LOT_ID": 210,
+    "LOT_NUMBER": "LOT00000210",
+    "EXPIRY_DATE": "2023-02-10"
+  },
+  {
+    "LOT_ID": 211,
+    "LOT_NUMBER": "LOT00000211",
+    "EXPIRY_DATE": "2026-03-30"
+  },
+  {
+    "LOT_ID": 212,
+    "LOT_NUMBER": "LOT00000212",
+    "EXPIRY_DATE": "2023-05-15"
+  },
+  {
+    "LOT_ID": 213,
+    "LOT_NUMBER": "LOT00000213",
+    "EXPIRY_DATE": "2025-07-12"
+  },
+  {
+    "LOT_ID": 214,
+    "LOT_NUMBER": "LOT00000214",
+    "EXPIRY_DATE": "2025-10-12"
+  },
+  {
+    "LOT_ID": 215,
+    "LOT_NUMBER": "LOT00000215",
+    "EXPIRY_DATE": "2026-01-08"
+  },
+  {
+    "LOT_ID": 216,
+    "LOT_NUMBER": "LOT00000216",
+    "EXPIRY_DATE": "2025-06-19"
+  },
+  {
+    "LOT_ID": 217,
+    "LOT_NUMBER": "LOT00000217",
+    "EXPIRY_DATE": "2024-12-15"
+  },
+  {
+    "LOT_ID": 218,
+    "LOT_NUMBER": "LOT00000218",
+    "EXPIRY_DATE": "2024-05-07"
+  },
+  {
+    "LOT_ID": 219,
+    "LOT_NUMBER": "LOT00000219",
+    "EXPIRY_DATE": "2027-11-04"
+  },
+  {
+    "LOT_ID": 220,
+    "LOT_NUMBER": "LOT00000220",
+    "EXPIRY_DATE": "2023-01-27"
+  },
+  {
+    "LOT_ID": 221,
+    "LOT_NUMBER": "LOT00000221",
+    "EXPIRY_DATE": "2022-05-11"
+  },
+  {
+    "LOT_ID": 222,
+    "LOT_NUMBER": "LOT00000222",
+    "EXPIRY_DATE": "2022-03-30"
+  },
+  {
+    "LOT_ID": 223,
+    "LOT_NUMBER": "LOT00000223",
+    "EXPIRY_DATE": "2026-01-15"
+  },
+  {
+    "LOT_ID": 224,
+    "LOT_NUMBER": "LOT00000224",
+    "EXPIRY_DATE": "2025-03-06"
+  },
+  {
+    "LOT_ID": 225,
+    "LOT_NUMBER": "LOT00000225",
+    "EXPIRY_DATE": "2026-04-29"
+  },
+  {
+    "LOT_ID": 226,
+    "LOT_NUMBER": "LOT00000226",
+    "EXPIRY_DATE": "2022-03-13"
+  },
+  {
+    "LOT_ID": 227,
+    "LOT_NUMBER": "LOT00000227",
+    "EXPIRY_DATE": "2024-12-24"
+  },
+  {
+    "LOT_ID": 228,
+    "LOT_NUMBER": "LOT00000228",
+    "EXPIRY_DATE": "2024-11-13"
+  },
+  {
+    "LOT_ID": 229,
+    "LOT_NUMBER": "LOT00000229",
+    "EXPIRY_DATE": "2026-03-13"
+  },
+  {
+    "LOT_ID": 230,
+    "LOT_NUMBER": "LOT00000230",
+    "EXPIRY_DATE": "2026-03-14"
+  },
+  {
+    "LOT_ID": 231,
+    "LOT_NUMBER": "LOT00000231",
+    "EXPIRY_DATE": "2025-10-31"
+  },
+  {
+    "LOT_ID": 232,
+    "LOT_NUMBER": "LOT00000232",
+    "EXPIRY_DATE": "2027-05-31"
+  },
+  {
+    "LOT_ID": 233,
+    "LOT_NUMBER": "LOT00000233",
+    "EXPIRY_DATE": "2024-09-14"
+  },
+  {
+    "LOT_ID": 234,
+    "LOT_NUMBER": "LOT00000234",
+    "EXPIRY_DATE": "2024-02-26"
+  },
+  {
+    "LOT_ID": 235,
+    "LOT_NUMBER": "LOT00000235",
+    "EXPIRY_DATE": "2022-03-16"
+  },
+  {
+    "LOT_ID": 236,
+    "LOT_NUMBER": "LOT00000236",
+    "EXPIRY_DATE": "2023-01-19"
+  },
+  {
+    "LOT_ID": 237,
+    "LOT_NUMBER": "LOT00000237",
+    "EXPIRY_DATE": "2025-08-15"
+  },
+  {
+    "LOT_ID": 238,
+    "LOT_NUMBER": "LOT00000238",
+    "EXPIRY_DATE": "2024-10-05"
+  },
+  {
+    "LOT_ID": 239,
+    "LOT_NUMBER": "LOT00000239",
+    "EXPIRY_DATE": "2024-09-20"
+  },
+  {
+    "LOT_ID": 240,
+    "LOT_NUMBER": "LOT00000240",
+    "EXPIRY_DATE": "2024-07-21"
+  },
+  {
+    "LOT_ID": 241,
+    "LOT_NUMBER": "LOT00000241",
+    "EXPIRY_DATE": "2024-08-19"
+  },
+  {
+    "LOT_ID": 242,
+    "LOT_NUMBER": "LOT00000242",
+    "EXPIRY_DATE": "2023-03-16"
+  },
+  {
+    "LOT_ID": 243,
+    "LOT_NUMBER": "LOT00000243",
+    "EXPIRY_DATE": "2025-07-28"
+  },
+  {
+    "LOT_ID": 244,
+    "LOT_NUMBER": "LOT00000244",
+    "EXPIRY_DATE": "2022-02-26"
+  },
+  {
+    "LOT_ID": 245,
+    "LOT_NUMBER": "LOT00000245",
+    "EXPIRY_DATE": "2027-08-16"
+  },
+  {
+    "LOT_ID": 246,
+    "LOT_NUMBER": "LOT00000246",
+    "EXPIRY_DATE": "2023-10-11"
+  },
+  {
+    "LOT_ID": 247,
+    "LOT_NUMBER": "LOT00000247",
+    "EXPIRY_DATE": "2027-01-14"
+  },
+  {
+    "LOT_ID": 248,
+    "LOT_NUMBER": "LOT00000248",
+    "EXPIRY_DATE": "2024-02-28"
+  },
+  {
+    "LOT_ID": 249,
+    "LOT_NUMBER": "LOT00000249",
+    "EXPIRY_DATE": "2025-01-22"
+  },
+  {
+    "LOT_ID": 250,
+    "LOT_NUMBER": "LOT00000250",
+    "EXPIRY_DATE": "2025-05-30"
+  },
+  {
+    "LOT_ID": 251,
+    "LOT_NUMBER": "LOT00000251",
+    "EXPIRY_DATE": "2024-08-03"
+  },
+  {
+    "LOT_ID": 252,
+    "LOT_NUMBER": "LOT00000252",
+    "EXPIRY_DATE": "2025-01-08"
+  },
+  {
+    "LOT_ID": 253,
+    "LOT_NUMBER": "LOT00000253",
+    "EXPIRY_DATE": "2025-09-12"
+  },
+  {
+    "LOT_ID": 254,
+    "LOT_NUMBER": "LOT00000254",
+    "EXPIRY_DATE": "2024-08-25"
+  },
+  {
+    "LOT_ID": 255,
+    "LOT_NUMBER": "LOT00000255",
+    "EXPIRY_DATE": "2024-12-10"
+  },
+  {
+    "LOT_ID": 256,
+    "LOT_NUMBER": "LOT00000256",
+    "EXPIRY_DATE": "2026-08-04"
+  },
+  {
+    "LOT_ID": 257,
+    "LOT_NUMBER": "LOT00000257",
+    "EXPIRY_DATE": "2023-05-27"
+  },
+  {
+    "LOT_ID": 258,
+    "LOT_NUMBER": "LOT00000258",
+    "EXPIRY_DATE": "2024-10-11"
+  },
+  {
+    "LOT_ID": 259,
+    "LOT_NUMBER": "LOT00000259",
+    "EXPIRY_DATE": "2024-02-12"
+  },
+  {
+    "LOT_ID": 260,
+    "LOT_NUMBER": "LOT00000260",
+    "EXPIRY_DATE": "2023-11-14"
+  },
+  {
+    "LOT_ID": 261,
+    "LOT_NUMBER": "LOT00000261",
+    "EXPIRY_DATE": "2026-01-12"
+  },
+  {
+    "LOT_ID": 262,
+    "LOT_NUMBER": "LOT00000262",
+    "EXPIRY_DATE": "2027-09-04"
+  },
+  {
+    "LOT_ID": 263,
+    "LOT_NUMBER": "LOT00000263",
+    "EXPIRY_DATE": "2023-05-11"
+  },
+  {
+    "LOT_ID": 264,
+    "LOT_NUMBER": "LOT00000264",
+    "EXPIRY_DATE": "2024-01-16"
+  },
+  {
+    "LOT_ID": 265,
+    "LOT_NUMBER": "LOT00000265",
+    "EXPIRY_DATE": "2024-10-28"
+  },
+  {
+    "LOT_ID": 266,
+    "LOT_NUMBER": "LOT00000266",
+    "EXPIRY_DATE": "2023-03-02"
+  },
+  {
+    "LOT_ID": 267,
+    "LOT_NUMBER": "LOT00000267",
+    "EXPIRY_DATE": "2023-02-09"
+  },
+  {
+    "LOT_ID": 268,
+    "LOT_NUMBER": "LOT00000268",
+    "EXPIRY_DATE": "2022-02-10"
+  },
+  {
+    "LOT_ID": 269,
+    "LOT_NUMBER": "LOT00000269",
+    "EXPIRY_DATE": "2025-03-20"
+  },
+  {
+    "LOT_ID": 270,
+    "LOT_NUMBER": "LOT00000270",
+    "EXPIRY_DATE": "2024-02-01"
+  },
+  {
+    "LOT_ID": 271,
+    "LOT_NUMBER": "LOT00000271",
+    "EXPIRY_DATE": "2022-06-03"
+  },
+  {
+    "LOT_ID": 272,
+    "LOT_NUMBER": "LOT00000272",
+    "EXPIRY_DATE": "2022-01-14"
+  },
+  {
+    "LOT_ID": 273,
+    "LOT_NUMBER": "LOT00000273",
+    "EXPIRY_DATE": "2024-08-08"
+  },
+  {
+    "LOT_ID": 274,
+    "LOT_NUMBER": "LOT00000274",
+    "EXPIRY_DATE": "2022-01-10"
+  },
+  {
+    "LOT_ID": 275,
+    "LOT_NUMBER": "LOT00000275",
+    "EXPIRY_DATE": "2025-03-06"
+  },
+  {
+    "LOT_ID": 276,
+    "LOT_NUMBER": "LOT00000276",
+    "EXPIRY_DATE": "2026-01-18"
+  },
+  {
+    "LOT_ID": 277,
+    "LOT_NUMBER": "LOT00000277",
+    "EXPIRY_DATE": "2024-09-30"
+  },
+  {
+    "LOT_ID": 278,
+    "LOT_NUMBER": "LOT00000278",
+    "EXPIRY_DATE": "2026-05-21"
+  },
+  {
+    "LOT_ID": 279,
+    "LOT_NUMBER": "LOT00000279",
+    "EXPIRY_DATE": "2027-04-24"
+  },
+  {
+    "LOT_ID": 280,
+    "LOT_NUMBER": "LOT00000280",
+    "EXPIRY_DATE": "2023-02-15"
+  },
+  {
+    "LOT_ID": 281,
+    "LOT_NUMBER": "LOT00000281",
+    "EXPIRY_DATE": "2026-02-16"
+  },
+  {
+    "LOT_ID": 282,
+    "LOT_NUMBER": "LOT00000282",
+    "EXPIRY_DATE": "2025-02-09"
+  },
+  {
+    "LOT_ID": 283,
+    "LOT_NUMBER": "LOT00000283",
+    "EXPIRY_DATE": "2027-10-05"
+  },
+  {
+    "LOT_ID": 284,
+    "LOT_NUMBER": "LOT00000284",
+    "EXPIRY_DATE": "2024-05-22"
+  },
+  {
+    "LOT_ID": 285,
+    "LOT_NUMBER": "LOT00000285",
+    "EXPIRY_DATE": "2024-12-02"
+  },
+  {
+    "LOT_ID": 286,
+    "LOT_NUMBER": "LOT00000286",
+    "EXPIRY_DATE": "2025-01-17"
+  },
+  {
+    "LOT_ID": 287,
+    "LOT_NUMBER": "LOT00000287",
+    "EXPIRY_DATE": "2027-10-06"
+  },
+  {
+    "LOT_ID": 288,
+    "LOT_NUMBER": "LOT00000288",
+    "EXPIRY_DATE": "2026-02-09"
+  },
+  {
+    "LOT_ID": 289,
+    "LOT_NUMBER": "LOT00000289",
+    "EXPIRY_DATE": "2024-06-14"
+  },
+  {
+    "LOT_ID": 290,
+    "LOT_NUMBER": "LOT00000290",
+    "EXPIRY_DATE": "2027-10-16"
+  },
+  {
+    "LOT_ID": 291,
+    "LOT_NUMBER": "LOT00000291",
+    "EXPIRY_DATE": "2023-01-06"
+  },
+  {
+    "LOT_ID": 292,
+    "LOT_NUMBER": "LOT00000292",
+    "EXPIRY_DATE": "2022-11-14"
+  },
+  {
+    "LOT_ID": 293,
+    "LOT_NUMBER": "LOT00000293",
+    "EXPIRY_DATE": "2027-10-21"
+  },
+  {
+    "LOT_ID": 294,
+    "LOT_NUMBER": "LOT00000294",
+    "EXPIRY_DATE": "2024-09-25"
+  },
+  {
+    "LOT_ID": 295,
+    "LOT_NUMBER": "LOT00000295",
+    "EXPIRY_DATE": "2027-07-01"
+  },
+  {
+    "LOT_ID": 296,
+    "LOT_NUMBER": "LOT00000296",
+    "EXPIRY_DATE": "2025-03-26"
+  },
+  {
+    "LOT_ID": 297,
+    "LOT_NUMBER": "LOT00000297",
+    "EXPIRY_DATE": "2023-07-20"
+  },
+  {
+    "LOT_ID": 298,
+    "LOT_NUMBER": "LOT00000298",
+    "EXPIRY_DATE": "2027-02-27"
+  },
+  {
+    "LOT_ID": 299,
+    "LOT_NUMBER": "LOT00000299",
+    "EXPIRY_DATE": "2022-06-01"
+  },
+  {
+    "LOT_ID": 300,
+    "LOT_NUMBER": "LOT00000300",
+    "EXPIRY_DATE": "2024-12-31"
+  },
+  {
+    "LOT_ID": 301,
+    "LOT_NUMBER": "LOT00000301",
+    "EXPIRY_DATE": "2022-11-04"
+  },
+  {
+    "LOT_ID": 302,
+    "LOT_NUMBER": "LOT00000302",
+    "EXPIRY_DATE": "2027-10-02"
+  },
+  {
+    "LOT_ID": 303,
+    "LOT_NUMBER": "LOT00000303",
+    "EXPIRY_DATE": "2027-10-25"
+  },
+  {
+    "LOT_ID": 304,
+    "LOT_NUMBER": "LOT00000304",
+    "EXPIRY_DATE": "2022-05-08"
+  },
+  {
+    "LOT_ID": 305,
+    "LOT_NUMBER": "LOT00000305",
+    "EXPIRY_DATE": "2022-02-22"
+  },
+  {
+    "LOT_ID": 306,
+    "LOT_NUMBER": "LOT00000306",
+    "EXPIRY_DATE": "2022-07-30"
+  },
+  {
+    "LOT_ID": 307,
+    "LOT_NUMBER": "LOT00000307",
+    "EXPIRY_DATE": "2022-09-10"
+  },
+  {
+    "LOT_ID": 308,
+    "LOT_NUMBER": "LOT00000308",
+    "EXPIRY_DATE": "2025-12-27"
+  },
+  {
+    "LOT_ID": 309,
+    "LOT_NUMBER": "LOT00000309",
+    "EXPIRY_DATE": "2024-06-25"
+  },
+  {
+    "LOT_ID": 310,
+    "LOT_NUMBER": "LOT00000310",
+    "EXPIRY_DATE": "2022-12-26"
+  },
+  {
+    "LOT_ID": 311,
+    "LOT_NUMBER": "LOT00000311",
+    "EXPIRY_DATE": "2022-01-16"
+  },
+  {
+    "LOT_ID": 312,
+    "LOT_NUMBER": "LOT00000312",
+    "EXPIRY_DATE": "2022-04-11"
+  },
+  {
+    "LOT_ID": 313,
+    "LOT_NUMBER": "LOT00000313",
+    "EXPIRY_DATE": "2026-06-12"
+  },
+  {
+    "LOT_ID": 314,
+    "LOT_NUMBER": "LOT00000314",
+    "EXPIRY_DATE": "2022-03-12"
+  },
+  {
+    "LOT_ID": 315,
+    "LOT_NUMBER": "LOT00000315",
+    "EXPIRY_DATE": "2022-09-21"
+  },
+  {
+    "LOT_ID": 316,
+    "LOT_NUMBER": "LOT00000316",
+    "EXPIRY_DATE": "2025-04-16"
+  },
+  {
+    "LOT_ID": 317,
+    "LOT_NUMBER": "LOT00000317",
+    "EXPIRY_DATE": "2026-01-25"
+  },
+  {
+    "LOT_ID": 318,
+    "LOT_NUMBER": "LOT00000318",
+    "EXPIRY_DATE": "2027-06-30"
+  },
+  {
+    "LOT_ID": 319,
+    "LOT_NUMBER": "LOT00000319",
+    "EXPIRY_DATE": "2026-03-11"
+  },
+  {
+    "LOT_ID": 320,
+    "LOT_NUMBER": "LOT00000320",
+    "EXPIRY_DATE": "2025-03-20"
+  },
+  {
+    "LOT_ID": 321,
+    "LOT_NUMBER": "LOT00000321",
+    "EXPIRY_DATE": "2022-10-07"
+  },
+  {
+    "LOT_ID": 322,
+    "LOT_NUMBER": "LOT00000322",
+    "EXPIRY_DATE": "2026-06-10"
+  },
+  {
+    "LOT_ID": 323,
+    "LOT_NUMBER": "LOT00000323",
+    "EXPIRY_DATE": "2027-07-29"
+  },
+  {
+    "LOT_ID": 324,
+    "LOT_NUMBER": "LOT00000324",
+    "EXPIRY_DATE": "2025-05-22"
+  },
+  {
+    "LOT_ID": 325,
+    "LOT_NUMBER": "LOT00000325",
+    "EXPIRY_DATE": "2025-07-02"
+  },
+  {
+    "LOT_ID": 326,
+    "LOT_NUMBER": "LOT00000326",
+    "EXPIRY_DATE": "2027-03-15"
+  },
+  {
+    "LOT_ID": 327,
+    "LOT_NUMBER": "LOT00000327",
+    "EXPIRY_DATE": "2026-04-10"
+  },
+  {
+    "LOT_ID": 328,
+    "LOT_NUMBER": "LOT00000328",
+    "EXPIRY_DATE": "2025-03-26"
+  },
+  {
+    "LOT_ID": 329,
+    "LOT_NUMBER": "LOT00000329",
+    "EXPIRY_DATE": "2022-05-07"
+  },
+  {
+    "LOT_ID": 330,
+    "LOT_NUMBER": "LOT00000330",
+    "EXPIRY_DATE": "2023-10-18"
+  },
+  {
+    "LOT_ID": 331,
+    "LOT_NUMBER": "LOT00000331",
+    "EXPIRY_DATE": "2025-05-25"
+  },
+  {
+    "LOT_ID": 332,
+    "LOT_NUMBER": "LOT00000332",
+    "EXPIRY_DATE": "2022-11-17"
+  },
+  {
+    "LOT_ID": 333,
+    "LOT_NUMBER": "LOT00000333",
+    "EXPIRY_DATE": "2027-04-06"
+  },
+  {
+    "LOT_ID": 334,
+    "LOT_NUMBER": "LOT00000334",
+    "EXPIRY_DATE": "2026-09-17"
+  },
+  {
+    "LOT_ID": 335,
+    "LOT_NUMBER": "LOT00000335",
+    "EXPIRY_DATE": "2022-05-03"
+  },
+  {
+    "LOT_ID": 336,
+    "LOT_NUMBER": "LOT00000336",
+    "EXPIRY_DATE": "2026-10-17"
+  },
+  {
+    "LOT_ID": 337,
+    "LOT_NUMBER": "LOT00000337",
+    "EXPIRY_DATE": "2026-12-18"
+  },
+  {
+    "LOT_ID": 338,
+    "LOT_NUMBER": "LOT00000338",
+    "EXPIRY_DATE": "2026-06-30"
+  },
+  {
+    "LOT_ID": 339,
+    "LOT_NUMBER": "LOT00000339",
+    "EXPIRY_DATE": "2024-10-08"
+  },
+  {
+    "LOT_ID": 340,
+    "LOT_NUMBER": "LOT00000340",
+    "EXPIRY_DATE": "2023-05-14"
+  },
+  {
+    "LOT_ID": 341,
+    "LOT_NUMBER": "LOT00000341",
+    "EXPIRY_DATE": "2027-11-27"
+  },
+  {
+    "LOT_ID": 342,
+    "LOT_NUMBER": "LOT00000342",
+    "EXPIRY_DATE": "2023-05-25"
+  },
+  {
+    "LOT_ID": 343,
+    "LOT_NUMBER": "LOT00000343",
+    "EXPIRY_DATE": "2024-02-07"
+  },
+  {
+    "LOT_ID": 344,
+    "LOT_NUMBER": "LOT00000344",
+    "EXPIRY_DATE": "2025-05-22"
+  },
+  {
+    "LOT_ID": 345,
+    "LOT_NUMBER": "LOT00000345",
+    "EXPIRY_DATE": "2025-09-14"
+  },
+  {
+    "LOT_ID": 346,
+    "LOT_NUMBER": "LOT00000346",
+    "EXPIRY_DATE": "2026-09-18"
+  },
+  {
+    "LOT_ID": 347,
+    "LOT_NUMBER": "LOT00000347",
+    "EXPIRY_DATE": "2027-07-30"
+  },
+  {
+    "LOT_ID": 348,
+    "LOT_NUMBER": "LOT00000348",
+    "EXPIRY_DATE": "2023-09-11"
+  },
+  {
+    "LOT_ID": 349,
+    "LOT_NUMBER": "LOT00000349",
+    "EXPIRY_DATE": "2027-01-10"
+  },
+  {
+    "LOT_ID": 350,
+    "LOT_NUMBER": "LOT00000350",
+    "EXPIRY_DATE": "2022-10-30"
+  },
+  {
+    "LOT_ID": 351,
+    "LOT_NUMBER": "LOT00000351",
+    "EXPIRY_DATE": "2027-05-03"
+  },
+  {
+    "LOT_ID": 352,
+    "LOT_NUMBER": "LOT00000352",
+    "EXPIRY_DATE": "2023-07-19"
+  },
+  {
+    "LOT_ID": 353,
+    "LOT_NUMBER": "LOT00000353",
+    "EXPIRY_DATE": "2022-01-01"
+  },
+  {
+    "LOT_ID": 354,
+    "LOT_NUMBER": "LOT00000354",
+    "EXPIRY_DATE": "2024-03-21"
+  },
+  {
+    "LOT_ID": 355,
+    "LOT_NUMBER": "LOT00000355",
+    "EXPIRY_DATE": "2023-10-02"
+  },
+  {
+    "LOT_ID": 356,
+    "LOT_NUMBER": "LOT00000356",
+    "EXPIRY_DATE": "2024-10-10"
+  },
+  {
+    "LOT_ID": 357,
+    "LOT_NUMBER": "LOT00000357",
+    "EXPIRY_DATE": "2026-05-15"
+  },
+  {
+    "LOT_ID": 358,
+    "LOT_NUMBER": "LOT00000358",
+    "EXPIRY_DATE": "2026-12-17"
+  },
+  {
+    "LOT_ID": 359,
+    "LOT_NUMBER": "LOT00000359",
+    "EXPIRY_DATE": "2022-10-13"
+  },
+  {
+    "LOT_ID": 360,
+    "LOT_NUMBER": "LOT00000360",
+    "EXPIRY_DATE": "2024-11-04"
+  },
+  {
+    "LOT_ID": 361,
+    "LOT_NUMBER": "LOT00000361",
+    "EXPIRY_DATE": "2026-11-19"
+  },
+  {
+    "LOT_ID": 362,
+    "LOT_NUMBER": "LOT00000362",
+    "EXPIRY_DATE": "2027-07-29"
+  },
+  {
+    "LOT_ID": 363,
+    "LOT_NUMBER": "LOT00000363",
+    "EXPIRY_DATE": "2024-07-30"
+  },
+  {
+    "LOT_ID": 364,
+    "LOT_NUMBER": "LOT00000364",
+    "EXPIRY_DATE": "2024-12-24"
+  },
+  {
+    "LOT_ID": 365,
+    "LOT_NUMBER": "LOT00000365",
+    "EXPIRY_DATE": "2024-03-24"
+  },
+  {
+    "LOT_ID": 366,
+    "LOT_NUMBER": "LOT00000366",
+    "EXPIRY_DATE": "2024-04-15"
+  },
+  {
+    "LOT_ID": 367,
+    "LOT_NUMBER": "LOT00000367",
+    "EXPIRY_DATE": "2026-03-31"
+  },
+  {
+    "LOT_ID": 368,
+    "LOT_NUMBER": "LOT00000368",
+    "EXPIRY_DATE": "2025-09-02"
+  },
+  {
+    "LOT_ID": 369,
+    "LOT_NUMBER": "LOT00000369",
+    "EXPIRY_DATE": "2023-10-07"
+  },
+  {
+    "LOT_ID": 370,
+    "LOT_NUMBER": "LOT00000370",
+    "EXPIRY_DATE": "2027-09-23"
+  },
+  {
+    "LOT_ID": 371,
+    "LOT_NUMBER": "LOT00000371",
+    "EXPIRY_DATE": "2026-02-04"
+  },
+  {
+    "LOT_ID": 372,
+    "LOT_NUMBER": "LOT00000372",
+    "EXPIRY_DATE": "2026-07-02"
+  },
+  {
+    "LOT_ID": 373,
+    "LOT_NUMBER": "LOT00000373",
+    "EXPIRY_DATE": "2023-10-27"
+  },
+  {
+    "LOT_ID": 374,
+    "LOT_NUMBER": "LOT00000374",
+    "EXPIRY_DATE": "2026-04-26"
+  },
+  {
+    "LOT_ID": 375,
+    "LOT_NUMBER": "LOT00000375",
+    "EXPIRY_DATE": "2026-04-19"
+  },
+  {
+    "LOT_ID": 376,
+    "LOT_NUMBER": "LOT00000376",
+    "EXPIRY_DATE": "2023-06-20"
+  },
+  {
+    "LOT_ID": 377,
+    "LOT_NUMBER": "LOT00000377",
+    "EXPIRY_DATE": "2024-02-04"
+  },
+  {
+    "LOT_ID": 378,
+    "LOT_NUMBER": "LOT00000378",
+    "EXPIRY_DATE": "2027-11-07"
+  },
+  {
+    "LOT_ID": 379,
+    "LOT_NUMBER": "LOT00000379",
+    "EXPIRY_DATE": "2027-11-14"
+  },
+  {
+    "LOT_ID": 380,
+    "LOT_NUMBER": "LOT00000380",
+    "EXPIRY_DATE": "2027-08-05"
+  },
+  {
+    "LOT_ID": 381,
+    "LOT_NUMBER": "LOT00000381",
+    "EXPIRY_DATE": "2027-05-20"
+  },
+  {
+    "LOT_ID": 382,
+    "LOT_NUMBER": "LOT00000382",
+    "EXPIRY_DATE": "2025-04-20"
+  },
+  {
+    "LOT_ID": 383,
+    "LOT_NUMBER": "LOT00000383",
+    "EXPIRY_DATE": "2024-11-06"
+  },
+  {
+    "LOT_ID": 384,
+    "LOT_NUMBER": "LOT00000384",
+    "EXPIRY_DATE": "2027-05-04"
+  },
+  {
+    "LOT_ID": 385,
+    "LOT_NUMBER": "LOT00000385",
+    "EXPIRY_DATE": "2024-09-15"
+  },
+  {
+    "LOT_ID": 386,
+    "LOT_NUMBER": "LOT00000386",
+    "EXPIRY_DATE": "2023-05-10"
+  },
+  {
+    "LOT_ID": 387,
+    "LOT_NUMBER": "LOT00000387",
+    "EXPIRY_DATE": "2027-02-21"
+  },
+  {
+    "LOT_ID": 388,
+    "LOT_NUMBER": "LOT00000388",
+    "EXPIRY_DATE": "2023-03-09"
+  },
+  {
+    "LOT_ID": 389,
+    "LOT_NUMBER": "LOT00000389",
+    "EXPIRY_DATE": "2024-08-03"
+  },
+  {
+    "LOT_ID": 390,
+    "LOT_NUMBER": "LOT00000390",
+    "EXPIRY_DATE": "2022-09-14"
+  },
+  {
+    "LOT_ID": 391,
+    "LOT_NUMBER": "LOT00000391",
+    "EXPIRY_DATE": "2022-03-09"
+  },
+  {
+    "LOT_ID": 392,
+    "LOT_NUMBER": "LOT00000392",
+    "EXPIRY_DATE": "2023-12-10"
+  },
+  {
+    "LOT_ID": 393,
+    "LOT_NUMBER": "LOT00000393",
+    "EXPIRY_DATE": "2023-05-27"
+  },
+  {
+    "LOT_ID": 394,
+    "LOT_NUMBER": "LOT00000394",
+    "EXPIRY_DATE": "2024-05-13"
+  },
+  {
+    "LOT_ID": 395,
+    "LOT_NUMBER": "LOT00000395",
+    "EXPIRY_DATE": "2023-08-29"
+  },
+  {
+    "LOT_ID": 396,
+    "LOT_NUMBER": "LOT00000396",
+    "EXPIRY_DATE": "2027-11-26"
+  },
+  {
+    "LOT_ID": 397,
+    "LOT_NUMBER": "LOT00000397",
+    "EXPIRY_DATE": "2023-03-29"
+  },
+  {
+    "LOT_ID": 398,
+    "LOT_NUMBER": "LOT00000398",
+    "EXPIRY_DATE": "2027-05-02"
+  },
+  {
+    "LOT_ID": 399,
+    "LOT_NUMBER": "LOT00000399",
+    "EXPIRY_DATE": "2025-08-29"
+  },
+  {
+    "LOT_ID": 400,
+    "LOT_NUMBER": "LOT00000400",
+    "EXPIRY_DATE": "2024-05-18"
+  },
+  {
+    "LOT_ID": 401,
+    "LOT_NUMBER": "LOT00000401",
+    "EXPIRY_DATE": "2024-04-18"
+  },
+  {
+    "LOT_ID": 402,
+    "LOT_NUMBER": "LOT00000402",
+    "EXPIRY_DATE": "2027-08-08"
+  },
+  {
+    "LOT_ID": 403,
+    "LOT_NUMBER": "LOT00000403",
+    "EXPIRY_DATE": "2025-11-20"
+  },
+  {
+    "LOT_ID": 404,
+    "LOT_NUMBER": "LOT00000404",
+    "EXPIRY_DATE": "2023-09-20"
+  },
+  {
+    "LOT_ID": 405,
+    "LOT_NUMBER": "LOT00000405",
+    "EXPIRY_DATE": "2026-02-08"
+  },
+  {
+    "LOT_ID": 406,
+    "LOT_NUMBER": "LOT00000406",
+    "EXPIRY_DATE": "2027-07-30"
+  },
+  {
+    "LOT_ID": 407,
+    "LOT_NUMBER": "LOT00000407",
+    "EXPIRY_DATE": "2024-01-16"
+  },
+  {
+    "LOT_ID": 408,
+    "LOT_NUMBER": "LOT00000408",
+    "EXPIRY_DATE": "2023-10-04"
+  },
+  {
+    "LOT_ID": 409,
+    "LOT_NUMBER": "LOT00000409",
+    "EXPIRY_DATE": "2025-08-09"
+  },
+  {
+    "LOT_ID": 410,
+    "LOT_NUMBER": "LOT00000410",
+    "EXPIRY_DATE": "2023-11-24"
+  },
+  {
+    "LOT_ID": 411,
+    "LOT_NUMBER": "LOT00000411",
+    "EXPIRY_DATE": "2022-05-23"
+  },
+  {
+    "LOT_ID": 412,
+    "LOT_NUMBER": "LOT00000412",
+    "EXPIRY_DATE": "2024-04-01"
+  },
+  {
+    "LOT_ID": 413,
+    "LOT_NUMBER": "LOT00000413",
+    "EXPIRY_DATE": "2027-03-03"
+  },
+  {
+    "LOT_ID": 414,
+    "LOT_NUMBER": "LOT00000414",
+    "EXPIRY_DATE": "2022-01-05"
+  },
+  {
+    "LOT_ID": 415,
+    "LOT_NUMBER": "LOT00000415",
+    "EXPIRY_DATE": "2023-04-02"
+  },
+  {
+    "LOT_ID": 416,
+    "LOT_NUMBER": "LOT00000416",
+    "EXPIRY_DATE": "2025-07-07"
+  },
+  {
+    "LOT_ID": 417,
+    "LOT_NUMBER": "LOT00000417",
+    "EXPIRY_DATE": "2026-06-10"
+  },
+  {
+    "LOT_ID": 418,
+    "LOT_NUMBER": "LOT00000418",
+    "EXPIRY_DATE": "2024-09-09"
+  },
+  {
+    "LOT_ID": 419,
+    "LOT_NUMBER": "LOT00000419",
+    "EXPIRY_DATE": "2027-03-23"
+  },
+  {
+    "LOT_ID": 420,
+    "LOT_NUMBER": "LOT00000420",
+    "EXPIRY_DATE": "2027-02-23"
+  },
+  {
+    "LOT_ID": 421,
+    "LOT_NUMBER": "LOT00000421",
+    "EXPIRY_DATE": "2026-07-06"
+  },
+  {
+    "LOT_ID": 422,
+    "LOT_NUMBER": "LOT00000422",
+    "EXPIRY_DATE": "2026-10-25"
+  },
+  {
+    "LOT_ID": 423,
+    "LOT_NUMBER": "LOT00000423",
+    "EXPIRY_DATE": "2025-01-14"
+  },
+  {
+    "LOT_ID": 424,
+    "LOT_NUMBER": "LOT00000424",
+    "EXPIRY_DATE": "2026-12-03"
+  },
+  {
+    "LOT_ID": 425,
+    "LOT_NUMBER": "LOT00000425",
+    "EXPIRY_DATE": "2024-08-01"
+  },
+  {
+    "LOT_ID": 426,
+    "LOT_NUMBER": "LOT00000426",
+    "EXPIRY_DATE": "2023-10-23"
+  },
+  {
+    "LOT_ID": 427,
+    "LOT_NUMBER": "LOT00000427",
+    "EXPIRY_DATE": "2023-10-11"
+  },
+  {
+    "LOT_ID": 428,
+    "LOT_NUMBER": "LOT00000428",
+    "EXPIRY_DATE": "2022-12-04"
+  },
+  {
+    "LOT_ID": 429,
+    "LOT_NUMBER": "LOT00000429",
+    "EXPIRY_DATE": "2022-07-02"
+  },
+  {
+    "LOT_ID": 430,
+    "LOT_NUMBER": "LOT00000430",
+    "EXPIRY_DATE": "2026-08-04"
+  },
+  {
+    "LOT_ID": 431,
+    "LOT_NUMBER": "LOT00000431",
+    "EXPIRY_DATE": "2025-09-15"
+  },
+  {
+    "LOT_ID": 432,
+    "LOT_NUMBER": "LOT00000432",
+    "EXPIRY_DATE": "2024-02-26"
+  },
+  {
+    "LOT_ID": 433,
+    "LOT_NUMBER": "LOT00000433",
+    "EXPIRY_DATE": "2023-10-23"
+  },
+  {
+    "LOT_ID": 434,
+    "LOT_NUMBER": "LOT00000434",
+    "EXPIRY_DATE": "2024-04-22"
+  },
+  {
+    "LOT_ID": 435,
+    "LOT_NUMBER": "LOT00000435",
+    "EXPIRY_DATE": "2025-05-17"
+  },
+  {
+    "LOT_ID": 436,
+    "LOT_NUMBER": "LOT00000436",
+    "EXPIRY_DATE": "2025-01-05"
+  },
+  {
+    "LOT_ID": 437,
+    "LOT_NUMBER": "LOT00000437",
+    "EXPIRY_DATE": "2026-09-30"
+  },
+  {
+    "LOT_ID": 438,
+    "LOT_NUMBER": "LOT00000438",
+    "EXPIRY_DATE": "2024-07-29"
+  },
+  {
+    "LOT_ID": 439,
+    "LOT_NUMBER": "LOT00000439",
+    "EXPIRY_DATE": "2026-08-24"
+  },
+  {
+    "LOT_ID": 440,
+    "LOT_NUMBER": "LOT00000440",
+    "EXPIRY_DATE": "2027-11-06"
+  },
+  {
+    "LOT_ID": 441,
+    "LOT_NUMBER": "LOT00000441",
+    "EXPIRY_DATE": "2025-06-05"
+  },
+  {
+    "LOT_ID": 442,
+    "LOT_NUMBER": "LOT00000442",
+    "EXPIRY_DATE": "2025-10-11"
+  },
+  {
+    "LOT_ID": 443,
+    "LOT_NUMBER": "LOT00000443",
+    "EXPIRY_DATE": "2025-01-02"
+  },
+  {
+    "LOT_ID": 444,
+    "LOT_NUMBER": "LOT00000444",
+    "EXPIRY_DATE": "2024-01-24"
+  },
+  {
+    "LOT_ID": 445,
+    "LOT_NUMBER": "LOT00000445",
+    "EXPIRY_DATE": "2025-11-01"
+  },
+  {
+    "LOT_ID": 446,
+    "LOT_NUMBER": "LOT00000446",
+    "EXPIRY_DATE": "2026-11-04"
+  },
+  {
+    "LOT_ID": 447,
+    "LOT_NUMBER": "LOT00000447",
+    "EXPIRY_DATE": "2027-08-23"
+  },
+  {
+    "LOT_ID": 448,
+    "LOT_NUMBER": "LOT00000448",
+    "EXPIRY_DATE": "2023-03-12"
+  },
+  {
+    "LOT_ID": 449,
+    "LOT_NUMBER": "LOT00000449",
+    "EXPIRY_DATE": "2023-04-13"
+  },
+  {
+    "LOT_ID": 450,
+    "LOT_NUMBER": "LOT00000450",
+    "EXPIRY_DATE": "2023-09-10"
+  },
+  {
+    "LOT_ID": 451,
+    "LOT_NUMBER": "LOT00000451",
+    "EXPIRY_DATE": "2023-11-20"
+  },
+  {
+    "LOT_ID": 452,
+    "LOT_NUMBER": "LOT00000452",
+    "EXPIRY_DATE": "2025-04-19"
+  },
+  {
+    "LOT_ID": 453,
+    "LOT_NUMBER": "LOT00000453",
+    "EXPIRY_DATE": "2022-06-07"
+  },
+  {
+    "LOT_ID": 454,
+    "LOT_NUMBER": "LOT00000454",
+    "EXPIRY_DATE": "2023-10-30"
+  },
+  {
+    "LOT_ID": 455,
+    "LOT_NUMBER": "LOT00000455",
+    "EXPIRY_DATE": "2024-12-29"
+  },
+  {
+    "LOT_ID": 456,
+    "LOT_NUMBER": "LOT00000456",
+    "EXPIRY_DATE": "2027-01-14"
+  },
+  {
+    "LOT_ID": 457,
+    "LOT_NUMBER": "LOT00000457",
+    "EXPIRY_DATE": "2024-10-05"
+  },
+  {
+    "LOT_ID": 458,
+    "LOT_NUMBER": "LOT00000458",
+    "EXPIRY_DATE": "2025-10-26"
+  },
+  {
+    "LOT_ID": 459,
+    "LOT_NUMBER": "LOT00000459",
+    "EXPIRY_DATE": "2027-05-04"
+  },
+  {
+    "LOT_ID": 460,
+    "LOT_NUMBER": "LOT00000460",
+    "EXPIRY_DATE": "2024-11-23"
+  },
+  {
+    "LOT_ID": 461,
+    "LOT_NUMBER": "LOT00000461",
+    "EXPIRY_DATE": "2024-01-05"
+  },
+  {
+    "LOT_ID": 462,
+    "LOT_NUMBER": "LOT00000462",
+    "EXPIRY_DATE": "2024-02-20"
+  },
+  {
+    "LOT_ID": 463,
+    "LOT_NUMBER": "LOT00000463",
+    "EXPIRY_DATE": "2022-02-20"
+  },
+  {
+    "LOT_ID": 464,
+    "LOT_NUMBER": "LOT00000464",
+    "EXPIRY_DATE": "2027-06-21"
+  },
+  {
+    "LOT_ID": 465,
+    "LOT_NUMBER": "LOT00000465",
+    "EXPIRY_DATE": "2023-01-27"
+  },
+  {
+    "LOT_ID": 466,
+    "LOT_NUMBER": "LOT00000466",
+    "EXPIRY_DATE": "2024-01-08"
+  },
+  {
+    "LOT_ID": 467,
+    "LOT_NUMBER": "LOT00000467",
+    "EXPIRY_DATE": "2027-06-17"
+  },
+  {
+    "LOT_ID": 468,
+    "LOT_NUMBER": "LOT00000468",
+    "EXPIRY_DATE": "2025-09-30"
+  },
+  {
+    "LOT_ID": 469,
+    "LOT_NUMBER": "LOT00000469",
+    "EXPIRY_DATE": "2025-04-06"
+  },
+  {
+    "LOT_ID": 470,
+    "LOT_NUMBER": "LOT00000470",
+    "EXPIRY_DATE": "2027-05-18"
+  },
+  {
+    "LOT_ID": 471,
+    "LOT_NUMBER": "LOT00000471",
+    "EXPIRY_DATE": "2026-03-18"
+  },
+  {
+    "LOT_ID": 472,
+    "LOT_NUMBER": "LOT00000472",
+    "EXPIRY_DATE": "2024-11-16"
+  },
+  {
+    "LOT_ID": 473,
+    "LOT_NUMBER": "LOT00000473",
+    "EXPIRY_DATE": "2026-06-14"
+  },
+  {
+    "LOT_ID": 474,
+    "LOT_NUMBER": "LOT00000474",
+    "EXPIRY_DATE": "2023-09-10"
+  },
+  {
+    "LOT_ID": 475,
+    "LOT_NUMBER": "LOT00000475",
+    "EXPIRY_DATE": "2025-12-01"
+  },
+  {
+    "LOT_ID": 476,
+    "LOT_NUMBER": "LOT00000476",
+    "EXPIRY_DATE": "2023-08-04"
+  },
+  {
+    "LOT_ID": 477,
+    "LOT_NUMBER": "LOT00000477",
+    "EXPIRY_DATE": "2027-01-23"
+  },
+  {
+    "LOT_ID": 478,
+    "LOT_NUMBER": "LOT00000478",
+    "EXPIRY_DATE": "2025-06-25"
+  },
+  {
+    "LOT_ID": 479,
+    "LOT_NUMBER": "LOT00000479",
+    "EXPIRY_DATE": "2026-08-22"
+  },
+  {
+    "LOT_ID": 480,
+    "LOT_NUMBER": "LOT00000480",
+    "EXPIRY_DATE": "2022-05-20"
+  },
+  {
+    "LOT_ID": 481,
+    "LOT_NUMBER": "LOT00000481",
+    "EXPIRY_DATE": "2023-04-17"
+  },
+  {
+    "LOT_ID": 482,
+    "LOT_NUMBER": "LOT00000482",
+    "EXPIRY_DATE": "2023-12-24"
+  },
+  {
+    "LOT_ID": 483,
+    "LOT_NUMBER": "LOT00000483",
+    "EXPIRY_DATE": "2026-03-28"
+  },
+  {
+    "LOT_ID": 484,
+    "LOT_NUMBER": "LOT00000484",
+    "EXPIRY_DATE": "2022-06-23"
+  },
+  {
+    "LOT_ID": 485,
+    "LOT_NUMBER": "LOT00000485",
+    "EXPIRY_DATE": "2023-11-09"
+  },
+  {
+    "LOT_ID": 486,
+    "LOT_NUMBER": "LOT00000486",
+    "EXPIRY_DATE": "2022-08-10"
+  },
+  {
+    "LOT_ID": 487,
+    "LOT_NUMBER": "LOT00000487",
+    "EXPIRY_DATE": "2024-12-31"
+  },
+  {
+    "LOT_ID": 488,
+    "LOT_NUMBER": "LOT00000488",
+    "EXPIRY_DATE": "2027-06-24"
+  },
+  {
+    "LOT_ID": 489,
+    "LOT_NUMBER": "LOT00000489",
+    "EXPIRY_DATE": "2024-09-21"
+  },
+  {
+    "LOT_ID": 490,
+    "LOT_NUMBER": "LOT00000490",
+    "EXPIRY_DATE": "2022-02-02"
+  },
+  {
+    "LOT_ID": 491,
+    "LOT_NUMBER": "LOT00000491",
+    "EXPIRY_DATE": "2022-02-22"
+  },
+  {
+    "LOT_ID": 492,
+    "LOT_NUMBER": "LOT00000492",
+    "EXPIRY_DATE": "2026-07-16"
+  },
+  {
+    "LOT_ID": 493,
+    "LOT_NUMBER": "LOT00000493",
+    "EXPIRY_DATE": "2025-10-14"
+  },
+  {
+    "LOT_ID": 494,
+    "LOT_NUMBER": "LOT00000494",
+    "EXPIRY_DATE": "2027-04-26"
+  },
+  {
+    "LOT_ID": 495,
+    "LOT_NUMBER": "LOT00000495",
+    "EXPIRY_DATE": "2022-10-23"
+  },
+  {
+    "LOT_ID": 496,
+    "LOT_NUMBER": "LOT00000496",
+    "EXPIRY_DATE": "2025-03-07"
+  },
+  {
+    "LOT_ID": 497,
+    "LOT_NUMBER": "LOT00000497",
+    "EXPIRY_DATE": "2022-11-21"
+  },
+  {
+    "LOT_ID": 498,
+    "LOT_NUMBER": "LOT00000498",
+    "EXPIRY_DATE": "2022-12-23"
+  },
+  {
+    "LOT_ID": 499,
+    "LOT_NUMBER": "LOT00000499",
+    "EXPIRY_DATE": "2027-04-18"
+  },
+  {
+    "LOT_ID": 500,
+    "LOT_NUMBER": "LOT00000500",
+    "EXPIRY_DATE": "2025-03-26"
+  },
+  {
+    "LOT_ID": 501,
+    "LOT_NUMBER": "LOT00000501",
+    "EXPIRY_DATE": "2025-06-11"
+  },
+  {
+    "LOT_ID": 502,
+    "LOT_NUMBER": "LOT00000502",
+    "EXPIRY_DATE": "2026-11-21"
+  },
+  {
+    "LOT_ID": 503,
+    "LOT_NUMBER": "LOT00000503",
+    "EXPIRY_DATE": "2022-01-29"
+  },
+  {
+    "LOT_ID": 504,
+    "LOT_NUMBER": "LOT00000504",
+    "EXPIRY_DATE": "2022-04-27"
+  },
+  {
+    "LOT_ID": 505,
+    "LOT_NUMBER": "LOT00000505",
+    "EXPIRY_DATE": "2023-01-24"
+  },
+  {
+    "LOT_ID": 506,
+    "LOT_NUMBER": "LOT00000506",
+    "EXPIRY_DATE": "2023-05-19"
+  },
+  {
+    "LOT_ID": 507,
+    "LOT_NUMBER": "LOT00000507",
+    "EXPIRY_DATE": "2022-05-30"
+  },
+  {
+    "LOT_ID": 508,
+    "LOT_NUMBER": "LOT00000508",
+    "EXPIRY_DATE": "2025-06-12"
+  },
+  {
+    "LOT_ID": 509,
+    "LOT_NUMBER": "LOT00000509",
+    "EXPIRY_DATE": "2026-11-25"
+  },
+  {
+    "LOT_ID": 510,
+    "LOT_NUMBER": "LOT00000510",
+    "EXPIRY_DATE": "2027-08-13"
+  },
+  {
+    "LOT_ID": 511,
+    "LOT_NUMBER": "LOT00000511",
+    "EXPIRY_DATE": "2027-12-11"
+  },
+  {
+    "LOT_ID": 512,
+    "LOT_NUMBER": "LOT00000512",
+    "EXPIRY_DATE": "2024-08-23"
+  },
+  {
+    "LOT_ID": 513,
+    "LOT_NUMBER": "LOT00000513",
+    "EXPIRY_DATE": "2025-11-21"
+  },
+  {
+    "LOT_ID": 514,
+    "LOT_NUMBER": "LOT00000514",
+    "EXPIRY_DATE": "2026-09-02"
+  },
+  {
+    "LOT_ID": 515,
+    "LOT_NUMBER": "LOT00000515",
+    "EXPIRY_DATE": "2027-08-22"
+  },
+  {
+    "LOT_ID": 516,
+    "LOT_NUMBER": "LOT00000516",
+    "EXPIRY_DATE": "2025-10-16"
+  },
+  {
+    "LOT_ID": 517,
+    "LOT_NUMBER": "LOT00000517",
+    "EXPIRY_DATE": "2026-02-14"
+  },
+  {
+    "LOT_ID": 518,
+    "LOT_NUMBER": "LOT00000518",
+    "EXPIRY_DATE": "2023-01-30"
+  },
+  {
+    "LOT_ID": 519,
+    "LOT_NUMBER": "LOT00000519",
+    "EXPIRY_DATE": "2024-11-07"
+  },
+  {
+    "LOT_ID": 520,
+    "LOT_NUMBER": "LOT00000520",
+    "EXPIRY_DATE": "2025-08-25"
+  },
+  {
+    "LOT_ID": 521,
+    "LOT_NUMBER": "LOT00000521",
+    "EXPIRY_DATE": "2025-10-21"
+  },
+  {
+    "LOT_ID": 522,
+    "LOT_NUMBER": "LOT00000522",
+    "EXPIRY_DATE": "2023-10-25"
+  },
+  {
+    "LOT_ID": 523,
+    "LOT_NUMBER": "LOT00000523",
+    "EXPIRY_DATE": "2025-06-05"
+  },
+  {
+    "LOT_ID": 524,
+    "LOT_NUMBER": "LOT00000524",
+    "EXPIRY_DATE": "2024-03-07"
+  },
+  {
+    "LOT_ID": 525,
+    "LOT_NUMBER": "LOT00000525",
+    "EXPIRY_DATE": "2024-09-26"
+  },
+  {
+    "LOT_ID": 526,
+    "LOT_NUMBER": "LOT00000526",
+    "EXPIRY_DATE": "2026-09-15"
+  },
+  {
+    "LOT_ID": 527,
+    "LOT_NUMBER": "LOT00000527",
+    "EXPIRY_DATE": "2025-05-06"
+  },
+  {
+    "LOT_ID": 528,
+    "LOT_NUMBER": "LOT00000528",
+    "EXPIRY_DATE": "2025-05-21"
+  },
+  {
+    "LOT_ID": 529,
+    "LOT_NUMBER": "LOT00000529",
+    "EXPIRY_DATE": "2022-02-25"
+  },
+  {
+    "LOT_ID": 530,
+    "LOT_NUMBER": "LOT00000530",
+    "EXPIRY_DATE": "2027-11-01"
+  },
+  {
+    "LOT_ID": 531,
+    "LOT_NUMBER": "LOT00000531",
+    "EXPIRY_DATE": "2026-04-24"
+  },
+  {
+    "LOT_ID": 532,
+    "LOT_NUMBER": "LOT00000532",
+    "EXPIRY_DATE": "2023-08-24"
+  },
+  {
+    "LOT_ID": 533,
+    "LOT_NUMBER": "LOT00000533",
+    "EXPIRY_DATE": "2025-10-11"
+  },
+  {
+    "LOT_ID": 534,
+    "LOT_NUMBER": "LOT00000534",
+    "EXPIRY_DATE": "2025-04-08"
+  },
+  {
+    "LOT_ID": 535,
+    "LOT_NUMBER": "LOT00000535",
+    "EXPIRY_DATE": "2027-11-30"
+  },
+  {
+    "LOT_ID": 536,
+    "LOT_NUMBER": "LOT00000536",
+    "EXPIRY_DATE": "2026-12-02"
+  },
+  {
+    "LOT_ID": 537,
+    "LOT_NUMBER": "LOT00000537",
+    "EXPIRY_DATE": "2027-03-22"
+  },
+  {
+    "LOT_ID": 538,
+    "LOT_NUMBER": "LOT00000538",
+    "EXPIRY_DATE": "2024-05-17"
+  },
+  {
+    "LOT_ID": 539,
+    "LOT_NUMBER": "LOT00000539",
+    "EXPIRY_DATE": "2026-05-31"
+  },
+  {
+    "LOT_ID": 540,
+    "LOT_NUMBER": "LOT00000540",
+    "EXPIRY_DATE": "2027-06-26"
+  },
+  {
+    "LOT_ID": 541,
+    "LOT_NUMBER": "LOT00000541",
+    "EXPIRY_DATE": "2026-05-04"
+  },
+  {
+    "LOT_ID": 542,
+    "LOT_NUMBER": "LOT00000542",
+    "EXPIRY_DATE": "2027-12-20"
+  },
+  {
+    "LOT_ID": 543,
+    "LOT_NUMBER": "LOT00000543",
+    "EXPIRY_DATE": "2025-12-04"
+  },
+  {
+    "LOT_ID": 544,
+    "LOT_NUMBER": "LOT00000544",
+    "EXPIRY_DATE": "2023-07-12"
+  },
+  {
+    "LOT_ID": 545,
+    "LOT_NUMBER": "LOT00000545",
+    "EXPIRY_DATE": "2026-04-16"
+  },
+  {
+    "LOT_ID": 546,
+    "LOT_NUMBER": "LOT00000546",
+    "EXPIRY_DATE": "2025-05-19"
+  },
+  {
+    "LOT_ID": 547,
+    "LOT_NUMBER": "LOT00000547",
+    "EXPIRY_DATE": "2027-07-29"
+  },
+  {
+    "LOT_ID": 548,
+    "LOT_NUMBER": "LOT00000548",
+    "EXPIRY_DATE": "2026-02-07"
+  },
+  {
+    "LOT_ID": 549,
+    "LOT_NUMBER": "LOT00000549",
+    "EXPIRY_DATE": "2026-03-27"
+  },
+  {
+    "LOT_ID": 550,
+    "LOT_NUMBER": "LOT00000550",
+    "EXPIRY_DATE": "2027-10-12"
+  },
+  {
+    "LOT_ID": 551,
+    "LOT_NUMBER": "LOT00000551",
+    "EXPIRY_DATE": "2025-08-24"
+  },
+  {
+    "LOT_ID": 552,
+    "LOT_NUMBER": "LOT00000552",
+    "EXPIRY_DATE": "2023-07-14"
+  },
+  {
+    "LOT_ID": 553,
+    "LOT_NUMBER": "LOT00000553",
+    "EXPIRY_DATE": "2026-12-12"
+  },
+  {
+    "LOT_ID": 554,
+    "LOT_NUMBER": "LOT00000554",
+    "EXPIRY_DATE": "2025-09-28"
+  },
+  {
+    "LOT_ID": 555,
+    "LOT_NUMBER": "LOT00000555",
+    "EXPIRY_DATE": "2024-02-01"
+  },
+  {
+    "LOT_ID": 556,
+    "LOT_NUMBER": "LOT00000556",
+    "EXPIRY_DATE": "2022-10-18"
+  },
+  {
+    "LOT_ID": 557,
+    "LOT_NUMBER": "LOT00000557",
+    "EXPIRY_DATE": "2024-05-19"
+  },
+  {
+    "LOT_ID": 558,
+    "LOT_NUMBER": "LOT00000558",
+    "EXPIRY_DATE": "2025-03-26"
+  },
+  {
+    "LOT_ID": 559,
+    "LOT_NUMBER": "LOT00000559",
+    "EXPIRY_DATE": "2024-01-05"
+  },
+  {
+    "LOT_ID": 560,
+    "LOT_NUMBER": "LOT00000560",
+    "EXPIRY_DATE": "2024-04-20"
+  },
+  {
+    "LOT_ID": 561,
+    "LOT_NUMBER": "LOT00000561",
+    "EXPIRY_DATE": "2027-05-05"
+  },
+  {
+    "LOT_ID": 562,
+    "LOT_NUMBER": "LOT00000562",
+    "EXPIRY_DATE": "2022-06-25"
+  },
+  {
+    "LOT_ID": 563,
+    "LOT_NUMBER": "LOT00000563",
+    "EXPIRY_DATE": "2026-09-21"
+  },
+  {
+    "LOT_ID": 564,
+    "LOT_NUMBER": "LOT00000564",
+    "EXPIRY_DATE": "2022-05-05"
+  },
+  {
+    "LOT_ID": 565,
+    "LOT_NUMBER": "LOT00000565",
+    "EXPIRY_DATE": "2023-05-05"
+  },
+  {
+    "LOT_ID": 566,
+    "LOT_NUMBER": "LOT00000566",
+    "EXPIRY_DATE": "2023-07-23"
+  },
+  {
+    "LOT_ID": 567,
+    "LOT_NUMBER": "LOT00000567",
+    "EXPIRY_DATE": "2023-09-27"
+  },
+  {
+    "LOT_ID": 568,
+    "LOT_NUMBER": "LOT00000568",
+    "EXPIRY_DATE": "2024-01-19"
+  },
+  {
+    "LOT_ID": 569,
+    "LOT_NUMBER": "LOT00000569",
+    "EXPIRY_DATE": "2024-03-04"
+  },
+  {
+    "LOT_ID": 570,
+    "LOT_NUMBER": "LOT00000570",
+    "EXPIRY_DATE": "2025-06-30"
+  },
+  {
+    "LOT_ID": 571,
+    "LOT_NUMBER": "LOT00000571",
+    "EXPIRY_DATE": "2022-02-23"
+  },
+  {
+    "LOT_ID": 572,
+    "LOT_NUMBER": "LOT00000572",
+    "EXPIRY_DATE": "2026-01-25"
+  },
+  {
+    "LOT_ID": 573,
+    "LOT_NUMBER": "LOT00000573",
+    "EXPIRY_DATE": "2023-08-12"
+  },
+  {
+    "LOT_ID": 574,
+    "LOT_NUMBER": "LOT00000574",
+    "EXPIRY_DATE": "2025-03-14"
+  },
+  {
+    "LOT_ID": 575,
+    "LOT_NUMBER": "LOT00000575",
+    "EXPIRY_DATE": "2025-08-04"
+  },
+  {
+    "LOT_ID": 576,
+    "LOT_NUMBER": "LOT00000576",
+    "EXPIRY_DATE": "2027-10-01"
+  },
+  {
+    "LOT_ID": 577,
+    "LOT_NUMBER": "LOT00000577",
+    "EXPIRY_DATE": "2022-04-12"
+  },
+  {
+    "LOT_ID": 578,
+    "LOT_NUMBER": "LOT00000578",
+    "EXPIRY_DATE": "2024-02-23"
+  },
+  {
+    "LOT_ID": 579,
+    "LOT_NUMBER": "LOT00000579",
+    "EXPIRY_DATE": "2023-01-28"
+  },
+  {
+    "LOT_ID": 580,
+    "LOT_NUMBER": "LOT00000580",
+    "EXPIRY_DATE": "2027-08-03"
+  },
+  {
+    "LOT_ID": 581,
+    "LOT_NUMBER": "LOT00000581",
+    "EXPIRY_DATE": "2024-05-20"
+  },
+  {
+    "LOT_ID": 582,
+    "LOT_NUMBER": "LOT00000582",
+    "EXPIRY_DATE": "2023-02-08"
+  },
+  {
+    "LOT_ID": 583,
+    "LOT_NUMBER": "LOT00000583",
+    "EXPIRY_DATE": "2023-05-28"
+  },
+  {
+    "LOT_ID": 584,
+    "LOT_NUMBER": "LOT00000584",
+    "EXPIRY_DATE": "2026-05-01"
+  },
+  {
+    "LOT_ID": 585,
+    "LOT_NUMBER": "LOT00000585",
+    "EXPIRY_DATE": "2022-07-22"
+  },
+  {
+    "LOT_ID": 586,
+    "LOT_NUMBER": "LOT00000586",
+    "EXPIRY_DATE": "2023-07-03"
+  },
+  {
+    "LOT_ID": 587,
+    "LOT_NUMBER": "LOT00000587",
+    "EXPIRY_DATE": "2025-09-17"
+  },
+  {
+    "LOT_ID": 588,
+    "LOT_NUMBER": "LOT00000588",
+    "EXPIRY_DATE": "2027-05-19"
+  },
+  {
+    "LOT_ID": 589,
+    "LOT_NUMBER": "LOT00000589",
+    "EXPIRY_DATE": "2027-02-18"
+  },
+  {
+    "LOT_ID": 590,
+    "LOT_NUMBER": "LOT00000590",
+    "EXPIRY_DATE": "2022-09-13"
+  },
+  {
+    "LOT_ID": 591,
+    "LOT_NUMBER": "LOT00000591",
+    "EXPIRY_DATE": "2024-05-19"
+  },
+  {
+    "LOT_ID": 592,
+    "LOT_NUMBER": "LOT00000592",
+    "EXPIRY_DATE": "2025-09-09"
+  },
+  {
+    "LOT_ID": 593,
+    "LOT_NUMBER": "LOT00000593",
+    "EXPIRY_DATE": "2027-06-18"
+  },
+  {
+    "LOT_ID": 594,
+    "LOT_NUMBER": "LOT00000594",
+    "EXPIRY_DATE": "2023-07-28"
+  },
+  {
+    "LOT_ID": 595,
+    "LOT_NUMBER": "LOT00000595",
+    "EXPIRY_DATE": "2022-03-29"
+  },
+  {
+    "LOT_ID": 596,
+    "LOT_NUMBER": "LOT00000596",
+    "EXPIRY_DATE": "2025-03-20"
+  },
+  {
+    "LOT_ID": 597,
+    "LOT_NUMBER": "LOT00000597",
+    "EXPIRY_DATE": "2025-04-02"
+  },
+  {
+    "LOT_ID": 598,
+    "LOT_NUMBER": "LOT00000598",
+    "EXPIRY_DATE": "2025-11-12"
+  },
+  {
+    "LOT_ID": 599,
+    "LOT_NUMBER": "LOT00000599",
+    "EXPIRY_DATE": "2024-06-14"
+  },
+  {
+    "LOT_ID": 600,
+    "LOT_NUMBER": "LOT00000600",
+    "EXPIRY_DATE": "2027-07-15"
+  },
+  {
+    "LOT_ID": 601,
+    "LOT_NUMBER": "LOT00000601",
+    "EXPIRY_DATE": "2022-08-26"
+  },
+  {
+    "LOT_ID": 602,
+    "LOT_NUMBER": "LOT00000602",
+    "EXPIRY_DATE": "2023-02-17"
+  },
+  {
+    "LOT_ID": 603,
+    "LOT_NUMBER": "LOT00000603",
+    "EXPIRY_DATE": "2025-07-15"
+  },
+  {
+    "LOT_ID": 604,
+    "LOT_NUMBER": "LOT00000604",
+    "EXPIRY_DATE": "2026-05-10"
+  },
+  {
+    "LOT_ID": 605,
+    "LOT_NUMBER": "LOT00000605",
+    "EXPIRY_DATE": "2023-03-12"
+  },
+  {
+    "LOT_ID": 606,
+    "LOT_NUMBER": "LOT00000606",
+    "EXPIRY_DATE": "2026-11-24"
+  },
+  {
+    "LOT_ID": 607,
+    "LOT_NUMBER": "LOT00000607",
+    "EXPIRY_DATE": "2022-08-03"
+  },
+  {
+    "LOT_ID": 608,
+    "LOT_NUMBER": "LOT00000608",
+    "EXPIRY_DATE": "2024-07-28"
+  },
+  {
+    "LOT_ID": 609,
+    "LOT_NUMBER": "LOT00000609",
+    "EXPIRY_DATE": "2025-03-11"
+  },
+  {
+    "LOT_ID": 610,
+    "LOT_NUMBER": "LOT00000610",
+    "EXPIRY_DATE": "2022-12-16"
+  },
+  {
+    "LOT_ID": 611,
+    "LOT_NUMBER": "LOT00000611",
+    "EXPIRY_DATE": "2023-12-02"
+  },
+  {
+    "LOT_ID": 612,
+    "LOT_NUMBER": "LOT00000612",
+    "EXPIRY_DATE": "2022-01-18"
+  },
+  {
+    "LOT_ID": 613,
+    "LOT_NUMBER": "LOT00000613",
+    "EXPIRY_DATE": "2025-06-01"
+  },
+  {
+    "LOT_ID": 614,
+    "LOT_NUMBER": "LOT00000614",
+    "EXPIRY_DATE": "2022-10-30"
+  },
+  {
+    "LOT_ID": 615,
+    "LOT_NUMBER": "LOT00000615",
+    "EXPIRY_DATE": "2026-10-27"
+  },
+  {
+    "LOT_ID": 616,
+    "LOT_NUMBER": "LOT00000616",
+    "EXPIRY_DATE": "2024-03-02"
+  },
+  {
+    "LOT_ID": 617,
+    "LOT_NUMBER": "LOT00000617",
+    "EXPIRY_DATE": "2024-11-14"
+  },
+  {
+    "LOT_ID": 618,
+    "LOT_NUMBER": "LOT00000618",
+    "EXPIRY_DATE": "2022-11-07"
+  },
+  {
+    "LOT_ID": 619,
+    "LOT_NUMBER": "LOT00000619",
+    "EXPIRY_DATE": "2023-08-18"
+  },
+  {
+    "LOT_ID": 620,
+    "LOT_NUMBER": "LOT00000620",
+    "EXPIRY_DATE": "2025-02-10"
+  },
+  {
+    "LOT_ID": 621,
+    "LOT_NUMBER": "LOT00000621",
+    "EXPIRY_DATE": "2024-07-20"
+  },
+  {
+    "LOT_ID": 622,
+    "LOT_NUMBER": "LOT00000622",
+    "EXPIRY_DATE": "2025-05-15"
+  },
+  {
+    "LOT_ID": 623,
+    "LOT_NUMBER": "LOT00000623",
+    "EXPIRY_DATE": "2022-09-24"
+  },
+  {
+    "LOT_ID": 624,
+    "LOT_NUMBER": "LOT00000624",
+    "EXPIRY_DATE": "2026-03-15"
+  },
+  {
+    "LOT_ID": 625,
+    "LOT_NUMBER": "LOT00000625",
+    "EXPIRY_DATE": "2025-08-03"
+  },
+  {
+    "LOT_ID": 626,
+    "LOT_NUMBER": "LOT00000626",
+    "EXPIRY_DATE": "2027-01-25"
+  },
+  {
+    "LOT_ID": 627,
+    "LOT_NUMBER": "LOT00000627",
+    "EXPIRY_DATE": "2027-01-09"
+  },
+  {
+    "LOT_ID": 628,
+    "LOT_NUMBER": "LOT00000628",
+    "EXPIRY_DATE": "2027-02-20"
+  },
+  {
+    "LOT_ID": 629,
+    "LOT_NUMBER": "LOT00000629",
+    "EXPIRY_DATE": "2022-01-23"
+  },
+  {
+    "LOT_ID": 630,
+    "LOT_NUMBER": "LOT00000630",
+    "EXPIRY_DATE": "2025-06-29"
+  },
+  {
+    "LOT_ID": 631,
+    "LOT_NUMBER": "LOT00000631",
+    "EXPIRY_DATE": "2024-01-13"
+  },
+  {
+    "LOT_ID": 632,
+    "LOT_NUMBER": "LOT00000632",
+    "EXPIRY_DATE": "2024-09-01"
+  },
+  {
+    "LOT_ID": 633,
+    "LOT_NUMBER": "LOT00000633",
+    "EXPIRY_DATE": "2025-08-18"
+  },
+  {
+    "LOT_ID": 634,
+    "LOT_NUMBER": "LOT00000634",
+    "EXPIRY_DATE": "2022-02-09"
+  },
+  {
+    "LOT_ID": 635,
+    "LOT_NUMBER": "LOT00000635",
+    "EXPIRY_DATE": "2023-01-06"
+  },
+  {
+    "LOT_ID": 636,
+    "LOT_NUMBER": "LOT00000636",
+    "EXPIRY_DATE": "2026-01-19"
+  },
+  {
+    "LOT_ID": 637,
+    "LOT_NUMBER": "LOT00000637",
+    "EXPIRY_DATE": "2023-04-07"
+  },
+  {
+    "LOT_ID": 638,
+    "LOT_NUMBER": "LOT00000638",
+    "EXPIRY_DATE": "2027-05-30"
+  },
+  {
+    "LOT_ID": 639,
+    "LOT_NUMBER": "LOT00000639",
+    "EXPIRY_DATE": "2027-07-14"
+  },
+  {
+    "LOT_ID": 640,
+    "LOT_NUMBER": "LOT00000640",
+    "EXPIRY_DATE": "2026-02-23"
+  },
+  {
+    "LOT_ID": 641,
+    "LOT_NUMBER": "LOT00000641",
+    "EXPIRY_DATE": "2022-11-02"
+  },
+  {
+    "LOT_ID": 642,
+    "LOT_NUMBER": "LOT00000642",
+    "EXPIRY_DATE": "2025-03-16"
+  },
+  {
+    "LOT_ID": 643,
+    "LOT_NUMBER": "LOT00000643",
+    "EXPIRY_DATE": "2025-01-06"
+  },
+  {
+    "LOT_ID": 644,
+    "LOT_NUMBER": "LOT00000644",
+    "EXPIRY_DATE": "2024-03-27"
+  },
+  {
+    "LOT_ID": 645,
+    "LOT_NUMBER": "LOT00000645",
+    "EXPIRY_DATE": "2026-10-25"
+  },
+  {
+    "LOT_ID": 646,
+    "LOT_NUMBER": "LOT00000646",
+    "EXPIRY_DATE": "2026-04-21"
+  },
+  {
+    "LOT_ID": 647,
+    "LOT_NUMBER": "LOT00000647",
+    "EXPIRY_DATE": "2025-09-22"
+  },
+  {
+    "LOT_ID": 648,
+    "LOT_NUMBER": "LOT00000648",
+    "EXPIRY_DATE": "2024-12-31"
+  },
+  {
+    "LOT_ID": 649,
+    "LOT_NUMBER": "LOT00000649",
+    "EXPIRY_DATE": "2024-05-22"
+  },
+  {
+    "LOT_ID": 650,
+    "LOT_NUMBER": "LOT00000650",
+    "EXPIRY_DATE": "2027-07-02"
+  },
+  {
+    "LOT_ID": 651,
+    "LOT_NUMBER": "LOT00000651",
+    "EXPIRY_DATE": "2027-06-19"
+  },
+  {
+    "LOT_ID": 652,
+    "LOT_NUMBER": "LOT00000652",
+    "EXPIRY_DATE": "2023-03-15"
+  },
+  {
+    "LOT_ID": 653,
+    "LOT_NUMBER": "LOT00000653",
+    "EXPIRY_DATE": "2023-08-13"
+  },
+  {
+    "LOT_ID": 654,
+    "LOT_NUMBER": "LOT00000654",
+    "EXPIRY_DATE": "2026-02-20"
+  },
+  {
+    "LOT_ID": 655,
+    "LOT_NUMBER": "LOT00000655",
+    "EXPIRY_DATE": "2027-04-12"
+  },
+  {
+    "LOT_ID": 656,
+    "LOT_NUMBER": "LOT00000656",
+    "EXPIRY_DATE": "2027-10-09"
+  },
+  {
+    "LOT_ID": 657,
+    "LOT_NUMBER": "LOT00000657",
+    "EXPIRY_DATE": "2026-03-14"
+  },
+  {
+    "LOT_ID": 658,
+    "LOT_NUMBER": "LOT00000658",
+    "EXPIRY_DATE": "2023-06-19"
+  },
+  {
+    "LOT_ID": 659,
+    "LOT_NUMBER": "LOT00000659",
+    "EXPIRY_DATE": "2027-06-07"
+  },
+  {
+    "LOT_ID": 660,
+    "LOT_NUMBER": "LOT00000660",
+    "EXPIRY_DATE": "2023-04-08"
+  },
+  {
+    "LOT_ID": 661,
+    "LOT_NUMBER": "LOT00000661",
+    "EXPIRY_DATE": "2025-05-20"
+  },
+  {
+    "LOT_ID": 662,
+    "LOT_NUMBER": "LOT00000662",
+    "EXPIRY_DATE": "2026-09-18"
+  },
+  {
+    "LOT_ID": 663,
+    "LOT_NUMBER": "LOT00000663",
+    "EXPIRY_DATE": "2026-09-07"
+  },
+  {
+    "LOT_ID": 664,
+    "LOT_NUMBER": "LOT00000664",
+    "EXPIRY_DATE": "2026-07-05"
+  },
+  {
+    "LOT_ID": 665,
+    "LOT_NUMBER": "LOT00000665",
+    "EXPIRY_DATE": "2024-12-26"
+  },
+  {
+    "LOT_ID": 666,
+    "LOT_NUMBER": "LOT00000666",
+    "EXPIRY_DATE": "2027-07-10"
+  },
+  {
+    "LOT_ID": 667,
+    "LOT_NUMBER": "LOT00000667",
+    "EXPIRY_DATE": "2023-02-28"
+  },
+  {
+    "LOT_ID": 668,
+    "LOT_NUMBER": "LOT00000668",
+    "EXPIRY_DATE": "2024-12-16"
+  },
+  {
+    "LOT_ID": 669,
+    "LOT_NUMBER": "LOT00000669",
+    "EXPIRY_DATE": "2025-02-06"
+  },
+  {
+    "LOT_ID": 670,
+    "LOT_NUMBER": "LOT00000670",
+    "EXPIRY_DATE": "2022-12-04"
+  },
+  {
+    "LOT_ID": 671,
+    "LOT_NUMBER": "LOT00000671",
+    "EXPIRY_DATE": "2027-04-25"
+  },
+  {
+    "LOT_ID": 672,
+    "LOT_NUMBER": "LOT00000672",
+    "EXPIRY_DATE": "2027-07-05"
+  },
+  {
+    "LOT_ID": 673,
+    "LOT_NUMBER": "LOT00000673",
+    "EXPIRY_DATE": "2022-07-17"
+  },
+  {
+    "LOT_ID": 674,
+    "LOT_NUMBER": "LOT00000674",
+    "EXPIRY_DATE": "2025-07-05"
+  },
+  {
+    "LOT_ID": 675,
+    "LOT_NUMBER": "LOT00000675",
+    "EXPIRY_DATE": "2026-08-02"
+  },
+  {
+    "LOT_ID": 676,
+    "LOT_NUMBER": "LOT00000676",
+    "EXPIRY_DATE": "2023-11-30"
+  },
+  {
+    "LOT_ID": 677,
+    "LOT_NUMBER": "LOT00000677",
+    "EXPIRY_DATE": "2023-12-23"
+  },
+  {
+    "LOT_ID": 678,
+    "LOT_NUMBER": "LOT00000678",
+    "EXPIRY_DATE": "2022-12-17"
+  },
+  {
+    "LOT_ID": 679,
+    "LOT_NUMBER": "LOT00000679",
+    "EXPIRY_DATE": "2023-07-06"
+  },
+  {
+    "LOT_ID": 680,
+    "LOT_NUMBER": "LOT00000680",
+    "EXPIRY_DATE": "2023-12-08"
+  },
+  {
+    "LOT_ID": 681,
+    "LOT_NUMBER": "LOT00000681",
+    "EXPIRY_DATE": "2022-10-31"
+  },
+  {
+    "LOT_ID": 682,
+    "LOT_NUMBER": "LOT00000682",
+    "EXPIRY_DATE": "2023-06-08"
+  },
+  {
+    "LOT_ID": 683,
+    "LOT_NUMBER": "LOT00000683",
+    "EXPIRY_DATE": "2025-10-23"
+  },
+  {
+    "LOT_ID": 684,
+    "LOT_NUMBER": "LOT00000684",
+    "EXPIRY_DATE": "2025-02-19"
+  },
+  {
+    "LOT_ID": 685,
+    "LOT_NUMBER": "LOT00000685",
+    "EXPIRY_DATE": "2023-06-10"
+  },
+  {
+    "LOT_ID": 686,
+    "LOT_NUMBER": "LOT00000686",
+    "EXPIRY_DATE": "2026-08-13"
+  },
+  {
+    "LOT_ID": 687,
+    "LOT_NUMBER": "LOT00000687",
+    "EXPIRY_DATE": "2023-06-08"
+  },
+  {
+    "LOT_ID": 688,
+    "LOT_NUMBER": "LOT00000688",
+    "EXPIRY_DATE": "2023-12-01"
+  },
+  {
+    "LOT_ID": 689,
+    "LOT_NUMBER": "LOT00000689",
+    "EXPIRY_DATE": "2023-04-15"
+  },
+  {
+    "LOT_ID": 690,
+    "LOT_NUMBER": "LOT00000690",
+    "EXPIRY_DATE": "2023-08-04"
+  },
+  {
+    "LOT_ID": 691,
+    "LOT_NUMBER": "LOT00000691",
+    "EXPIRY_DATE": "2024-03-07"
+  },
+  {
+    "LOT_ID": 692,
+    "LOT_NUMBER": "LOT00000692",
+    "EXPIRY_DATE": "2022-01-11"
+  },
+  {
+    "LOT_ID": 693,
+    "LOT_NUMBER": "LOT00000693",
+    "EXPIRY_DATE": "2023-06-01"
+  },
+  {
+    "LOT_ID": 694,
+    "LOT_NUMBER": "LOT00000694",
+    "EXPIRY_DATE": "2025-06-13"
+  },
+  {
+    "LOT_ID": 695,
+    "LOT_NUMBER": "LOT00000695",
+    "EXPIRY_DATE": "2026-09-01"
+  },
+  {
+    "LOT_ID": 696,
+    "LOT_NUMBER": "LOT00000696",
+    "EXPIRY_DATE": "2027-03-09"
+  },
+  {
+    "LOT_ID": 697,
+    "LOT_NUMBER": "LOT00000697",
+    "EXPIRY_DATE": "2023-07-07"
+  },
+  {
+    "LOT_ID": 698,
+    "LOT_NUMBER": "LOT00000698",
+    "EXPIRY_DATE": "2023-11-23"
+  },
+  {
+    "LOT_ID": 699,
+    "LOT_NUMBER": "LOT00000699",
+    "EXPIRY_DATE": "2024-09-04"
+  },
+  {
+    "LOT_ID": 700,
+    "LOT_NUMBER": "LOT00000700",
+    "EXPIRY_DATE": "2024-06-09"
+  },
+  {
+    "LOT_ID": 701,
+    "LOT_NUMBER": "LOT00000701",
+    "EXPIRY_DATE": "2022-03-16"
+  },
+  {
+    "LOT_ID": 702,
+    "LOT_NUMBER": "LOT00000702",
+    "EXPIRY_DATE": "2023-05-01"
+  },
+  {
+    "LOT_ID": 703,
+    "LOT_NUMBER": "LOT00000703",
+    "EXPIRY_DATE": "2024-08-19"
+  },
+  {
+    "LOT_ID": 704,
+    "LOT_NUMBER": "LOT00000704",
+    "EXPIRY_DATE": "2027-11-05"
+  },
+  {
+    "LOT_ID": 705,
+    "LOT_NUMBER": "LOT00000705",
+    "EXPIRY_DATE": "2025-11-20"
+  },
+  {
+    "LOT_ID": 706,
+    "LOT_NUMBER": "LOT00000706",
+    "EXPIRY_DATE": "2027-05-25"
+  },
+  {
+    "LOT_ID": 707,
+    "LOT_NUMBER": "LOT00000707",
+    "EXPIRY_DATE": "2026-08-22"
+  },
+  {
+    "LOT_ID": 708,
+    "LOT_NUMBER": "LOT00000708",
+    "EXPIRY_DATE": "2027-03-01"
+  },
+  {
+    "LOT_ID": 709,
+    "LOT_NUMBER": "LOT00000709",
+    "EXPIRY_DATE": "2024-04-23"
+  },
+  {
+    "LOT_ID": 710,
+    "LOT_NUMBER": "LOT00000710",
+    "EXPIRY_DATE": "2027-07-15"
+  },
+  {
+    "LOT_ID": 711,
+    "LOT_NUMBER": "LOT00000711",
+    "EXPIRY_DATE": "2022-05-17"
+  },
+  {
+    "LOT_ID": 712,
+    "LOT_NUMBER": "LOT00000712",
+    "EXPIRY_DATE": "2022-12-19"
+  },
+  {
+    "LOT_ID": 713,
+    "LOT_NUMBER": "LOT00000713",
+    "EXPIRY_DATE": "2024-07-27"
+  },
+  {
+    "LOT_ID": 714,
+    "LOT_NUMBER": "LOT00000714",
+    "EXPIRY_DATE": "2026-03-25"
+  },
+  {
+    "LOT_ID": 715,
+    "LOT_NUMBER": "LOT00000715",
+    "EXPIRY_DATE": "2025-03-04"
+  },
+  {
+    "LOT_ID": 716,
+    "LOT_NUMBER": "LOT00000716",
+    "EXPIRY_DATE": "2026-07-09"
+  },
+  {
+    "LOT_ID": 717,
+    "LOT_NUMBER": "LOT00000717",
+    "EXPIRY_DATE": "2023-11-23"
+  },
+  {
+    "LOT_ID": 718,
+    "LOT_NUMBER": "LOT00000718",
+    "EXPIRY_DATE": "2027-12-23"
+  },
+  {
+    "LOT_ID": 719,
+    "LOT_NUMBER": "LOT00000719",
+    "EXPIRY_DATE": "2022-01-28"
+  },
+  {
+    "LOT_ID": 720,
+    "LOT_NUMBER": "LOT00000720",
+    "EXPIRY_DATE": "2022-09-19"
+  },
+  {
+    "LOT_ID": 721,
+    "LOT_NUMBER": "LOT00000721",
+    "EXPIRY_DATE": "2024-10-05"
+  },
+  {
+    "LOT_ID": 722,
+    "LOT_NUMBER": "LOT00000722",
+    "EXPIRY_DATE": "2024-08-30"
+  },
+  {
+    "LOT_ID": 723,
+    "LOT_NUMBER": "LOT00000723",
+    "EXPIRY_DATE": "2023-05-03"
+  },
+  {
+    "LOT_ID": 724,
+    "LOT_NUMBER": "LOT00000724",
+    "EXPIRY_DATE": "2025-10-11"
+  },
+  {
+    "LOT_ID": 725,
+    "LOT_NUMBER": "LOT00000725",
+    "EXPIRY_DATE": "2025-06-24"
+  },
+  {
+    "LOT_ID": 726,
+    "LOT_NUMBER": "LOT00000726",
+    "EXPIRY_DATE": "2022-02-11"
+  },
+  {
+    "LOT_ID": 727,
+    "LOT_NUMBER": "LOT00000727",
+    "EXPIRY_DATE": "2024-02-01"
+  },
+  {
+    "LOT_ID": 728,
+    "LOT_NUMBER": "LOT00000728",
+    "EXPIRY_DATE": "2026-10-02"
+  },
+  {
+    "LOT_ID": 729,
+    "LOT_NUMBER": "LOT00000729",
+    "EXPIRY_DATE": "2022-03-05"
+  },
+  {
+    "LOT_ID": 730,
+    "LOT_NUMBER": "LOT00000730",
+    "EXPIRY_DATE": "2022-10-22"
+  },
+  {
+    "LOT_ID": 731,
+    "LOT_NUMBER": "LOT00000731",
+    "EXPIRY_DATE": "2025-02-24"
+  },
+  {
+    "LOT_ID": 732,
+    "LOT_NUMBER": "LOT00000732",
+    "EXPIRY_DATE": "2022-01-26"
+  },
+  {
+    "LOT_ID": 733,
+    "LOT_NUMBER": "LOT00000733",
+    "EXPIRY_DATE": "2025-08-03"
+  },
+  {
+    "LOT_ID": 734,
+    "LOT_NUMBER": "LOT00000734",
+    "EXPIRY_DATE": "2022-10-09"
+  },
+  {
+    "LOT_ID": 735,
+    "LOT_NUMBER": "LOT00000735",
+    "EXPIRY_DATE": "2023-10-17"
+  },
+  {
+    "LOT_ID": 736,
+    "LOT_NUMBER": "LOT00000736",
+    "EXPIRY_DATE": "2027-03-13"
+  },
+  {
+    "LOT_ID": 737,
+    "LOT_NUMBER": "LOT00000737",
+    "EXPIRY_DATE": "2027-09-24"
+  },
+  {
+    "LOT_ID": 738,
+    "LOT_NUMBER": "LOT00000738",
+    "EXPIRY_DATE": "2026-11-17"
+  },
+  {
+    "LOT_ID": 739,
+    "LOT_NUMBER": "LOT00000739",
+    "EXPIRY_DATE": "2026-02-17"
+  },
+  {
+    "LOT_ID": 740,
+    "LOT_NUMBER": "LOT00000740",
+    "EXPIRY_DATE": "2025-04-26"
+  },
+  {
+    "LOT_ID": 741,
+    "LOT_NUMBER": "LOT00000741",
+    "EXPIRY_DATE": "2025-05-28"
+  },
+  {
+    "LOT_ID": 742,
+    "LOT_NUMBER": "LOT00000742",
+    "EXPIRY_DATE": "2022-06-17"
+  },
+  {
+    "LOT_ID": 743,
+    "LOT_NUMBER": "LOT00000743",
+    "EXPIRY_DATE": "2023-08-24"
+  },
+  {
+    "LOT_ID": 744,
+    "LOT_NUMBER": "LOT00000744",
+    "EXPIRY_DATE": "2027-12-06"
+  },
+  {
+    "LOT_ID": 745,
+    "LOT_NUMBER": "LOT00000745",
+    "EXPIRY_DATE": "2024-09-11"
+  },
+  {
+    "LOT_ID": 746,
+    "LOT_NUMBER": "LOT00000746",
+    "EXPIRY_DATE": "2025-01-16"
+  },
+  {
+    "LOT_ID": 747,
+    "LOT_NUMBER": "LOT00000747",
+    "EXPIRY_DATE": "2024-07-27"
+  },
+  {
+    "LOT_ID": 748,
+    "LOT_NUMBER": "LOT00000748",
+    "EXPIRY_DATE": "2025-05-25"
+  },
+  {
+    "LOT_ID": 749,
+    "LOT_NUMBER": "LOT00000749",
+    "EXPIRY_DATE": "2023-01-02"
+  },
+  {
+    "LOT_ID": 750,
+    "LOT_NUMBER": "LOT00000750",
+    "EXPIRY_DATE": "2023-07-12"
+  },
+  {
+    "LOT_ID": 751,
+    "LOT_NUMBER": "LOT00000751",
+    "EXPIRY_DATE": "2025-08-06"
+  },
+  {
+    "LOT_ID": 752,
+    "LOT_NUMBER": "LOT00000752",
+    "EXPIRY_DATE": "2027-06-13"
+  },
+  {
+    "LOT_ID": 753,
+    "LOT_NUMBER": "LOT00000753",
+    "EXPIRY_DATE": "2023-04-17"
+  },
+  {
+    "LOT_ID": 754,
+    "LOT_NUMBER": "LOT00000754",
+    "EXPIRY_DATE": "2027-01-07"
+  },
+  {
+    "LOT_ID": 755,
+    "LOT_NUMBER": "LOT00000755",
+    "EXPIRY_DATE": "2024-01-16"
+  },
+  {
+    "LOT_ID": 756,
+    "LOT_NUMBER": "LOT00000756",
+    "EXPIRY_DATE": "2025-04-04"
+  },
+  {
+    "LOT_ID": 757,
+    "LOT_NUMBER": "LOT00000757",
+    "EXPIRY_DATE": "2022-02-14"
+  },
+  {
+    "LOT_ID": 758,
+    "LOT_NUMBER": "LOT00000758",
+    "EXPIRY_DATE": "2024-08-10"
+  },
+  {
+    "LOT_ID": 759,
+    "LOT_NUMBER": "LOT00000759",
+    "EXPIRY_DATE": "2022-05-24"
+  },
+  {
+    "LOT_ID": 760,
+    "LOT_NUMBER": "LOT00000760",
+    "EXPIRY_DATE": "2023-06-16"
+  },
+  {
+    "LOT_ID": 761,
+    "LOT_NUMBER": "LOT00000761",
+    "EXPIRY_DATE": "2022-04-11"
+  },
+  {
+    "LOT_ID": 762,
+    "LOT_NUMBER": "LOT00000762",
+    "EXPIRY_DATE": "2027-01-25"
+  },
+  {
+    "LOT_ID": 763,
+    "LOT_NUMBER": "LOT00000763",
+    "EXPIRY_DATE": "2027-09-02"
+  },
+  {
+    "LOT_ID": 764,
+    "LOT_NUMBER": "LOT00000764",
+    "EXPIRY_DATE": "2024-11-14"
+  },
+  {
+    "LOT_ID": 765,
+    "LOT_NUMBER": "LOT00000765",
+    "EXPIRY_DATE": "2027-03-11"
+  },
+  {
+    "LOT_ID": 766,
+    "LOT_NUMBER": "LOT00000766",
+    "EXPIRY_DATE": "2024-06-26"
+  },
+  {
+    "LOT_ID": 767,
+    "LOT_NUMBER": "LOT00000767",
+    "EXPIRY_DATE": "2027-07-01"
+  },
+  {
+    "LOT_ID": 768,
+    "LOT_NUMBER": "LOT00000768",
+    "EXPIRY_DATE": "2022-06-25"
+  },
+  {
+    "LOT_ID": 769,
+    "LOT_NUMBER": "LOT00000769",
+    "EXPIRY_DATE": "2022-05-08"
+  },
+  {
+    "LOT_ID": 770,
+    "LOT_NUMBER": "LOT00000770",
+    "EXPIRY_DATE": "2022-08-07"
+  },
+  {
+    "LOT_ID": 771,
+    "LOT_NUMBER": "LOT00000771",
+    "EXPIRY_DATE": "2027-10-18"
+  },
+  {
+    "LOT_ID": 772,
+    "LOT_NUMBER": "LOT00000772",
+    "EXPIRY_DATE": "2025-07-04"
+  },
+  {
+    "LOT_ID": 773,
+    "LOT_NUMBER": "LOT00000773",
+    "EXPIRY_DATE": "2025-08-14"
+  },
+  {
+    "LOT_ID": 774,
+    "LOT_NUMBER": "LOT00000774",
+    "EXPIRY_DATE": "2025-01-22"
+  },
+  {
+    "LOT_ID": 775,
+    "LOT_NUMBER": "LOT00000775",
+    "EXPIRY_DATE": "2025-05-02"
+  },
+  {
+    "LOT_ID": 776,
+    "LOT_NUMBER": "LOT00000776",
+    "EXPIRY_DATE": "2027-10-31"
+  },
+  {
+    "LOT_ID": 777,
+    "LOT_NUMBER": "LOT00000777",
+    "EXPIRY_DATE": "2023-07-08"
+  },
+  {
+    "LOT_ID": 778,
+    "LOT_NUMBER": "LOT00000778",
+    "EXPIRY_DATE": "2023-05-04"
+  },
+  {
+    "LOT_ID": 779,
+    "LOT_NUMBER": "LOT00000779",
+    "EXPIRY_DATE": "2022-11-30"
+  },
+  {
+    "LOT_ID": 780,
+    "LOT_NUMBER": "LOT00000780",
+    "EXPIRY_DATE": "2025-10-14"
+  },
+  {
+    "LOT_ID": 781,
+    "LOT_NUMBER": "LOT00000781",
+    "EXPIRY_DATE": "2026-10-06"
+  },
+  {
+    "LOT_ID": 782,
+    "LOT_NUMBER": "LOT00000782",
+    "EXPIRY_DATE": "2025-03-31"
+  },
+  {
+    "LOT_ID": 783,
+    "LOT_NUMBER": "LOT00000783",
+    "EXPIRY_DATE": "2027-11-13"
+  },
+  {
+    "LOT_ID": 784,
+    "LOT_NUMBER": "LOT00000784",
+    "EXPIRY_DATE": "2023-10-11"
+  },
+  {
+    "LOT_ID": 785,
+    "LOT_NUMBER": "LOT00000785",
+    "EXPIRY_DATE": "2022-01-08"
+  },
+  {
+    "LOT_ID": 786,
+    "LOT_NUMBER": "LOT00000786",
+    "EXPIRY_DATE": "2022-08-13"
+  },
+  {
+    "LOT_ID": 787,
+    "LOT_NUMBER": "LOT00000787",
+    "EXPIRY_DATE": "2023-12-15"
+  },
+  {
+    "LOT_ID": 788,
+    "LOT_NUMBER": "LOT00000788",
+    "EXPIRY_DATE": "2025-06-30"
+  },
+  {
+    "LOT_ID": 789,
+    "LOT_NUMBER": "LOT00000789",
+    "EXPIRY_DATE": "2023-12-20"
+  },
+  {
+    "LOT_ID": 790,
+    "LOT_NUMBER": "LOT00000790",
+    "EXPIRY_DATE": "2027-08-14"
+  },
+  {
+    "LOT_ID": 791,
+    "LOT_NUMBER": "LOT00000791",
+    "EXPIRY_DATE": "2025-09-01"
+  },
+  {
+    "LOT_ID": 792,
+    "LOT_NUMBER": "LOT00000792",
+    "EXPIRY_DATE": "2025-08-19"
+  },
+  {
+    "LOT_ID": 793,
+    "LOT_NUMBER": "LOT00000793",
+    "EXPIRY_DATE": "2024-06-28"
+  },
+  {
+    "LOT_ID": 794,
+    "LOT_NUMBER": "LOT00000794",
+    "EXPIRY_DATE": "2025-05-23"
+  },
+  {
+    "LOT_ID": 795,
+    "LOT_NUMBER": "LOT00000795",
+    "EXPIRY_DATE": "2023-02-25"
+  },
+  {
+    "LOT_ID": 796,
+    "LOT_NUMBER": "LOT00000796",
+    "EXPIRY_DATE": "2022-10-14"
+  },
+  {
+    "LOT_ID": 797,
+    "LOT_NUMBER": "LOT00000797",
+    "EXPIRY_DATE": "2025-12-02"
+  },
+  {
+    "LOT_ID": 798,
+    "LOT_NUMBER": "LOT00000798",
+    "EXPIRY_DATE": "2024-03-11"
+  },
+  {
+    "LOT_ID": 799,
+    "LOT_NUMBER": "LOT00000799",
+    "EXPIRY_DATE": "2023-03-10"
+  },
+  {
+    "LOT_ID": 800,
+    "LOT_NUMBER": "LOT00000800",
+    "EXPIRY_DATE": "2027-11-08"
+  },
+  {
+    "LOT_ID": 801,
+    "LOT_NUMBER": "LOT00000801",
+    "EXPIRY_DATE": "2022-01-05"
+  },
+  {
+    "LOT_ID": 802,
+    "LOT_NUMBER": "LOT00000802",
+    "EXPIRY_DATE": "2026-01-01"
+  },
+  {
+    "LOT_ID": 803,
+    "LOT_NUMBER": "LOT00000803",
+    "EXPIRY_DATE": "2027-07-01"
+  },
+  {
+    "LOT_ID": 804,
+    "LOT_NUMBER": "LOT00000804",
+    "EXPIRY_DATE": "2026-01-31"
+  },
+  {
+    "LOT_ID": 805,
+    "LOT_NUMBER": "LOT00000805",
+    "EXPIRY_DATE": "2022-06-03"
+  },
+  {
+    "LOT_ID": 806,
+    "LOT_NUMBER": "LOT00000806",
+    "EXPIRY_DATE": "2023-01-25"
+  },
+  {
+    "LOT_ID": 807,
+    "LOT_NUMBER": "LOT00000807",
+    "EXPIRY_DATE": "2022-10-17"
+  },
+  {
+    "LOT_ID": 808,
+    "LOT_NUMBER": "LOT00000808",
+    "EXPIRY_DATE": "2027-08-27"
+  },
+  {
+    "LOT_ID": 809,
+    "LOT_NUMBER": "LOT00000809",
+    "EXPIRY_DATE": "2024-01-13"
+  },
+  {
+    "LOT_ID": 810,
+    "LOT_NUMBER": "LOT00000810",
+    "EXPIRY_DATE": "2027-04-25"
+  },
+  {
+    "LOT_ID": 811,
+    "LOT_NUMBER": "LOT00000811",
+    "EXPIRY_DATE": "2023-06-11"
+  },
+  {
+    "LOT_ID": 812,
+    "LOT_NUMBER": "LOT00000812",
+    "EXPIRY_DATE": "2024-12-30"
+  },
+  {
+    "LOT_ID": 813,
+    "LOT_NUMBER": "LOT00000813",
+    "EXPIRY_DATE": "2023-08-16"
+  },
+  {
+    "LOT_ID": 814,
+    "LOT_NUMBER": "LOT00000814",
+    "EXPIRY_DATE": "2023-12-09"
+  },
+  {
+    "LOT_ID": 815,
+    "LOT_NUMBER": "LOT00000815",
+    "EXPIRY_DATE": "2025-08-18"
+  },
+  {
+    "LOT_ID": 816,
+    "LOT_NUMBER": "LOT00000816",
+    "EXPIRY_DATE": "2023-06-11"
+  },
+  {
+    "LOT_ID": 817,
+    "LOT_NUMBER": "LOT00000817",
+    "EXPIRY_DATE": "2023-12-13"
+  },
+  {
+    "LOT_ID": 818,
+    "LOT_NUMBER": "LOT00000818",
+    "EXPIRY_DATE": "2022-08-10"
+  },
+  {
+    "LOT_ID": 819,
+    "LOT_NUMBER": "LOT00000819",
+    "EXPIRY_DATE": "2023-06-18"
+  },
+  {
+    "LOT_ID": 820,
+    "LOT_NUMBER": "LOT00000820",
+    "EXPIRY_DATE": "2026-03-23"
+  },
+  {
+    "LOT_ID": 821,
+    "LOT_NUMBER": "LOT00000821",
+    "EXPIRY_DATE": "2025-05-13"
+  },
+  {
+    "LOT_ID": 822,
+    "LOT_NUMBER": "LOT00000822",
+    "EXPIRY_DATE": "2026-09-12"
+  },
+  {
+    "LOT_ID": 823,
+    "LOT_NUMBER": "LOT00000823",
+    "EXPIRY_DATE": "2025-01-02"
+  },
+  {
+    "LOT_ID": 824,
+    "LOT_NUMBER": "LOT00000824",
+    "EXPIRY_DATE": "2023-06-24"
+  },
+  {
+    "LOT_ID": 825,
+    "LOT_NUMBER": "LOT00000825",
+    "EXPIRY_DATE": "2023-05-24"
+  },
+  {
+    "LOT_ID": 826,
+    "LOT_NUMBER": "LOT00000826",
+    "EXPIRY_DATE": "2022-07-25"
+  },
+  {
+    "LOT_ID": 827,
+    "LOT_NUMBER": "LOT00000827",
+    "EXPIRY_DATE": "2024-09-07"
+  },
+  {
+    "LOT_ID": 828,
+    "LOT_NUMBER": "LOT00000828",
+    "EXPIRY_DATE": "2024-05-09"
+  },
+  {
+    "LOT_ID": 829,
+    "LOT_NUMBER": "LOT00000829",
+    "EXPIRY_DATE": "2024-05-26"
+  },
+  {
+    "LOT_ID": 830,
+    "LOT_NUMBER": "LOT00000830",
+    "EXPIRY_DATE": "2022-05-04"
+  },
+  {
+    "LOT_ID": 831,
+    "LOT_NUMBER": "LOT00000831",
+    "EXPIRY_DATE": "2023-12-28"
+  },
+  {
+    "LOT_ID": 832,
+    "LOT_NUMBER": "LOT00000832",
+    "EXPIRY_DATE": "2025-03-31"
+  },
+  {
+    "LOT_ID": 833,
+    "LOT_NUMBER": "LOT00000833",
+    "EXPIRY_DATE": "2023-11-04"
+  },
+  {
+    "LOT_ID": 834,
+    "LOT_NUMBER": "LOT00000834",
+    "EXPIRY_DATE": "2023-04-20"
+  },
+  {
+    "LOT_ID": 835,
+    "LOT_NUMBER": "LOT00000835",
+    "EXPIRY_DATE": "2026-06-17"
+  },
+  {
+    "LOT_ID": 836,
+    "LOT_NUMBER": "LOT00000836",
+    "EXPIRY_DATE": "2022-10-24"
+  },
+  {
+    "LOT_ID": 837,
+    "LOT_NUMBER": "LOT00000837",
+    "EXPIRY_DATE": "2024-12-31"
+  },
+  {
+    "LOT_ID": 838,
+    "LOT_NUMBER": "LOT00000838",
+    "EXPIRY_DATE": "2023-09-01"
+  },
+  {
+    "LOT_ID": 839,
+    "LOT_NUMBER": "LOT00000839",
+    "EXPIRY_DATE": "2027-10-02"
+  },
+  {
+    "LOT_ID": 840,
+    "LOT_NUMBER": "LOT00000840",
+    "EXPIRY_DATE": "2022-06-10"
+  },
+  {
+    "LOT_ID": 841,
+    "LOT_NUMBER": "LOT00000841",
+    "EXPIRY_DATE": "2023-12-03"
+  },
+  {
+    "LOT_ID": 842,
+    "LOT_NUMBER": "LOT00000842",
+    "EXPIRY_DATE": "2025-10-27"
+  },
+  {
+    "LOT_ID": 843,
+    "LOT_NUMBER": "LOT00000843",
+    "EXPIRY_DATE": "2026-11-26"
+  },
+  {
+    "LOT_ID": 844,
+    "LOT_NUMBER": "LOT00000844",
+    "EXPIRY_DATE": "2023-04-29"
+  },
+  {
+    "LOT_ID": 845,
+    "LOT_NUMBER": "LOT00000845",
+    "EXPIRY_DATE": "2022-06-27"
+  },
+  {
+    "LOT_ID": 846,
+    "LOT_NUMBER": "LOT00000846",
+    "EXPIRY_DATE": "2025-12-22"
+  },
+  {
+    "LOT_ID": 847,
+    "LOT_NUMBER": "LOT00000847",
+    "EXPIRY_DATE": "2025-05-22"
+  },
+  {
+    "LOT_ID": 848,
+    "LOT_NUMBER": "LOT00000848",
+    "EXPIRY_DATE": "2026-07-18"
+  },
+  {
+    "LOT_ID": 849,
+    "LOT_NUMBER": "LOT00000849",
+    "EXPIRY_DATE": "2026-05-21"
+  },
+  {
+    "LOT_ID": 850,
+    "LOT_NUMBER": "LOT00000850",
+    "EXPIRY_DATE": "2022-02-17"
+  },
+  {
+    "LOT_ID": 851,
+    "LOT_NUMBER": "LOT00000851",
+    "EXPIRY_DATE": "2027-01-27"
+  },
+  {
+    "LOT_ID": 852,
+    "LOT_NUMBER": "LOT00000852",
+    "EXPIRY_DATE": "2027-09-16"
+  },
+  {
+    "LOT_ID": 853,
+    "LOT_NUMBER": "LOT00000853",
+    "EXPIRY_DATE": "2027-05-12"
+  },
+  {
+    "LOT_ID": 854,
+    "LOT_NUMBER": "LOT00000854",
+    "EXPIRY_DATE": "2024-03-06"
+  },
+  {
+    "LOT_ID": 855,
+    "LOT_NUMBER": "LOT00000855",
+    "EXPIRY_DATE": "2022-09-29"
+  },
+  {
+    "LOT_ID": 856,
+    "LOT_NUMBER": "LOT00000856",
+    "EXPIRY_DATE": "2023-11-18"
+  },
+  {
+    "LOT_ID": 857,
+    "LOT_NUMBER": "LOT00000857",
+    "EXPIRY_DATE": "2022-09-21"
+  },
+  {
+    "LOT_ID": 858,
+    "LOT_NUMBER": "LOT00000858",
+    "EXPIRY_DATE": "2023-04-27"
+  },
+  {
+    "LOT_ID": 859,
+    "LOT_NUMBER": "LOT00000859",
+    "EXPIRY_DATE": "2027-12-11"
+  },
+  {
+    "LOT_ID": 860,
+    "LOT_NUMBER": "LOT00000860",
+    "EXPIRY_DATE": "2026-02-17"
+  },
+  {
+    "LOT_ID": 861,
+    "LOT_NUMBER": "LOT00000861",
+    "EXPIRY_DATE": "2024-02-26"
+  },
+  {
+    "LOT_ID": 862,
+    "LOT_NUMBER": "LOT00000862",
+    "EXPIRY_DATE": "2026-03-15"
+  },
+  {
+    "LOT_ID": 863,
+    "LOT_NUMBER": "LOT00000863",
+    "EXPIRY_DATE": "2026-12-25"
+  },
+  {
+    "LOT_ID": 864,
+    "LOT_NUMBER": "LOT00000864",
+    "EXPIRY_DATE": "2025-07-23"
+  },
+  {
+    "LOT_ID": 865,
+    "LOT_NUMBER": "LOT00000865",
+    "EXPIRY_DATE": "2027-06-02"
+  },
+  {
+    "LOT_ID": 866,
+    "LOT_NUMBER": "LOT00000866",
+    "EXPIRY_DATE": "2026-07-24"
+  },
+  {
+    "LOT_ID": 867,
+    "LOT_NUMBER": "LOT00000867",
+    "EXPIRY_DATE": "2024-07-17"
+  },
+  {
+    "LOT_ID": 868,
+    "LOT_NUMBER": "LOT00000868",
+    "EXPIRY_DATE": "2024-10-20"
+  },
+  {
+    "LOT_ID": 869,
+    "LOT_NUMBER": "LOT00000869",
+    "EXPIRY_DATE": "2023-08-28"
+  },
+  {
+    "LOT_ID": 870,
+    "LOT_NUMBER": "LOT00000870",
+    "EXPIRY_DATE": "2024-03-07"
+  },
+  {
+    "LOT_ID": 871,
+    "LOT_NUMBER": "LOT00000871",
+    "EXPIRY_DATE": "2024-05-27"
+  },
+  {
+    "LOT_ID": 872,
+    "LOT_NUMBER": "LOT00000872",
+    "EXPIRY_DATE": "2025-08-07"
+  },
+  {
+    "LOT_ID": 873,
+    "LOT_NUMBER": "LOT00000873",
+    "EXPIRY_DATE": "2026-10-27"
+  },
+  {
+    "LOT_ID": 874,
+    "LOT_NUMBER": "LOT00000874",
+    "EXPIRY_DATE": "2027-12-17"
+  },
+  {
+    "LOT_ID": 875,
+    "LOT_NUMBER": "LOT00000875",
+    "EXPIRY_DATE": "2022-02-16"
+  },
+  {
+    "LOT_ID": 876,
+    "LOT_NUMBER": "LOT00000876",
+    "EXPIRY_DATE": "2026-02-18"
+  },
+  {
+    "LOT_ID": 877,
+    "LOT_NUMBER": "LOT00000877",
+    "EXPIRY_DATE": "2025-01-12"
+  },
+  {
+    "LOT_ID": 878,
+    "LOT_NUMBER": "LOT00000878",
+    "EXPIRY_DATE": "2027-12-13"
+  },
+  {
+    "LOT_ID": 879,
+    "LOT_NUMBER": "LOT00000879",
+    "EXPIRY_DATE": "2024-11-26"
+  },
+  {
+    "LOT_ID": 880,
+    "LOT_NUMBER": "LOT00000880",
+    "EXPIRY_DATE": "2024-10-23"
+  },
+  {
+    "LOT_ID": 881,
+    "LOT_NUMBER": "LOT00000881",
+    "EXPIRY_DATE": "2026-02-10"
+  },
+  {
+    "LOT_ID": 882,
+    "LOT_NUMBER": "LOT00000882",
+    "EXPIRY_DATE": "2026-12-21"
+  },
+  {
+    "LOT_ID": 883,
+    "LOT_NUMBER": "LOT00000883",
+    "EXPIRY_DATE": "2024-08-23"
+  },
+  {
+    "LOT_ID": 884,
+    "LOT_NUMBER": "LOT00000884",
+    "EXPIRY_DATE": "2026-12-28"
+  },
+  {
+    "LOT_ID": 885,
+    "LOT_NUMBER": "LOT00000885",
+    "EXPIRY_DATE": "2023-07-16"
+  },
+  {
+    "LOT_ID": 886,
+    "LOT_NUMBER": "LOT00000886",
+    "EXPIRY_DATE": "2024-06-14"
+  },
+  {
+    "LOT_ID": 887,
+    "LOT_NUMBER": "LOT00000887",
+    "EXPIRY_DATE": "2022-10-23"
+  },
+  {
+    "LOT_ID": 888,
+    "LOT_NUMBER": "LOT00000888",
+    "EXPIRY_DATE": "2023-03-08"
+  },
+  {
+    "LOT_ID": 889,
+    "LOT_NUMBER": "LOT00000889",
+    "EXPIRY_DATE": "2025-02-07"
+  },
+  {
+    "LOT_ID": 890,
+    "LOT_NUMBER": "LOT00000890",
+    "EXPIRY_DATE": "2024-01-09"
+  },
+  {
+    "LOT_ID": 891,
+    "LOT_NUMBER": "LOT00000891",
+    "EXPIRY_DATE": "2025-04-06"
+  },
+  {
+    "LOT_ID": 892,
+    "LOT_NUMBER": "LOT00000892",
+    "EXPIRY_DATE": "2022-06-18"
+  },
+  {
+    "LOT_ID": 893,
+    "LOT_NUMBER": "LOT00000893",
+    "EXPIRY_DATE": "2023-04-11"
+  },
+  {
+    "LOT_ID": 894,
+    "LOT_NUMBER": "LOT00000894",
+    "EXPIRY_DATE": "2023-07-21"
+  },
+  {
+    "LOT_ID": 895,
+    "LOT_NUMBER": "LOT00000895",
+    "EXPIRY_DATE": "2024-09-12"
+  },
+  {
+    "LOT_ID": 896,
+    "LOT_NUMBER": "LOT00000896",
+    "EXPIRY_DATE": "2022-12-23"
+  },
+  {
+    "LOT_ID": 897,
+    "LOT_NUMBER": "LOT00000897",
+    "EXPIRY_DATE": "2022-08-02"
+  },
+  {
+    "LOT_ID": 898,
+    "LOT_NUMBER": "LOT00000898",
+    "EXPIRY_DATE": "2025-06-15"
+  },
+  {
+    "LOT_ID": 899,
+    "LOT_NUMBER": "LOT00000899",
+    "EXPIRY_DATE": "2027-05-31"
+  },
+  {
+    "LOT_ID": 900,
+    "LOT_NUMBER": "LOT00000900",
+    "EXPIRY_DATE": "2022-11-08"
+  },
+  {
+    "LOT_ID": 901,
+    "LOT_NUMBER": "LOT00000901",
+    "EXPIRY_DATE": "2024-09-22"
+  },
+  {
+    "LOT_ID": 902,
+    "LOT_NUMBER": "LOT00000902",
+    "EXPIRY_DATE": "2023-10-29"
+  },
+  {
+    "LOT_ID": 903,
+    "LOT_NUMBER": "LOT00000903",
+    "EXPIRY_DATE": "2025-09-09"
+  },
+  {
+    "LOT_ID": 904,
+    "LOT_NUMBER": "LOT00000904",
+    "EXPIRY_DATE": "2027-10-09"
+  },
+  {
+    "LOT_ID": 905,
+    "LOT_NUMBER": "LOT00000905",
+    "EXPIRY_DATE": "2025-06-18"
+  },
+  {
+    "LOT_ID": 906,
+    "LOT_NUMBER": "LOT00000906",
+    "EXPIRY_DATE": "2022-12-02"
+  },
+  {
+    "LOT_ID": 907,
+    "LOT_NUMBER": "LOT00000907",
+    "EXPIRY_DATE": "2026-10-20"
+  },
+  {
+    "LOT_ID": 908,
+    "LOT_NUMBER": "LOT00000908",
+    "EXPIRY_DATE": "2027-03-02"
+  },
+  {
+    "LOT_ID": 909,
+    "LOT_NUMBER": "LOT00000909",
+    "EXPIRY_DATE": "2026-09-19"
+  },
+  {
+    "LOT_ID": 910,
+    "LOT_NUMBER": "LOT00000910",
+    "EXPIRY_DATE": "2027-06-24"
+  },
+  {
+    "LOT_ID": 911,
+    "LOT_NUMBER": "LOT00000911",
+    "EXPIRY_DATE": "2025-12-07"
+  },
+  {
+    "LOT_ID": 912,
+    "LOT_NUMBER": "LOT00000912",
+    "EXPIRY_DATE": "2025-09-16"
+  },
+  {
+    "LOT_ID": 913,
+    "LOT_NUMBER": "LOT00000913",
+    "EXPIRY_DATE": "2025-04-07"
+  },
+  {
+    "LOT_ID": 914,
+    "LOT_NUMBER": "LOT00000914",
+    "EXPIRY_DATE": "2025-10-04"
+  },
+  {
+    "LOT_ID": 915,
+    "LOT_NUMBER": "LOT00000915",
+    "EXPIRY_DATE": "2026-08-01"
+  },
+  {
+    "LOT_ID": 916,
+    "LOT_NUMBER": "LOT00000916",
+    "EXPIRY_DATE": "2027-02-08"
+  },
+  {
+    "LOT_ID": 917,
+    "LOT_NUMBER": "LOT00000917",
+    "EXPIRY_DATE": "2024-12-28"
+  },
+  {
+    "LOT_ID": 918,
+    "LOT_NUMBER": "LOT00000918",
+    "EXPIRY_DATE": "2022-11-08"
+  },
+  {
+    "LOT_ID": 919,
+    "LOT_NUMBER": "LOT00000919",
+    "EXPIRY_DATE": "2025-06-29"
+  },
+  {
+    "LOT_ID": 920,
+    "LOT_NUMBER": "LOT00000920",
+    "EXPIRY_DATE": "2026-04-13"
+  },
+  {
+    "LOT_ID": 921,
+    "LOT_NUMBER": "LOT00000921",
+    "EXPIRY_DATE": "2025-01-11"
+  },
+  {
+    "LOT_ID": 922,
+    "LOT_NUMBER": "LOT00000922",
+    "EXPIRY_DATE": "2022-08-19"
+  },
+  {
+    "LOT_ID": 923,
+    "LOT_NUMBER": "LOT00000923",
+    "EXPIRY_DATE": "2025-08-07"
+  },
+  {
+    "LOT_ID": 924,
+    "LOT_NUMBER": "LOT00000924",
+    "EXPIRY_DATE": "2026-03-16"
+  },
+  {
+    "LOT_ID": 925,
+    "LOT_NUMBER": "LOT00000925",
+    "EXPIRY_DATE": "2026-05-12"
+  },
+  {
+    "LOT_ID": 926,
+    "LOT_NUMBER": "LOT00000926",
+    "EXPIRY_DATE": "2027-07-23"
+  },
+  {
+    "LOT_ID": 927,
+    "LOT_NUMBER": "LOT00000927",
+    "EXPIRY_DATE": "2022-08-30"
+  },
+  {
+    "LOT_ID": 928,
+    "LOT_NUMBER": "LOT00000928",
+    "EXPIRY_DATE": "2025-05-20"
+  },
+  {
+    "LOT_ID": 929,
+    "LOT_NUMBER": "LOT00000929",
+    "EXPIRY_DATE": "2023-02-22"
+  },
+  {
+    "LOT_ID": 930,
+    "LOT_NUMBER": "LOT00000930",
+    "EXPIRY_DATE": "2023-10-08"
+  },
+  {
+    "LOT_ID": 931,
+    "LOT_NUMBER": "LOT00000931",
+    "EXPIRY_DATE": "2025-03-27"
+  },
+  {
+    "LOT_ID": 932,
+    "LOT_NUMBER": "LOT00000932",
+    "EXPIRY_DATE": "2027-04-30"
+  },
+  {
+    "LOT_ID": 933,
+    "LOT_NUMBER": "LOT00000933",
+    "EXPIRY_DATE": "2022-10-17"
+  },
+  {
+    "LOT_ID": 934,
+    "LOT_NUMBER": "LOT00000934",
+    "EXPIRY_DATE": "2022-05-14"
+  },
+  {
+    "LOT_ID": 935,
+    "LOT_NUMBER": "LOT00000935",
+    "EXPIRY_DATE": "2023-09-26"
+  },
+  {
+    "LOT_ID": 936,
+    "LOT_NUMBER": "LOT00000936",
+    "EXPIRY_DATE": "2027-03-24"
+  },
+  {
+    "LOT_ID": 937,
+    "LOT_NUMBER": "LOT00000937",
+    "EXPIRY_DATE": "2024-06-06"
+  },
+  {
+    "LOT_ID": 938,
+    "LOT_NUMBER": "LOT00000938",
+    "EXPIRY_DATE": "2023-11-26"
+  },
+  {
+    "LOT_ID": 939,
+    "LOT_NUMBER": "LOT00000939",
+    "EXPIRY_DATE": "2027-05-09"
+  },
+  {
+    "LOT_ID": 940,
+    "LOT_NUMBER": "LOT00000940",
+    "EXPIRY_DATE": "2023-04-09"
+  },
+  {
+    "LOT_ID": 941,
+    "LOT_NUMBER": "LOT00000941",
+    "EXPIRY_DATE": "2023-05-15"
+  },
+  {
+    "LOT_ID": 942,
+    "LOT_NUMBER": "LOT00000942",
+    "EXPIRY_DATE": "2023-10-28"
+  },
+  {
+    "LOT_ID": 943,
+    "LOT_NUMBER": "LOT00000943",
+    "EXPIRY_DATE": "2024-06-15"
+  },
+  {
+    "LOT_ID": 944,
+    "LOT_NUMBER": "LOT00000944",
+    "EXPIRY_DATE": "2026-01-18"
+  },
+  {
+    "LOT_ID": 945,
+    "LOT_NUMBER": "LOT00000945",
+    "EXPIRY_DATE": "2022-06-27"
+  },
+  {
+    "LOT_ID": 946,
+    "LOT_NUMBER": "LOT00000946",
+    "EXPIRY_DATE": "2025-02-11"
+  },
+  {
+    "LOT_ID": 947,
+    "LOT_NUMBER": "LOT00000947",
+    "EXPIRY_DATE": "2027-06-24"
+  },
+  {
+    "LOT_ID": 948,
+    "LOT_NUMBER": "LOT00000948",
+    "EXPIRY_DATE": "2026-12-28"
+  },
+  {
+    "LOT_ID": 949,
+    "LOT_NUMBER": "LOT00000949",
+    "EXPIRY_DATE": "2023-07-16"
+  },
+  {
+    "LOT_ID": 950,
+    "LOT_NUMBER": "LOT00000950",
+    "EXPIRY_DATE": "2027-08-15"
+  },
+  {
+    "LOT_ID": 951,
+    "LOT_NUMBER": "LOT00000951",
+    "EXPIRY_DATE": "2027-05-22"
+  },
+  {
+    "LOT_ID": 952,
+    "LOT_NUMBER": "LOT00000952",
+    "EXPIRY_DATE": "2024-09-27"
+  },
+  {
+    "LOT_ID": 953,
+    "LOT_NUMBER": "LOT00000953",
+    "EXPIRY_DATE": "2025-12-25"
+  },
+  {
+    "LOT_ID": 954,
+    "LOT_NUMBER": "LOT00000954",
+    "EXPIRY_DATE": "2026-12-05"
+  },
+  {
+    "LOT_ID": 955,
+    "LOT_NUMBER": "LOT00000955",
+    "EXPIRY_DATE": "2024-09-16"
+  },
+  {
+    "LOT_ID": 956,
+    "LOT_NUMBER": "LOT00000956",
+    "EXPIRY_DATE": "2025-08-29"
+  },
+  {
+    "LOT_ID": 957,
+    "LOT_NUMBER": "LOT00000957",
+    "EXPIRY_DATE": "2026-05-27"
+  },
+  {
+    "LOT_ID": 958,
+    "LOT_NUMBER": "LOT00000958",
+    "EXPIRY_DATE": "2022-03-01"
+  },
+  {
+    "LOT_ID": 959,
+    "LOT_NUMBER": "LOT00000959",
+    "EXPIRY_DATE": "2026-06-16"
+  },
+  {
+    "LOT_ID": 960,
+    "LOT_NUMBER": "LOT00000960",
+    "EXPIRY_DATE": "2023-08-24"
+  },
+  {
+    "LOT_ID": 961,
+    "LOT_NUMBER": "LOT00000961",
+    "EXPIRY_DATE": "2024-03-18"
+  },
+  {
+    "LOT_ID": 962,
+    "LOT_NUMBER": "LOT00000962",
+    "EXPIRY_DATE": "2022-10-28"
+  },
+  {
+    "LOT_ID": 963,
+    "LOT_NUMBER": "LOT00000963",
+    "EXPIRY_DATE": "2022-11-22"
+  },
+  {
+    "LOT_ID": 964,
+    "LOT_NUMBER": "LOT00000964",
+    "EXPIRY_DATE": "2025-06-25"
+  },
+  {
+    "LOT_ID": 965,
+    "LOT_NUMBER": "LOT00000965",
+    "EXPIRY_DATE": "2026-06-30"
+  },
+  {
+    "LOT_ID": 966,
+    "LOT_NUMBER": "LOT00000966",
+    "EXPIRY_DATE": "2025-02-20"
+  },
+  {
+    "LOT_ID": 967,
+    "LOT_NUMBER": "LOT00000967",
+    "EXPIRY_DATE": "2023-07-20"
+  },
+  {
+    "LOT_ID": 968,
+    "LOT_NUMBER": "LOT00000968",
+    "EXPIRY_DATE": "2025-12-01"
+  },
+  {
+    "LOT_ID": 969,
+    "LOT_NUMBER": "LOT00000969",
+    "EXPIRY_DATE": "2025-10-04"
+  },
+  {
+    "LOT_ID": 970,
+    "LOT_NUMBER": "LOT00000970",
+    "EXPIRY_DATE": "2022-12-23"
+  },
+  {
+    "LOT_ID": 971,
+    "LOT_NUMBER": "LOT00000971",
+    "EXPIRY_DATE": "2022-11-15"
+  },
+  {
+    "LOT_ID": 972,
+    "LOT_NUMBER": "LOT00000972",
+    "EXPIRY_DATE": "2022-11-19"
+  },
+  {
+    "LOT_ID": 973,
+    "LOT_NUMBER": "LOT00000973",
+    "EXPIRY_DATE": "2022-06-01"
+  },
+  {
+    "LOT_ID": 974,
+    "LOT_NUMBER": "LOT00000974",
+    "EXPIRY_DATE": "2023-08-21"
+  },
+  {
+    "LOT_ID": 975,
+    "LOT_NUMBER": "LOT00000975",
+    "EXPIRY_DATE": "2023-12-14"
+  },
+  {
+    "LOT_ID": 976,
+    "LOT_NUMBER": "LOT00000976",
+    "EXPIRY_DATE": "2022-02-01"
+  },
+  {
+    "LOT_ID": 977,
+    "LOT_NUMBER": "LOT00000977",
+    "EXPIRY_DATE": "2025-03-28"
+  },
+  {
+    "LOT_ID": 978,
+    "LOT_NUMBER": "LOT00000978",
+    "EXPIRY_DATE": "2022-01-09"
+  },
+  {
+    "LOT_ID": 979,
+    "LOT_NUMBER": "LOT00000979",
+    "EXPIRY_DATE": "2026-06-05"
+  },
+  {
+    "LOT_ID": 980,
+    "LOT_NUMBER": "LOT00000980",
+    "EXPIRY_DATE": "2022-04-12"
+  },
+  {
+    "LOT_ID": 981,
+    "LOT_NUMBER": "LOT00000981",
+    "EXPIRY_DATE": "2022-04-24"
+  },
+  {
+    "LOT_ID": 982,
+    "LOT_NUMBER": "LOT00000982",
+    "EXPIRY_DATE": "2026-11-18"
+  },
+  {
+    "LOT_ID": 983,
+    "LOT_NUMBER": "LOT00000983",
+    "EXPIRY_DATE": "2022-10-23"
+  },
+  {
+    "LOT_ID": 984,
+    "LOT_NUMBER": "LOT00000984",
+    "EXPIRY_DATE": "2027-09-05"
+  },
+  {
+    "LOT_ID": 985,
+    "LOT_NUMBER": "LOT00000985",
+    "EXPIRY_DATE": "2027-08-03"
+  },
+  {
+    "LOT_ID": 986,
+    "LOT_NUMBER": "LOT00000986",
+    "EXPIRY_DATE": "2024-06-15"
+  },
+  {
+    "LOT_ID": 987,
+    "LOT_NUMBER": "LOT00000987",
+    "EXPIRY_DATE": "2023-11-04"
+  },
+  {
+    "LOT_ID": 988,
+    "LOT_NUMBER": "LOT00000988",
+    "EXPIRY_DATE": "2024-10-28"
+  },
+  {
+    "LOT_ID": 989,
+    "LOT_NUMBER": "LOT00000989",
+    "EXPIRY_DATE": "2023-06-06"
+  },
+  {
+    "LOT_ID": 990,
+    "LOT_NUMBER": "LOT00000990",
+    "EXPIRY_DATE": "2026-06-25"
+  },
+  {
+    "LOT_ID": 991,
+    "LOT_NUMBER": "LOT00000991",
+    "EXPIRY_DATE": "2025-10-30"
+  },
+  {
+    "LOT_ID": 992,
+    "LOT_NUMBER": "LOT00000992",
+    "EXPIRY_DATE": "2022-10-21"
+  },
+  {
+    "LOT_ID": 993,
+    "LOT_NUMBER": "LOT00000993",
+    "EXPIRY_DATE": "2027-08-30"
+  },
+  {
+    "LOT_ID": 994,
+    "LOT_NUMBER": "LOT00000994",
+    "EXPIRY_DATE": "2024-12-23"
+  },
+  {
+    "LOT_ID": 995,
+    "LOT_NUMBER": "LOT00000995",
+    "EXPIRY_DATE": "2024-09-19"
+  },
+  {
+    "LOT_ID": 996,
+    "LOT_NUMBER": "LOT00000996",
+    "EXPIRY_DATE": "2022-02-17"
+  },
+  {
+    "LOT_ID": 997,
+    "LOT_NUMBER": "LOT00000997",
+    "EXPIRY_DATE": "2027-04-04"
+  },
+  {
+    "LOT_ID": 998,
+    "LOT_NUMBER": "LOT00000998",
+    "EXPIRY_DATE": "2024-07-13"
+  },
+  {
+    "LOT_ID": 999,
+    "LOT_NUMBER": "LOT00000999",
+    "EXPIRY_DATE": "2022-04-14"
+  },
+  {
+    "LOT_ID": 1000,
+    "LOT_NUMBER": "LOT00001000",
+    "EXPIRY_DATE": "2025-01-29"
+  }
+]

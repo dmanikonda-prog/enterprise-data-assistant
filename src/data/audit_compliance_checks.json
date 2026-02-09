@@ -1,0 +1,5002 @@
+[
+  {
+    "COMPLIANCE_ID": 1,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 2,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 3,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 4,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 5,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 6,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 7,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 8,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 9,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 10,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 11,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 12,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 13,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 14,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 15,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 16,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 17,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 18,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 19,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 20,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 21,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 22,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 23,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 24,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 25,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 26,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 27,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 28,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 29,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 30,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 31,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 32,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 33,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 34,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 35,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 36,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 37,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 38,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 39,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 40,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 41,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 42,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 43,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 44,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 45,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 46,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 47,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 48,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 49,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 50,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 51,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 52,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 53,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 54,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 55,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 56,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 57,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 58,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 59,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 60,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 61,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 62,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 63,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 64,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 65,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 66,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 67,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 68,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 69,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 70,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 71,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 72,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 73,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 74,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 75,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 76,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 77,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 78,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 79,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 80,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 81,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 82,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 83,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 84,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 85,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 86,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 87,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 88,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 89,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 90,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 91,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 92,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 93,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 94,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 95,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 96,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 97,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 98,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 99,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 100,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 101,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 102,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 103,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 104,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 105,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 106,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 107,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 108,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 109,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 110,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 111,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 112,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 113,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 114,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 115,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 116,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 117,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 118,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 119,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 120,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 121,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 122,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 123,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 124,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 125,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 126,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 127,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 128,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 129,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 130,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 131,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 132,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 133,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 134,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 135,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 136,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 137,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 138,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 139,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 140,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 141,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 142,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 143,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 144,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 145,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 146,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 147,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 148,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 149,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 150,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 151,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 152,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 153,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 154,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 155,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 156,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 157,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 158,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 159,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 160,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 161,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 162,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 163,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 164,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 165,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 166,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 167,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 168,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 169,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 170,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 171,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 172,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 173,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 174,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 175,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 176,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 177,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 178,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 179,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 180,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 181,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 182,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 183,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 184,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 185,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 186,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 187,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 188,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 189,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 190,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 191,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 192,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 193,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 194,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 195,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 196,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 197,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 198,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 199,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 200,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 201,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 202,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 203,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 204,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 205,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 206,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 207,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 208,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 209,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 210,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 211,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 212,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 213,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 214,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 215,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 216,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 217,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 218,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 219,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 220,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 221,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 222,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 223,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 224,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 225,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 226,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 227,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 228,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 229,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 230,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 231,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 232,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 233,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 234,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 235,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 236,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 237,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 238,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 239,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 240,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 241,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 242,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 243,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 244,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 245,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 246,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 247,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 248,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 249,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 250,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 251,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 252,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 253,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 254,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 255,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 256,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 257,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 258,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 259,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 260,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 261,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 262,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 263,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 264,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 265,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 266,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 267,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 268,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 269,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 270,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 271,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 272,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 273,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 274,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 275,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 276,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 277,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 278,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 279,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 280,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 281,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 282,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 283,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 284,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 285,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 286,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 287,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 288,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 289,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 290,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 291,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 292,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 293,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 294,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 295,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 296,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 297,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 298,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 299,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 300,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 301,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 302,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 303,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 304,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 305,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 306,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 307,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 308,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 309,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 310,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 311,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 312,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 313,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 314,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 315,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 316,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 317,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 318,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 319,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 320,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 321,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 322,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 323,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 324,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 325,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 326,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 327,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 328,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 329,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 330,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 331,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 332,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 333,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 334,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 335,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 336,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 337,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 338,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 339,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 340,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 341,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 342,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 343,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 344,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 345,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 346,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 347,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 348,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 349,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 350,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 351,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 352,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 353,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 354,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 355,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 356,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 357,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 358,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 359,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 360,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 361,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 362,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 363,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 364,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 365,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 366,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 367,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 368,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 369,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 370,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 371,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 372,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 373,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 374,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 375,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 376,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 377,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 378,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 379,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 380,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 381,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 382,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 383,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 384,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 385,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 386,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 387,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 388,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 389,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 390,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 391,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 392,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 393,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 394,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 395,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 396,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 397,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 398,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 399,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 400,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 401,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 402,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 403,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 404,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 405,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 406,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 407,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 408,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 409,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 410,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 411,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 412,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 413,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 414,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 415,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 416,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 417,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 418,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 419,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 420,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 421,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 422,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 423,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 424,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 425,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 426,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 427,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 428,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 429,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 430,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 431,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 432,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 433,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 434,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 435,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 436,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 437,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 438,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 439,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 440,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 441,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 442,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 443,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 444,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 445,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 446,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 447,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 448,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 449,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 450,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 451,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 452,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 453,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 454,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 455,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 456,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 457,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 458,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 459,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 460,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 461,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 462,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 463,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 464,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 465,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 466,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 467,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 468,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 469,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 470,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 471,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 472,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 473,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 474,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 475,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 476,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 477,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 478,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 479,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 480,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 481,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 482,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 483,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 484,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 485,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 486,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 487,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 488,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 489,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 490,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 491,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 492,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 493,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 494,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 495,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 496,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 497,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 498,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 499,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 500,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 501,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 502,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 503,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 504,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 505,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 506,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 507,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 508,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 509,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 510,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 511,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 512,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 513,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 514,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 515,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 516,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 517,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 518,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 519,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 520,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 521,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 522,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 523,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 524,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 525,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 526,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 527,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 528,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 529,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 530,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 531,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 532,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 533,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 534,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 535,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 536,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 537,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 538,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 539,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 540,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 541,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 542,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 543,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 544,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 545,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 546,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 547,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 548,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 549,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 550,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 551,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 552,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 553,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 554,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 555,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 556,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 557,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 558,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 559,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 560,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 561,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 562,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 563,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 564,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 565,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 566,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 567,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 568,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 569,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 570,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 571,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 572,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 573,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 574,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 575,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 576,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 577,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 578,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 579,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 580,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 581,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 582,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 583,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 584,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 585,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 586,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 587,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 588,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 589,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 590,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 591,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 592,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 593,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 594,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 595,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 596,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 597,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 598,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 599,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 600,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 601,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 602,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 603,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 604,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 605,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 606,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 607,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 608,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 609,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 610,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 611,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 612,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 613,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 614,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 615,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 616,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 617,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 618,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 619,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 620,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 621,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 622,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 623,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 624,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 625,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 626,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 627,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 628,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 629,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 630,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 631,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 632,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 633,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 634,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 635,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 636,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 637,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 638,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 639,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 640,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 641,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 642,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 643,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 644,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 645,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 646,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 647,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 648,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 649,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 650,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 651,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 652,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 653,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 654,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 655,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 656,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 657,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 658,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 659,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 660,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 661,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 662,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 663,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 664,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 665,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 666,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 667,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 668,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 669,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 670,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 671,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 672,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 673,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 674,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 675,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 676,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 677,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 678,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 679,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 680,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 681,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 682,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 683,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 684,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 685,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 686,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 687,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 688,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 689,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 690,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 691,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 692,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 693,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 694,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 695,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 696,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 697,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 698,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 699,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 700,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 701,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 702,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 703,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 704,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 705,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 706,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 707,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 708,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 709,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 710,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 711,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 712,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 713,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 714,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 715,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 716,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 717,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 718,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 719,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 720,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 721,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 722,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 723,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 724,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 725,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 726,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 727,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 728,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 729,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 730,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 731,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 732,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 733,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 734,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 735,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 736,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 737,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 738,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 739,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 740,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 741,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 742,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 743,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 744,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 745,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 746,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 747,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 748,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 749,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 750,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 751,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 752,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 753,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 754,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 755,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 756,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 757,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 758,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 759,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 760,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 761,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 762,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 763,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 764,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 765,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 766,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 767,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 768,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 769,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 770,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 771,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 772,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 773,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 774,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 775,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 776,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 777,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 778,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 779,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 780,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 781,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 782,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 783,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 784,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 785,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 786,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 787,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 788,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 789,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 790,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 791,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 792,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 793,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 794,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 795,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 796,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 797,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 798,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 799,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 800,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 801,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 802,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 803,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 804,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 805,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 806,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 807,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 808,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 809,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 810,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 811,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 812,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 813,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 814,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 815,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 816,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 817,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 818,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 819,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 820,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 821,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 822,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 823,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 824,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 825,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 826,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 827,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 828,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 829,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 830,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 831,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 832,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 833,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 834,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 835,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 836,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 837,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 838,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 839,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 840,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 841,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 842,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 843,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 844,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 845,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 846,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 847,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 848,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 849,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 850,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 851,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 852,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 853,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 854,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 855,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 856,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 857,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 858,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 859,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 860,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 861,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 862,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 863,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 864,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 865,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 866,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 867,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 868,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 869,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 870,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 871,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 872,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 873,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 874,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 875,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 876,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 877,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 878,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 879,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 880,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 881,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 882,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 883,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 884,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 885,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 886,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 887,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 888,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 889,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 890,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 891,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 892,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 893,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 894,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 895,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 896,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 897,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 898,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 899,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 900,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 901,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 902,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 903,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 904,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 905,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 906,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 907,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 908,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 909,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 910,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 911,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 912,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 913,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 914,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 915,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 916,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 917,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 918,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 919,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 920,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 921,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 922,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 923,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 924,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 925,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 926,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 927,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 928,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 929,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 930,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 931,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 932,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 933,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 934,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 935,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 936,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 937,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 938,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 939,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 940,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 941,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 942,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 943,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 944,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 945,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 946,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 947,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 948,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 949,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 950,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 951,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 952,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 953,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 954,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 955,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 956,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 957,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 958,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 959,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 960,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 961,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 962,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 963,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 964,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 965,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 966,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 967,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 968,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 969,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 970,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 971,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 972,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 973,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 974,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 975,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 976,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 977,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 978,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 979,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 980,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 981,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 982,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 983,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 984,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 985,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 986,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 987,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 988,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 989,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 990,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 991,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 992,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  },
+  {
+    "COMPLIANCE_ID": 993,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 994,
+    "POLICY_ID": "GDPR",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 995,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 996,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 997,
+    "POLICY_ID": "RET-7Y",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 998,
+    "POLICY_ID": "SOX",
+    "CHECK_RESULT": "COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 999,
+    "POLICY_ID": "POL-001",
+    "CHECK_RESULT": "NON_COMPLIANT"
+  },
+  {
+    "COMPLIANCE_ID": 1000,
+    "POLICY_ID": "POL-002",
+    "CHECK_RESULT": "PENDING"
+  }
+]

@@ -1,0 +1,6002 @@
+[
+  {
+    "PRICE_ID": 1,
+    "PRODUCT_ID": 1,
+    "EFFECTIVE_FROM": "2023-11-03",
+    "UNIT_PRICE": 441.65
+  },
+  {
+    "PRICE_ID": 2,
+    "PRODUCT_ID": 2,
+    "EFFECTIVE_FROM": "2023-09-01",
+    "UNIT_PRICE": 311.75
+  },
+  {
+    "PRICE_ID": 3,
+    "PRODUCT_ID": 3,
+    "EFFECTIVE_FROM": "2023-10-14",
+    "UNIT_PRICE": 133.23
+  },
+  {
+    "PRICE_ID": 4,
+    "PRODUCT_ID": 4,
+    "EFFECTIVE_FROM": "2024-08-09",
+    "UNIT_PRICE": 457.37
+  },
+  {
+    "PRICE_ID": 5,
+    "PRODUCT_ID": 5,
+    "EFFECTIVE_FROM": "2024-08-21",
+    "UNIT_PRICE": 116.46
+  },
+  {
+    "PRICE_ID": 6,
+    "PRODUCT_ID": 6,
+    "EFFECTIVE_FROM": "2023-06-10",
+    "UNIT_PRICE": 177.51
+  },
+  {
+    "PRICE_ID": 7,
+    "PRODUCT_ID": 7,
+    "EFFECTIVE_FROM": "2023-07-17",
+    "UNIT_PRICE": 127.4
+  },
+  {
+    "PRICE_ID": 8,
+    "PRODUCT_ID": 8,
+    "EFFECTIVE_FROM": "2023-06-27",
+    "UNIT_PRICE": 8.25
+  },
+  {
+    "PRICE_ID": 9,
+    "PRODUCT_ID": 9,
+    "EFFECTIVE_FROM": "2023-06-21",
+    "UNIT_PRICE": 126.12
+  },
+  {
+    "PRICE_ID": 10,
+    "PRODUCT_ID": 10,
+    "EFFECTIVE_FROM": "2023-03-10",
+    "UNIT_PRICE": 25.16
+  },
+  {
+    "PRICE_ID": 11,
+    "PRODUCT_ID": 11,
+    "EFFECTIVE_FROM": "2024-01-19",
+    "UNIT_PRICE": 453.4
+  },
+  {
+    "PRICE_ID": 12,
+    "PRODUCT_ID": 12,
+    "EFFECTIVE_FROM": "2023-12-06",
+    "UNIT_PRICE": 175.31
+  },
+  {
+    "PRICE_ID": 13,
+    "PRODUCT_ID": 13,
+    "EFFECTIVE_FROM": "2023-03-02",
+    "UNIT_PRICE": 61.19
+  },
+  {
+    "PRICE_ID": 14,
+    "PRODUCT_ID": 14,
+    "EFFECTIVE_FROM": "2023-08-20",
+    "UNIT_PRICE": 494.71
+  },
+  {
+    "PRICE_ID": 15,
+    "PRODUCT_ID": 15,
+    "EFFECTIVE_FROM": "2023-10-18",
+    "UNIT_PRICE": 167.64
+  },
+  {
+    "PRICE_ID": 16,
+    "PRODUCT_ID": 16,
+    "EFFECTIVE_FROM": "2024-11-30",
+    "UNIT_PRICE": 449.24
+  },
+  {
+    "PRICE_ID": 17,
+    "PRODUCT_ID": 17,
+    "EFFECTIVE_FROM": "2023-08-20",
+    "UNIT_PRICE": 428.38
+  },
+  {
+    "PRICE_ID": 18,
+    "PRODUCT_ID": 18,
+    "EFFECTIVE_FROM": "2024-08-17",
+    "UNIT_PRICE": 254.63
+  },
+  {
+    "PRICE_ID": 19,
+    "PRODUCT_ID": 19,
+    "EFFECTIVE_FROM": "2024-07-21",
+    "UNIT_PRICE": 405.23
+  },
+  {
+    "PRICE_ID": 20,
+    "PRODUCT_ID": 20,
+    "EFFECTIVE_FROM": "2023-10-19",
+    "UNIT_PRICE": 349.1
+  },
+  {
+    "PRICE_ID": 21,
+    "PRODUCT_ID": 21,
+    "EFFECTIVE_FROM": "2023-08-02",
+    "UNIT_PRICE": 313.77
+  },
+  {
+    "PRICE_ID": 22,
+    "PRODUCT_ID": 22,
+    "EFFECTIVE_FROM": "2023-09-09",
+    "UNIT_PRICE": 100.41
+  },
+  {
+    "PRICE_ID": 23,
+    "PRODUCT_ID": 23,
+    "EFFECTIVE_FROM": "2023-06-16",
+    "UNIT_PRICE": 150.8
+  },
+  {
+    "PRICE_ID": 24,
+    "PRODUCT_ID": 24,
+    "EFFECTIVE_FROM": "2023-09-10",
+    "UNIT_PRICE": 200.09
+  },
+  {
+    "PRICE_ID": 25,
+    "PRODUCT_ID": 25,
+    "EFFECTIVE_FROM": "2023-06-17",
+    "UNIT_PRICE": 298.09
+  },
+  {
+    "PRICE_ID": 26,
+    "PRODUCT_ID": 26,
+    "EFFECTIVE_FROM": "2023-05-16",
+    "UNIT_PRICE": 8.59
+  },
+  {
+    "PRICE_ID": 27,
+    "PRODUCT_ID": 27,
+    "EFFECTIVE_FROM": "2024-07-04",
+    "UNIT_PRICE": 18.19
+  },
+  {
+    "PRICE_ID": 28,
+    "PRODUCT_ID": 28,
+    "EFFECTIVE_FROM": "2024-07-31",
+    "UNIT_PRICE": 374.58
+  },
+  {
+    "PRICE_ID": 29,
+    "PRODUCT_ID": 29,
+    "EFFECTIVE_FROM": "2024-07-05",
+    "UNIT_PRICE": 499.91
+  },
+  {
+    "PRICE_ID": 30,
+    "PRODUCT_ID": 30,
+    "EFFECTIVE_FROM": "2023-08-25",
+    "UNIT_PRICE": 65.61
+  },
+  {
+    "PRICE_ID": 31,
+    "PRODUCT_ID": 31,
+    "EFFECTIVE_FROM": "2023-10-03",
+    "UNIT_PRICE": 377.57
+  },
+  {
+    "PRICE_ID": 32,
+    "PRODUCT_ID": 32,
+    "EFFECTIVE_FROM": "2023-04-03",
+    "UNIT_PRICE": 85.04
+  },
+  {
+    "PRICE_ID": 33,
+    "PRODUCT_ID": 33,
+    "EFFECTIVE_FROM": "2024-08-16",
+    "UNIT_PRICE": 33.48
+  },
+  {
+    "PRICE_ID": 34,
+    "PRODUCT_ID": 34,
+    "EFFECTIVE_FROM": "2023-12-08",
+    "UNIT_PRICE": 376.92
+  },
+  {
+    "PRICE_ID": 35,
+    "PRODUCT_ID": 35,
+    "EFFECTIVE_FROM": "2024-02-07",
+    "UNIT_PRICE": 159.96
+  },
+  {
+    "PRICE_ID": 36,
+    "PRODUCT_ID": 36,
+    "EFFECTIVE_FROM": "2024-09-18",
+    "UNIT_PRICE": 302.57
+  },
+  {
+    "PRICE_ID": 37,
+    "PRODUCT_ID": 37,
+    "EFFECTIVE_FROM": "2023-05-18",
+    "UNIT_PRICE": 475.93
+  },
+  {
+    "PRICE_ID": 38,
+    "PRODUCT_ID": 38,
+    "EFFECTIVE_FROM": "2023-05-01",
+    "UNIT_PRICE": 75.61
+  },
+  {
+    "PRICE_ID": 39,
+    "PRODUCT_ID": 39,
+    "EFFECTIVE_FROM": "2024-05-23",
+    "UNIT_PRICE": 203.74
+  },
+  {
+    "PRICE_ID": 40,
+    "PRODUCT_ID": 40,
+    "EFFECTIVE_FROM": "2023-03-19",
+    "UNIT_PRICE": 243.16
+  },
+  {
+    "PRICE_ID": 41,
+    "PRODUCT_ID": 41,
+    "EFFECTIVE_FROM": "2023-11-13",
+    "UNIT_PRICE": 296.06
+  },
+  {
+    "PRICE_ID": 42,
+    "PRODUCT_ID": 42,
+    "EFFECTIVE_FROM": "2023-10-12",
+    "UNIT_PRICE": 84.23
+  },
+  {
+    "PRICE_ID": 43,
+    "PRODUCT_ID": 43,
+    "EFFECTIVE_FROM": "2023-01-16",
+    "UNIT_PRICE": 195.05
+  },
+  {
+    "PRICE_ID": 44,
+    "PRODUCT_ID": 44,
+    "EFFECTIVE_FROM": "2024-09-01",
+    "UNIT_PRICE": 388.56
+  },
+  {
+    "PRICE_ID": 45,
+    "PRODUCT_ID": 45,
+    "EFFECTIVE_FROM": "2023-10-02",
+    "UNIT_PRICE": 322.25
+  },
+  {
+    "PRICE_ID": 46,
+    "PRODUCT_ID": 46,
+    "EFFECTIVE_FROM": "2024-08-02",
+    "UNIT_PRICE": 105.56
+  },
+  {
+    "PRICE_ID": 47,
+    "PRODUCT_ID": 47,
+    "EFFECTIVE_FROM": "2024-04-03",
+    "UNIT_PRICE": 174.24
+  },
+  {
+    "PRICE_ID": 48,
+    "PRODUCT_ID": 48,
+    "EFFECTIVE_FROM": "2023-04-11",
+    "UNIT_PRICE": 295.05
+  },
+  {
+    "PRICE_ID": 49,
+    "PRODUCT_ID": 49,
+    "EFFECTIVE_FROM": "2023-07-05",
+    "UNIT_PRICE": 200.78
+  },
+  {
+    "PRICE_ID": 50,
+    "PRODUCT_ID": 50,
+    "EFFECTIVE_FROM": "2023-03-19",
+    "UNIT_PRICE": 352.98
+  },
+  {
+    "PRICE_ID": 51,
+    "PRODUCT_ID": 51,
+    "EFFECTIVE_FROM": "2023-04-13",
+    "UNIT_PRICE": 243.4
+  },
+  {
+    "PRICE_ID": 52,
+    "PRODUCT_ID": 52,
+    "EFFECTIVE_FROM": "2023-08-26",
+    "UNIT_PRICE": 362.66
+  },
+  {
+    "PRICE_ID": 53,
+    "PRODUCT_ID": 53,
+    "EFFECTIVE_FROM": "2023-05-12",
+    "UNIT_PRICE": 472.36
+  },
+  {
+    "PRICE_ID": 54,
+    "PRODUCT_ID": 54,
+    "EFFECTIVE_FROM": "2023-10-08",
+    "UNIT_PRICE": 239.36
+  },
+  {
+    "PRICE_ID": 55,
+    "PRODUCT_ID": 55,
+    "EFFECTIVE_FROM": "2023-06-04",
+    "UNIT_PRICE": 335.55
+  },
+  {
+    "PRICE_ID": 56,
+    "PRODUCT_ID": 56,
+    "EFFECTIVE_FROM": "2024-06-04",
+    "UNIT_PRICE": 316.63
+  },
+  {
+    "PRICE_ID": 57,
+    "PRODUCT_ID": 57,
+    "EFFECTIVE_FROM": "2024-02-13",
+    "UNIT_PRICE": 129.68
+  },
+  {
+    "PRICE_ID": 58,
+    "PRODUCT_ID": 58,
+    "EFFECTIVE_FROM": "2023-04-16",
+    "UNIT_PRICE": 449.16
+  },
+  {
+    "PRICE_ID": 59,
+    "PRODUCT_ID": 59,
+    "EFFECTIVE_FROM": "2023-05-26",
+    "UNIT_PRICE": 352.1
+  },
+  {
+    "PRICE_ID": 60,
+    "PRODUCT_ID": 60,
+    "EFFECTIVE_FROM": "2024-09-27",
+    "UNIT_PRICE": 215.73
+  },
+  {
+    "PRICE_ID": 61,
+    "PRODUCT_ID": 61,
+    "EFFECTIVE_FROM": "2024-04-04",
+    "UNIT_PRICE": 405.28
+  },
+  {
+    "PRICE_ID": 62,
+    "PRODUCT_ID": 62,
+    "EFFECTIVE_FROM": "2023-08-23",
+    "UNIT_PRICE": 18.09
+  },
+  {
+    "PRICE_ID": 63,
+    "PRODUCT_ID": 63,
+    "EFFECTIVE_FROM": "2024-08-07",
+    "UNIT_PRICE": 298.58
+  },
+  {
+    "PRICE_ID": 64,
+    "PRODUCT_ID": 64,
+    "EFFECTIVE_FROM": "2024-11-06",
+    "UNIT_PRICE": 372.2
+  },
+  {
+    "PRICE_ID": 65,
+    "PRODUCT_ID": 65,
+    "EFFECTIVE_FROM": "2024-06-29",
+    "UNIT_PRICE": 451.68
+  },
+  {
+    "PRICE_ID": 66,
+    "PRODUCT_ID": 66,
+    "EFFECTIVE_FROM": "2023-11-19",
+    "UNIT_PRICE": 437.91
+  },
+  {
+    "PRICE_ID": 67,
+    "PRODUCT_ID": 67,
+    "EFFECTIVE_FROM": "2023-10-04",
+    "UNIT_PRICE": 35.24
+  },
+  {
+    "PRICE_ID": 68,
+    "PRODUCT_ID": 68,
+    "EFFECTIVE_FROM": "2023-06-20",
+    "UNIT_PRICE": 354.05
+  },
+  {
+    "PRICE_ID": 69,
+    "PRODUCT_ID": 69,
+    "EFFECTIVE_FROM": "2023-03-06",
+    "UNIT_PRICE": 180.15
+  },
+  {
+    "PRICE_ID": 70,
+    "PRODUCT_ID": 70,
+    "EFFECTIVE_FROM": "2023-08-24",
+    "UNIT_PRICE": 430.73
+  },
+  {
+    "PRICE_ID": 71,
+    "PRODUCT_ID": 71,
+    "EFFECTIVE_FROM": "2023-12-30",
+    "UNIT_PRICE": 9.92
+  },
+  {
+    "PRICE_ID": 72,
+    "PRODUCT_ID": 72,
+    "EFFECTIVE_FROM": "2023-04-07",
+    "UNIT_PRICE": 139.1
+  },
+  {
+    "PRICE_ID": 73,
+    "PRODUCT_ID": 73,
+    "EFFECTIVE_FROM": "2023-05-23",
+    "UNIT_PRICE": 54.68
+  },
+  {
+    "PRICE_ID": 74,
+    "PRODUCT_ID": 74,
+    "EFFECTIVE_FROM": "2024-10-17",
+    "UNIT_PRICE": 57.01
+  },
+  {
+    "PRICE_ID": 75,
+    "PRODUCT_ID": 75,
+    "EFFECTIVE_FROM": "2023-09-01",
+    "UNIT_PRICE": 334.76
+  },
+  {
+    "PRICE_ID": 76,
+    "PRODUCT_ID": 76,
+    "EFFECTIVE_FROM": "2023-02-20",
+    "UNIT_PRICE": 261.13
+  },
+  {
+    "PRICE_ID": 77,
+    "PRODUCT_ID": 77,
+    "EFFECTIVE_FROM": "2024-03-28",
+    "UNIT_PRICE": 245.13
+  },
+  {
+    "PRICE_ID": 78,
+    "PRODUCT_ID": 78,
+    "EFFECTIVE_FROM": "2024-08-28",
+    "UNIT_PRICE": 233.19
+  },
+  {
+    "PRICE_ID": 79,
+    "PRODUCT_ID": 79,
+    "EFFECTIVE_FROM": "2023-05-24",
+    "UNIT_PRICE": 134.16
+  },
+  {
+    "PRICE_ID": 80,
+    "PRODUCT_ID": 80,
+    "EFFECTIVE_FROM": "2024-09-11",
+    "UNIT_PRICE": 487.04
+  },
+  {
+    "PRICE_ID": 81,
+    "PRODUCT_ID": 81,
+    "EFFECTIVE_FROM": "2024-01-19",
+    "UNIT_PRICE": 347.75
+  },
+  {
+    "PRICE_ID": 82,
+    "PRODUCT_ID": 82,
+    "EFFECTIVE_FROM": "2023-09-15",
+    "UNIT_PRICE": 430.68
+  },
+  {
+    "PRICE_ID": 83,
+    "PRODUCT_ID": 83,
+    "EFFECTIVE_FROM": "2023-06-07",
+    "UNIT_PRICE": 485.52
+  },
+  {
+    "PRICE_ID": 84,
+    "PRODUCT_ID": 84,
+    "EFFECTIVE_FROM": "2024-05-28",
+    "UNIT_PRICE": 274.9
+  },
+  {
+    "PRICE_ID": 85,
+    "PRODUCT_ID": 85,
+    "EFFECTIVE_FROM": "2024-12-26",
+    "UNIT_PRICE": 410.23
+  },
+  {
+    "PRICE_ID": 86,
+    "PRODUCT_ID": 86,
+    "EFFECTIVE_FROM": "2024-10-05",
+    "UNIT_PRICE": 399.96
+  },
+  {
+    "PRICE_ID": 87,
+    "PRODUCT_ID": 87,
+    "EFFECTIVE_FROM": "2023-11-26",
+    "UNIT_PRICE": 351.7
+  },
+  {
+    "PRICE_ID": 88,
+    "PRODUCT_ID": 88,
+    "EFFECTIVE_FROM": "2024-07-06",
+    "UNIT_PRICE": 396.65
+  },
+  {
+    "PRICE_ID": 89,
+    "PRODUCT_ID": 89,
+    "EFFECTIVE_FROM": "2024-08-27",
+    "UNIT_PRICE": 94.26
+  },
+  {
+    "PRICE_ID": 90,
+    "PRODUCT_ID": 90,
+    "EFFECTIVE_FROM": "2023-01-08",
+    "UNIT_PRICE": 154.74
+  },
+  {
+    "PRICE_ID": 91,
+    "PRODUCT_ID": 91,
+    "EFFECTIVE_FROM": "2024-07-09",
+    "UNIT_PRICE": 244.14
+  },
+  {
+    "PRICE_ID": 92,
+    "PRODUCT_ID": 92,
+    "EFFECTIVE_FROM": "2023-02-12",
+    "UNIT_PRICE": 218.55
+  },
+  {
+    "PRICE_ID": 93,
+    "PRODUCT_ID": 93,
+    "EFFECTIVE_FROM": "2024-10-11",
+    "UNIT_PRICE": 194.19
+  },
+  {
+    "PRICE_ID": 94,
+    "PRODUCT_ID": 94,
+    "EFFECTIVE_FROM": "2024-08-11",
+    "UNIT_PRICE": 103.15
+  },
+  {
+    "PRICE_ID": 95,
+    "PRODUCT_ID": 95,
+    "EFFECTIVE_FROM": "2023-08-02",
+    "UNIT_PRICE": 440.91
+  },
+  {
+    "PRICE_ID": 96,
+    "PRODUCT_ID": 96,
+    "EFFECTIVE_FROM": "2023-06-24",
+    "UNIT_PRICE": 296.51
+  },
+  {
+    "PRICE_ID": 97,
+    "PRODUCT_ID": 97,
+    "EFFECTIVE_FROM": "2024-07-25",
+    "UNIT_PRICE": 217.85
+  },
+  {
+    "PRICE_ID": 98,
+    "PRODUCT_ID": 98,
+    "EFFECTIVE_FROM": "2023-04-08",
+    "UNIT_PRICE": 182.19
+  },
+  {
+    "PRICE_ID": 99,
+    "PRODUCT_ID": 99,
+    "EFFECTIVE_FROM": "2024-09-24",
+    "UNIT_PRICE": 471.66
+  },
+  {
+    "PRICE_ID": 100,
+    "PRODUCT_ID": 100,
+    "EFFECTIVE_FROM": "2023-06-19",
+    "UNIT_PRICE": 173.45
+  },
+  {
+    "PRICE_ID": 101,
+    "PRODUCT_ID": 101,
+    "EFFECTIVE_FROM": "2024-07-09",
+    "UNIT_PRICE": 334.43
+  },
+  {
+    "PRICE_ID": 102,
+    "PRODUCT_ID": 102,
+    "EFFECTIVE_FROM": "2024-03-19",
+    "UNIT_PRICE": 141.09
+  },
+  {
+    "PRICE_ID": 103,
+    "PRODUCT_ID": 103,
+    "EFFECTIVE_FROM": "2024-06-16",
+    "UNIT_PRICE": 170.1
+  },
+  {
+    "PRICE_ID": 104,
+    "PRODUCT_ID": 104,
+    "EFFECTIVE_FROM": "2024-05-30",
+    "UNIT_PRICE": 393.88
+  },
+  {
+    "PRICE_ID": 105,
+    "PRODUCT_ID": 105,
+    "EFFECTIVE_FROM": "2024-01-03",
+    "UNIT_PRICE": 368.94
+  },
+  {
+    "PRICE_ID": 106,
+    "PRODUCT_ID": 106,
+    "EFFECTIVE_FROM": "2024-06-27",
+    "UNIT_PRICE": 100.09
+  },
+  {
+    "PRICE_ID": 107,
+    "PRODUCT_ID": 107,
+    "EFFECTIVE_FROM": "2024-07-08",
+    "UNIT_PRICE": 90.04
+  },
+  {
+    "PRICE_ID": 108,
+    "PRODUCT_ID": 108,
+    "EFFECTIVE_FROM": "2023-11-25",
+    "UNIT_PRICE": 351.24
+  },
+  {
+    "PRICE_ID": 109,
+    "PRODUCT_ID": 109,
+    "EFFECTIVE_FROM": "2024-12-28",
+    "UNIT_PRICE": 397.9
+  },
+  {
+    "PRICE_ID": 110,
+    "PRODUCT_ID": 110,
+    "EFFECTIVE_FROM": "2023-05-19",
+    "UNIT_PRICE": 205.24
+  },
+  {
+    "PRICE_ID": 111,
+    "PRODUCT_ID": 111,
+    "EFFECTIVE_FROM": "2023-06-26",
+    "UNIT_PRICE": 13.9
+  },
+  {
+    "PRICE_ID": 112,
+    "PRODUCT_ID": 112,
+    "EFFECTIVE_FROM": "2024-06-04",
+    "UNIT_PRICE": 136.73
+  },
+  {
+    "PRICE_ID": 113,
+    "PRODUCT_ID": 113,
+    "EFFECTIVE_FROM": "2024-05-08",
+    "UNIT_PRICE": 67.04
+  },
+  {
+    "PRICE_ID": 114,
+    "PRODUCT_ID": 114,
+    "EFFECTIVE_FROM": "2024-08-21",
+    "UNIT_PRICE": 390.56
+  },
+  {
+    "PRICE_ID": 115,
+    "PRODUCT_ID": 115,
+    "EFFECTIVE_FROM": "2024-01-07",
+    "UNIT_PRICE": 156.05
+  },
+  {
+    "PRICE_ID": 116,
+    "PRODUCT_ID": 116,
+    "EFFECTIVE_FROM": "2023-08-10",
+    "UNIT_PRICE": 431.82
+  },
+  {
+    "PRICE_ID": 117,
+    "PRODUCT_ID": 117,
+    "EFFECTIVE_FROM": "2024-10-14",
+    "UNIT_PRICE": 438.07
+  },
+  {
+    "PRICE_ID": 118,
+    "PRODUCT_ID": 118,
+    "EFFECTIVE_FROM": "2024-01-18",
+    "UNIT_PRICE": 44.68
+  },
+  {
+    "PRICE_ID": 119,
+    "PRODUCT_ID": 119,
+    "EFFECTIVE_FROM": "2024-08-22",
+    "UNIT_PRICE": 198.94
+  },
+  {
+    "PRICE_ID": 120,
+    "PRODUCT_ID": 120,
+    "EFFECTIVE_FROM": "2024-07-22",
+    "UNIT_PRICE": 83.72
+  },
+  {
+    "PRICE_ID": 121,
+    "PRODUCT_ID": 121,
+    "EFFECTIVE_FROM": "2023-07-07",
+    "UNIT_PRICE": 435.44
+  },
+  {
+    "PRICE_ID": 122,
+    "PRODUCT_ID": 122,
+    "EFFECTIVE_FROM": "2023-01-09",
+    "UNIT_PRICE": 378.72
+  },
+  {
+    "PRICE_ID": 123,
+    "PRODUCT_ID": 123,
+    "EFFECTIVE_FROM": "2024-06-30",
+    "UNIT_PRICE": 95.76
+  },
+  {
+    "PRICE_ID": 124,
+    "PRODUCT_ID": 124,
+    "EFFECTIVE_FROM": "2024-11-10",
+    "UNIT_PRICE": 467.24
+  },
+  {
+    "PRICE_ID": 125,
+    "PRODUCT_ID": 125,
+    "EFFECTIVE_FROM": "2024-02-20",
+    "UNIT_PRICE": 88.16
+  },
+  {
+    "PRICE_ID": 126,
+    "PRODUCT_ID": 126,
+    "EFFECTIVE_FROM": "2023-11-04",
+    "UNIT_PRICE": 226.37
+  },
+  {
+    "PRICE_ID": 127,
+    "PRODUCT_ID": 127,
+    "EFFECTIVE_FROM": "2024-07-19",
+    "UNIT_PRICE": 208.54
+  },
+  {
+    "PRICE_ID": 128,
+    "PRODUCT_ID": 128,
+    "EFFECTIVE_FROM": "2024-08-26",
+    "UNIT_PRICE": 381.44
+  },
+  {
+    "PRICE_ID": 129,
+    "PRODUCT_ID": 129,
+    "EFFECTIVE_FROM": "2023-07-04",
+    "UNIT_PRICE": 324.83
+  },
+  {
+    "PRICE_ID": 130,
+    "PRODUCT_ID": 130,
+    "EFFECTIVE_FROM": "2023-04-03",
+    "UNIT_PRICE": 426.29
+  },
+  {
+    "PRICE_ID": 131,
+    "PRODUCT_ID": 131,
+    "EFFECTIVE_FROM": "2023-06-23",
+    "UNIT_PRICE": 397.49
+  },
+  {
+    "PRICE_ID": 132,
+    "PRODUCT_ID": 132,
+    "EFFECTIVE_FROM": "2023-09-09",
+    "UNIT_PRICE": 461.42
+  },
+  {
+    "PRICE_ID": 133,
+    "PRODUCT_ID": 133,
+    "EFFECTIVE_FROM": "2023-03-31",
+    "UNIT_PRICE": 147.3
+  },
+  {
+    "PRICE_ID": 134,
+    "PRODUCT_ID": 134,
+    "EFFECTIVE_FROM": "2024-08-10",
+    "UNIT_PRICE": 91.63
+  },
+  {
+    "PRICE_ID": 135,
+    "PRODUCT_ID": 135,
+    "EFFECTIVE_FROM": "2023-01-12",
+    "UNIT_PRICE": 395.09
+  },
+  {
+    "PRICE_ID": 136,
+    "PRODUCT_ID": 136,
+    "EFFECTIVE_FROM": "2024-09-12",
+    "UNIT_PRICE": 352.57
+  },
+  {
+    "PRICE_ID": 137,
+    "PRODUCT_ID": 137,
+    "EFFECTIVE_FROM": "2024-03-03",
+    "UNIT_PRICE": 200.24
+  },
+  {
+    "PRICE_ID": 138,
+    "PRODUCT_ID": 138,
+    "EFFECTIVE_FROM": "2024-12-11",
+    "UNIT_PRICE": 224.48
+  },
+  {
+    "PRICE_ID": 139,
+    "PRODUCT_ID": 139,
+    "EFFECTIVE_FROM": "2023-05-18",
+    "UNIT_PRICE": 207.91
+  },
+  {
+    "PRICE_ID": 140,
+    "PRODUCT_ID": 140,
+    "EFFECTIVE_FROM": "2023-01-01",
+    "UNIT_PRICE": 134.83
+  },
+  {
+    "PRICE_ID": 141,
+    "PRODUCT_ID": 141,
+    "EFFECTIVE_FROM": "2023-12-17",
+    "UNIT_PRICE": 414.88
+  },
+  {
+    "PRICE_ID": 142,
+    "PRODUCT_ID": 142,
+    "EFFECTIVE_FROM": "2023-02-23",
+    "UNIT_PRICE": 481.62
+  },
+  {
+    "PRICE_ID": 143,
+    "PRODUCT_ID": 143,
+    "EFFECTIVE_FROM": "2024-01-05",
+    "UNIT_PRICE": 218.0
+  },
+  {
+    "PRICE_ID": 144,
+    "PRODUCT_ID": 144,
+    "EFFECTIVE_FROM": "2023-07-09",
+    "UNIT_PRICE": 38.04
+  },
+  {
+    "PRICE_ID": 145,
+    "PRODUCT_ID": 145,
+    "EFFECTIVE_FROM": "2023-10-19",
+    "UNIT_PRICE": 325.27
+  },
+  {
+    "PRICE_ID": 146,
+    "PRODUCT_ID": 146,
+    "EFFECTIVE_FROM": "2023-01-20",
+    "UNIT_PRICE": 360.0
+  },
+  {
+    "PRICE_ID": 147,
+    "PRODUCT_ID": 147,
+    "EFFECTIVE_FROM": "2024-09-21",
+    "UNIT_PRICE": 42.06
+  },
+  {
+    "PRICE_ID": 148,
+    "PRODUCT_ID": 148,
+    "EFFECTIVE_FROM": "2023-03-28",
+    "UNIT_PRICE": 289.59
+  },
+  {
+    "PRICE_ID": 149,
+    "PRODUCT_ID": 149,
+    "EFFECTIVE_FROM": "2023-09-09",
+    "UNIT_PRICE": 188.51
+  },
+  {
+    "PRICE_ID": 150,
+    "PRODUCT_ID": 150,
+    "EFFECTIVE_FROM": "2023-07-25",
+    "UNIT_PRICE": 271.68
+  },
+  {
+    "PRICE_ID": 151,
+    "PRODUCT_ID": 151,
+    "EFFECTIVE_FROM": "2023-07-01",
+    "UNIT_PRICE": 71.56
+  },
+  {
+    "PRICE_ID": 152,
+    "PRODUCT_ID": 152,
+    "EFFECTIVE_FROM": "2023-11-02",
+    "UNIT_PRICE": 419.0
+  },
+  {
+    "PRICE_ID": 153,
+    "PRODUCT_ID": 153,
+    "EFFECTIVE_FROM": "2023-04-06",
+    "UNIT_PRICE": 47.99
+  },
+  {
+    "PRICE_ID": 154,
+    "PRODUCT_ID": 154,
+    "EFFECTIVE_FROM": "2024-08-29",
+    "UNIT_PRICE": 114.99
+  },
+  {
+    "PRICE_ID": 155,
+    "PRODUCT_ID": 155,
+    "EFFECTIVE_FROM": "2023-01-06",
+    "UNIT_PRICE": 348.94
+  },
+  {
+    "PRICE_ID": 156,
+    "PRODUCT_ID": 156,
+    "EFFECTIVE_FROM": "2024-03-05",
+    "UNIT_PRICE": 482.72
+  },
+  {
+    "PRICE_ID": 157,
+    "PRODUCT_ID": 157,
+    "EFFECTIVE_FROM": "2024-06-25",
+    "UNIT_PRICE": 76.07
+  },
+  {
+    "PRICE_ID": 158,
+    "PRODUCT_ID": 158,
+    "EFFECTIVE_FROM": "2024-05-12",
+    "UNIT_PRICE": 331.24
+  },
+  {
+    "PRICE_ID": 159,
+    "PRODUCT_ID": 159,
+    "EFFECTIVE_FROM": "2023-11-25",
+    "UNIT_PRICE": 202.99
+  },
+  {
+    "PRICE_ID": 160,
+    "PRODUCT_ID": 160,
+    "EFFECTIVE_FROM": "2024-02-14",
+    "UNIT_PRICE": 59.89
+  },
+  {
+    "PRICE_ID": 161,
+    "PRODUCT_ID": 161,
+    "EFFECTIVE_FROM": "2024-12-02",
+    "UNIT_PRICE": 375.44
+  },
+  {
+    "PRICE_ID": 162,
+    "PRODUCT_ID": 162,
+    "EFFECTIVE_FROM": "2023-02-26",
+    "UNIT_PRICE": 239.63
+  },
+  {
+    "PRICE_ID": 163,
+    "PRODUCT_ID": 163,
+    "EFFECTIVE_FROM": "2024-03-22",
+    "UNIT_PRICE": 435.8
+  },
+  {
+    "PRICE_ID": 164,
+    "PRODUCT_ID": 164,
+    "EFFECTIVE_FROM": "2024-02-05",
+    "UNIT_PRICE": 144.28
+  },
+  {
+    "PRICE_ID": 165,
+    "PRODUCT_ID": 165,
+    "EFFECTIVE_FROM": "2024-12-26",
+    "UNIT_PRICE": 265.23
+  },
+  {
+    "PRICE_ID": 166,
+    "PRODUCT_ID": 166,
+    "EFFECTIVE_FROM": "2023-12-29",
+    "UNIT_PRICE": 10.11
+  },
+  {
+    "PRICE_ID": 167,
+    "PRODUCT_ID": 167,
+    "EFFECTIVE_FROM": "2024-08-09",
+    "UNIT_PRICE": 166.15
+  },
+  {
+    "PRICE_ID": 168,
+    "PRODUCT_ID": 168,
+    "EFFECTIVE_FROM": "2024-04-19",
+    "UNIT_PRICE": 90.86
+  },
+  {
+    "PRICE_ID": 169,
+    "PRODUCT_ID": 169,
+    "EFFECTIVE_FROM": "2023-10-05",
+    "UNIT_PRICE": 214.71
+  },
+  {
+    "PRICE_ID": 170,
+    "PRODUCT_ID": 170,
+    "EFFECTIVE_FROM": "2024-03-31",
+    "UNIT_PRICE": 413.95
+  },
+  {
+    "PRICE_ID": 171,
+    "PRODUCT_ID": 171,
+    "EFFECTIVE_FROM": "2024-11-05",
+    "UNIT_PRICE": 77.57
+  },
+  {
+    "PRICE_ID": 172,
+    "PRODUCT_ID": 172,
+    "EFFECTIVE_FROM": "2023-08-17",
+    "UNIT_PRICE": 338.28
+  },
+  {
+    "PRICE_ID": 173,
+    "PRODUCT_ID": 173,
+    "EFFECTIVE_FROM": "2023-07-30",
+    "UNIT_PRICE": 491.6
+  },
+  {
+    "PRICE_ID": 174,
+    "PRODUCT_ID": 174,
+    "EFFECTIVE_FROM": "2023-07-22",
+    "UNIT_PRICE": 394.32
+  },
+  {
+    "PRICE_ID": 175,
+    "PRODUCT_ID": 175,
+    "EFFECTIVE_FROM": "2023-04-28",
+    "UNIT_PRICE": 11.15
+  },
+  {
+    "PRICE_ID": 176,
+    "PRODUCT_ID": 176,
+    "EFFECTIVE_FROM": "2024-09-24",
+    "UNIT_PRICE": 133.19
+  },
+  {
+    "PRICE_ID": 177,
+    "PRODUCT_ID": 177,
+    "EFFECTIVE_FROM": "2024-12-30",
+    "UNIT_PRICE": 51.11
+  },
+  {
+    "PRICE_ID": 178,
+    "PRODUCT_ID": 178,
+    "EFFECTIVE_FROM": "2024-03-21",
+    "UNIT_PRICE": 153.34
+  },
+  {
+    "PRICE_ID": 179,
+    "PRODUCT_ID": 179,
+    "EFFECTIVE_FROM": "2023-07-24",
+    "UNIT_PRICE": 359.13
+  },
+  {
+    "PRICE_ID": 180,
+    "PRODUCT_ID": 180,
+    "EFFECTIVE_FROM": "2024-02-03",
+    "UNIT_PRICE": 177.74
+  },
+  {
+    "PRICE_ID": 181,
+    "PRODUCT_ID": 181,
+    "EFFECTIVE_FROM": "2023-10-22",
+    "UNIT_PRICE": 62.57
+  },
+  {
+    "PRICE_ID": 182,
+    "PRODUCT_ID": 182,
+    "EFFECTIVE_FROM": "2023-07-21",
+    "UNIT_PRICE": 232.58
+  },
+  {
+    "PRICE_ID": 183,
+    "PRODUCT_ID": 183,
+    "EFFECTIVE_FROM": "2024-04-20",
+    "UNIT_PRICE": 237.58
+  },
+  {
+    "PRICE_ID": 184,
+    "PRODUCT_ID": 184,
+    "EFFECTIVE_FROM": "2024-02-02",
+    "UNIT_PRICE": 264.06
+  },
+  {
+    "PRICE_ID": 185,
+    "PRODUCT_ID": 185,
+    "EFFECTIVE_FROM": "2024-05-03",
+    "UNIT_PRICE": 475.76
+  },
+  {
+    "PRICE_ID": 186,
+    "PRODUCT_ID": 186,
+    "EFFECTIVE_FROM": "2023-02-02",
+    "UNIT_PRICE": 213.88
+  },
+  {
+    "PRICE_ID": 187,
+    "PRODUCT_ID": 187,
+    "EFFECTIVE_FROM": "2024-12-10",
+    "UNIT_PRICE": 108.17
+  },
+  {
+    "PRICE_ID": 188,
+    "PRODUCT_ID": 188,
+    "EFFECTIVE_FROM": "2023-09-15",
+    "UNIT_PRICE": 304.18
+  },
+  {
+    "PRICE_ID": 189,
+    "PRODUCT_ID": 189,
+    "EFFECTIVE_FROM": "2023-07-04",
+    "UNIT_PRICE": 313.72
+  },
+  {
+    "PRICE_ID": 190,
+    "PRODUCT_ID": 190,
+    "EFFECTIVE_FROM": "2023-02-16",
+    "UNIT_PRICE": 410.3
+  },
+  {
+    "PRICE_ID": 191,
+    "PRODUCT_ID": 191,
+    "EFFECTIVE_FROM": "2024-03-14",
+    "UNIT_PRICE": 405.38
+  },
+  {
+    "PRICE_ID": 192,
+    "PRODUCT_ID": 192,
+    "EFFECTIVE_FROM": "2024-04-29",
+    "UNIT_PRICE": 167.26
+  },
+  {
+    "PRICE_ID": 193,
+    "PRODUCT_ID": 193,
+    "EFFECTIVE_FROM": "2023-12-15",
+    "UNIT_PRICE": 54.54
+  },
+  {
+    "PRICE_ID": 194,
+    "PRODUCT_ID": 194,
+    "EFFECTIVE_FROM": "2024-07-17",
+    "UNIT_PRICE": 223.48
+  },
+  {
+    "PRICE_ID": 195,
+    "PRODUCT_ID": 195,
+    "EFFECTIVE_FROM": "2023-03-30",
+    "UNIT_PRICE": 418.77
+  },
+  {
+    "PRICE_ID": 196,
+    "PRODUCT_ID": 196,
+    "EFFECTIVE_FROM": "2024-05-21",
+    "UNIT_PRICE": 311.76
+  },
+  {
+    "PRICE_ID": 197,
+    "PRODUCT_ID": 197,
+    "EFFECTIVE_FROM": "2024-08-01",
+    "UNIT_PRICE": 98.45
+  },
+  {
+    "PRICE_ID": 198,
+    "PRODUCT_ID": 198,
+    "EFFECTIVE_FROM": "2023-11-03",
+    "UNIT_PRICE": 350.18
+  },
+  {
+    "PRICE_ID": 199,
+    "PRODUCT_ID": 199,
+    "EFFECTIVE_FROM": "2023-02-12",
+    "UNIT_PRICE": 441.69
+  },
+  {
+    "PRICE_ID": 200,
+    "PRODUCT_ID": 200,
+    "EFFECTIVE_FROM": "2023-10-21",
+    "UNIT_PRICE": 282.38
+  },
+  {
+    "PRICE_ID": 201,
+    "PRODUCT_ID": 201,
+    "EFFECTIVE_FROM": "2024-03-31",
+    "UNIT_PRICE": 157.29
+  },
+  {
+    "PRICE_ID": 202,
+    "PRODUCT_ID": 202,
+    "EFFECTIVE_FROM": "2023-10-01",
+    "UNIT_PRICE": 43.5
+  },
+  {
+    "PRICE_ID": 203,
+    "PRODUCT_ID": 203,
+    "EFFECTIVE_FROM": "2024-05-23",
+    "UNIT_PRICE": 88.27
+  },
+  {
+    "PRICE_ID": 204,
+    "PRODUCT_ID": 204,
+    "EFFECTIVE_FROM": "2023-10-03",
+    "UNIT_PRICE": 175.95
+  },
+  {
+    "PRICE_ID": 205,
+    "PRODUCT_ID": 205,
+    "EFFECTIVE_FROM": "2023-12-10",
+    "UNIT_PRICE": 399.08
+  },
+  {
+    "PRICE_ID": 206,
+    "PRODUCT_ID": 206,
+    "EFFECTIVE_FROM": "2024-05-28",
+    "UNIT_PRICE": 412.84
+  },
+  {
+    "PRICE_ID": 207,
+    "PRODUCT_ID": 207,
+    "EFFECTIVE_FROM": "2024-08-09",
+    "UNIT_PRICE": 131.49
+  },
+  {
+    "PRICE_ID": 208,
+    "PRODUCT_ID": 208,
+    "EFFECTIVE_FROM": "2024-08-06",
+    "UNIT_PRICE": 381.62
+  },
+  {
+    "PRICE_ID": 209,
+    "PRODUCT_ID": 209,
+    "EFFECTIVE_FROM": "2023-01-12",
+    "UNIT_PRICE": 86.93
+  },
+  {
+    "PRICE_ID": 210,
+    "PRODUCT_ID": 210,
+    "EFFECTIVE_FROM": "2023-10-28",
+    "UNIT_PRICE": 387.49
+  },
+  {
+    "PRICE_ID": 211,
+    "PRODUCT_ID": 211,
+    "EFFECTIVE_FROM": "2024-01-14",
+    "UNIT_PRICE": 373.95
+  },
+  {
+    "PRICE_ID": 212,
+    "PRODUCT_ID": 212,
+    "EFFECTIVE_FROM": "2024-01-23",
+    "UNIT_PRICE": 421.82
+  },
+  {
+    "PRICE_ID": 213,
+    "PRODUCT_ID": 213,
+    "EFFECTIVE_FROM": "2023-05-21",
+    "UNIT_PRICE": 211.92
+  },
+  {
+    "PRICE_ID": 214,
+    "PRODUCT_ID": 214,
+    "EFFECTIVE_FROM": "2024-08-04",
+    "UNIT_PRICE": 25.52
+  },
+  {
+    "PRICE_ID": 215,
+    "PRODUCT_ID": 215,
+    "EFFECTIVE_FROM": "2024-12-05",
+    "UNIT_PRICE": 236.47
+  },
+  {
+    "PRICE_ID": 216,
+    "PRODUCT_ID": 216,
+    "EFFECTIVE_FROM": "2023-07-22",
+    "UNIT_PRICE": 260.28
+  },
+  {
+    "PRICE_ID": 217,
+    "PRODUCT_ID": 217,
+    "EFFECTIVE_FROM": "2024-12-24",
+    "UNIT_PRICE": 136.78
+  },
+  {
+    "PRICE_ID": 218,
+    "PRODUCT_ID": 218,
+    "EFFECTIVE_FROM": "2024-10-30",
+    "UNIT_PRICE": 10.98
+  },
+  {
+    "PRICE_ID": 219,
+    "PRODUCT_ID": 219,
+    "EFFECTIVE_FROM": "2023-01-04",
+    "UNIT_PRICE": 299.83
+  },
+  {
+    "PRICE_ID": 220,
+    "PRODUCT_ID": 220,
+    "EFFECTIVE_FROM": "2023-08-21",
+    "UNIT_PRICE": 252.93
+  },
+  {
+    "PRICE_ID": 221,
+    "PRODUCT_ID": 221,
+    "EFFECTIVE_FROM": "2023-12-12",
+    "UNIT_PRICE": 314.78
+  },
+  {
+    "PRICE_ID": 222,
+    "PRODUCT_ID": 222,
+    "EFFECTIVE_FROM": "2023-11-17",
+    "UNIT_PRICE": 243.45
+  },
+  {
+    "PRICE_ID": 223,
+    "PRODUCT_ID": 223,
+    "EFFECTIVE_FROM": "2023-10-02",
+    "UNIT_PRICE": 91.32
+  },
+  {
+    "PRICE_ID": 224,
+    "PRODUCT_ID": 224,
+    "EFFECTIVE_FROM": "2024-02-05",
+    "UNIT_PRICE": 364.43
+  },
+  {
+    "PRICE_ID": 225,
+    "PRODUCT_ID": 225,
+    "EFFECTIVE_FROM": "2023-08-29",
+    "UNIT_PRICE": 164.04
+  },
+  {
+    "PRICE_ID": 226,
+    "PRODUCT_ID": 226,
+    "EFFECTIVE_FROM": "2024-08-27",
+    "UNIT_PRICE": 303.69
+  },
+  {
+    "PRICE_ID": 227,
+    "PRODUCT_ID": 227,
+    "EFFECTIVE_FROM": "2023-02-03",
+    "UNIT_PRICE": 292.87
+  },
+  {
+    "PRICE_ID": 228,
+    "PRODUCT_ID": 228,
+    "EFFECTIVE_FROM": "2023-08-14",
+    "UNIT_PRICE": 241.09
+  },
+  {
+    "PRICE_ID": 229,
+    "PRODUCT_ID": 229,
+    "EFFECTIVE_FROM": "2023-03-21",
+    "UNIT_PRICE": 134.62
+  },
+  {
+    "PRICE_ID": 230,
+    "PRODUCT_ID": 230,
+    "EFFECTIVE_FROM": "2024-03-13",
+    "UNIT_PRICE": 29.71
+  },
+  {
+    "PRICE_ID": 231,
+    "PRODUCT_ID": 231,
+    "EFFECTIVE_FROM": "2024-05-15",
+    "UNIT_PRICE": 423.98
+  },
+  {
+    "PRICE_ID": 232,
+    "PRODUCT_ID": 232,
+    "EFFECTIVE_FROM": "2024-10-12",
+    "UNIT_PRICE": 208.23
+  },
+  {
+    "PRICE_ID": 233,
+    "PRODUCT_ID": 233,
+    "EFFECTIVE_FROM": "2023-04-07",
+    "UNIT_PRICE": 150.33
+  },
+  {
+    "PRICE_ID": 234,
+    "PRODUCT_ID": 234,
+    "EFFECTIVE_FROM": "2024-04-11",
+    "UNIT_PRICE": 255.07
+  },
+  {
+    "PRICE_ID": 235,
+    "PRODUCT_ID": 235,
+    "EFFECTIVE_FROM": "2024-06-19",
+    "UNIT_PRICE": 134.65
+  },
+  {
+    "PRICE_ID": 236,
+    "PRODUCT_ID": 236,
+    "EFFECTIVE_FROM": "2023-08-06",
+    "UNIT_PRICE": 231.23
+  },
+  {
+    "PRICE_ID": 237,
+    "PRODUCT_ID": 237,
+    "EFFECTIVE_FROM": "2024-02-10",
+    "UNIT_PRICE": 365.23
+  },
+  {
+    "PRICE_ID": 238,
+    "PRODUCT_ID": 238,
+    "EFFECTIVE_FROM": "2023-03-26",
+    "UNIT_PRICE": 273.4
+  },
+  {
+    "PRICE_ID": 239,
+    "PRODUCT_ID": 239,
+    "EFFECTIVE_FROM": "2024-04-07",
+    "UNIT_PRICE": 422.4
+  },
+  {
+    "PRICE_ID": 240,
+    "PRODUCT_ID": 240,
+    "EFFECTIVE_FROM": "2023-12-26",
+    "UNIT_PRICE": 439.84
+  },
+  {
+    "PRICE_ID": 241,
+    "PRODUCT_ID": 241,
+    "EFFECTIVE_FROM": "2023-09-20",
+    "UNIT_PRICE": 448.57
+  },
+  {
+    "PRICE_ID": 242,
+    "PRODUCT_ID": 242,
+    "EFFECTIVE_FROM": "2024-04-23",
+    "UNIT_PRICE": 70.03
+  },
+  {
+    "PRICE_ID": 243,
+    "PRODUCT_ID": 243,
+    "EFFECTIVE_FROM": "2024-02-02",
+    "UNIT_PRICE": 378.73
+  },
+  {
+    "PRICE_ID": 244,
+    "PRODUCT_ID": 244,
+    "EFFECTIVE_FROM": "2024-02-18",
+    "UNIT_PRICE": 278.96
+  },
+  {
+    "PRICE_ID": 245,
+    "PRODUCT_ID": 245,
+    "EFFECTIVE_FROM": "2023-03-10",
+    "UNIT_PRICE": 187.03
+  },
+  {
+    "PRICE_ID": 246,
+    "PRODUCT_ID": 246,
+    "EFFECTIVE_FROM": "2023-11-01",
+    "UNIT_PRICE": 441.72
+  },
+  {
+    "PRICE_ID": 247,
+    "PRODUCT_ID": 247,
+    "EFFECTIVE_FROM": "2023-03-31",
+    "UNIT_PRICE": 262.14
+  },
+  {
+    "PRICE_ID": 248,
+    "PRODUCT_ID": 248,
+    "EFFECTIVE_FROM": "2024-06-13",
+    "UNIT_PRICE": 374.54
+  },
+  {
+    "PRICE_ID": 249,
+    "PRODUCT_ID": 249,
+    "EFFECTIVE_FROM": "2024-08-07",
+    "UNIT_PRICE": 21.61
+  },
+  {
+    "PRICE_ID": 250,
+    "PRODUCT_ID": 250,
+    "EFFECTIVE_FROM": "2023-03-03",
+    "UNIT_PRICE": 78.83
+  },
+  {
+    "PRICE_ID": 251,
+    "PRODUCT_ID": 251,
+    "EFFECTIVE_FROM": "2024-05-01",
+    "UNIT_PRICE": 462.63
+  },
+  {
+    "PRICE_ID": 252,
+    "PRODUCT_ID": 252,
+    "EFFECTIVE_FROM": "2023-06-20",
+    "UNIT_PRICE": 290.55
+  },
+  {
+    "PRICE_ID": 253,
+    "PRODUCT_ID": 253,
+    "EFFECTIVE_FROM": "2023-04-23",
+    "UNIT_PRICE": 10.49
+  },
+  {
+    "PRICE_ID": 254,
+    "PRODUCT_ID": 254,
+    "EFFECTIVE_FROM": "2024-06-13",
+    "UNIT_PRICE": 157.49
+  },
+  {
+    "PRICE_ID": 255,
+    "PRODUCT_ID": 255,
+    "EFFECTIVE_FROM": "2023-02-11",
+    "UNIT_PRICE": 350.26
+  },
+  {
+    "PRICE_ID": 256,
+    "PRODUCT_ID": 256,
+    "EFFECTIVE_FROM": "2024-10-27",
+    "UNIT_PRICE": 421.42
+  },
+  {
+    "PRICE_ID": 257,
+    "PRODUCT_ID": 257,
+    "EFFECTIVE_FROM": "2024-07-29",
+    "UNIT_PRICE": 195.6
+  },
+  {
+    "PRICE_ID": 258,
+    "PRODUCT_ID": 258,
+    "EFFECTIVE_FROM": "2023-10-25",
+    "UNIT_PRICE": 488.27
+  },
+  {
+    "PRICE_ID": 259,
+    "PRODUCT_ID": 259,
+    "EFFECTIVE_FROM": "2024-01-08",
+    "UNIT_PRICE": 208.89
+  },
+  {
+    "PRICE_ID": 260,
+    "PRODUCT_ID": 260,
+    "EFFECTIVE_FROM": "2024-03-14",
+    "UNIT_PRICE": 21.47
+  },
+  {
+    "PRICE_ID": 261,
+    "PRODUCT_ID": 261,
+    "EFFECTIVE_FROM": "2023-02-07",
+    "UNIT_PRICE": 117.81
+  },
+  {
+    "PRICE_ID": 262,
+    "PRODUCT_ID": 262,
+    "EFFECTIVE_FROM": "2023-09-11",
+    "UNIT_PRICE": 224.88
+  },
+  {
+    "PRICE_ID": 263,
+    "PRODUCT_ID": 263,
+    "EFFECTIVE_FROM": "2024-03-11",
+    "UNIT_PRICE": 298.11
+  },
+  {
+    "PRICE_ID": 264,
+    "PRODUCT_ID": 264,
+    "EFFECTIVE_FROM": "2023-09-09",
+    "UNIT_PRICE": 109.58
+  },
+  {
+    "PRICE_ID": 265,
+    "PRODUCT_ID": 265,
+    "EFFECTIVE_FROM": "2024-02-10",
+    "UNIT_PRICE": 244.11
+  },
+  {
+    "PRICE_ID": 266,
+    "PRODUCT_ID": 266,
+    "EFFECTIVE_FROM": "2024-03-26",
+    "UNIT_PRICE": 334.61
+  },
+  {
+    "PRICE_ID": 267,
+    "PRODUCT_ID": 267,
+    "EFFECTIVE_FROM": "2023-01-23",
+    "UNIT_PRICE": 409.62
+  },
+  {
+    "PRICE_ID": 268,
+    "PRODUCT_ID": 268,
+    "EFFECTIVE_FROM": "2024-04-27",
+    "UNIT_PRICE": 351.92
+  },
+  {
+    "PRICE_ID": 269,
+    "PRODUCT_ID": 269,
+    "EFFECTIVE_FROM": "2023-05-04",
+    "UNIT_PRICE": 276.26
+  },
+  {
+    "PRICE_ID": 270,
+    "PRODUCT_ID": 270,
+    "EFFECTIVE_FROM": "2023-05-19",
+    "UNIT_PRICE": 95.6
+  },
+  {
+    "PRICE_ID": 271,
+    "PRODUCT_ID": 271,
+    "EFFECTIVE_FROM": "2023-07-07",
+    "UNIT_PRICE": 213.21
+  },
+  {
+    "PRICE_ID": 272,
+    "PRODUCT_ID": 272,
+    "EFFECTIVE_FROM": "2024-05-01",
+    "UNIT_PRICE": 456.06
+  },
+  {
+    "PRICE_ID": 273,
+    "PRODUCT_ID": 273,
+    "EFFECTIVE_FROM": "2024-10-19",
+    "UNIT_PRICE": 144.2
+  },
+  {
+    "PRICE_ID": 274,
+    "PRODUCT_ID": 274,
+    "EFFECTIVE_FROM": "2023-03-25",
+    "UNIT_PRICE": 309.08
+  },
+  {
+    "PRICE_ID": 275,
+    "PRODUCT_ID": 275,
+    "EFFECTIVE_FROM": "2024-06-08",
+    "UNIT_PRICE": 228.8
+  },
+  {
+    "PRICE_ID": 276,
+    "PRODUCT_ID": 276,
+    "EFFECTIVE_FROM": "2024-10-24",
+    "UNIT_PRICE": 256.0
+  },
+  {
+    "PRICE_ID": 277,
+    "PRODUCT_ID": 277,
+    "EFFECTIVE_FROM": "2023-12-03",
+    "UNIT_PRICE": 112.92
+  },
+  {
+    "PRICE_ID": 278,
+    "PRODUCT_ID": 278,
+    "EFFECTIVE_FROM": "2023-12-04",
+    "UNIT_PRICE": 339.75
+  },
+  {
+    "PRICE_ID": 279,
+    "PRODUCT_ID": 279,
+    "EFFECTIVE_FROM": "2023-02-17",
+    "UNIT_PRICE": 196.67
+  },
+  {
+    "PRICE_ID": 280,
+    "PRODUCT_ID": 280,
+    "EFFECTIVE_FROM": "2023-07-30",
+    "UNIT_PRICE": 288.46
+  },
+  {
+    "PRICE_ID": 281,
+    "PRODUCT_ID": 281,
+    "EFFECTIVE_FROM": "2023-07-29",
+    "UNIT_PRICE": 155.82
+  },
+  {
+    "PRICE_ID": 282,
+    "PRODUCT_ID": 282,
+    "EFFECTIVE_FROM": "2023-06-23",
+    "UNIT_PRICE": 349.71
+  },
+  {
+    "PRICE_ID": 283,
+    "PRODUCT_ID": 283,
+    "EFFECTIVE_FROM": "2024-12-11",
+    "UNIT_PRICE": 310.87
+  },
+  {
+    "PRICE_ID": 284,
+    "PRODUCT_ID": 284,
+    "EFFECTIVE_FROM": "2024-05-30",
+    "UNIT_PRICE": 379.19
+  },
+  {
+    "PRICE_ID": 285,
+    "PRODUCT_ID": 285,
+    "EFFECTIVE_FROM": "2024-02-14",
+    "UNIT_PRICE": 16.91
+  },
+  {
+    "PRICE_ID": 286,
+    "PRODUCT_ID": 286,
+    "EFFECTIVE_FROM": "2023-11-19",
+    "UNIT_PRICE": 400.42
+  },
+  {
+    "PRICE_ID": 287,
+    "PRODUCT_ID": 287,
+    "EFFECTIVE_FROM": "2024-10-14",
+    "UNIT_PRICE": 164.71
+  },
+  {
+    "PRICE_ID": 288,
+    "PRODUCT_ID": 288,
+    "EFFECTIVE_FROM": "2023-01-23",
+    "UNIT_PRICE": 422.7
+  },
+  {
+    "PRICE_ID": 289,
+    "PRODUCT_ID": 289,
+    "EFFECTIVE_FROM": "2024-10-14",
+    "UNIT_PRICE": 154.83
+  },
+  {
+    "PRICE_ID": 290,
+    "PRODUCT_ID": 290,
+    "EFFECTIVE_FROM": "2023-05-22",
+    "UNIT_PRICE": 73.8
+  },
+  {
+    "PRICE_ID": 291,
+    "PRODUCT_ID": 291,
+    "EFFECTIVE_FROM": "2023-05-01",
+    "UNIT_PRICE": 348.76
+  },
+  {
+    "PRICE_ID": 292,
+    "PRODUCT_ID": 292,
+    "EFFECTIVE_FROM": "2023-03-02",
+    "UNIT_PRICE": 134.87
+  },
+  {
+    "PRICE_ID": 293,
+    "PRODUCT_ID": 293,
+    "EFFECTIVE_FROM": "2024-07-28",
+    "UNIT_PRICE": 214.18
+  },
+  {
+    "PRICE_ID": 294,
+    "PRODUCT_ID": 294,
+    "EFFECTIVE_FROM": "2024-12-17",
+    "UNIT_PRICE": 383.6
+  },
+  {
+    "PRICE_ID": 295,
+    "PRODUCT_ID": 295,
+    "EFFECTIVE_FROM": "2024-07-12",
+    "UNIT_PRICE": 432.84
+  },
+  {
+    "PRICE_ID": 296,
+    "PRODUCT_ID": 296,
+    "EFFECTIVE_FROM": "2024-11-30",
+    "UNIT_PRICE": 363.03
+  },
+  {
+    "PRICE_ID": 297,
+    "PRODUCT_ID": 297,
+    "EFFECTIVE_FROM": "2023-01-31",
+    "UNIT_PRICE": 206.53
+  },
+  {
+    "PRICE_ID": 298,
+    "PRODUCT_ID": 298,
+    "EFFECTIVE_FROM": "2023-07-30",
+    "UNIT_PRICE": 97.48
+  },
+  {
+    "PRICE_ID": 299,
+    "PRODUCT_ID": 299,
+    "EFFECTIVE_FROM": "2023-03-04",
+    "UNIT_PRICE": 382.46
+  },
+  {
+    "PRICE_ID": 300,
+    "PRODUCT_ID": 300,
+    "EFFECTIVE_FROM": "2024-02-16",
+    "UNIT_PRICE": 382.69
+  },
+  {
+    "PRICE_ID": 301,
+    "PRODUCT_ID": 301,
+    "EFFECTIVE_FROM": "2024-08-14",
+    "UNIT_PRICE": 465.81
+  },
+  {
+    "PRICE_ID": 302,
+    "PRODUCT_ID": 302,
+    "EFFECTIVE_FROM": "2024-11-23",
+    "UNIT_PRICE": 448.68
+  },
+  {
+    "PRICE_ID": 303,
+    "PRODUCT_ID": 303,
+    "EFFECTIVE_FROM": "2023-01-16",
+    "UNIT_PRICE": 239.91
+  },
+  {
+    "PRICE_ID": 304,
+    "PRODUCT_ID": 304,
+    "EFFECTIVE_FROM": "2024-08-17",
+    "UNIT_PRICE": 292.77
+  },
+  {
+    "PRICE_ID": 305,
+    "PRODUCT_ID": 305,
+    "EFFECTIVE_FROM": "2024-06-05",
+    "UNIT_PRICE": 420.46
+  },
+  {
+    "PRICE_ID": 306,
+    "PRODUCT_ID": 306,
+    "EFFECTIVE_FROM": "2023-03-24",
+    "UNIT_PRICE": 338.09
+  },
+  {
+    "PRICE_ID": 307,
+    "PRODUCT_ID": 307,
+    "EFFECTIVE_FROM": "2024-08-03",
+    "UNIT_PRICE": 409.12
+  },
+  {
+    "PRICE_ID": 308,
+    "PRODUCT_ID": 308,
+    "EFFECTIVE_FROM": "2023-06-13",
+    "UNIT_PRICE": 247.82
+  },
+  {
+    "PRICE_ID": 309,
+    "PRODUCT_ID": 309,
+    "EFFECTIVE_FROM": "2024-07-29",
+    "UNIT_PRICE": 81.19
+  },
+  {
+    "PRICE_ID": 310,
+    "PRODUCT_ID": 310,
+    "EFFECTIVE_FROM": "2024-12-20",
+    "UNIT_PRICE": 164.81
+  },
+  {
+    "PRICE_ID": 311,
+    "PRODUCT_ID": 311,
+    "EFFECTIVE_FROM": "2023-07-28",
+    "UNIT_PRICE": 387.44
+  },
+  {
+    "PRICE_ID": 312,
+    "PRODUCT_ID": 312,
+    "EFFECTIVE_FROM": "2023-08-27",
+    "UNIT_PRICE": 234.51
+  },
+  {
+    "PRICE_ID": 313,
+    "PRODUCT_ID": 313,
+    "EFFECTIVE_FROM": "2024-04-13",
+    "UNIT_PRICE": 370.08
+  },
+  {
+    "PRICE_ID": 314,
+    "PRODUCT_ID": 314,
+    "EFFECTIVE_FROM": "2023-01-07",
+    "UNIT_PRICE": 269.28
+  },
+  {
+    "PRICE_ID": 315,
+    "PRODUCT_ID": 315,
+    "EFFECTIVE_FROM": "2023-11-12",
+    "UNIT_PRICE": 307.32
+  },
+  {
+    "PRICE_ID": 316,
+    "PRODUCT_ID": 316,
+    "EFFECTIVE_FROM": "2023-06-25",
+    "UNIT_PRICE": 205.59
+  },
+  {
+    "PRICE_ID": 317,
+    "PRODUCT_ID": 317,
+    "EFFECTIVE_FROM": "2023-10-26",
+    "UNIT_PRICE": 83.08
+  },
+  {
+    "PRICE_ID": 318,
+    "PRODUCT_ID": 318,
+    "EFFECTIVE_FROM": "2023-07-31",
+    "UNIT_PRICE": 360.39
+  },
+  {
+    "PRICE_ID": 319,
+    "PRODUCT_ID": 319,
+    "EFFECTIVE_FROM": "2024-08-28",
+    "UNIT_PRICE": 270.1
+  },
+  {
+    "PRICE_ID": 320,
+    "PRODUCT_ID": 320,
+    "EFFECTIVE_FROM": "2024-11-11",
+    "UNIT_PRICE": 121.04
+  },
+  {
+    "PRICE_ID": 321,
+    "PRODUCT_ID": 321,
+    "EFFECTIVE_FROM": "2023-03-31",
+    "UNIT_PRICE": 338.91
+  },
+  {
+    "PRICE_ID": 322,
+    "PRODUCT_ID": 322,
+    "EFFECTIVE_FROM": "2023-09-01",
+    "UNIT_PRICE": 479.03
+  },
+  {
+    "PRICE_ID": 323,
+    "PRODUCT_ID": 323,
+    "EFFECTIVE_FROM": "2023-11-06",
+    "UNIT_PRICE": 345.11
+  },
+  {
+    "PRICE_ID": 324,
+    "PRODUCT_ID": 324,
+    "EFFECTIVE_FROM": "2024-10-17",
+    "UNIT_PRICE": 302.74
+  },
+  {
+    "PRICE_ID": 325,
+    "PRODUCT_ID": 325,
+    "EFFECTIVE_FROM": "2023-01-20",
+    "UNIT_PRICE": 60.91
+  },
+  {
+    "PRICE_ID": 326,
+    "PRODUCT_ID": 326,
+    "EFFECTIVE_FROM": "2024-01-03",
+    "UNIT_PRICE": 388.67
+  },
+  {
+    "PRICE_ID": 327,
+    "PRODUCT_ID": 327,
+    "EFFECTIVE_FROM": "2024-09-17",
+    "UNIT_PRICE": 489.31
+  },
+  {
+    "PRICE_ID": 328,
+    "PRODUCT_ID": 328,
+    "EFFECTIVE_FROM": "2024-04-05",
+    "UNIT_PRICE": 18.26
+  },
+  {
+    "PRICE_ID": 329,
+    "PRODUCT_ID": 329,
+    "EFFECTIVE_FROM": "2024-01-25",
+    "UNIT_PRICE": 301.41
+  },
+  {
+    "PRICE_ID": 330,
+    "PRODUCT_ID": 330,
+    "EFFECTIVE_FROM": "2023-03-07",
+    "UNIT_PRICE": 310.38
+  },
+  {
+    "PRICE_ID": 331,
+    "PRODUCT_ID": 331,
+    "EFFECTIVE_FROM": "2024-07-05",
+    "UNIT_PRICE": 222.4
+  },
+  {
+    "PRICE_ID": 332,
+    "PRODUCT_ID": 332,
+    "EFFECTIVE_FROM": "2023-01-03",
+    "UNIT_PRICE": 187.09
+  },
+  {
+    "PRICE_ID": 333,
+    "PRODUCT_ID": 333,
+    "EFFECTIVE_FROM": "2024-09-13",
+    "UNIT_PRICE": 267.6
+  },
+  {
+    "PRICE_ID": 334,
+    "PRODUCT_ID": 334,
+    "EFFECTIVE_FROM": "2023-10-06",
+    "UNIT_PRICE": 119.84
+  },
+  {
+    "PRICE_ID": 335,
+    "PRODUCT_ID": 335,
+    "EFFECTIVE_FROM": "2024-06-08",
+    "UNIT_PRICE": 372.54
+  },
+  {
+    "PRICE_ID": 336,
+    "PRODUCT_ID": 336,
+    "EFFECTIVE_FROM": "2023-10-12",
+    "UNIT_PRICE": 331.05
+  },
+  {
+    "PRICE_ID": 337,
+    "PRODUCT_ID": 337,
+    "EFFECTIVE_FROM": "2023-09-09",
+    "UNIT_PRICE": 406.8
+  },
+  {
+    "PRICE_ID": 338,
+    "PRODUCT_ID": 338,
+    "EFFECTIVE_FROM": "2024-12-15",
+    "UNIT_PRICE": 77.62
+  },
+  {
+    "PRICE_ID": 339,
+    "PRODUCT_ID": 339,
+    "EFFECTIVE_FROM": "2024-12-11",
+    "UNIT_PRICE": 340.76
+  },
+  {
+    "PRICE_ID": 340,
+    "PRODUCT_ID": 340,
+    "EFFECTIVE_FROM": "2023-03-19",
+    "UNIT_PRICE": 235.62
+  },
+  {
+    "PRICE_ID": 341,
+    "PRODUCT_ID": 341,
+    "EFFECTIVE_FROM": "2024-07-05",
+    "UNIT_PRICE": 60.26
+  },
+  {
+    "PRICE_ID": 342,
+    "PRODUCT_ID": 342,
+    "EFFECTIVE_FROM": "2024-04-27",
+    "UNIT_PRICE": 253.49
+  },
+  {
+    "PRICE_ID": 343,
+    "PRODUCT_ID": 343,
+    "EFFECTIVE_FROM": "2023-01-06",
+    "UNIT_PRICE": 196.25
+  },
+  {
+    "PRICE_ID": 344,
+    "PRODUCT_ID": 344,
+    "EFFECTIVE_FROM": "2024-01-21",
+    "UNIT_PRICE": 477.15
+  },
+  {
+    "PRICE_ID": 345,
+    "PRODUCT_ID": 345,
+    "EFFECTIVE_FROM": "2023-10-05",
+    "UNIT_PRICE": 333.35
+  },
+  {
+    "PRICE_ID": 346,
+    "PRODUCT_ID": 346,
+    "EFFECTIVE_FROM": "2024-11-25",
+    "UNIT_PRICE": 61.38
+  },
+  {
+    "PRICE_ID": 347,
+    "PRODUCT_ID": 347,
+    "EFFECTIVE_FROM": "2024-10-22",
+    "UNIT_PRICE": 266.21
+  },
+  {
+    "PRICE_ID": 348,
+    "PRODUCT_ID": 348,
+    "EFFECTIVE_FROM": "2023-02-23",
+    "UNIT_PRICE": 55.96
+  },
+  {
+    "PRICE_ID": 349,
+    "PRODUCT_ID": 349,
+    "EFFECTIVE_FROM": "2024-10-28",
+    "UNIT_PRICE": 426.2
+  },
+  {
+    "PRICE_ID": 350,
+    "PRODUCT_ID": 350,
+    "EFFECTIVE_FROM": "2024-08-17",
+    "UNIT_PRICE": 460.9
+  },
+  {
+    "PRICE_ID": 351,
+    "PRODUCT_ID": 351,
+    "EFFECTIVE_FROM": "2024-11-04",
+    "UNIT_PRICE": 75.25
+  },
+  {
+    "PRICE_ID": 352,
+    "PRODUCT_ID": 352,
+    "EFFECTIVE_FROM": "2024-10-31",
+    "UNIT_PRICE": 257.95
+  },
+  {
+    "PRICE_ID": 353,
+    "PRODUCT_ID": 353,
+    "EFFECTIVE_FROM": "2023-12-03",
+    "UNIT_PRICE": 5.73
+  },
+  {
+    "PRICE_ID": 354,
+    "PRODUCT_ID": 354,
+    "EFFECTIVE_FROM": "2024-04-04",
+    "UNIT_PRICE": 388.48
+  },
+  {
+    "PRICE_ID": 355,
+    "PRODUCT_ID": 355,
+    "EFFECTIVE_FROM": "2023-04-28",
+    "UNIT_PRICE": 240.6
+  },
+  {
+    "PRICE_ID": 356,
+    "PRODUCT_ID": 356,
+    "EFFECTIVE_FROM": "2024-09-05",
+    "UNIT_PRICE": 488.78
+  },
+  {
+    "PRICE_ID": 357,
+    "PRODUCT_ID": 357,
+    "EFFECTIVE_FROM": "2024-02-27",
+    "UNIT_PRICE": 317.25
+  },
+  {
+    "PRICE_ID": 358,
+    "PRODUCT_ID": 358,
+    "EFFECTIVE_FROM": "2023-02-13",
+    "UNIT_PRICE": 225.9
+  },
+  {
+    "PRICE_ID": 359,
+    "PRODUCT_ID": 359,
+    "EFFECTIVE_FROM": "2023-02-19",
+    "UNIT_PRICE": 105.78
+  },
+  {
+    "PRICE_ID": 360,
+    "PRODUCT_ID": 360,
+    "EFFECTIVE_FROM": "2024-06-09",
+    "UNIT_PRICE": 316.41
+  },
+  {
+    "PRICE_ID": 361,
+    "PRODUCT_ID": 361,
+    "EFFECTIVE_FROM": "2023-02-02",
+    "UNIT_PRICE": 261.2
+  },
+  {
+    "PRICE_ID": 362,
+    "PRODUCT_ID": 362,
+    "EFFECTIVE_FROM": "2023-03-09",
+    "UNIT_PRICE": 229.86
+  },
+  {
+    "PRICE_ID": 363,
+    "PRODUCT_ID": 363,
+    "EFFECTIVE_FROM": "2024-02-16",
+    "UNIT_PRICE": 79.36
+  },
+  {
+    "PRICE_ID": 364,
+    "PRODUCT_ID": 364,
+    "EFFECTIVE_FROM": "2023-06-19",
+    "UNIT_PRICE": 302.32
+  },
+  {
+    "PRICE_ID": 365,
+    "PRODUCT_ID": 365,
+    "EFFECTIVE_FROM": "2024-02-29",
+    "UNIT_PRICE": 277.38
+  },
+  {
+    "PRICE_ID": 366,
+    "PRODUCT_ID": 366,
+    "EFFECTIVE_FROM": "2024-10-28",
+    "UNIT_PRICE": 435.71
+  },
+  {
+    "PRICE_ID": 367,
+    "PRODUCT_ID": 367,
+    "EFFECTIVE_FROM": "2023-10-31",
+    "UNIT_PRICE": 417.3
+  },
+  {
+    "PRICE_ID": 368,
+    "PRODUCT_ID": 368,
+    "EFFECTIVE_FROM": "2024-06-23",
+    "UNIT_PRICE": 166.49
+  },
+  {
+    "PRICE_ID": 369,
+    "PRODUCT_ID": 369,
+    "EFFECTIVE_FROM": "2023-01-31",
+    "UNIT_PRICE": 331.95
+  },
+  {
+    "PRICE_ID": 370,
+    "PRODUCT_ID": 370,
+    "EFFECTIVE_FROM": "2023-01-20",
+    "UNIT_PRICE": 231.53
+  },
+  {
+    "PRICE_ID": 371,
+    "PRODUCT_ID": 371,
+    "EFFECTIVE_FROM": "2024-06-12",
+    "UNIT_PRICE": 256.28
+  },
+  {
+    "PRICE_ID": 372,
+    "PRODUCT_ID": 372,
+    "EFFECTIVE_FROM": "2024-08-16",
+    "UNIT_PRICE": 483.14
+  },
+  {
+    "PRICE_ID": 373,
+    "PRODUCT_ID": 373,
+    "EFFECTIVE_FROM": "2024-08-01",
+    "UNIT_PRICE": 96.01
+  },
+  {
+    "PRICE_ID": 374,
+    "PRODUCT_ID": 374,
+    "EFFECTIVE_FROM": "2024-10-24",
+    "UNIT_PRICE": 236.13
+  },
+  {
+    "PRICE_ID": 375,
+    "PRODUCT_ID": 375,
+    "EFFECTIVE_FROM": "2023-10-10",
+    "UNIT_PRICE": 48.96
+  },
+  {
+    "PRICE_ID": 376,
+    "PRODUCT_ID": 376,
+    "EFFECTIVE_FROM": "2024-03-05",
+    "UNIT_PRICE": 272.22
+  },
+  {
+    "PRICE_ID": 377,
+    "PRODUCT_ID": 377,
+    "EFFECTIVE_FROM": "2024-03-09",
+    "UNIT_PRICE": 468.84
+  },
+  {
+    "PRICE_ID": 378,
+    "PRODUCT_ID": 378,
+    "EFFECTIVE_FROM": "2024-12-02",
+    "UNIT_PRICE": 60.6
+  },
+  {
+    "PRICE_ID": 379,
+    "PRODUCT_ID": 379,
+    "EFFECTIVE_FROM": "2024-09-06",
+    "UNIT_PRICE": 442.86
+  },
+  {
+    "PRICE_ID": 380,
+    "PRODUCT_ID": 380,
+    "EFFECTIVE_FROM": "2024-01-30",
+    "UNIT_PRICE": 430.0
+  },
+  {
+    "PRICE_ID": 381,
+    "PRODUCT_ID": 381,
+    "EFFECTIVE_FROM": "2023-06-25",
+    "UNIT_PRICE": 400.91
+  },
+  {
+    "PRICE_ID": 382,
+    "PRODUCT_ID": 382,
+    "EFFECTIVE_FROM": "2024-02-20",
+    "UNIT_PRICE": 199.0
+  },
+  {
+    "PRICE_ID": 383,
+    "PRODUCT_ID": 383,
+    "EFFECTIVE_FROM": "2023-01-16",
+    "UNIT_PRICE": 280.95
+  },
+  {
+    "PRICE_ID": 384,
+    "PRODUCT_ID": 384,
+    "EFFECTIVE_FROM": "2024-06-27",
+    "UNIT_PRICE": 71.07
+  },
+  {
+    "PRICE_ID": 385,
+    "PRODUCT_ID": 385,
+    "EFFECTIVE_FROM": "2023-01-18",
+    "UNIT_PRICE": 123.85
+  },
+  {
+    "PRICE_ID": 386,
+    "PRODUCT_ID": 386,
+    "EFFECTIVE_FROM": "2023-05-03",
+    "UNIT_PRICE": 230.86
+  },
+  {
+    "PRICE_ID": 387,
+    "PRODUCT_ID": 387,
+    "EFFECTIVE_FROM": "2024-10-12",
+    "UNIT_PRICE": 379.92
+  },
+  {
+    "PRICE_ID": 388,
+    "PRODUCT_ID": 388,
+    "EFFECTIVE_FROM": "2023-06-29",
+    "UNIT_PRICE": 497.16
+  },
+  {
+    "PRICE_ID": 389,
+    "PRODUCT_ID": 389,
+    "EFFECTIVE_FROM": "2024-03-07",
+    "UNIT_PRICE": 101.34
+  },
+  {
+    "PRICE_ID": 390,
+    "PRODUCT_ID": 390,
+    "EFFECTIVE_FROM": "2023-09-28",
+    "UNIT_PRICE": 143.9
+  },
+  {
+    "PRICE_ID": 391,
+    "PRODUCT_ID": 391,
+    "EFFECTIVE_FROM": "2023-08-12",
+    "UNIT_PRICE": 166.4
+  },
+  {
+    "PRICE_ID": 392,
+    "PRODUCT_ID": 392,
+    "EFFECTIVE_FROM": "2024-09-01",
+    "UNIT_PRICE": 193.84
+  },
+  {
+    "PRICE_ID": 393,
+    "PRODUCT_ID": 393,
+    "EFFECTIVE_FROM": "2024-10-28",
+    "UNIT_PRICE": 96.02
+  },
+  {
+    "PRICE_ID": 394,
+    "PRODUCT_ID": 394,
+    "EFFECTIVE_FROM": "2023-09-17",
+    "UNIT_PRICE": 170.33
+  },
+  {
+    "PRICE_ID": 395,
+    "PRODUCT_ID": 395,
+    "EFFECTIVE_FROM": "2024-06-18",
+    "UNIT_PRICE": 341.83
+  },
+  {
+    "PRICE_ID": 396,
+    "PRODUCT_ID": 396,
+    "EFFECTIVE_FROM": "2024-05-11",
+    "UNIT_PRICE": 450.5
+  },
+  {
+    "PRICE_ID": 397,
+    "PRODUCT_ID": 397,
+    "EFFECTIVE_FROM": "2023-03-25",
+    "UNIT_PRICE": 93.43
+  },
+  {
+    "PRICE_ID": 398,
+    "PRODUCT_ID": 398,
+    "EFFECTIVE_FROM": "2023-10-30",
+    "UNIT_PRICE": 406.2
+  },
+  {
+    "PRICE_ID": 399,
+    "PRODUCT_ID": 399,
+    "EFFECTIVE_FROM": "2024-11-04",
+    "UNIT_PRICE": 75.59
+  },
+  {
+    "PRICE_ID": 400,
+    "PRODUCT_ID": 400,
+    "EFFECTIVE_FROM": "2023-06-16",
+    "UNIT_PRICE": 330.53
+  },
+  {
+    "PRICE_ID": 401,
+    "PRODUCT_ID": 401,
+    "EFFECTIVE_FROM": "2024-01-18",
+    "UNIT_PRICE": 111.4
+  },
+  {
+    "PRICE_ID": 402,
+    "PRODUCT_ID": 402,
+    "EFFECTIVE_FROM": "2024-09-02",
+    "UNIT_PRICE": 14.19
+  },
+  {
+    "PRICE_ID": 403,
+    "PRODUCT_ID": 403,
+    "EFFECTIVE_FROM": "2023-04-03",
+    "UNIT_PRICE": 469.7
+  },
+  {
+    "PRICE_ID": 404,
+    "PRODUCT_ID": 404,
+    "EFFECTIVE_FROM": "2023-06-09",
+    "UNIT_PRICE": 478.63
+  },
+  {
+    "PRICE_ID": 405,
+    "PRODUCT_ID": 405,
+    "EFFECTIVE_FROM": "2024-04-14",
+    "UNIT_PRICE": 185.29
+  },
+  {
+    "PRICE_ID": 406,
+    "PRODUCT_ID": 406,
+    "EFFECTIVE_FROM": "2023-01-10",
+    "UNIT_PRICE": 95.41
+  },
+  {
+    "PRICE_ID": 407,
+    "PRODUCT_ID": 407,
+    "EFFECTIVE_FROM": "2023-09-30",
+    "UNIT_PRICE": 287.09
+  },
+  {
+    "PRICE_ID": 408,
+    "PRODUCT_ID": 408,
+    "EFFECTIVE_FROM": "2024-02-19",
+    "UNIT_PRICE": 412.34
+  },
+  {
+    "PRICE_ID": 409,
+    "PRODUCT_ID": 409,
+    "EFFECTIVE_FROM": "2024-12-22",
+    "UNIT_PRICE": 34.11
+  },
+  {
+    "PRICE_ID": 410,
+    "PRODUCT_ID": 410,
+    "EFFECTIVE_FROM": "2024-09-16",
+    "UNIT_PRICE": 191.48
+  },
+  {
+    "PRICE_ID": 411,
+    "PRODUCT_ID": 411,
+    "EFFECTIVE_FROM": "2024-04-04",
+    "UNIT_PRICE": 5.38
+  },
+  {
+    "PRICE_ID": 412,
+    "PRODUCT_ID": 412,
+    "EFFECTIVE_FROM": "2023-10-28",
+    "UNIT_PRICE": 124.93
+  },
+  {
+    "PRICE_ID": 413,
+    "PRODUCT_ID": 413,
+    "EFFECTIVE_FROM": "2023-11-22",
+    "UNIT_PRICE": 70.81
+  },
+  {
+    "PRICE_ID": 414,
+    "PRODUCT_ID": 414,
+    "EFFECTIVE_FROM": "2024-12-07",
+    "UNIT_PRICE": 157.63
+  },
+  {
+    "PRICE_ID": 415,
+    "PRODUCT_ID": 415,
+    "EFFECTIVE_FROM": "2023-12-27",
+    "UNIT_PRICE": 180.66
+  },
+  {
+    "PRICE_ID": 416,
+    "PRODUCT_ID": 416,
+    "EFFECTIVE_FROM": "2024-12-16",
+    "UNIT_PRICE": 383.23
+  },
+  {
+    "PRICE_ID": 417,
+    "PRODUCT_ID": 417,
+    "EFFECTIVE_FROM": "2023-09-19",
+    "UNIT_PRICE": 253.11
+  },
+  {
+    "PRICE_ID": 418,
+    "PRODUCT_ID": 418,
+    "EFFECTIVE_FROM": "2023-03-23",
+    "UNIT_PRICE": 351.46
+  },
+  {
+    "PRICE_ID": 419,
+    "PRODUCT_ID": 419,
+    "EFFECTIVE_FROM": "2024-03-26",
+    "UNIT_PRICE": 395.94
+  },
+  {
+    "PRICE_ID": 420,
+    "PRODUCT_ID": 420,
+    "EFFECTIVE_FROM": "2023-10-13",
+    "UNIT_PRICE": 341.44
+  },
+  {
+    "PRICE_ID": 421,
+    "PRODUCT_ID": 421,
+    "EFFECTIVE_FROM": "2023-09-06",
+    "UNIT_PRICE": 437.48
+  },
+  {
+    "PRICE_ID": 422,
+    "PRODUCT_ID": 422,
+    "EFFECTIVE_FROM": "2024-12-19",
+    "UNIT_PRICE": 139.63
+  },
+  {
+    "PRICE_ID": 423,
+    "PRODUCT_ID": 423,
+    "EFFECTIVE_FROM": "2024-06-06",
+    "UNIT_PRICE": 275.66
+  },
+  {
+    "PRICE_ID": 424,
+    "PRODUCT_ID": 424,
+    "EFFECTIVE_FROM": "2023-05-02",
+    "UNIT_PRICE": 179.38
+  },
+  {
+    "PRICE_ID": 425,
+    "PRODUCT_ID": 425,
+    "EFFECTIVE_FROM": "2024-08-06",
+    "UNIT_PRICE": 228.63
+  },
+  {
+    "PRICE_ID": 426,
+    "PRODUCT_ID": 426,
+    "EFFECTIVE_FROM": "2024-05-25",
+    "UNIT_PRICE": 128.14
+  },
+  {
+    "PRICE_ID": 427,
+    "PRODUCT_ID": 427,
+    "EFFECTIVE_FROM": "2024-01-14",
+    "UNIT_PRICE": 141.84
+  },
+  {
+    "PRICE_ID": 428,
+    "PRODUCT_ID": 428,
+    "EFFECTIVE_FROM": "2024-12-30",
+    "UNIT_PRICE": 203.03
+  },
+  {
+    "PRICE_ID": 429,
+    "PRODUCT_ID": 429,
+    "EFFECTIVE_FROM": "2023-06-05",
+    "UNIT_PRICE": 499.54
+  },
+  {
+    "PRICE_ID": 430,
+    "PRODUCT_ID": 430,
+    "EFFECTIVE_FROM": "2023-05-11",
+    "UNIT_PRICE": 119.26
+  },
+  {
+    "PRICE_ID": 431,
+    "PRODUCT_ID": 431,
+    "EFFECTIVE_FROM": "2023-02-09",
+    "UNIT_PRICE": 193.67
+  },
+  {
+    "PRICE_ID": 432,
+    "PRODUCT_ID": 432,
+    "EFFECTIVE_FROM": "2024-04-19",
+    "UNIT_PRICE": 304.14
+  },
+  {
+    "PRICE_ID": 433,
+    "PRODUCT_ID": 433,
+    "EFFECTIVE_FROM": "2024-10-01",
+    "UNIT_PRICE": 485.23
+  },
+  {
+    "PRICE_ID": 434,
+    "PRODUCT_ID": 434,
+    "EFFECTIVE_FROM": "2024-02-22",
+    "UNIT_PRICE": 145.43
+  },
+  {
+    "PRICE_ID": 435,
+    "PRODUCT_ID": 435,
+    "EFFECTIVE_FROM": "2023-03-17",
+    "UNIT_PRICE": 69.03
+  },
+  {
+    "PRICE_ID": 436,
+    "PRODUCT_ID": 436,
+    "EFFECTIVE_FROM": "2024-08-18",
+    "UNIT_PRICE": 158.65
+  },
+  {
+    "PRICE_ID": 437,
+    "PRODUCT_ID": 437,
+    "EFFECTIVE_FROM": "2024-05-11",
+    "UNIT_PRICE": 484.06
+  },
+  {
+    "PRICE_ID": 438,
+    "PRODUCT_ID": 438,
+    "EFFECTIVE_FROM": "2024-11-13",
+    "UNIT_PRICE": 453.01
+  },
+  {
+    "PRICE_ID": 439,
+    "PRODUCT_ID": 439,
+    "EFFECTIVE_FROM": "2023-05-19",
+    "UNIT_PRICE": 375.5
+  },
+  {
+    "PRICE_ID": 440,
+    "PRODUCT_ID": 440,
+    "EFFECTIVE_FROM": "2023-09-20",
+    "UNIT_PRICE": 97.07
+  },
+  {
+    "PRICE_ID": 441,
+    "PRODUCT_ID": 441,
+    "EFFECTIVE_FROM": "2024-06-21",
+    "UNIT_PRICE": 196.54
+  },
+  {
+    "PRICE_ID": 442,
+    "PRODUCT_ID": 442,
+    "EFFECTIVE_FROM": "2023-06-19",
+    "UNIT_PRICE": 480.82
+  },
+  {
+    "PRICE_ID": 443,
+    "PRODUCT_ID": 443,
+    "EFFECTIVE_FROM": "2024-07-31",
+    "UNIT_PRICE": 311.84
+  },
+  {
+    "PRICE_ID": 444,
+    "PRODUCT_ID": 444,
+    "EFFECTIVE_FROM": "2023-01-12",
+    "UNIT_PRICE": 195.0
+  },
+  {
+    "PRICE_ID": 445,
+    "PRODUCT_ID": 445,
+    "EFFECTIVE_FROM": "2024-02-12",
+    "UNIT_PRICE": 40.97
+  },
+  {
+    "PRICE_ID": 446,
+    "PRODUCT_ID": 446,
+    "EFFECTIVE_FROM": "2024-04-09",
+    "UNIT_PRICE": 474.57
+  },
+  {
+    "PRICE_ID": 447,
+    "PRODUCT_ID": 447,
+    "EFFECTIVE_FROM": "2024-08-05",
+    "UNIT_PRICE": 293.79
+  },
+  {
+    "PRICE_ID": 448,
+    "PRODUCT_ID": 448,
+    "EFFECTIVE_FROM": "2023-07-01",
+    "UNIT_PRICE": 98.63
+  },
+  {
+    "PRICE_ID": 449,
+    "PRODUCT_ID": 449,
+    "EFFECTIVE_FROM": "2023-12-20",
+    "UNIT_PRICE": 191.59
+  },
+  {
+    "PRICE_ID": 450,
+    "PRODUCT_ID": 450,
+    "EFFECTIVE_FROM": "2024-08-27",
+    "UNIT_PRICE": 454.8
+  },
+  {
+    "PRICE_ID": 451,
+    "PRODUCT_ID": 451,
+    "EFFECTIVE_FROM": "2024-09-07",
+    "UNIT_PRICE": 330.37
+  },
+  {
+    "PRICE_ID": 452,
+    "PRODUCT_ID": 452,
+    "EFFECTIVE_FROM": "2023-06-08",
+    "UNIT_PRICE": 296.05
+  },
+  {
+    "PRICE_ID": 453,
+    "PRODUCT_ID": 453,
+    "EFFECTIVE_FROM": "2024-09-09",
+    "UNIT_PRICE": 396.61
+  },
+  {
+    "PRICE_ID": 454,
+    "PRODUCT_ID": 454,
+    "EFFECTIVE_FROM": "2024-07-15",
+    "UNIT_PRICE": 127.73
+  },
+  {
+    "PRICE_ID": 455,
+    "PRODUCT_ID": 455,
+    "EFFECTIVE_FROM": "2023-11-25",
+    "UNIT_PRICE": 376.99
+  },
+  {
+    "PRICE_ID": 456,
+    "PRODUCT_ID": 456,
+    "EFFECTIVE_FROM": "2024-05-03",
+    "UNIT_PRICE": 433.25
+  },
+  {
+    "PRICE_ID": 457,
+    "PRODUCT_ID": 457,
+    "EFFECTIVE_FROM": "2024-02-14",
+    "UNIT_PRICE": 280.21
+  },
+  {
+    "PRICE_ID": 458,
+    "PRODUCT_ID": 458,
+    "EFFECTIVE_FROM": "2024-04-20",
+    "UNIT_PRICE": 356.51
+  },
+  {
+    "PRICE_ID": 459,
+    "PRODUCT_ID": 459,
+    "EFFECTIVE_FROM": "2024-04-06",
+    "UNIT_PRICE": 307.4
+  },
+  {
+    "PRICE_ID": 460,
+    "PRODUCT_ID": 460,
+    "EFFECTIVE_FROM": "2024-01-17",
+    "UNIT_PRICE": 458.6
+  },
+  {
+    "PRICE_ID": 461,
+    "PRODUCT_ID": 461,
+    "EFFECTIVE_FROM": "2024-03-20",
+    "UNIT_PRICE": 11.12
+  },
+  {
+    "PRICE_ID": 462,
+    "PRODUCT_ID": 462,
+    "EFFECTIVE_FROM": "2023-05-05",
+    "UNIT_PRICE": 127.29
+  },
+  {
+    "PRICE_ID": 463,
+    "PRODUCT_ID": 463,
+    "EFFECTIVE_FROM": "2024-06-21",
+    "UNIT_PRICE": 90.47
+  },
+  {
+    "PRICE_ID": 464,
+    "PRODUCT_ID": 464,
+    "EFFECTIVE_FROM": "2024-06-19",
+    "UNIT_PRICE": 474.03
+  },
+  {
+    "PRICE_ID": 465,
+    "PRODUCT_ID": 465,
+    "EFFECTIVE_FROM": "2023-09-15",
+    "UNIT_PRICE": 448.13
+  },
+  {
+    "PRICE_ID": 466,
+    "PRODUCT_ID": 466,
+    "EFFECTIVE_FROM": "2023-09-10",
+    "UNIT_PRICE": 52.34
+  },
+  {
+    "PRICE_ID": 467,
+    "PRODUCT_ID": 467,
+    "EFFECTIVE_FROM": "2023-07-24",
+    "UNIT_PRICE": 303.55
+  },
+  {
+    "PRICE_ID": 468,
+    "PRODUCT_ID": 468,
+    "EFFECTIVE_FROM": "2023-07-14",
+    "UNIT_PRICE": 488.14
+  },
+  {
+    "PRICE_ID": 469,
+    "PRODUCT_ID": 469,
+    "EFFECTIVE_FROM": "2024-09-05",
+    "UNIT_PRICE": 46.9
+  },
+  {
+    "PRICE_ID": 470,
+    "PRODUCT_ID": 470,
+    "EFFECTIVE_FROM": "2023-05-10",
+    "UNIT_PRICE": 204.21
+  },
+  {
+    "PRICE_ID": 471,
+    "PRODUCT_ID": 471,
+    "EFFECTIVE_FROM": "2023-01-31",
+    "UNIT_PRICE": 7.19
+  },
+  {
+    "PRICE_ID": 472,
+    "PRODUCT_ID": 472,
+    "EFFECTIVE_FROM": "2023-03-10",
+    "UNIT_PRICE": 148.35
+  },
+  {
+    "PRICE_ID": 473,
+    "PRODUCT_ID": 473,
+    "EFFECTIVE_FROM": "2023-02-20",
+    "UNIT_PRICE": 327.92
+  },
+  {
+    "PRICE_ID": 474,
+    "PRODUCT_ID": 474,
+    "EFFECTIVE_FROM": "2024-11-05",
+    "UNIT_PRICE": 350.71
+  },
+  {
+    "PRICE_ID": 475,
+    "PRODUCT_ID": 475,
+    "EFFECTIVE_FROM": "2024-02-13",
+    "UNIT_PRICE": 77.66
+  },
+  {
+    "PRICE_ID": 476,
+    "PRODUCT_ID": 476,
+    "EFFECTIVE_FROM": "2024-09-23",
+    "UNIT_PRICE": 363.57
+  },
+  {
+    "PRICE_ID": 477,
+    "PRODUCT_ID": 477,
+    "EFFECTIVE_FROM": "2023-03-10",
+    "UNIT_PRICE": 478.51
+  },
+  {
+    "PRICE_ID": 478,
+    "PRODUCT_ID": 478,
+    "EFFECTIVE_FROM": "2023-11-09",
+    "UNIT_PRICE": 371.89
+  },
+  {
+    "PRICE_ID": 479,
+    "PRODUCT_ID": 479,
+    "EFFECTIVE_FROM": "2024-11-08",
+    "UNIT_PRICE": 117.28
+  },
+  {
+    "PRICE_ID": 480,
+    "PRODUCT_ID": 480,
+    "EFFECTIVE_FROM": "2023-02-04",
+    "UNIT_PRICE": 436.0
+  },
+  {
+    "PRICE_ID": 481,
+    "PRODUCT_ID": 481,
+    "EFFECTIVE_FROM": "2024-07-31",
+    "UNIT_PRICE": 40.0
+  },
+  {
+    "PRICE_ID": 482,
+    "PRODUCT_ID": 482,
+    "EFFECTIVE_FROM": "2023-11-04",
+    "UNIT_PRICE": 63.51
+  },
+  {
+    "PRICE_ID": 483,
+    "PRODUCT_ID": 483,
+    "EFFECTIVE_FROM": "2023-07-29",
+    "UNIT_PRICE": 260.71
+  },
+  {
+    "PRICE_ID": 484,
+    "PRODUCT_ID": 484,
+    "EFFECTIVE_FROM": "2024-08-11",
+    "UNIT_PRICE": 250.37
+  },
+  {
+    "PRICE_ID": 485,
+    "PRODUCT_ID": 485,
+    "EFFECTIVE_FROM": "2023-06-05",
+    "UNIT_PRICE": 451.06
+  },
+  {
+    "PRICE_ID": 486,
+    "PRODUCT_ID": 486,
+    "EFFECTIVE_FROM": "2024-07-10",
+    "UNIT_PRICE": 237.69
+  },
+  {
+    "PRICE_ID": 487,
+    "PRODUCT_ID": 487,
+    "EFFECTIVE_FROM": "2023-02-03",
+    "UNIT_PRICE": 297.76
+  },
+  {
+    "PRICE_ID": 488,
+    "PRODUCT_ID": 488,
+    "EFFECTIVE_FROM": "2024-07-07",
+    "UNIT_PRICE": 220.22
+  },
+  {
+    "PRICE_ID": 489,
+    "PRODUCT_ID": 489,
+    "EFFECTIVE_FROM": "2023-12-02",
+    "UNIT_PRICE": 417.25
+  },
+  {
+    "PRICE_ID": 490,
+    "PRODUCT_ID": 490,
+    "EFFECTIVE_FROM": "2024-01-28",
+    "UNIT_PRICE": 152.08
+  },
+  {
+    "PRICE_ID": 491,
+    "PRODUCT_ID": 491,
+    "EFFECTIVE_FROM": "2024-11-14",
+    "UNIT_PRICE": 470.21
+  },
+  {
+    "PRICE_ID": 492,
+    "PRODUCT_ID": 492,
+    "EFFECTIVE_FROM": "2023-05-19",
+    "UNIT_PRICE": 151.94
+  },
+  {
+    "PRICE_ID": 493,
+    "PRODUCT_ID": 493,
+    "EFFECTIVE_FROM": "2023-01-12",
+    "UNIT_PRICE": 168.11
+  },
+  {
+    "PRICE_ID": 494,
+    "PRODUCT_ID": 494,
+    "EFFECTIVE_FROM": "2024-12-27",
+    "UNIT_PRICE": 326.24
+  },
+  {
+    "PRICE_ID": 495,
+    "PRODUCT_ID": 495,
+    "EFFECTIVE_FROM": "2023-02-26",
+    "UNIT_PRICE": 261.7
+  },
+  {
+    "PRICE_ID": 496,
+    "PRODUCT_ID": 496,
+    "EFFECTIVE_FROM": "2023-08-28",
+    "UNIT_PRICE": 171.73
+  },
+  {
+    "PRICE_ID": 497,
+    "PRODUCT_ID": 497,
+    "EFFECTIVE_FROM": "2023-08-26",
+    "UNIT_PRICE": 20.34
+  },
+  {
+    "PRICE_ID": 498,
+    "PRODUCT_ID": 498,
+    "EFFECTIVE_FROM": "2024-05-11",
+    "UNIT_PRICE": 496.7
+  },
+  {
+    "PRICE_ID": 499,
+    "PRODUCT_ID": 499,
+    "EFFECTIVE_FROM": "2024-03-14",
+    "UNIT_PRICE": 306.27
+  },
+  {
+    "PRICE_ID": 500,
+    "PRODUCT_ID": 500,
+    "EFFECTIVE_FROM": "2023-04-15",
+    "UNIT_PRICE": 313.08
+  },
+  {
+    "PRICE_ID": 501,
+    "PRODUCT_ID": 501,
+    "EFFECTIVE_FROM": "2023-09-25",
+    "UNIT_PRICE": 281.56
+  },
+  {
+    "PRICE_ID": 502,
+    "PRODUCT_ID": 502,
+    "EFFECTIVE_FROM": "2024-09-27",
+    "UNIT_PRICE": 203.34
+  },
+  {
+    "PRICE_ID": 503,
+    "PRODUCT_ID": 503,
+    "EFFECTIVE_FROM": "2024-08-05",
+    "UNIT_PRICE": 470.38
+  },
+  {
+    "PRICE_ID": 504,
+    "PRODUCT_ID": 504,
+    "EFFECTIVE_FROM": "2024-07-12",
+    "UNIT_PRICE": 461.0
+  },
+  {
+    "PRICE_ID": 505,
+    "PRODUCT_ID": 505,
+    "EFFECTIVE_FROM": "2023-02-04",
+    "UNIT_PRICE": 326.27
+  },
+  {
+    "PRICE_ID": 506,
+    "PRODUCT_ID": 506,
+    "EFFECTIVE_FROM": "2024-01-14",
+    "UNIT_PRICE": 204.14
+  },
+  {
+    "PRICE_ID": 507,
+    "PRODUCT_ID": 507,
+    "EFFECTIVE_FROM": "2023-05-15",
+    "UNIT_PRICE": 440.28
+  },
+  {
+    "PRICE_ID": 508,
+    "PRODUCT_ID": 508,
+    "EFFECTIVE_FROM": "2023-03-29",
+    "UNIT_PRICE": 239.56
+  },
+  {
+    "PRICE_ID": 509,
+    "PRODUCT_ID": 509,
+    "EFFECTIVE_FROM": "2024-01-09",
+    "UNIT_PRICE": 126.77
+  },
+  {
+    "PRICE_ID": 510,
+    "PRODUCT_ID": 510,
+    "EFFECTIVE_FROM": "2023-01-03",
+    "UNIT_PRICE": 227.04
+  },
+  {
+    "PRICE_ID": 511,
+    "PRODUCT_ID": 511,
+    "EFFECTIVE_FROM": "2024-02-23",
+    "UNIT_PRICE": 207.47
+  },
+  {
+    "PRICE_ID": 512,
+    "PRODUCT_ID": 512,
+    "EFFECTIVE_FROM": "2024-06-22",
+    "UNIT_PRICE": 218.15
+  },
+  {
+    "PRICE_ID": 513,
+    "PRODUCT_ID": 513,
+    "EFFECTIVE_FROM": "2023-12-08",
+    "UNIT_PRICE": 489.19
+  },
+  {
+    "PRICE_ID": 514,
+    "PRODUCT_ID": 514,
+    "EFFECTIVE_FROM": "2023-06-06",
+    "UNIT_PRICE": 380.06
+  },
+  {
+    "PRICE_ID": 515,
+    "PRODUCT_ID": 515,
+    "EFFECTIVE_FROM": "2024-10-29",
+    "UNIT_PRICE": 458.1
+  },
+  {
+    "PRICE_ID": 516,
+    "PRODUCT_ID": 516,
+    "EFFECTIVE_FROM": "2024-10-19",
+    "UNIT_PRICE": 481.97
+  },
+  {
+    "PRICE_ID": 517,
+    "PRODUCT_ID": 517,
+    "EFFECTIVE_FROM": "2023-10-25",
+    "UNIT_PRICE": 425.54
+  },
+  {
+    "PRICE_ID": 518,
+    "PRODUCT_ID": 518,
+    "EFFECTIVE_FROM": "2023-01-07",
+    "UNIT_PRICE": 158.26
+  },
+  {
+    "PRICE_ID": 519,
+    "PRODUCT_ID": 519,
+    "EFFECTIVE_FROM": "2023-11-11",
+    "UNIT_PRICE": 247.92
+  },
+  {
+    "PRICE_ID": 520,
+    "PRODUCT_ID": 520,
+    "EFFECTIVE_FROM": "2023-05-04",
+    "UNIT_PRICE": 356.86
+  },
+  {
+    "PRICE_ID": 521,
+    "PRODUCT_ID": 521,
+    "EFFECTIVE_FROM": "2023-11-22",
+    "UNIT_PRICE": 116.64
+  },
+  {
+    "PRICE_ID": 522,
+    "PRODUCT_ID": 522,
+    "EFFECTIVE_FROM": "2023-03-16",
+    "UNIT_PRICE": 330.04
+  },
+  {
+    "PRICE_ID": 523,
+    "PRODUCT_ID": 523,
+    "EFFECTIVE_FROM": "2024-05-08",
+    "UNIT_PRICE": 331.94
+  },
+  {
+    "PRICE_ID": 524,
+    "PRODUCT_ID": 524,
+    "EFFECTIVE_FROM": "2023-11-20",
+    "UNIT_PRICE": 425.96
+  },
+  {
+    "PRICE_ID": 525,
+    "PRODUCT_ID": 525,
+    "EFFECTIVE_FROM": "2023-04-10",
+    "UNIT_PRICE": 11.3
+  },
+  {
+    "PRICE_ID": 526,
+    "PRODUCT_ID": 526,
+    "EFFECTIVE_FROM": "2024-05-23",
+    "UNIT_PRICE": 247.65
+  },
+  {
+    "PRICE_ID": 527,
+    "PRODUCT_ID": 527,
+    "EFFECTIVE_FROM": "2023-07-21",
+    "UNIT_PRICE": 322.97
+  },
+  {
+    "PRICE_ID": 528,
+    "PRODUCT_ID": 528,
+    "EFFECTIVE_FROM": "2023-03-17",
+    "UNIT_PRICE": 250.68
+  },
+  {
+    "PRICE_ID": 529,
+    "PRODUCT_ID": 529,
+    "EFFECTIVE_FROM": "2023-12-25",
+    "UNIT_PRICE": 35.74
+  },
+  {
+    "PRICE_ID": 530,
+    "PRODUCT_ID": 530,
+    "EFFECTIVE_FROM": "2024-03-05",
+    "UNIT_PRICE": 47.65
+  },
+  {
+    "PRICE_ID": 531,
+    "PRODUCT_ID": 531,
+    "EFFECTIVE_FROM": "2024-08-12",
+    "UNIT_PRICE": 382.09
+  },
+  {
+    "PRICE_ID": 532,
+    "PRODUCT_ID": 532,
+    "EFFECTIVE_FROM": "2023-07-03",
+    "UNIT_PRICE": 483.17
+  },
+  {
+    "PRICE_ID": 533,
+    "PRODUCT_ID": 533,
+    "EFFECTIVE_FROM": "2023-05-31",
+    "UNIT_PRICE": 349.03
+  },
+  {
+    "PRICE_ID": 534,
+    "PRODUCT_ID": 534,
+    "EFFECTIVE_FROM": "2024-09-28",
+    "UNIT_PRICE": 373.38
+  },
+  {
+    "PRICE_ID": 535,
+    "PRODUCT_ID": 535,
+    "EFFECTIVE_FROM": "2024-08-20",
+    "UNIT_PRICE": 300.82
+  },
+  {
+    "PRICE_ID": 536,
+    "PRODUCT_ID": 536,
+    "EFFECTIVE_FROM": "2023-03-14",
+    "UNIT_PRICE": 297.44
+  },
+  {
+    "PRICE_ID": 537,
+    "PRODUCT_ID": 537,
+    "EFFECTIVE_FROM": "2024-06-12",
+    "UNIT_PRICE": 244.72
+  },
+  {
+    "PRICE_ID": 538,
+    "PRODUCT_ID": 538,
+    "EFFECTIVE_FROM": "2023-08-04",
+    "UNIT_PRICE": 232.51
+  },
+  {
+    "PRICE_ID": 539,
+    "PRODUCT_ID": 539,
+    "EFFECTIVE_FROM": "2023-07-14",
+    "UNIT_PRICE": 152.64
+  },
+  {
+    "PRICE_ID": 540,
+    "PRODUCT_ID": 540,
+    "EFFECTIVE_FROM": "2023-07-08",
+    "UNIT_PRICE": 406.13
+  },
+  {
+    "PRICE_ID": 541,
+    "PRODUCT_ID": 541,
+    "EFFECTIVE_FROM": "2023-11-14",
+    "UNIT_PRICE": 141.16
+  },
+  {
+    "PRICE_ID": 542,
+    "PRODUCT_ID": 542,
+    "EFFECTIVE_FROM": "2024-04-04",
+    "UNIT_PRICE": 146.87
+  },
+  {
+    "PRICE_ID": 543,
+    "PRODUCT_ID": 543,
+    "EFFECTIVE_FROM": "2024-09-15",
+    "UNIT_PRICE": 5.04
+  },
+  {
+    "PRICE_ID": 544,
+    "PRODUCT_ID": 544,
+    "EFFECTIVE_FROM": "2023-10-05",
+    "UNIT_PRICE": 249.22
+  },
+  {
+    "PRICE_ID": 545,
+    "PRODUCT_ID": 545,
+    "EFFECTIVE_FROM": "2023-01-27",
+    "UNIT_PRICE": 224.75
+  },
+  {
+    "PRICE_ID": 546,
+    "PRODUCT_ID": 546,
+    "EFFECTIVE_FROM": "2024-07-01",
+    "UNIT_PRICE": 210.91
+  },
+  {
+    "PRICE_ID": 547,
+    "PRODUCT_ID": 547,
+    "EFFECTIVE_FROM": "2023-05-12",
+    "UNIT_PRICE": 388.36
+  },
+  {
+    "PRICE_ID": 548,
+    "PRODUCT_ID": 548,
+    "EFFECTIVE_FROM": "2023-11-19",
+    "UNIT_PRICE": 493.29
+  },
+  {
+    "PRICE_ID": 549,
+    "PRODUCT_ID": 549,
+    "EFFECTIVE_FROM": "2023-01-06",
+    "UNIT_PRICE": 347.45
+  },
+  {
+    "PRICE_ID": 550,
+    "PRODUCT_ID": 550,
+    "EFFECTIVE_FROM": "2024-04-26",
+    "UNIT_PRICE": 209.7
+  },
+  {
+    "PRICE_ID": 551,
+    "PRODUCT_ID": 551,
+    "EFFECTIVE_FROM": "2023-03-20",
+    "UNIT_PRICE": 389.81
+  },
+  {
+    "PRICE_ID": 552,
+    "PRODUCT_ID": 552,
+    "EFFECTIVE_FROM": "2024-09-14",
+    "UNIT_PRICE": 40.29
+  },
+  {
+    "PRICE_ID": 553,
+    "PRODUCT_ID": 553,
+    "EFFECTIVE_FROM": "2024-04-27",
+    "UNIT_PRICE": 316.79
+  },
+  {
+    "PRICE_ID": 554,
+    "PRODUCT_ID": 554,
+    "EFFECTIVE_FROM": "2024-12-05",
+    "UNIT_PRICE": 280.89
+  },
+  {
+    "PRICE_ID": 555,
+    "PRODUCT_ID": 555,
+    "EFFECTIVE_FROM": "2024-01-01",
+    "UNIT_PRICE": 49.47
+  },
+  {
+    "PRICE_ID": 556,
+    "PRODUCT_ID": 556,
+    "EFFECTIVE_FROM": "2024-12-12",
+    "UNIT_PRICE": 123.25
+  },
+  {
+    "PRICE_ID": 557,
+    "PRODUCT_ID": 557,
+    "EFFECTIVE_FROM": "2024-11-04",
+    "UNIT_PRICE": 87.4
+  },
+  {
+    "PRICE_ID": 558,
+    "PRODUCT_ID": 558,
+    "EFFECTIVE_FROM": "2024-07-05",
+    "UNIT_PRICE": 298.58
+  },
+  {
+    "PRICE_ID": 559,
+    "PRODUCT_ID": 559,
+    "EFFECTIVE_FROM": "2023-03-22",
+    "UNIT_PRICE": 137.65
+  },
+  {
+    "PRICE_ID": 560,
+    "PRODUCT_ID": 560,
+    "EFFECTIVE_FROM": "2024-01-28",
+    "UNIT_PRICE": 100.33
+  },
+  {
+    "PRICE_ID": 561,
+    "PRODUCT_ID": 561,
+    "EFFECTIVE_FROM": "2023-09-19",
+    "UNIT_PRICE": 23.33
+  },
+  {
+    "PRICE_ID": 562,
+    "PRODUCT_ID": 562,
+    "EFFECTIVE_FROM": "2023-03-17",
+    "UNIT_PRICE": 281.38
+  },
+  {
+    "PRICE_ID": 563,
+    "PRODUCT_ID": 563,
+    "EFFECTIVE_FROM": "2023-12-29",
+    "UNIT_PRICE": 256.9
+  },
+  {
+    "PRICE_ID": 564,
+    "PRODUCT_ID": 564,
+    "EFFECTIVE_FROM": "2023-12-19",
+    "UNIT_PRICE": 176.43
+  },
+  {
+    "PRICE_ID": 565,
+    "PRODUCT_ID": 565,
+    "EFFECTIVE_FROM": "2023-03-22",
+    "UNIT_PRICE": 365.82
+  },
+  {
+    "PRICE_ID": 566,
+    "PRODUCT_ID": 566,
+    "EFFECTIVE_FROM": "2023-04-08",
+    "UNIT_PRICE": 163.88
+  },
+  {
+    "PRICE_ID": 567,
+    "PRODUCT_ID": 567,
+    "EFFECTIVE_FROM": "2024-04-07",
+    "UNIT_PRICE": 133.98
+  },
+  {
+    "PRICE_ID": 568,
+    "PRODUCT_ID": 568,
+    "EFFECTIVE_FROM": "2024-09-26",
+    "UNIT_PRICE": 199.24
+  },
+  {
+    "PRICE_ID": 569,
+    "PRODUCT_ID": 569,
+    "EFFECTIVE_FROM": "2024-01-10",
+    "UNIT_PRICE": 128.19
+  },
+  {
+    "PRICE_ID": 570,
+    "PRODUCT_ID": 570,
+    "EFFECTIVE_FROM": "2024-11-13",
+    "UNIT_PRICE": 62.9
+  },
+  {
+    "PRICE_ID": 571,
+    "PRODUCT_ID": 571,
+    "EFFECTIVE_FROM": "2024-02-12",
+    "UNIT_PRICE": 28.21
+  },
+  {
+    "PRICE_ID": 572,
+    "PRODUCT_ID": 572,
+    "EFFECTIVE_FROM": "2024-05-18",
+    "UNIT_PRICE": 411.52
+  },
+  {
+    "PRICE_ID": 573,
+    "PRODUCT_ID": 573,
+    "EFFECTIVE_FROM": "2023-01-03",
+    "UNIT_PRICE": 30.04
+  },
+  {
+    "PRICE_ID": 574,
+    "PRODUCT_ID": 574,
+    "EFFECTIVE_FROM": "2023-01-12",
+    "UNIT_PRICE": 295.98
+  },
+  {
+    "PRICE_ID": 575,
+    "PRODUCT_ID": 575,
+    "EFFECTIVE_FROM": "2023-01-13",
+    "UNIT_PRICE": 359.83
+  },
+  {
+    "PRICE_ID": 576,
+    "PRODUCT_ID": 576,
+    "EFFECTIVE_FROM": "2023-11-23",
+    "UNIT_PRICE": 446.93
+  },
+  {
+    "PRICE_ID": 577,
+    "PRODUCT_ID": 577,
+    "EFFECTIVE_FROM": "2023-05-01",
+    "UNIT_PRICE": 272.09
+  },
+  {
+    "PRICE_ID": 578,
+    "PRODUCT_ID": 578,
+    "EFFECTIVE_FROM": "2023-01-19",
+    "UNIT_PRICE": 497.26
+  },
+  {
+    "PRICE_ID": 579,
+    "PRODUCT_ID": 579,
+    "EFFECTIVE_FROM": "2023-09-12",
+    "UNIT_PRICE": 304.08
+  },
+  {
+    "PRICE_ID": 580,
+    "PRODUCT_ID": 580,
+    "EFFECTIVE_FROM": "2024-12-29",
+    "UNIT_PRICE": 275.24
+  },
+  {
+    "PRICE_ID": 581,
+    "PRODUCT_ID": 581,
+    "EFFECTIVE_FROM": "2023-07-02",
+    "UNIT_PRICE": 45.31
+  },
+  {
+    "PRICE_ID": 582,
+    "PRODUCT_ID": 582,
+    "EFFECTIVE_FROM": "2024-07-06",
+    "UNIT_PRICE": 16.95
+  },
+  {
+    "PRICE_ID": 583,
+    "PRODUCT_ID": 583,
+    "EFFECTIVE_FROM": "2023-08-03",
+    "UNIT_PRICE": 296.34
+  },
+  {
+    "PRICE_ID": 584,
+    "PRODUCT_ID": 584,
+    "EFFECTIVE_FROM": "2024-02-08",
+    "UNIT_PRICE": 385.63
+  },
+  {
+    "PRICE_ID": 585,
+    "PRODUCT_ID": 585,
+    "EFFECTIVE_FROM": "2023-02-10",
+    "UNIT_PRICE": 123.08
+  },
+  {
+    "PRICE_ID": 586,
+    "PRODUCT_ID": 586,
+    "EFFECTIVE_FROM": "2024-01-16",
+    "UNIT_PRICE": 458.09
+  },
+  {
+    "PRICE_ID": 587,
+    "PRODUCT_ID": 587,
+    "EFFECTIVE_FROM": "2024-07-11",
+    "UNIT_PRICE": 279.57
+  },
+  {
+    "PRICE_ID": 588,
+    "PRODUCT_ID": 588,
+    "EFFECTIVE_FROM": "2024-12-01",
+    "UNIT_PRICE": 474.52
+  },
+  {
+    "PRICE_ID": 589,
+    "PRODUCT_ID": 589,
+    "EFFECTIVE_FROM": "2024-10-05",
+    "UNIT_PRICE": 486.19
+  },
+  {
+    "PRICE_ID": 590,
+    "PRODUCT_ID": 590,
+    "EFFECTIVE_FROM": "2023-01-22",
+    "UNIT_PRICE": 331.74
+  },
+  {
+    "PRICE_ID": 591,
+    "PRODUCT_ID": 591,
+    "EFFECTIVE_FROM": "2024-06-30",
+    "UNIT_PRICE": 272.54
+  },
+  {
+    "PRICE_ID": 592,
+    "PRODUCT_ID": 592,
+    "EFFECTIVE_FROM": "2023-06-05",
+    "UNIT_PRICE": 198.91
+  },
+  {
+    "PRICE_ID": 593,
+    "PRODUCT_ID": 593,
+    "EFFECTIVE_FROM": "2023-06-11",
+    "UNIT_PRICE": 306.0
+  },
+  {
+    "PRICE_ID": 594,
+    "PRODUCT_ID": 594,
+    "EFFECTIVE_FROM": "2023-12-13",
+    "UNIT_PRICE": 49.82
+  },
+  {
+    "PRICE_ID": 595,
+    "PRODUCT_ID": 595,
+    "EFFECTIVE_FROM": "2024-01-27",
+    "UNIT_PRICE": 144.83
+  },
+  {
+    "PRICE_ID": 596,
+    "PRODUCT_ID": 596,
+    "EFFECTIVE_FROM": "2024-03-23",
+    "UNIT_PRICE": 356.1
+  },
+  {
+    "PRICE_ID": 597,
+    "PRODUCT_ID": 597,
+    "EFFECTIVE_FROM": "2023-07-31",
+    "UNIT_PRICE": 434.14
+  },
+  {
+    "PRICE_ID": 598,
+    "PRODUCT_ID": 598,
+    "EFFECTIVE_FROM": "2023-08-31",
+    "UNIT_PRICE": 174.56
+  },
+  {
+    "PRICE_ID": 599,
+    "PRODUCT_ID": 599,
+    "EFFECTIVE_FROM": "2024-03-03",
+    "UNIT_PRICE": 70.41
+  },
+  {
+    "PRICE_ID": 600,
+    "PRODUCT_ID": 600,
+    "EFFECTIVE_FROM": "2023-02-26",
+    "UNIT_PRICE": 466.61
+  },
+  {
+    "PRICE_ID": 601,
+    "PRODUCT_ID": 601,
+    "EFFECTIVE_FROM": "2024-09-11",
+    "UNIT_PRICE": 492.8
+  },
+  {
+    "PRICE_ID": 602,
+    "PRODUCT_ID": 602,
+    "EFFECTIVE_FROM": "2023-11-04",
+    "UNIT_PRICE": 135.51
+  },
+  {
+    "PRICE_ID": 603,
+    "PRODUCT_ID": 603,
+    "EFFECTIVE_FROM": "2023-01-22",
+    "UNIT_PRICE": 254.05
+  },
+  {
+    "PRICE_ID": 604,
+    "PRODUCT_ID": 604,
+    "EFFECTIVE_FROM": "2024-06-03",
+    "UNIT_PRICE": 450.5
+  },
+  {
+    "PRICE_ID": 605,
+    "PRODUCT_ID": 605,
+    "EFFECTIVE_FROM": "2024-03-18",
+    "UNIT_PRICE": 246.25
+  },
+  {
+    "PRICE_ID": 606,
+    "PRODUCT_ID": 606,
+    "EFFECTIVE_FROM": "2024-06-01",
+    "UNIT_PRICE": 361.32
+  },
+  {
+    "PRICE_ID": 607,
+    "PRODUCT_ID": 607,
+    "EFFECTIVE_FROM": "2024-09-11",
+    "UNIT_PRICE": 281.4
+  },
+  {
+    "PRICE_ID": 608,
+    "PRODUCT_ID": 608,
+    "EFFECTIVE_FROM": "2023-02-13",
+    "UNIT_PRICE": 300.31
+  },
+  {
+    "PRICE_ID": 609,
+    "PRODUCT_ID": 609,
+    "EFFECTIVE_FROM": "2023-02-12",
+    "UNIT_PRICE": 489.63
+  },
+  {
+    "PRICE_ID": 610,
+    "PRODUCT_ID": 610,
+    "EFFECTIVE_FROM": "2023-05-01",
+    "UNIT_PRICE": 301.75
+  },
+  {
+    "PRICE_ID": 611,
+    "PRODUCT_ID": 611,
+    "EFFECTIVE_FROM": "2024-09-21",
+    "UNIT_PRICE": 50.86
+  },
+  {
+    "PRICE_ID": 612,
+    "PRODUCT_ID": 612,
+    "EFFECTIVE_FROM": "2024-12-10",
+    "UNIT_PRICE": 316.45
+  },
+  {
+    "PRICE_ID": 613,
+    "PRODUCT_ID": 613,
+    "EFFECTIVE_FROM": "2023-10-16",
+    "UNIT_PRICE": 433.5
+  },
+  {
+    "PRICE_ID": 614,
+    "PRODUCT_ID": 614,
+    "EFFECTIVE_FROM": "2023-03-22",
+    "UNIT_PRICE": 50.48
+  },
+  {
+    "PRICE_ID": 615,
+    "PRODUCT_ID": 615,
+    "EFFECTIVE_FROM": "2024-11-28",
+    "UNIT_PRICE": 428.8
+  },
+  {
+    "PRICE_ID": 616,
+    "PRODUCT_ID": 616,
+    "EFFECTIVE_FROM": "2023-05-29",
+    "UNIT_PRICE": 406.32
+  },
+  {
+    "PRICE_ID": 617,
+    "PRODUCT_ID": 617,
+    "EFFECTIVE_FROM": "2024-01-23",
+    "UNIT_PRICE": 54.63
+  },
+  {
+    "PRICE_ID": 618,
+    "PRODUCT_ID": 618,
+    "EFFECTIVE_FROM": "2023-12-10",
+    "UNIT_PRICE": 270.87
+  },
+  {
+    "PRICE_ID": 619,
+    "PRODUCT_ID": 619,
+    "EFFECTIVE_FROM": "2024-07-20",
+    "UNIT_PRICE": 172.56
+  },
+  {
+    "PRICE_ID": 620,
+    "PRODUCT_ID": 620,
+    "EFFECTIVE_FROM": "2023-02-18",
+    "UNIT_PRICE": 174.74
+  },
+  {
+    "PRICE_ID": 621,
+    "PRODUCT_ID": 621,
+    "EFFECTIVE_FROM": "2024-02-13",
+    "UNIT_PRICE": 124.28
+  },
+  {
+    "PRICE_ID": 622,
+    "PRODUCT_ID": 622,
+    "EFFECTIVE_FROM": "2024-11-04",
+    "UNIT_PRICE": 64.06
+  },
+  {
+    "PRICE_ID": 623,
+    "PRODUCT_ID": 623,
+    "EFFECTIVE_FROM": "2024-08-31",
+    "UNIT_PRICE": 329.82
+  },
+  {
+    "PRICE_ID": 624,
+    "PRODUCT_ID": 624,
+    "EFFECTIVE_FROM": "2023-02-03",
+    "UNIT_PRICE": 151.16
+  },
+  {
+    "PRICE_ID": 625,
+    "PRODUCT_ID": 625,
+    "EFFECTIVE_FROM": "2024-04-10",
+    "UNIT_PRICE": 400.37
+  },
+  {
+    "PRICE_ID": 626,
+    "PRODUCT_ID": 626,
+    "EFFECTIVE_FROM": "2024-11-19",
+    "UNIT_PRICE": 493.96
+  },
+  {
+    "PRICE_ID": 627,
+    "PRODUCT_ID": 627,
+    "EFFECTIVE_FROM": "2023-05-31",
+    "UNIT_PRICE": 13.95
+  },
+  {
+    "PRICE_ID": 628,
+    "PRODUCT_ID": 628,
+    "EFFECTIVE_FROM": "2023-08-20",
+    "UNIT_PRICE": 302.31
+  },
+  {
+    "PRICE_ID": 629,
+    "PRODUCT_ID": 629,
+    "EFFECTIVE_FROM": "2024-04-26",
+    "UNIT_PRICE": 340.67
+  },
+  {
+    "PRICE_ID": 630,
+    "PRODUCT_ID": 630,
+    "EFFECTIVE_FROM": "2024-05-02",
+    "UNIT_PRICE": 241.32
+  },
+  {
+    "PRICE_ID": 631,
+    "PRODUCT_ID": 631,
+    "EFFECTIVE_FROM": "2023-10-07",
+    "UNIT_PRICE": 184.86
+  },
+  {
+    "PRICE_ID": 632,
+    "PRODUCT_ID": 632,
+    "EFFECTIVE_FROM": "2023-10-13",
+    "UNIT_PRICE": 151.65
+  },
+  {
+    "PRICE_ID": 633,
+    "PRODUCT_ID": 633,
+    "EFFECTIVE_FROM": "2024-12-15",
+    "UNIT_PRICE": 479.5
+  },
+  {
+    "PRICE_ID": 634,
+    "PRODUCT_ID": 634,
+    "EFFECTIVE_FROM": "2023-02-28",
+    "UNIT_PRICE": 432.45
+  },
+  {
+    "PRICE_ID": 635,
+    "PRODUCT_ID": 635,
+    "EFFECTIVE_FROM": "2024-11-26",
+    "UNIT_PRICE": 446.4
+  },
+  {
+    "PRICE_ID": 636,
+    "PRODUCT_ID": 636,
+    "EFFECTIVE_FROM": "2023-05-21",
+    "UNIT_PRICE": 459.67
+  },
+  {
+    "PRICE_ID": 637,
+    "PRODUCT_ID": 637,
+    "EFFECTIVE_FROM": "2023-07-21",
+    "UNIT_PRICE": 44.56
+  },
+  {
+    "PRICE_ID": 638,
+    "PRODUCT_ID": 638,
+    "EFFECTIVE_FROM": "2023-03-07",
+    "UNIT_PRICE": 148.19
+  },
+  {
+    "PRICE_ID": 639,
+    "PRODUCT_ID": 639,
+    "EFFECTIVE_FROM": "2023-03-17",
+    "UNIT_PRICE": 412.32
+  },
+  {
+    "PRICE_ID": 640,
+    "PRODUCT_ID": 640,
+    "EFFECTIVE_FROM": "2024-08-09",
+    "UNIT_PRICE": 172.78
+  },
+  {
+    "PRICE_ID": 641,
+    "PRODUCT_ID": 641,
+    "EFFECTIVE_FROM": "2023-09-07",
+    "UNIT_PRICE": 290.41
+  },
+  {
+    "PRICE_ID": 642,
+    "PRODUCT_ID": 642,
+    "EFFECTIVE_FROM": "2024-03-07",
+    "UNIT_PRICE": 438.82
+  },
+  {
+    "PRICE_ID": 643,
+    "PRODUCT_ID": 643,
+    "EFFECTIVE_FROM": "2024-05-12",
+    "UNIT_PRICE": 402.93
+  },
+  {
+    "PRICE_ID": 644,
+    "PRODUCT_ID": 644,
+    "EFFECTIVE_FROM": "2024-02-22",
+    "UNIT_PRICE": 70.47
+  },
+  {
+    "PRICE_ID": 645,
+    "PRODUCT_ID": 645,
+    "EFFECTIVE_FROM": "2024-02-22",
+    "UNIT_PRICE": 94.0
+  },
+  {
+    "PRICE_ID": 646,
+    "PRODUCT_ID": 646,
+    "EFFECTIVE_FROM": "2023-12-01",
+    "UNIT_PRICE": 353.05
+  },
+  {
+    "PRICE_ID": 647,
+    "PRODUCT_ID": 647,
+    "EFFECTIVE_FROM": "2024-08-13",
+    "UNIT_PRICE": 191.08
+  },
+  {
+    "PRICE_ID": 648,
+    "PRODUCT_ID": 648,
+    "EFFECTIVE_FROM": "2023-01-03",
+    "UNIT_PRICE": 184.83
+  },
+  {
+    "PRICE_ID": 649,
+    "PRODUCT_ID": 649,
+    "EFFECTIVE_FROM": "2023-01-14",
+    "UNIT_PRICE": 73.24
+  },
+  {
+    "PRICE_ID": 650,
+    "PRODUCT_ID": 650,
+    "EFFECTIVE_FROM": "2024-01-29",
+    "UNIT_PRICE": 41.47
+  },
+  {
+    "PRICE_ID": 651,
+    "PRODUCT_ID": 651,
+    "EFFECTIVE_FROM": "2024-07-01",
+    "UNIT_PRICE": 154.1
+  },
+  {
+    "PRICE_ID": 652,
+    "PRODUCT_ID": 652,
+    "EFFECTIVE_FROM": "2023-05-13",
+    "UNIT_PRICE": 190.12
+  },
+  {
+    "PRICE_ID": 653,
+    "PRODUCT_ID": 653,
+    "EFFECTIVE_FROM": "2024-07-22",
+    "UNIT_PRICE": 454.07
+  },
+  {
+    "PRICE_ID": 654,
+    "PRODUCT_ID": 654,
+    "EFFECTIVE_FROM": "2023-01-07",
+    "UNIT_PRICE": 111.96
+  },
+  {
+    "PRICE_ID": 655,
+    "PRODUCT_ID": 655,
+    "EFFECTIVE_FROM": "2024-02-02",
+    "UNIT_PRICE": 260.88
+  },
+  {
+    "PRICE_ID": 656,
+    "PRODUCT_ID": 656,
+    "EFFECTIVE_FROM": "2023-02-19",
+    "UNIT_PRICE": 168.67
+  },
+  {
+    "PRICE_ID": 657,
+    "PRODUCT_ID": 657,
+    "EFFECTIVE_FROM": "2023-02-23",
+    "UNIT_PRICE": 199.72
+  },
+  {
+    "PRICE_ID": 658,
+    "PRODUCT_ID": 658,
+    "EFFECTIVE_FROM": "2023-02-12",
+    "UNIT_PRICE": 201.13
+  },
+  {
+    "PRICE_ID": 659,
+    "PRODUCT_ID": 659,
+    "EFFECTIVE_FROM": "2023-09-02",
+    "UNIT_PRICE": 219.82
+  },
+  {
+    "PRICE_ID": 660,
+    "PRODUCT_ID": 660,
+    "EFFECTIVE_FROM": "2023-01-09",
+    "UNIT_PRICE": 188.63
+  },
+  {
+    "PRICE_ID": 661,
+    "PRODUCT_ID": 661,
+    "EFFECTIVE_FROM": "2023-05-13",
+    "UNIT_PRICE": 366.81
+  },
+  {
+    "PRICE_ID": 662,
+    "PRODUCT_ID": 662,
+    "EFFECTIVE_FROM": "2024-10-18",
+    "UNIT_PRICE": 48.43
+  },
+  {
+    "PRICE_ID": 663,
+    "PRODUCT_ID": 663,
+    "EFFECTIVE_FROM": "2024-10-10",
+    "UNIT_PRICE": 217.32
+  },
+  {
+    "PRICE_ID": 664,
+    "PRODUCT_ID": 664,
+    "EFFECTIVE_FROM": "2023-01-09",
+    "UNIT_PRICE": 313.8
+  },
+  {
+    "PRICE_ID": 665,
+    "PRODUCT_ID": 665,
+    "EFFECTIVE_FROM": "2024-08-24",
+    "UNIT_PRICE": 64.74
+  },
+  {
+    "PRICE_ID": 666,
+    "PRODUCT_ID": 666,
+    "EFFECTIVE_FROM": "2023-08-10",
+    "UNIT_PRICE": 295.39
+  },
+  {
+    "PRICE_ID": 667,
+    "PRODUCT_ID": 667,
+    "EFFECTIVE_FROM": "2024-08-29",
+    "UNIT_PRICE": 63.54
+  },
+  {
+    "PRICE_ID": 668,
+    "PRODUCT_ID": 668,
+    "EFFECTIVE_FROM": "2023-06-18",
+    "UNIT_PRICE": 34.06
+  },
+  {
+    "PRICE_ID": 669,
+    "PRODUCT_ID": 669,
+    "EFFECTIVE_FROM": "2023-08-31",
+    "UNIT_PRICE": 321.35
+  },
+  {
+    "PRICE_ID": 670,
+    "PRODUCT_ID": 670,
+    "EFFECTIVE_FROM": "2023-05-27",
+    "UNIT_PRICE": 185.59
+  },
+  {
+    "PRICE_ID": 671,
+    "PRODUCT_ID": 671,
+    "EFFECTIVE_FROM": "2023-01-24",
+    "UNIT_PRICE": 306.11
+  },
+  {
+    "PRICE_ID": 672,
+    "PRODUCT_ID": 672,
+    "EFFECTIVE_FROM": "2023-12-14",
+    "UNIT_PRICE": 83.25
+  },
+  {
+    "PRICE_ID": 673,
+    "PRODUCT_ID": 673,
+    "EFFECTIVE_FROM": "2023-07-24",
+    "UNIT_PRICE": 384.86
+  },
+  {
+    "PRICE_ID": 674,
+    "PRODUCT_ID": 674,
+    "EFFECTIVE_FROM": "2024-04-16",
+    "UNIT_PRICE": 379.7
+  },
+  {
+    "PRICE_ID": 675,
+    "PRODUCT_ID": 675,
+    "EFFECTIVE_FROM": "2024-08-05",
+    "UNIT_PRICE": 236.41
+  },
+  {
+    "PRICE_ID": 676,
+    "PRODUCT_ID": 676,
+    "EFFECTIVE_FROM": "2024-09-03",
+    "UNIT_PRICE": 186.5
+  },
+  {
+    "PRICE_ID": 677,
+    "PRODUCT_ID": 677,
+    "EFFECTIVE_FROM": "2023-04-25",
+    "UNIT_PRICE": 289.37
+  },
+  {
+    "PRICE_ID": 678,
+    "PRODUCT_ID": 678,
+    "EFFECTIVE_FROM": "2023-07-11",
+    "UNIT_PRICE": 484.74
+  },
+  {
+    "PRICE_ID": 679,
+    "PRODUCT_ID": 679,
+    "EFFECTIVE_FROM": "2023-02-12",
+    "UNIT_PRICE": 29.52
+  },
+  {
+    "PRICE_ID": 680,
+    "PRODUCT_ID": 680,
+    "EFFECTIVE_FROM": "2024-06-30",
+    "UNIT_PRICE": 218.04
+  },
+  {
+    "PRICE_ID": 681,
+    "PRODUCT_ID": 681,
+    "EFFECTIVE_FROM": "2023-05-17",
+    "UNIT_PRICE": 432.2
+  },
+  {
+    "PRICE_ID": 682,
+    "PRODUCT_ID": 682,
+    "EFFECTIVE_FROM": "2024-04-19",
+    "UNIT_PRICE": 177.66
+  },
+  {
+    "PRICE_ID": 683,
+    "PRODUCT_ID": 683,
+    "EFFECTIVE_FROM": "2024-05-19",
+    "UNIT_PRICE": 467.55
+  },
+  {
+    "PRICE_ID": 684,
+    "PRODUCT_ID": 684,
+    "EFFECTIVE_FROM": "2024-11-08",
+    "UNIT_PRICE": 164.23
+  },
+  {
+    "PRICE_ID": 685,
+    "PRODUCT_ID": 685,
+    "EFFECTIVE_FROM": "2023-10-07",
+    "UNIT_PRICE": 490.83
+  },
+  {
+    "PRICE_ID": 686,
+    "PRODUCT_ID": 686,
+    "EFFECTIVE_FROM": "2024-08-27",
+    "UNIT_PRICE": 476.15
+  },
+  {
+    "PRICE_ID": 687,
+    "PRODUCT_ID": 687,
+    "EFFECTIVE_FROM": "2023-02-14",
+    "UNIT_PRICE": 162.92
+  },
+  {
+    "PRICE_ID": 688,
+    "PRODUCT_ID": 688,
+    "EFFECTIVE_FROM": "2024-07-24",
+    "UNIT_PRICE": 481.51
+  },
+  {
+    "PRICE_ID": 689,
+    "PRODUCT_ID": 689,
+    "EFFECTIVE_FROM": "2023-10-16",
+    "UNIT_PRICE": 348.28
+  },
+  {
+    "PRICE_ID": 690,
+    "PRODUCT_ID": 690,
+    "EFFECTIVE_FROM": "2023-12-04",
+    "UNIT_PRICE": 116.44
+  },
+  {
+    "PRICE_ID": 691,
+    "PRODUCT_ID": 691,
+    "EFFECTIVE_FROM": "2023-04-03",
+    "UNIT_PRICE": 66.56
+  },
+  {
+    "PRICE_ID": 692,
+    "PRODUCT_ID": 692,
+    "EFFECTIVE_FROM": "2023-01-17",
+    "UNIT_PRICE": 317.16
+  },
+  {
+    "PRICE_ID": 693,
+    "PRODUCT_ID": 693,
+    "EFFECTIVE_FROM": "2023-05-04",
+    "UNIT_PRICE": 360.59
+  },
+  {
+    "PRICE_ID": 694,
+    "PRODUCT_ID": 694,
+    "EFFECTIVE_FROM": "2024-09-01",
+    "UNIT_PRICE": 197.7
+  },
+  {
+    "PRICE_ID": 695,
+    "PRODUCT_ID": 695,
+    "EFFECTIVE_FROM": "2024-10-06",
+    "UNIT_PRICE": 178.44
+  },
+  {
+    "PRICE_ID": 696,
+    "PRODUCT_ID": 696,
+    "EFFECTIVE_FROM": "2023-08-05",
+    "UNIT_PRICE": 145.28
+  },
+  {
+    "PRICE_ID": 697,
+    "PRODUCT_ID": 697,
+    "EFFECTIVE_FROM": "2023-10-17",
+    "UNIT_PRICE": 382.23
+  },
+  {
+    "PRICE_ID": 698,
+    "PRODUCT_ID": 698,
+    "EFFECTIVE_FROM": "2024-02-12",
+    "UNIT_PRICE": 490.27
+  },
+  {
+    "PRICE_ID": 699,
+    "PRODUCT_ID": 699,
+    "EFFECTIVE_FROM": "2023-06-10",
+    "UNIT_PRICE": 434.14
+  },
+  {
+    "PRICE_ID": 700,
+    "PRODUCT_ID": 700,
+    "EFFECTIVE_FROM": "2024-09-03",
+    "UNIT_PRICE": 398.13
+  },
+  {
+    "PRICE_ID": 701,
+    "PRODUCT_ID": 701,
+    "EFFECTIVE_FROM": "2024-01-15",
+    "UNIT_PRICE": 78.96
+  },
+  {
+    "PRICE_ID": 702,
+    "PRODUCT_ID": 702,
+    "EFFECTIVE_FROM": "2024-05-20",
+    "UNIT_PRICE": 310.18
+  },
+  {
+    "PRICE_ID": 703,
+    "PRODUCT_ID": 703,
+    "EFFECTIVE_FROM": "2023-02-23",
+    "UNIT_PRICE": 160.87
+  },
+  {
+    "PRICE_ID": 704,
+    "PRODUCT_ID": 704,
+    "EFFECTIVE_FROM": "2024-02-22",
+    "UNIT_PRICE": 193.04
+  },
+  {
+    "PRICE_ID": 705,
+    "PRODUCT_ID": 705,
+    "EFFECTIVE_FROM": "2023-08-29",
+    "UNIT_PRICE": 484.91
+  },
+  {
+    "PRICE_ID": 706,
+    "PRODUCT_ID": 706,
+    "EFFECTIVE_FROM": "2024-02-23",
+    "UNIT_PRICE": 55.76
+  },
+  {
+    "PRICE_ID": 707,
+    "PRODUCT_ID": 707,
+    "EFFECTIVE_FROM": "2024-03-06",
+    "UNIT_PRICE": 420.98
+  },
+  {
+    "PRICE_ID": 708,
+    "PRODUCT_ID": 708,
+    "EFFECTIVE_FROM": "2023-11-14",
+    "UNIT_PRICE": 273.17
+  },
+  {
+    "PRICE_ID": 709,
+    "PRODUCT_ID": 709,
+    "EFFECTIVE_FROM": "2023-02-01",
+    "UNIT_PRICE": 226.58
+  },
+  {
+    "PRICE_ID": 710,
+    "PRODUCT_ID": 710,
+    "EFFECTIVE_FROM": "2023-10-31",
+    "UNIT_PRICE": 227.21
+  },
+  {
+    "PRICE_ID": 711,
+    "PRODUCT_ID": 711,
+    "EFFECTIVE_FROM": "2024-10-17",
+    "UNIT_PRICE": 81.36
+  },
+  {
+    "PRICE_ID": 712,
+    "PRODUCT_ID": 712,
+    "EFFECTIVE_FROM": "2024-03-07",
+    "UNIT_PRICE": 451.39
+  },
+  {
+    "PRICE_ID": 713,
+    "PRODUCT_ID": 713,
+    "EFFECTIVE_FROM": "2024-02-20",
+    "UNIT_PRICE": 12.94
+  },
+  {
+    "PRICE_ID": 714,
+    "PRODUCT_ID": 714,
+    "EFFECTIVE_FROM": "2023-07-21",
+    "UNIT_PRICE": 179.89
+  },
+  {
+    "PRICE_ID": 715,
+    "PRODUCT_ID": 715,
+    "EFFECTIVE_FROM": "2023-03-06",
+    "UNIT_PRICE": 186.16
+  },
+  {
+    "PRICE_ID": 716,
+    "PRODUCT_ID": 716,
+    "EFFECTIVE_FROM": "2024-01-09",
+    "UNIT_PRICE": 18.45
+  },
+  {
+    "PRICE_ID": 717,
+    "PRODUCT_ID": 717,
+    "EFFECTIVE_FROM": "2024-01-19",
+    "UNIT_PRICE": 477.67
+  },
+  {
+    "PRICE_ID": 718,
+    "PRODUCT_ID": 718,
+    "EFFECTIVE_FROM": "2024-11-28",
+    "UNIT_PRICE": 7.16
+  },
+  {
+    "PRICE_ID": 719,
+    "PRODUCT_ID": 719,
+    "EFFECTIVE_FROM": "2024-03-27",
+    "UNIT_PRICE": 119.05
+  },
+  {
+    "PRICE_ID": 720,
+    "PRODUCT_ID": 720,
+    "EFFECTIVE_FROM": "2024-10-12",
+    "UNIT_PRICE": 475.81
+  },
+  {
+    "PRICE_ID": 721,
+    "PRODUCT_ID": 721,
+    "EFFECTIVE_FROM": "2024-03-09",
+    "UNIT_PRICE": 251.04
+  },
+  {
+    "PRICE_ID": 722,
+    "PRODUCT_ID": 722,
+    "EFFECTIVE_FROM": "2023-04-07",
+    "UNIT_PRICE": 161.44
+  },
+  {
+    "PRICE_ID": 723,
+    "PRODUCT_ID": 723,
+    "EFFECTIVE_FROM": "2023-02-25",
+    "UNIT_PRICE": 176.7
+  },
+  {
+    "PRICE_ID": 724,
+    "PRODUCT_ID": 724,
+    "EFFECTIVE_FROM": "2024-03-26",
+    "UNIT_PRICE": 288.18
+  },
+  {
+    "PRICE_ID": 725,
+    "PRODUCT_ID": 725,
+    "EFFECTIVE_FROM": "2024-01-18",
+    "UNIT_PRICE": 68.83
+  },
+  {
+    "PRICE_ID": 726,
+    "PRODUCT_ID": 726,
+    "EFFECTIVE_FROM": "2023-09-19",
+    "UNIT_PRICE": 154.6
+  },
+  {
+    "PRICE_ID": 727,
+    "PRODUCT_ID": 727,
+    "EFFECTIVE_FROM": "2023-08-03",
+    "UNIT_PRICE": 126.42
+  },
+  {
+    "PRICE_ID": 728,
+    "PRODUCT_ID": 728,
+    "EFFECTIVE_FROM": "2023-12-01",
+    "UNIT_PRICE": 157.26
+  },
+  {
+    "PRICE_ID": 729,
+    "PRODUCT_ID": 729,
+    "EFFECTIVE_FROM": "2024-08-03",
+    "UNIT_PRICE": 136.35
+  },
+  {
+    "PRICE_ID": 730,
+    "PRODUCT_ID": 730,
+    "EFFECTIVE_FROM": "2024-12-27",
+    "UNIT_PRICE": 190.81
+  },
+  {
+    "PRICE_ID": 731,
+    "PRODUCT_ID": 731,
+    "EFFECTIVE_FROM": "2023-09-28",
+    "UNIT_PRICE": 367.3
+  },
+  {
+    "PRICE_ID": 732,
+    "PRODUCT_ID": 732,
+    "EFFECTIVE_FROM": "2024-01-10",
+    "UNIT_PRICE": 110.83
+  },
+  {
+    "PRICE_ID": 733,
+    "PRODUCT_ID": 733,
+    "EFFECTIVE_FROM": "2024-11-27",
+    "UNIT_PRICE": 406.77
+  },
+  {
+    "PRICE_ID": 734,
+    "PRODUCT_ID": 734,
+    "EFFECTIVE_FROM": "2024-12-12",
+    "UNIT_PRICE": 469.79
+  },
+  {
+    "PRICE_ID": 735,
+    "PRODUCT_ID": 735,
+    "EFFECTIVE_FROM": "2024-04-23",
+    "UNIT_PRICE": 293.84
+  },
+  {
+    "PRICE_ID": 736,
+    "PRODUCT_ID": 736,
+    "EFFECTIVE_FROM": "2023-11-23",
+    "UNIT_PRICE": 362.73
+  },
+  {
+    "PRICE_ID": 737,
+    "PRODUCT_ID": 737,
+    "EFFECTIVE_FROM": "2023-05-07",
+    "UNIT_PRICE": 288.47
+  },
+  {
+    "PRICE_ID": 738,
+    "PRODUCT_ID": 738,
+    "EFFECTIVE_FROM": "2023-03-23",
+    "UNIT_PRICE": 380.44
+  },
+  {
+    "PRICE_ID": 739,
+    "PRODUCT_ID": 739,
+    "EFFECTIVE_FROM": "2024-06-21",
+    "UNIT_PRICE": 320.43
+  },
+  {
+    "PRICE_ID": 740,
+    "PRODUCT_ID": 740,
+    "EFFECTIVE_FROM": "2024-06-28",
+    "UNIT_PRICE": 201.94
+  },
+  {
+    "PRICE_ID": 741,
+    "PRODUCT_ID": 741,
+    "EFFECTIVE_FROM": "2023-11-04",
+    "UNIT_PRICE": 424.57
+  },
+  {
+    "PRICE_ID": 742,
+    "PRODUCT_ID": 742,
+    "EFFECTIVE_FROM": "2024-02-19",
+    "UNIT_PRICE": 292.46
+  },
+  {
+    "PRICE_ID": 743,
+    "PRODUCT_ID": 743,
+    "EFFECTIVE_FROM": "2024-03-15",
+    "UNIT_PRICE": 168.4
+  },
+  {
+    "PRICE_ID": 744,
+    "PRODUCT_ID": 744,
+    "EFFECTIVE_FROM": "2023-05-07",
+    "UNIT_PRICE": 279.1
+  },
+  {
+    "PRICE_ID": 745,
+    "PRODUCT_ID": 745,
+    "EFFECTIVE_FROM": "2023-07-19",
+    "UNIT_PRICE": 441.15
+  },
+  {
+    "PRICE_ID": 746,
+    "PRODUCT_ID": 746,
+    "EFFECTIVE_FROM": "2024-12-31",
+    "UNIT_PRICE": 305.6
+  },
+  {
+    "PRICE_ID": 747,
+    "PRODUCT_ID": 747,
+    "EFFECTIVE_FROM": "2023-09-28",
+    "UNIT_PRICE": 315.46
+  },
+  {
+    "PRICE_ID": 748,
+    "PRODUCT_ID": 748,
+    "EFFECTIVE_FROM": "2024-07-26",
+    "UNIT_PRICE": 232.7
+  },
+  {
+    "PRICE_ID": 749,
+    "PRODUCT_ID": 749,
+    "EFFECTIVE_FROM": "2024-07-14",
+    "UNIT_PRICE": 477.65
+  },
+  {
+    "PRICE_ID": 750,
+    "PRODUCT_ID": 750,
+    "EFFECTIVE_FROM": "2024-01-19",
+    "UNIT_PRICE": 344.9
+  },
+  {
+    "PRICE_ID": 751,
+    "PRODUCT_ID": 751,
+    "EFFECTIVE_FROM": "2023-02-20",
+    "UNIT_PRICE": 387.14
+  },
+  {
+    "PRICE_ID": 752,
+    "PRODUCT_ID": 752,
+    "EFFECTIVE_FROM": "2023-09-06",
+    "UNIT_PRICE": 496.94
+  },
+  {
+    "PRICE_ID": 753,
+    "PRODUCT_ID": 753,
+    "EFFECTIVE_FROM": "2024-12-11",
+    "UNIT_PRICE": 241.74
+  },
+  {
+    "PRICE_ID": 754,
+    "PRODUCT_ID": 754,
+    "EFFECTIVE_FROM": "2024-04-30",
+    "UNIT_PRICE": 401.64
+  },
+  {
+    "PRICE_ID": 755,
+    "PRODUCT_ID": 755,
+    "EFFECTIVE_FROM": "2023-04-01",
+    "UNIT_PRICE": 273.32
+  },
+  {
+    "PRICE_ID": 756,
+    "PRODUCT_ID": 756,
+    "EFFECTIVE_FROM": "2023-09-08",
+    "UNIT_PRICE": 428.49
+  },
+  {
+    "PRICE_ID": 757,
+    "PRODUCT_ID": 757,
+    "EFFECTIVE_FROM": "2024-10-19",
+    "UNIT_PRICE": 54.63
+  },
+  {
+    "PRICE_ID": 758,
+    "PRODUCT_ID": 758,
+    "EFFECTIVE_FROM": "2023-07-10",
+    "UNIT_PRICE": 86.15
+  },
+  {
+    "PRICE_ID": 759,
+    "PRODUCT_ID": 759,
+    "EFFECTIVE_FROM": "2024-09-09",
+    "UNIT_PRICE": 183.14
+  },
+  {
+    "PRICE_ID": 760,
+    "PRODUCT_ID": 760,
+    "EFFECTIVE_FROM": "2024-05-15",
+    "UNIT_PRICE": 124.74
+  },
+  {
+    "PRICE_ID": 761,
+    "PRODUCT_ID": 761,
+    "EFFECTIVE_FROM": "2023-07-14",
+    "UNIT_PRICE": 425.9
+  },
+  {
+    "PRICE_ID": 762,
+    "PRODUCT_ID": 762,
+    "EFFECTIVE_FROM": "2023-05-28",
+    "UNIT_PRICE": 346.65
+  },
+  {
+    "PRICE_ID": 763,
+    "PRODUCT_ID": 763,
+    "EFFECTIVE_FROM": "2024-09-10",
+    "UNIT_PRICE": 350.81
+  },
+  {
+    "PRICE_ID": 764,
+    "PRODUCT_ID": 764,
+    "EFFECTIVE_FROM": "2023-08-06",
+    "UNIT_PRICE": 394.14
+  },
+  {
+    "PRICE_ID": 765,
+    "PRODUCT_ID": 765,
+    "EFFECTIVE_FROM": "2023-05-17",
+    "UNIT_PRICE": 109.11
+  },
+  {
+    "PRICE_ID": 766,
+    "PRODUCT_ID": 766,
+    "EFFECTIVE_FROM": "2024-02-19",
+    "UNIT_PRICE": 148.1
+  },
+  {
+    "PRICE_ID": 767,
+    "PRODUCT_ID": 767,
+    "EFFECTIVE_FROM": "2023-02-10",
+    "UNIT_PRICE": 97.09
+  },
+  {
+    "PRICE_ID": 768,
+    "PRODUCT_ID": 768,
+    "EFFECTIVE_FROM": "2024-07-28",
+    "UNIT_PRICE": 461.17
+  },
+  {
+    "PRICE_ID": 769,
+    "PRODUCT_ID": 769,
+    "EFFECTIVE_FROM": "2023-11-26",
+    "UNIT_PRICE": 123.84
+  },
+  {
+    "PRICE_ID": 770,
+    "PRODUCT_ID": 770,
+    "EFFECTIVE_FROM": "2023-06-17",
+    "UNIT_PRICE": 408.66
+  },
+  {
+    "PRICE_ID": 771,
+    "PRODUCT_ID": 771,
+    "EFFECTIVE_FROM": "2024-04-16",
+    "UNIT_PRICE": 191.15
+  },
+  {
+    "PRICE_ID": 772,
+    "PRODUCT_ID": 772,
+    "EFFECTIVE_FROM": "2024-08-30",
+    "UNIT_PRICE": 328.11
+  },
+  {
+    "PRICE_ID": 773,
+    "PRODUCT_ID": 773,
+    "EFFECTIVE_FROM": "2023-09-22",
+    "UNIT_PRICE": 86.84
+  },
+  {
+    "PRICE_ID": 774,
+    "PRODUCT_ID": 774,
+    "EFFECTIVE_FROM": "2024-04-29",
+    "UNIT_PRICE": 459.63
+  },
+  {
+    "PRICE_ID": 775,
+    "PRODUCT_ID": 775,
+    "EFFECTIVE_FROM": "2024-09-28",
+    "UNIT_PRICE": 466.86
+  },
+  {
+    "PRICE_ID": 776,
+    "PRODUCT_ID": 776,
+    "EFFECTIVE_FROM": "2023-06-13",
+    "UNIT_PRICE": 115.8
+  },
+  {
+    "PRICE_ID": 777,
+    "PRODUCT_ID": 777,
+    "EFFECTIVE_FROM": "2024-07-01",
+    "UNIT_PRICE": 434.4
+  },
+  {
+    "PRICE_ID": 778,
+    "PRODUCT_ID": 778,
+    "EFFECTIVE_FROM": "2024-10-29",
+    "UNIT_PRICE": 74.64
+  },
+  {
+    "PRICE_ID": 779,
+    "PRODUCT_ID": 779,
+    "EFFECTIVE_FROM": "2023-05-20",
+    "UNIT_PRICE": 122.96
+  },
+  {
+    "PRICE_ID": 780,
+    "PRODUCT_ID": 780,
+    "EFFECTIVE_FROM": "2023-07-06",
+    "UNIT_PRICE": 15.74
+  },
+  {
+    "PRICE_ID": 781,
+    "PRODUCT_ID": 781,
+    "EFFECTIVE_FROM": "2023-04-07",
+    "UNIT_PRICE": 129.42
+  },
+  {
+    "PRICE_ID": 782,
+    "PRODUCT_ID": 782,
+    "EFFECTIVE_FROM": "2023-01-01",
+    "UNIT_PRICE": 37.3
+  },
+  {
+    "PRICE_ID": 783,
+    "PRODUCT_ID": 783,
+    "EFFECTIVE_FROM": "2024-09-23",
+    "UNIT_PRICE": 98.5
+  },
+  {
+    "PRICE_ID": 784,
+    "PRODUCT_ID": 784,
+    "EFFECTIVE_FROM": "2023-06-29",
+    "UNIT_PRICE": 260.55
+  },
+  {
+    "PRICE_ID": 785,
+    "PRODUCT_ID": 785,
+    "EFFECTIVE_FROM": "2023-10-28",
+    "UNIT_PRICE": 73.46
+  },
+  {
+    "PRICE_ID": 786,
+    "PRODUCT_ID": 786,
+    "EFFECTIVE_FROM": "2023-11-01",
+    "UNIT_PRICE": 249.85
+  },
+  {
+    "PRICE_ID": 787,
+    "PRODUCT_ID": 787,
+    "EFFECTIVE_FROM": "2023-03-14",
+    "UNIT_PRICE": 304.3
+  },
+  {
+    "PRICE_ID": 788,
+    "PRODUCT_ID": 788,
+    "EFFECTIVE_FROM": "2024-06-21",
+    "UNIT_PRICE": 78.93
+  },
+  {
+    "PRICE_ID": 789,
+    "PRODUCT_ID": 789,
+    "EFFECTIVE_FROM": "2024-09-14",
+    "UNIT_PRICE": 9.5
+  },
+  {
+    "PRICE_ID": 790,
+    "PRODUCT_ID": 790,
+    "EFFECTIVE_FROM": "2024-11-19",
+    "UNIT_PRICE": 244.22
+  },
+  {
+    "PRICE_ID": 791,
+    "PRODUCT_ID": 791,
+    "EFFECTIVE_FROM": "2023-11-25",
+    "UNIT_PRICE": 431.7
+  },
+  {
+    "PRICE_ID": 792,
+    "PRODUCT_ID": 792,
+    "EFFECTIVE_FROM": "2023-12-03",
+    "UNIT_PRICE": 422.16
+  },
+  {
+    "PRICE_ID": 793,
+    "PRODUCT_ID": 793,
+    "EFFECTIVE_FROM": "2024-12-07",
+    "UNIT_PRICE": 174.34
+  },
+  {
+    "PRICE_ID": 794,
+    "PRODUCT_ID": 794,
+    "EFFECTIVE_FROM": "2024-02-03",
+    "UNIT_PRICE": 33.5
+  },
+  {
+    "PRICE_ID": 795,
+    "PRODUCT_ID": 795,
+    "EFFECTIVE_FROM": "2024-03-29",
+    "UNIT_PRICE": 165.19
+  },
+  {
+    "PRICE_ID": 796,
+    "PRODUCT_ID": 796,
+    "EFFECTIVE_FROM": "2024-08-05",
+    "UNIT_PRICE": 346.41
+  },
+  {
+    "PRICE_ID": 797,
+    "PRODUCT_ID": 797,
+    "EFFECTIVE_FROM": "2024-09-29",
+    "UNIT_PRICE": 39.37
+  },
+  {
+    "PRICE_ID": 798,
+    "PRODUCT_ID": 798,
+    "EFFECTIVE_FROM": "2024-07-18",
+    "UNIT_PRICE": 479.9
+  },
+  {
+    "PRICE_ID": 799,
+    "PRODUCT_ID": 799,
+    "EFFECTIVE_FROM": "2023-05-08",
+    "UNIT_PRICE": 19.58
+  },
+  {
+    "PRICE_ID": 800,
+    "PRODUCT_ID": 800,
+    "EFFECTIVE_FROM": "2024-02-07",
+    "UNIT_PRICE": 395.36
+  },
+  {
+    "PRICE_ID": 801,
+    "PRODUCT_ID": 801,
+    "EFFECTIVE_FROM": "2023-09-09",
+    "UNIT_PRICE": 110.65
+  },
+  {
+    "PRICE_ID": 802,
+    "PRODUCT_ID": 802,
+    "EFFECTIVE_FROM": "2023-06-08",
+    "UNIT_PRICE": 96.23
+  },
+  {
+    "PRICE_ID": 803,
+    "PRODUCT_ID": 803,
+    "EFFECTIVE_FROM": "2024-03-18",
+    "UNIT_PRICE": 496.48
+  },
+  {
+    "PRICE_ID": 804,
+    "PRODUCT_ID": 804,
+    "EFFECTIVE_FROM": "2023-06-04",
+    "UNIT_PRICE": 457.24
+  },
+  {
+    "PRICE_ID": 805,
+    "PRODUCT_ID": 805,
+    "EFFECTIVE_FROM": "2024-05-19",
+    "UNIT_PRICE": 227.45
+  },
+  {
+    "PRICE_ID": 806,
+    "PRODUCT_ID": 806,
+    "EFFECTIVE_FROM": "2024-04-23",
+    "UNIT_PRICE": 113.08
+  },
+  {
+    "PRICE_ID": 807,
+    "PRODUCT_ID": 807,
+    "EFFECTIVE_FROM": "2023-03-19",
+    "UNIT_PRICE": 210.01
+  },
+  {
+    "PRICE_ID": 808,
+    "PRODUCT_ID": 808,
+    "EFFECTIVE_FROM": "2024-06-02",
+    "UNIT_PRICE": 351.42
+  },
+  {
+    "PRICE_ID": 809,
+    "PRODUCT_ID": 809,
+    "EFFECTIVE_FROM": "2023-02-04",
+    "UNIT_PRICE": 477.7
+  },
+  {
+    "PRICE_ID": 810,
+    "PRODUCT_ID": 810,
+    "EFFECTIVE_FROM": "2024-02-16",
+    "UNIT_PRICE": 464.65
+  },
+  {
+    "PRICE_ID": 811,
+    "PRODUCT_ID": 811,
+    "EFFECTIVE_FROM": "2024-05-04",
+    "UNIT_PRICE": 19.0
+  },
+  {
+    "PRICE_ID": 812,
+    "PRODUCT_ID": 812,
+    "EFFECTIVE_FROM": "2024-03-29",
+    "UNIT_PRICE": 6.71
+  },
+  {
+    "PRICE_ID": 813,
+    "PRODUCT_ID": 813,
+    "EFFECTIVE_FROM": "2024-07-25",
+    "UNIT_PRICE": 183.95
+  },
+  {
+    "PRICE_ID": 814,
+    "PRODUCT_ID": 814,
+    "EFFECTIVE_FROM": "2023-09-01",
+    "UNIT_PRICE": 192.33
+  },
+  {
+    "PRICE_ID": 815,
+    "PRODUCT_ID": 815,
+    "EFFECTIVE_FROM": "2023-02-05",
+    "UNIT_PRICE": 170.85
+  },
+  {
+    "PRICE_ID": 816,
+    "PRODUCT_ID": 816,
+    "EFFECTIVE_FROM": "2023-11-17",
+    "UNIT_PRICE": 88.89
+  },
+  {
+    "PRICE_ID": 817,
+    "PRODUCT_ID": 817,
+    "EFFECTIVE_FROM": "2024-05-30",
+    "UNIT_PRICE": 399.09
+  },
+  {
+    "PRICE_ID": 818,
+    "PRODUCT_ID": 818,
+    "EFFECTIVE_FROM": "2023-05-19",
+    "UNIT_PRICE": 316.94
+  },
+  {
+    "PRICE_ID": 819,
+    "PRODUCT_ID": 819,
+    "EFFECTIVE_FROM": "2023-03-28",
+    "UNIT_PRICE": 365.32
+  },
+  {
+    "PRICE_ID": 820,
+    "PRODUCT_ID": 820,
+    "EFFECTIVE_FROM": "2023-02-08",
+    "UNIT_PRICE": 321.96
+  },
+  {
+    "PRICE_ID": 821,
+    "PRODUCT_ID": 821,
+    "EFFECTIVE_FROM": "2024-12-26",
+    "UNIT_PRICE": 152.27
+  },
+  {
+    "PRICE_ID": 822,
+    "PRODUCT_ID": 822,
+    "EFFECTIVE_FROM": "2023-02-24",
+    "UNIT_PRICE": 70.48
+  },
+  {
+    "PRICE_ID": 823,
+    "PRODUCT_ID": 823,
+    "EFFECTIVE_FROM": "2024-05-22",
+    "UNIT_PRICE": 138.77
+  },
+  {
+    "PRICE_ID": 824,
+    "PRODUCT_ID": 824,
+    "EFFECTIVE_FROM": "2024-11-22",
+    "UNIT_PRICE": 325.76
+  },
+  {
+    "PRICE_ID": 825,
+    "PRODUCT_ID": 825,
+    "EFFECTIVE_FROM": "2024-03-20",
+    "UNIT_PRICE": 239.26
+  },
+  {
+    "PRICE_ID": 826,
+    "PRODUCT_ID": 826,
+    "EFFECTIVE_FROM": "2024-01-11",
+    "UNIT_PRICE": 255.64
+  },
+  {
+    "PRICE_ID": 827,
+    "PRODUCT_ID": 827,
+    "EFFECTIVE_FROM": "2024-03-14",
+    "UNIT_PRICE": 229.45
+  },
+  {
+    "PRICE_ID": 828,
+    "PRODUCT_ID": 828,
+    "EFFECTIVE_FROM": "2023-05-22",
+    "UNIT_PRICE": 188.77
+  },
+  {
+    "PRICE_ID": 829,
+    "PRODUCT_ID": 829,
+    "EFFECTIVE_FROM": "2023-01-03",
+    "UNIT_PRICE": 421.72
+  },
+  {
+    "PRICE_ID": 830,
+    "PRODUCT_ID": 830,
+    "EFFECTIVE_FROM": "2024-03-16",
+    "UNIT_PRICE": 416.05
+  },
+  {
+    "PRICE_ID": 831,
+    "PRODUCT_ID": 831,
+    "EFFECTIVE_FROM": "2023-01-15",
+    "UNIT_PRICE": 422.17
+  },
+  {
+    "PRICE_ID": 832,
+    "PRODUCT_ID": 832,
+    "EFFECTIVE_FROM": "2023-09-08",
+    "UNIT_PRICE": 354.76
+  },
+  {
+    "PRICE_ID": 833,
+    "PRODUCT_ID": 833,
+    "EFFECTIVE_FROM": "2023-07-15",
+    "UNIT_PRICE": 403.4
+  },
+  {
+    "PRICE_ID": 834,
+    "PRODUCT_ID": 834,
+    "EFFECTIVE_FROM": "2024-11-09",
+    "UNIT_PRICE": 491.15
+  },
+  {
+    "PRICE_ID": 835,
+    "PRODUCT_ID": 835,
+    "EFFECTIVE_FROM": "2024-10-11",
+    "UNIT_PRICE": 424.24
+  },
+  {
+    "PRICE_ID": 836,
+    "PRODUCT_ID": 836,
+    "EFFECTIVE_FROM": "2024-02-18",
+    "UNIT_PRICE": 442.1
+  },
+  {
+    "PRICE_ID": 837,
+    "PRODUCT_ID": 837,
+    "EFFECTIVE_FROM": "2023-09-26",
+    "UNIT_PRICE": 473.2
+  },
+  {
+    "PRICE_ID": 838,
+    "PRODUCT_ID": 838,
+    "EFFECTIVE_FROM": "2023-03-14",
+    "UNIT_PRICE": 144.95
+  },
+  {
+    "PRICE_ID": 839,
+    "PRODUCT_ID": 839,
+    "EFFECTIVE_FROM": "2024-04-03",
+    "UNIT_PRICE": 137.3
+  },
+  {
+    "PRICE_ID": 840,
+    "PRODUCT_ID": 840,
+    "EFFECTIVE_FROM": "2024-09-01",
+    "UNIT_PRICE": 245.42
+  },
+  {
+    "PRICE_ID": 841,
+    "PRODUCT_ID": 841,
+    "EFFECTIVE_FROM": "2024-08-23",
+    "UNIT_PRICE": 108.39
+  },
+  {
+    "PRICE_ID": 842,
+    "PRODUCT_ID": 842,
+    "EFFECTIVE_FROM": "2024-06-19",
+    "UNIT_PRICE": 463.03
+  },
+  {
+    "PRICE_ID": 843,
+    "PRODUCT_ID": 843,
+    "EFFECTIVE_FROM": "2024-08-24",
+    "UNIT_PRICE": 351.0
+  },
+  {
+    "PRICE_ID": 844,
+    "PRODUCT_ID": 844,
+    "EFFECTIVE_FROM": "2024-08-07",
+    "UNIT_PRICE": 341.3
+  },
+  {
+    "PRICE_ID": 845,
+    "PRODUCT_ID": 845,
+    "EFFECTIVE_FROM": "2024-08-11",
+    "UNIT_PRICE": 420.13
+  },
+  {
+    "PRICE_ID": 846,
+    "PRODUCT_ID": 846,
+    "EFFECTIVE_FROM": "2024-12-26",
+    "UNIT_PRICE": 142.51
+  },
+  {
+    "PRICE_ID": 847,
+    "PRODUCT_ID": 847,
+    "EFFECTIVE_FROM": "2024-09-04",
+    "UNIT_PRICE": 395.85
+  },
+  {
+    "PRICE_ID": 848,
+    "PRODUCT_ID": 848,
+    "EFFECTIVE_FROM": "2023-09-21",
+    "UNIT_PRICE": 301.38
+  },
+  {
+    "PRICE_ID": 849,
+    "PRODUCT_ID": 849,
+    "EFFECTIVE_FROM": "2024-12-24",
+    "UNIT_PRICE": 255.51
+  },
+  {
+    "PRICE_ID": 850,
+    "PRODUCT_ID": 850,
+    "EFFECTIVE_FROM": "2023-02-05",
+    "UNIT_PRICE": 296.69
+  },
+  {
+    "PRICE_ID": 851,
+    "PRODUCT_ID": 851,
+    "EFFECTIVE_FROM": "2024-09-27",
+    "UNIT_PRICE": 444.93
+  },
+  {
+    "PRICE_ID": 852,
+    "PRODUCT_ID": 852,
+    "EFFECTIVE_FROM": "2023-11-18",
+    "UNIT_PRICE": 12.03
+  },
+  {
+    "PRICE_ID": 853,
+    "PRODUCT_ID": 853,
+    "EFFECTIVE_FROM": "2023-10-16",
+    "UNIT_PRICE": 300.62
+  },
+  {
+    "PRICE_ID": 854,
+    "PRODUCT_ID": 854,
+    "EFFECTIVE_FROM": "2024-11-08",
+    "UNIT_PRICE": 107.73
+  },
+  {
+    "PRICE_ID": 855,
+    "PRODUCT_ID": 855,
+    "EFFECTIVE_FROM": "2024-03-02",
+    "UNIT_PRICE": 388.66
+  },
+  {
+    "PRICE_ID": 856,
+    "PRODUCT_ID": 856,
+    "EFFECTIVE_FROM": "2024-03-22",
+    "UNIT_PRICE": 151.82
+  },
+  {
+    "PRICE_ID": 857,
+    "PRODUCT_ID": 857,
+    "EFFECTIVE_FROM": "2023-05-11",
+    "UNIT_PRICE": 70.24
+  },
+  {
+    "PRICE_ID": 858,
+    "PRODUCT_ID": 858,
+    "EFFECTIVE_FROM": "2023-08-16",
+    "UNIT_PRICE": 487.8
+  },
+  {
+    "PRICE_ID": 859,
+    "PRODUCT_ID": 859,
+    "EFFECTIVE_FROM": "2023-09-21",
+    "UNIT_PRICE": 447.13
+  },
+  {
+    "PRICE_ID": 860,
+    "PRODUCT_ID": 860,
+    "EFFECTIVE_FROM": "2023-04-14",
+    "UNIT_PRICE": 69.73
+  },
+  {
+    "PRICE_ID": 861,
+    "PRODUCT_ID": 861,
+    "EFFECTIVE_FROM": "2023-06-10",
+    "UNIT_PRICE": 360.71
+  },
+  {
+    "PRICE_ID": 862,
+    "PRODUCT_ID": 862,
+    "EFFECTIVE_FROM": "2024-08-22",
+    "UNIT_PRICE": 353.42
+  },
+  {
+    "PRICE_ID": 863,
+    "PRODUCT_ID": 863,
+    "EFFECTIVE_FROM": "2024-06-30",
+    "UNIT_PRICE": 403.76
+  },
+  {
+    "PRICE_ID": 864,
+    "PRODUCT_ID": 864,
+    "EFFECTIVE_FROM": "2023-03-18",
+    "UNIT_PRICE": 331.96
+  },
+  {
+    "PRICE_ID": 865,
+    "PRODUCT_ID": 865,
+    "EFFECTIVE_FROM": "2023-04-17",
+    "UNIT_PRICE": 168.12
+  },
+  {
+    "PRICE_ID": 866,
+    "PRODUCT_ID": 866,
+    "EFFECTIVE_FROM": "2023-10-23",
+    "UNIT_PRICE": 283.38
+  },
+  {
+    "PRICE_ID": 867,
+    "PRODUCT_ID": 867,
+    "EFFECTIVE_FROM": "2023-12-14",
+    "UNIT_PRICE": 117.85
+  },
+  {
+    "PRICE_ID": 868,
+    "PRODUCT_ID": 868,
+    "EFFECTIVE_FROM": "2023-01-17",
+    "UNIT_PRICE": 7.02
+  },
+  {
+    "PRICE_ID": 869,
+    "PRODUCT_ID": 869,
+    "EFFECTIVE_FROM": "2023-03-16",
+    "UNIT_PRICE": 95.31
+  },
+  {
+    "PRICE_ID": 870,
+    "PRODUCT_ID": 870,
+    "EFFECTIVE_FROM": "2024-04-06",
+    "UNIT_PRICE": 221.28
+  },
+  {
+    "PRICE_ID": 871,
+    "PRODUCT_ID": 871,
+    "EFFECTIVE_FROM": "2024-12-16",
+    "UNIT_PRICE": 493.92
+  },
+  {
+    "PRICE_ID": 872,
+    "PRODUCT_ID": 872,
+    "EFFECTIVE_FROM": "2023-06-17",
+    "UNIT_PRICE": 73.05
+  },
+  {
+    "PRICE_ID": 873,
+    "PRODUCT_ID": 873,
+    "EFFECTIVE_FROM": "2023-07-17",
+    "UNIT_PRICE": 409.23
+  },
+  {
+    "PRICE_ID": 874,
+    "PRODUCT_ID": 874,
+    "EFFECTIVE_FROM": "2024-06-27",
+    "UNIT_PRICE": 353.08
+  },
+  {
+    "PRICE_ID": 875,
+    "PRODUCT_ID": 875,
+    "EFFECTIVE_FROM": "2023-11-08",
+    "UNIT_PRICE": 469.83
+  },
+  {
+    "PRICE_ID": 876,
+    "PRODUCT_ID": 876,
+    "EFFECTIVE_FROM": "2023-11-04",
+    "UNIT_PRICE": 90.45
+  },
+  {
+    "PRICE_ID": 877,
+    "PRODUCT_ID": 877,
+    "EFFECTIVE_FROM": "2024-10-14",
+    "UNIT_PRICE": 85.0
+  },
+  {
+    "PRICE_ID": 878,
+    "PRODUCT_ID": 878,
+    "EFFECTIVE_FROM": "2024-02-12",
+    "UNIT_PRICE": 358.99
+  },
+  {
+    "PRICE_ID": 879,
+    "PRODUCT_ID": 879,
+    "EFFECTIVE_FROM": "2024-05-31",
+    "UNIT_PRICE": 349.56
+  },
+  {
+    "PRICE_ID": 880,
+    "PRODUCT_ID": 880,
+    "EFFECTIVE_FROM": "2023-03-07",
+    "UNIT_PRICE": 424.39
+  },
+  {
+    "PRICE_ID": 881,
+    "PRODUCT_ID": 881,
+    "EFFECTIVE_FROM": "2024-05-28",
+    "UNIT_PRICE": 265.55
+  },
+  {
+    "PRICE_ID": 882,
+    "PRODUCT_ID": 882,
+    "EFFECTIVE_FROM": "2023-05-12",
+    "UNIT_PRICE": 106.49
+  },
+  {
+    "PRICE_ID": 883,
+    "PRODUCT_ID": 883,
+    "EFFECTIVE_FROM": "2024-06-22",
+    "UNIT_PRICE": 323.27
+  },
+  {
+    "PRICE_ID": 884,
+    "PRODUCT_ID": 884,
+    "EFFECTIVE_FROM": "2024-10-26",
+    "UNIT_PRICE": 244.12
+  },
+  {
+    "PRICE_ID": 885,
+    "PRODUCT_ID": 885,
+    "EFFECTIVE_FROM": "2023-12-04",
+    "UNIT_PRICE": 330.35
+  },
+  {
+    "PRICE_ID": 886,
+    "PRODUCT_ID": 886,
+    "EFFECTIVE_FROM": "2023-10-25",
+    "UNIT_PRICE": 38.36
+  },
+  {
+    "PRICE_ID": 887,
+    "PRODUCT_ID": 887,
+    "EFFECTIVE_FROM": "2024-06-18",
+    "UNIT_PRICE": 29.49
+  },
+  {
+    "PRICE_ID": 888,
+    "PRODUCT_ID": 888,
+    "EFFECTIVE_FROM": "2024-12-15",
+    "UNIT_PRICE": 43.13
+  },
+  {
+    "PRICE_ID": 889,
+    "PRODUCT_ID": 889,
+    "EFFECTIVE_FROM": "2023-07-24",
+    "UNIT_PRICE": 350.46
+  },
+  {
+    "PRICE_ID": 890,
+    "PRODUCT_ID": 890,
+    "EFFECTIVE_FROM": "2023-09-19",
+    "UNIT_PRICE": 289.89
+  },
+  {
+    "PRICE_ID": 891,
+    "PRODUCT_ID": 891,
+    "EFFECTIVE_FROM": "2024-01-14",
+    "UNIT_PRICE": 203.4
+  },
+  {
+    "PRICE_ID": 892,
+    "PRODUCT_ID": 892,
+    "EFFECTIVE_FROM": "2024-04-23",
+    "UNIT_PRICE": 375.06
+  },
+  {
+    "PRICE_ID": 893,
+    "PRODUCT_ID": 893,
+    "EFFECTIVE_FROM": "2024-08-11",
+    "UNIT_PRICE": 301.73
+  },
+  {
+    "PRICE_ID": 894,
+    "PRODUCT_ID": 894,
+    "EFFECTIVE_FROM": "2023-10-05",
+    "UNIT_PRICE": 198.75
+  },
+  {
+    "PRICE_ID": 895,
+    "PRODUCT_ID": 895,
+    "EFFECTIVE_FROM": "2024-11-26",
+    "UNIT_PRICE": 165.66
+  },
+  {
+    "PRICE_ID": 896,
+    "PRODUCT_ID": 896,
+    "EFFECTIVE_FROM": "2024-03-14",
+    "UNIT_PRICE": 344.92
+  },
+  {
+    "PRICE_ID": 897,
+    "PRODUCT_ID": 897,
+    "EFFECTIVE_FROM": "2024-09-30",
+    "UNIT_PRICE": 138.32
+  },
+  {
+    "PRICE_ID": 898,
+    "PRODUCT_ID": 898,
+    "EFFECTIVE_FROM": "2024-02-01",
+    "UNIT_PRICE": 100.43
+  },
+  {
+    "PRICE_ID": 899,
+    "PRODUCT_ID": 899,
+    "EFFECTIVE_FROM": "2024-11-25",
+    "UNIT_PRICE": 273.08
+  },
+  {
+    "PRICE_ID": 900,
+    "PRODUCT_ID": 900,
+    "EFFECTIVE_FROM": "2023-01-04",
+    "UNIT_PRICE": 428.88
+  },
+  {
+    "PRICE_ID": 901,
+    "PRODUCT_ID": 901,
+    "EFFECTIVE_FROM": "2024-03-31",
+    "UNIT_PRICE": 81.31
+  },
+  {
+    "PRICE_ID": 902,
+    "PRODUCT_ID": 902,
+    "EFFECTIVE_FROM": "2024-02-09",
+    "UNIT_PRICE": 402.97
+  },
+  {
+    "PRICE_ID": 903,
+    "PRODUCT_ID": 903,
+    "EFFECTIVE_FROM": "2023-02-21",
+    "UNIT_PRICE": 420.51
+  },
+  {
+    "PRICE_ID": 904,
+    "PRODUCT_ID": 904,
+    "EFFECTIVE_FROM": "2023-03-02",
+    "UNIT_PRICE": 289.1
+  },
+  {
+    "PRICE_ID": 905,
+    "PRODUCT_ID": 905,
+    "EFFECTIVE_FROM": "2023-05-25",
+    "UNIT_PRICE": 211.5
+  },
+  {
+    "PRICE_ID": 906,
+    "PRODUCT_ID": 906,
+    "EFFECTIVE_FROM": "2024-01-29",
+    "UNIT_PRICE": 203.38
+  },
+  {
+    "PRICE_ID": 907,
+    "PRODUCT_ID": 907,
+    "EFFECTIVE_FROM": "2023-01-08",
+    "UNIT_PRICE": 53.98
+  },
+  {
+    "PRICE_ID": 908,
+    "PRODUCT_ID": 908,
+    "EFFECTIVE_FROM": "2023-11-27",
+    "UNIT_PRICE": 181.38
+  },
+  {
+    "PRICE_ID": 909,
+    "PRODUCT_ID": 909,
+    "EFFECTIVE_FROM": "2023-11-23",
+    "UNIT_PRICE": 367.57
+  },
+  {
+    "PRICE_ID": 910,
+    "PRODUCT_ID": 910,
+    "EFFECTIVE_FROM": "2024-12-01",
+    "UNIT_PRICE": 255.75
+  },
+  {
+    "PRICE_ID": 911,
+    "PRODUCT_ID": 911,
+    "EFFECTIVE_FROM": "2023-10-12",
+    "UNIT_PRICE": 168.62
+  },
+  {
+    "PRICE_ID": 912,
+    "PRODUCT_ID": 912,
+    "EFFECTIVE_FROM": "2024-11-12",
+    "UNIT_PRICE": 463.76
+  },
+  {
+    "PRICE_ID": 913,
+    "PRODUCT_ID": 913,
+    "EFFECTIVE_FROM": "2024-02-13",
+    "UNIT_PRICE": 164.62
+  },
+  {
+    "PRICE_ID": 914,
+    "PRODUCT_ID": 914,
+    "EFFECTIVE_FROM": "2024-01-03",
+    "UNIT_PRICE": 444.79
+  },
+  {
+    "PRICE_ID": 915,
+    "PRODUCT_ID": 915,
+    "EFFECTIVE_FROM": "2023-12-27",
+    "UNIT_PRICE": 54.44
+  },
+  {
+    "PRICE_ID": 916,
+    "PRODUCT_ID": 916,
+    "EFFECTIVE_FROM": "2023-06-26",
+    "UNIT_PRICE": 131.11
+  },
+  {
+    "PRICE_ID": 917,
+    "PRODUCT_ID": 917,
+    "EFFECTIVE_FROM": "2024-03-17",
+    "UNIT_PRICE": 140.93
+  },
+  {
+    "PRICE_ID": 918,
+    "PRODUCT_ID": 918,
+    "EFFECTIVE_FROM": "2023-01-08",
+    "UNIT_PRICE": 30.89
+  },
+  {
+    "PRICE_ID": 919,
+    "PRODUCT_ID": 919,
+    "EFFECTIVE_FROM": "2024-06-20",
+    "UNIT_PRICE": 225.97
+  },
+  {
+    "PRICE_ID": 920,
+    "PRODUCT_ID": 920,
+    "EFFECTIVE_FROM": "2024-06-17",
+    "UNIT_PRICE": 394.51
+  },
+  {
+    "PRICE_ID": 921,
+    "PRODUCT_ID": 921,
+    "EFFECTIVE_FROM": "2024-02-29",
+    "UNIT_PRICE": 405.14
+  },
+  {
+    "PRICE_ID": 922,
+    "PRODUCT_ID": 922,
+    "EFFECTIVE_FROM": "2023-05-16",
+    "UNIT_PRICE": 149.13
+  },
+  {
+    "PRICE_ID": 923,
+    "PRODUCT_ID": 923,
+    "EFFECTIVE_FROM": "2023-02-28",
+    "UNIT_PRICE": 181.92
+  },
+  {
+    "PRICE_ID": 924,
+    "PRODUCT_ID": 924,
+    "EFFECTIVE_FROM": "2024-02-29",
+    "UNIT_PRICE": 194.39
+  },
+  {
+    "PRICE_ID": 925,
+    "PRODUCT_ID": 925,
+    "EFFECTIVE_FROM": "2023-09-19",
+    "UNIT_PRICE": 165.92
+  },
+  {
+    "PRICE_ID": 926,
+    "PRODUCT_ID": 926,
+    "EFFECTIVE_FROM": "2023-06-07",
+    "UNIT_PRICE": 91.69
+  },
+  {
+    "PRICE_ID": 927,
+    "PRODUCT_ID": 927,
+    "EFFECTIVE_FROM": "2023-09-20",
+    "UNIT_PRICE": 431.48
+  },
+  {
+    "PRICE_ID": 928,
+    "PRODUCT_ID": 928,
+    "EFFECTIVE_FROM": "2023-09-24",
+    "UNIT_PRICE": 39.01
+  },
+  {
+    "PRICE_ID": 929,
+    "PRODUCT_ID": 929,
+    "EFFECTIVE_FROM": "2024-06-08",
+    "UNIT_PRICE": 296.42
+  },
+  {
+    "PRICE_ID": 930,
+    "PRODUCT_ID": 930,
+    "EFFECTIVE_FROM": "2024-04-28",
+    "UNIT_PRICE": 466.81
+  },
+  {
+    "PRICE_ID": 931,
+    "PRODUCT_ID": 931,
+    "EFFECTIVE_FROM": "2023-01-06",
+    "UNIT_PRICE": 76.14
+  },
+  {
+    "PRICE_ID": 932,
+    "PRODUCT_ID": 932,
+    "EFFECTIVE_FROM": "2023-07-26",
+    "UNIT_PRICE": 104.79
+  },
+  {
+    "PRICE_ID": 933,
+    "PRODUCT_ID": 933,
+    "EFFECTIVE_FROM": "2024-02-21",
+    "UNIT_PRICE": 456.51
+  },
+  {
+    "PRICE_ID": 934,
+    "PRODUCT_ID": 934,
+    "EFFECTIVE_FROM": "2024-03-12",
+    "UNIT_PRICE": 13.41
+  },
+  {
+    "PRICE_ID": 935,
+    "PRODUCT_ID": 935,
+    "EFFECTIVE_FROM": "2023-08-27",
+    "UNIT_PRICE": 419.07
+  },
+  {
+    "PRICE_ID": 936,
+    "PRODUCT_ID": 936,
+    "EFFECTIVE_FROM": "2024-04-26",
+    "UNIT_PRICE": 434.3
+  },
+  {
+    "PRICE_ID": 937,
+    "PRODUCT_ID": 937,
+    "EFFECTIVE_FROM": "2023-03-07",
+    "UNIT_PRICE": 229.05
+  },
+  {
+    "PRICE_ID": 938,
+    "PRODUCT_ID": 938,
+    "EFFECTIVE_FROM": "2023-09-09",
+    "UNIT_PRICE": 207.06
+  },
+  {
+    "PRICE_ID": 939,
+    "PRODUCT_ID": 939,
+    "EFFECTIVE_FROM": "2023-02-16",
+    "UNIT_PRICE": 441.54
+  },
+  {
+    "PRICE_ID": 940,
+    "PRODUCT_ID": 940,
+    "EFFECTIVE_FROM": "2023-11-02",
+    "UNIT_PRICE": 405.9
+  },
+  {
+    "PRICE_ID": 941,
+    "PRODUCT_ID": 941,
+    "EFFECTIVE_FROM": "2023-10-02",
+    "UNIT_PRICE": 81.17
+  },
+  {
+    "PRICE_ID": 942,
+    "PRODUCT_ID": 942,
+    "EFFECTIVE_FROM": "2023-08-06",
+    "UNIT_PRICE": 258.78
+  },
+  {
+    "PRICE_ID": 943,
+    "PRODUCT_ID": 943,
+    "EFFECTIVE_FROM": "2024-02-26",
+    "UNIT_PRICE": 35.08
+  },
+  {
+    "PRICE_ID": 944,
+    "PRODUCT_ID": 944,
+    "EFFECTIVE_FROM": "2023-02-16",
+    "UNIT_PRICE": 399.67
+  },
+  {
+    "PRICE_ID": 945,
+    "PRODUCT_ID": 945,
+    "EFFECTIVE_FROM": "2023-12-07",
+    "UNIT_PRICE": 367.0
+  },
+  {
+    "PRICE_ID": 946,
+    "PRODUCT_ID": 946,
+    "EFFECTIVE_FROM": "2024-07-07",
+    "UNIT_PRICE": 307.67
+  },
+  {
+    "PRICE_ID": 947,
+    "PRODUCT_ID": 947,
+    "EFFECTIVE_FROM": "2024-07-01",
+    "UNIT_PRICE": 115.55
+  },
+  {
+    "PRICE_ID": 948,
+    "PRODUCT_ID": 948,
+    "EFFECTIVE_FROM": "2024-09-15",
+    "UNIT_PRICE": 389.55
+  },
+  {
+    "PRICE_ID": 949,
+    "PRODUCT_ID": 949,
+    "EFFECTIVE_FROM": "2023-10-12",
+    "UNIT_PRICE": 374.62
+  },
+  {
+    "PRICE_ID": 950,
+    "PRODUCT_ID": 950,
+    "EFFECTIVE_FROM": "2023-08-06",
+    "UNIT_PRICE": 138.21
+  },
+  {
+    "PRICE_ID": 951,
+    "PRODUCT_ID": 951,
+    "EFFECTIVE_FROM": "2024-08-15",
+    "UNIT_PRICE": 11.0
+  },
+  {
+    "PRICE_ID": 952,
+    "PRODUCT_ID": 952,
+    "EFFECTIVE_FROM": "2024-03-19",
+    "UNIT_PRICE": 320.8
+  },
+  {
+    "PRICE_ID": 953,
+    "PRODUCT_ID": 953,
+    "EFFECTIVE_FROM": "2024-09-13",
+    "UNIT_PRICE": 240.44
+  },
+  {
+    "PRICE_ID": 954,
+    "PRODUCT_ID": 954,
+    "EFFECTIVE_FROM": "2024-05-11",
+    "UNIT_PRICE": 434.66
+  },
+  {
+    "PRICE_ID": 955,
+    "PRODUCT_ID": 955,
+    "EFFECTIVE_FROM": "2024-08-12",
+    "UNIT_PRICE": 439.43
+  },
+  {
+    "PRICE_ID": 956,
+    "PRODUCT_ID": 956,
+    "EFFECTIVE_FROM": "2023-05-19",
+    "UNIT_PRICE": 421.15
+  },
+  {
+    "PRICE_ID": 957,
+    "PRODUCT_ID": 957,
+    "EFFECTIVE_FROM": "2023-12-11",
+    "UNIT_PRICE": 495.07
+  },
+  {
+    "PRICE_ID": 958,
+    "PRODUCT_ID": 958,
+    "EFFECTIVE_FROM": "2024-07-22",
+    "UNIT_PRICE": 138.02
+  },
+  {
+    "PRICE_ID": 959,
+    "PRODUCT_ID": 959,
+    "EFFECTIVE_FROM": "2023-08-03",
+    "UNIT_PRICE": 184.48
+  },
+  {
+    "PRICE_ID": 960,
+    "PRODUCT_ID": 960,
+    "EFFECTIVE_FROM": "2024-09-16",
+    "UNIT_PRICE": 138.8
+  },
+  {
+    "PRICE_ID": 961,
+    "PRODUCT_ID": 961,
+    "EFFECTIVE_FROM": "2023-01-14",
+    "UNIT_PRICE": 152.92
+  },
+  {
+    "PRICE_ID": 962,
+    "PRODUCT_ID": 962,
+    "EFFECTIVE_FROM": "2023-02-13",
+    "UNIT_PRICE": 234.7
+  },
+  {
+    "PRICE_ID": 963,
+    "PRODUCT_ID": 963,
+    "EFFECTIVE_FROM": "2023-12-29",
+    "UNIT_PRICE": 377.99
+  },
+  {
+    "PRICE_ID": 964,
+    "PRODUCT_ID": 964,
+    "EFFECTIVE_FROM": "2024-01-22",
+    "UNIT_PRICE": 377.14
+  },
+  {
+    "PRICE_ID": 965,
+    "PRODUCT_ID": 965,
+    "EFFECTIVE_FROM": "2024-05-18",
+    "UNIT_PRICE": 153.08
+  },
+  {
+    "PRICE_ID": 966,
+    "PRODUCT_ID": 966,
+    "EFFECTIVE_FROM": "2024-06-05",
+    "UNIT_PRICE": 486.97
+  },
+  {
+    "PRICE_ID": 967,
+    "PRODUCT_ID": 967,
+    "EFFECTIVE_FROM": "2023-01-15",
+    "UNIT_PRICE": 288.65
+  },
+  {
+    "PRICE_ID": 968,
+    "PRODUCT_ID": 968,
+    "EFFECTIVE_FROM": "2024-05-25",
+    "UNIT_PRICE": 321.91
+  },
+  {
+    "PRICE_ID": 969,
+    "PRODUCT_ID": 969,
+    "EFFECTIVE_FROM": "2023-08-17",
+    "UNIT_PRICE": 288.65
+  },
+  {
+    "PRICE_ID": 970,
+    "PRODUCT_ID": 970,
+    "EFFECTIVE_FROM": "2024-11-24",
+    "UNIT_PRICE": 14.33
+  },
+  {
+    "PRICE_ID": 971,
+    "PRODUCT_ID": 971,
+    "EFFECTIVE_FROM": "2023-12-11",
+    "UNIT_PRICE": 294.32
+  },
+  {
+    "PRICE_ID": 972,
+    "PRODUCT_ID": 972,
+    "EFFECTIVE_FROM": "2024-10-05",
+    "UNIT_PRICE": 381.83
+  },
+  {
+    "PRICE_ID": 973,
+    "PRODUCT_ID": 973,
+    "EFFECTIVE_FROM": "2023-02-16",
+    "UNIT_PRICE": 74.48
+  },
+  {
+    "PRICE_ID": 974,
+    "PRODUCT_ID": 974,
+    "EFFECTIVE_FROM": "2024-03-18",
+    "UNIT_PRICE": 5.54
+  },
+  {
+    "PRICE_ID": 975,
+    "PRODUCT_ID": 975,
+    "EFFECTIVE_FROM": "2024-09-23",
+    "UNIT_PRICE": 129.23
+  },
+  {
+    "PRICE_ID": 976,
+    "PRODUCT_ID": 976,
+    "EFFECTIVE_FROM": "2023-05-31",
+    "UNIT_PRICE": 327.08
+  },
+  {
+    "PRICE_ID": 977,
+    "PRODUCT_ID": 977,
+    "EFFECTIVE_FROM": "2023-02-15",
+    "UNIT_PRICE": 401.71
+  },
+  {
+    "PRICE_ID": 978,
+    "PRODUCT_ID": 978,
+    "EFFECTIVE_FROM": "2023-04-03",
+    "UNIT_PRICE": 180.12
+  },
+  {
+    "PRICE_ID": 979,
+    "PRODUCT_ID": 979,
+    "EFFECTIVE_FROM": "2024-06-27",
+    "UNIT_PRICE": 302.23
+  },
+  {
+    "PRICE_ID": 980,
+    "PRODUCT_ID": 980,
+    "EFFECTIVE_FROM": "2023-05-24",
+    "UNIT_PRICE": 169.4
+  },
+  {
+    "PRICE_ID": 981,
+    "PRODUCT_ID": 981,
+    "EFFECTIVE_FROM": "2023-10-15",
+    "UNIT_PRICE": 307.21
+  },
+  {
+    "PRICE_ID": 982,
+    "PRODUCT_ID": 982,
+    "EFFECTIVE_FROM": "2023-01-18",
+    "UNIT_PRICE": 236.98
+  },
+  {
+    "PRICE_ID": 983,
+    "PRODUCT_ID": 983,
+    "EFFECTIVE_FROM": "2023-11-16",
+    "UNIT_PRICE": 81.01
+  },
+  {
+    "PRICE_ID": 984,
+    "PRODUCT_ID": 984,
+    "EFFECTIVE_FROM": "2023-08-21",
+    "UNIT_PRICE": 52.7
+  },
+  {
+    "PRICE_ID": 985,
+    "PRODUCT_ID": 985,
+    "EFFECTIVE_FROM": "2024-03-26",
+    "UNIT_PRICE": 334.17
+  },
+  {
+    "PRICE_ID": 986,
+    "PRODUCT_ID": 986,
+    "EFFECTIVE_FROM": "2024-04-27",
+    "UNIT_PRICE": 146.42
+  },
+  {
+    "PRICE_ID": 987,
+    "PRODUCT_ID": 987,
+    "EFFECTIVE_FROM": "2024-03-23",
+    "UNIT_PRICE": 232.84
+  },
+  {
+    "PRICE_ID": 988,
+    "PRODUCT_ID": 988,
+    "EFFECTIVE_FROM": "2024-09-16",
+    "UNIT_PRICE": 185.82
+  },
+  {
+    "PRICE_ID": 989,
+    "PRODUCT_ID": 989,
+    "EFFECTIVE_FROM": "2023-04-27",
+    "UNIT_PRICE": 329.87
+  },
+  {
+    "PRICE_ID": 990,
+    "PRODUCT_ID": 990,
+    "EFFECTIVE_FROM": "2023-03-10",
+    "UNIT_PRICE": 259.18
+  },
+  {
+    "PRICE_ID": 991,
+    "PRODUCT_ID": 991,
+    "EFFECTIVE_FROM": "2024-03-11",
+    "UNIT_PRICE": 370.22
+  },
+  {
+    "PRICE_ID": 992,
+    "PRODUCT_ID": 992,
+    "EFFECTIVE_FROM": "2024-12-04",
+    "UNIT_PRICE": 263.73
+  },
+  {
+    "PRICE_ID": 993,
+    "PRODUCT_ID": 993,
+    "EFFECTIVE_FROM": "2023-06-12",
+    "UNIT_PRICE": 104.73
+  },
+  {
+    "PRICE_ID": 994,
+    "PRODUCT_ID": 994,
+    "EFFECTIVE_FROM": "2024-05-27",
+    "UNIT_PRICE": 263.38
+  },
+  {
+    "PRICE_ID": 995,
+    "PRODUCT_ID": 995,
+    "EFFECTIVE_FROM": "2023-05-13",
+    "UNIT_PRICE": 420.35
+  },
+  {
+    "PRICE_ID": 996,
+    "PRODUCT_ID": 996,
+    "EFFECTIVE_FROM": "2023-11-24",
+    "UNIT_PRICE": 394.42
+  },
+  {
+    "PRICE_ID": 997,
+    "PRODUCT_ID": 997,
+    "EFFECTIVE_FROM": "2024-06-16",
+    "UNIT_PRICE": 437.53
+  },
+  {
+    "PRICE_ID": 998,
+    "PRODUCT_ID": 998,
+    "EFFECTIVE_FROM": "2024-12-14",
+    "UNIT_PRICE": 259.58
+  },
+  {
+    "PRICE_ID": 999,
+    "PRODUCT_ID": 999,
+    "EFFECTIVE_FROM": "2023-10-11",
+    "UNIT_PRICE": 57.48
+  },
+  {
+    "PRICE_ID": 1000,
+    "PRODUCT_ID": 1000,
+    "EFFECTIVE_FROM": "2024-03-06",
+    "UNIT_PRICE": 83.79
+  }
+]

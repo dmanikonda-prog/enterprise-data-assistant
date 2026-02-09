@@ -1,0 +1,8002 @@
+[
+  {
+    "BIN_ID": 1,
+    "BIN_CODE": "BIN-0001",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 159,
+    "WAREHOUSE_CODE": "WH0159",
+    "WAREHOUSE_CAPACITY": 59742
+  },
+  {
+    "BIN_ID": 2,
+    "BIN_CODE": "BIN-0002",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 934,
+    "WAREHOUSE_CODE": "WH0934",
+    "WAREHOUSE_CAPACITY": 54186
+  },
+  {
+    "BIN_ID": 3,
+    "BIN_CODE": "BIN-0003",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 230,
+    "WAREHOUSE_CODE": "WH0230",
+    "WAREHOUSE_CAPACITY": 7848
+  },
+  {
+    "BIN_ID": 4,
+    "BIN_CODE": "BIN-0004",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 898,
+    "WAREHOUSE_CODE": "WH0898",
+    "WAREHOUSE_CAPACITY": 66366
+  },
+  {
+    "BIN_ID": 5,
+    "BIN_CODE": "BIN-0005",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 431,
+    "WAREHOUSE_CODE": "WH0431",
+    "WAREHOUSE_CAPACITY": 71281
+  },
+  {
+    "BIN_ID": 6,
+    "BIN_CODE": "BIN-0006",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 619,
+    "WAREHOUSE_CODE": "WH0619",
+    "WAREHOUSE_CAPACITY": 7698
+  },
+  {
+    "BIN_ID": 7,
+    "BIN_CODE": "BIN-0007",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 252,
+    "WAREHOUSE_CODE": "WH0252",
+    "WAREHOUSE_CAPACITY": 35773
+  },
+  {
+    "BIN_ID": 8,
+    "BIN_CODE": "BIN-0008",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 324,
+    "WAREHOUSE_CODE": "WH0324",
+    "WAREHOUSE_CAPACITY": 26889
+  },
+  {
+    "BIN_ID": 9,
+    "BIN_CODE": "BIN-0009",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 277,
+    "WAREHOUSE_CODE": "WH0277",
+    "WAREHOUSE_CAPACITY": 38892
+  },
+  {
+    "BIN_ID": 10,
+    "BIN_CODE": "BIN-0010",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 885,
+    "WAREHOUSE_CODE": "WH0885",
+    "WAREHOUSE_CAPACITY": 56288
+  },
+  {
+    "BIN_ID": 11,
+    "BIN_CODE": "BIN-0011",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 687,
+    "WAREHOUSE_CODE": "WH0687",
+    "WAREHOUSE_CAPACITY": 95980
+  },
+  {
+    "BIN_ID": 12,
+    "BIN_CODE": "BIN-0012",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 803,
+    "WAREHOUSE_CODE": "WH0803",
+    "WAREHOUSE_CAPACITY": 17612
+  },
+  {
+    "BIN_ID": 13,
+    "BIN_CODE": "BIN-0013",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 6,
+    "WAREHOUSE_CODE": "WH0006",
+    "WAREHOUSE_CAPACITY": 63860
+  },
+  {
+    "BIN_ID": 14,
+    "BIN_CODE": "BIN-0014",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 457,
+    "WAREHOUSE_CODE": "WH0457",
+    "WAREHOUSE_CAPACITY": 60340
+  },
+  {
+    "BIN_ID": 15,
+    "BIN_CODE": "BIN-0015",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 23,
+    "WAREHOUSE_CODE": "WH0023",
+    "WAREHOUSE_CAPACITY": 52070
+  },
+  {
+    "BIN_ID": 16,
+    "BIN_CODE": "BIN-0016",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 199,
+    "WAREHOUSE_CODE": "WH0199",
+    "WAREHOUSE_CAPACITY": 31420
+  },
+  {
+    "BIN_ID": 17,
+    "BIN_CODE": "BIN-0017",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 883,
+    "WAREHOUSE_CODE": "WH0883",
+    "WAREHOUSE_CAPACITY": 22679
+  },
+  {
+    "BIN_ID": 18,
+    "BIN_CODE": "BIN-0018",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 389,
+    "WAREHOUSE_CODE": "WH0389",
+    "WAREHOUSE_CAPACITY": 14865
+  },
+  {
+    "BIN_ID": 19,
+    "BIN_CODE": "BIN-0019",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 887,
+    "WAREHOUSE_CODE": "WH0887",
+    "WAREHOUSE_CAPACITY": 12083
+  },
+  {
+    "BIN_ID": 20,
+    "BIN_CODE": "BIN-0020",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 568,
+    "WAREHOUSE_CODE": "WH0568",
+    "WAREHOUSE_CAPACITY": 51329
+  },
+  {
+    "BIN_ID": 21,
+    "BIN_CODE": "BIN-0021",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 648,
+    "WAREHOUSE_CODE": "WH0648",
+    "WAREHOUSE_CAPACITY": 9691
+  },
+  {
+    "BIN_ID": 22,
+    "BIN_CODE": "BIN-0022",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 952,
+    "WAREHOUSE_CODE": "WH0952",
+    "WAREHOUSE_CAPACITY": 62882
+  },
+  {
+    "BIN_ID": 23,
+    "BIN_CODE": "BIN-0023",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 409,
+    "WAREHOUSE_CODE": "WH0409",
+    "WAREHOUSE_CAPACITY": 81931
+  },
+  {
+    "BIN_ID": 24,
+    "BIN_CODE": "BIN-0024",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 56,
+    "WAREHOUSE_CODE": "WH0056",
+    "WAREHOUSE_CAPACITY": 2421
+  },
+  {
+    "BIN_ID": 25,
+    "BIN_CODE": "BIN-0025",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 1,
+    "WAREHOUSE_CODE": "WH0001",
+    "WAREHOUSE_CAPACITY": 96737
+  },
+  {
+    "BIN_ID": 26,
+    "BIN_CODE": "BIN-0026",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 315,
+    "WAREHOUSE_CODE": "WH0315",
+    "WAREHOUSE_CAPACITY": 45061
+  },
+  {
+    "BIN_ID": 27,
+    "BIN_CODE": "BIN-0027",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 563,
+    "WAREHOUSE_CODE": "WH0563",
+    "WAREHOUSE_CAPACITY": 96528
+  },
+  {
+    "BIN_ID": 28,
+    "BIN_CODE": "BIN-0028",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 819,
+    "WAREHOUSE_CODE": "WH0819",
+    "WAREHOUSE_CAPACITY": 68674
+  },
+  {
+    "BIN_ID": 29,
+    "BIN_CODE": "BIN-0029",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 477,
+    "WAREHOUSE_CODE": "WH0477",
+    "WAREHOUSE_CAPACITY": 65656
+  },
+  {
+    "BIN_ID": 30,
+    "BIN_CODE": "BIN-0030",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 249,
+    "WAREHOUSE_CODE": "WH0249",
+    "WAREHOUSE_CAPACITY": 4758
+  },
+  {
+    "BIN_ID": 31,
+    "BIN_CODE": "BIN-0031",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 936,
+    "WAREHOUSE_CODE": "WH0936",
+    "WAREHOUSE_CAPACITY": 3204
+  },
+  {
+    "BIN_ID": 32,
+    "BIN_CODE": "BIN-0032",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 134,
+    "WAREHOUSE_CODE": "WH0134",
+    "WAREHOUSE_CAPACITY": 56225
+  },
+  {
+    "BIN_ID": 33,
+    "BIN_CODE": "BIN-0033",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 323,
+    "WAREHOUSE_CODE": "WH0323",
+    "WAREHOUSE_CAPACITY": 56206
+  },
+  {
+    "BIN_ID": 34,
+    "BIN_CODE": "BIN-0034",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 260,
+    "WAREHOUSE_CODE": "WH0260",
+    "WAREHOUSE_CAPACITY": 7129
+  },
+  {
+    "BIN_ID": 35,
+    "BIN_CODE": "BIN-0035",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 106,
+    "WAREHOUSE_CODE": "WH0106",
+    "WAREHOUSE_CAPACITY": 67988
+  },
+  {
+    "BIN_ID": 36,
+    "BIN_CODE": "BIN-0036",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 403,
+    "WAREHOUSE_CODE": "WH0403",
+    "WAREHOUSE_CAPACITY": 30776
+  },
+  {
+    "BIN_ID": 37,
+    "BIN_CODE": "BIN-0037",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 988,
+    "WAREHOUSE_CODE": "WH0988",
+    "WAREHOUSE_CAPACITY": 56589
+  },
+  {
+    "BIN_ID": 38,
+    "BIN_CODE": "BIN-0038",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 845,
+    "WAREHOUSE_CODE": "WH0845",
+    "WAREHOUSE_CAPACITY": 69514
+  },
+  {
+    "BIN_ID": 39,
+    "BIN_CODE": "BIN-0039",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 533,
+    "WAREHOUSE_CODE": "WH0533",
+    "WAREHOUSE_CAPACITY": 35052
+  },
+  {
+    "BIN_ID": 40,
+    "BIN_CODE": "BIN-0040",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 620,
+    "WAREHOUSE_CODE": "WH0620",
+    "WAREHOUSE_CAPACITY": 96630
+  },
+  {
+    "BIN_ID": 41,
+    "BIN_CODE": "BIN-0041",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 504,
+    "WAREHOUSE_CODE": "WH0504",
+    "WAREHOUSE_CAPACITY": 93594
+  },
+  {
+    "BIN_ID": 42,
+    "BIN_CODE": "BIN-0042",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 93,
+    "WAREHOUSE_CODE": "WH0093",
+    "WAREHOUSE_CAPACITY": 40641
+  },
+  {
+    "BIN_ID": 43,
+    "BIN_CODE": "BIN-0043",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 372,
+    "WAREHOUSE_CODE": "WH0372",
+    "WAREHOUSE_CAPACITY": 63736
+  },
+  {
+    "BIN_ID": 44,
+    "BIN_CODE": "BIN-0044",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 936,
+    "WAREHOUSE_CODE": "WH0936",
+    "WAREHOUSE_CAPACITY": 3204
+  },
+  {
+    "BIN_ID": 45,
+    "BIN_CODE": "BIN-0045",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 798,
+    "WAREHOUSE_CODE": "WH0798",
+    "WAREHOUSE_CAPACITY": 51956
+  },
+  {
+    "BIN_ID": 46,
+    "BIN_CODE": "BIN-0046",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 988,
+    "WAREHOUSE_CODE": "WH0988",
+    "WAREHOUSE_CAPACITY": 56589
+  },
+  {
+    "BIN_ID": 47,
+    "BIN_CODE": "BIN-0047",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 871,
+    "WAREHOUSE_CODE": "WH0871",
+    "WAREHOUSE_CAPACITY": 71310
+  },
+  {
+    "BIN_ID": 48,
+    "BIN_CODE": "BIN-0048",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 74,
+    "WAREHOUSE_CODE": "WH0074",
+    "WAREHOUSE_CAPACITY": 18550
+  },
+  {
+    "BIN_ID": 49,
+    "BIN_CODE": "BIN-0049",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 449,
+    "WAREHOUSE_CODE": "WH0449",
+    "WAREHOUSE_CAPACITY": 20013
+  },
+  {
+    "BIN_ID": 50,
+    "BIN_CODE": "BIN-0050",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 117,
+    "WAREHOUSE_CODE": "WH0117",
+    "WAREHOUSE_CAPACITY": 72748
+  },
+  {
+    "BIN_ID": 51,
+    "BIN_CODE": "BIN-0051",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 166,
+    "WAREHOUSE_CODE": "WH0166",
+    "WAREHOUSE_CAPACITY": 63245
+  },
+  {
+    "BIN_ID": 52,
+    "BIN_CODE": "BIN-0052",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 114,
+    "WAREHOUSE_CODE": "WH0114",
+    "WAREHOUSE_CAPACITY": 36375
+  },
+  {
+    "BIN_ID": 53,
+    "BIN_CODE": "BIN-0053",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 434,
+    "WAREHOUSE_CODE": "WH0434",
+    "WAREHOUSE_CAPACITY": 31773
+  },
+  {
+    "BIN_ID": 54,
+    "BIN_CODE": "BIN-0054",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 966,
+    "WAREHOUSE_CODE": "WH0966",
+    "WAREHOUSE_CAPACITY": 38494
+  },
+  {
+    "BIN_ID": 55,
+    "BIN_CODE": "BIN-0055",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 799,
+    "WAREHOUSE_CODE": "WH0799",
+    "WAREHOUSE_CAPACITY": 10521
+  },
+  {
+    "BIN_ID": 56,
+    "BIN_CODE": "BIN-0056",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 884,
+    "WAREHOUSE_CODE": "WH0884",
+    "WAREHOUSE_CAPACITY": 62670
+  },
+  {
+    "BIN_ID": 57,
+    "BIN_CODE": "BIN-0057",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 305,
+    "WAREHOUSE_CODE": "WH0305",
+    "WAREHOUSE_CAPACITY": 3603
+  },
+  {
+    "BIN_ID": 58,
+    "BIN_CODE": "BIN-0058",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 664,
+    "WAREHOUSE_CODE": "WH0664",
+    "WAREHOUSE_CAPACITY": 55439
+  },
+  {
+    "BIN_ID": 59,
+    "BIN_CODE": "BIN-0059",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 828,
+    "WAREHOUSE_CODE": "WH0828",
+    "WAREHOUSE_CAPACITY": 78439
+  },
+  {
+    "BIN_ID": 60,
+    "BIN_CODE": "BIN-0060",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 123,
+    "WAREHOUSE_CODE": "WH0123",
+    "WAREHOUSE_CAPACITY": 85840
+  },
+  {
+    "BIN_ID": 61,
+    "BIN_CODE": "BIN-0061",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 380,
+    "WAREHOUSE_CODE": "WH0380",
+    "WAREHOUSE_CAPACITY": 62856
+  },
+  {
+    "BIN_ID": 62,
+    "BIN_CODE": "BIN-0062",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 350,
+    "WAREHOUSE_CODE": "WH0350",
+    "WAREHOUSE_CAPACITY": 58531
+  },
+  {
+    "BIN_ID": 63,
+    "BIN_CODE": "BIN-0063",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 803,
+    "WAREHOUSE_CODE": "WH0803",
+    "WAREHOUSE_CAPACITY": 17612
+  },
+  {
+    "BIN_ID": 64,
+    "BIN_CODE": "BIN-0064",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 392,
+    "WAREHOUSE_CODE": "WH0392",
+    "WAREHOUSE_CAPACITY": 57036
+  },
+  {
+    "BIN_ID": 65,
+    "BIN_CODE": "BIN-0065",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 465,
+    "WAREHOUSE_CODE": "WH0465",
+    "WAREHOUSE_CAPACITY": 66094
+  },
+  {
+    "BIN_ID": 66,
+    "BIN_CODE": "BIN-0066",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 664,
+    "WAREHOUSE_CODE": "WH0664",
+    "WAREHOUSE_CAPACITY": 55439
+  },
+  {
+    "BIN_ID": 67,
+    "BIN_CODE": "BIN-0067",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 737,
+    "WAREHOUSE_CODE": "WH0737",
+    "WAREHOUSE_CAPACITY": 73942
+  },
+  {
+    "BIN_ID": 68,
+    "BIN_CODE": "BIN-0068",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 296,
+    "WAREHOUSE_CODE": "WH0296",
+    "WAREHOUSE_CAPACITY": 26328
+  },
+  {
+    "BIN_ID": 69,
+    "BIN_CODE": "BIN-0069",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 197,
+    "WAREHOUSE_CODE": "WH0197",
+    "WAREHOUSE_CAPACITY": 48056
+  },
+  {
+    "BIN_ID": 70,
+    "BIN_CODE": "BIN-0070",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 443,
+    "WAREHOUSE_CODE": "WH0443",
+    "WAREHOUSE_CAPACITY": 45860
+  },
+  {
+    "BIN_ID": 71,
+    "BIN_CODE": "BIN-0071",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 806,
+    "WAREHOUSE_CODE": "WH0806",
+    "WAREHOUSE_CAPACITY": 49165
+  },
+  {
+    "BIN_ID": 72,
+    "BIN_CODE": "BIN-0072",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 991,
+    "WAREHOUSE_CODE": "WH0991",
+    "WAREHOUSE_CAPACITY": 7232
+  },
+  {
+    "BIN_ID": 73,
+    "BIN_CODE": "BIN-0073",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 431,
+    "WAREHOUSE_CODE": "WH0431",
+    "WAREHOUSE_CAPACITY": 71281
+  },
+  {
+    "BIN_ID": 74,
+    "BIN_CODE": "BIN-0074",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 50,
+    "WAREHOUSE_CODE": "WH0050",
+    "WAREHOUSE_CAPACITY": 13486
+  },
+  {
+    "BIN_ID": 75,
+    "BIN_CODE": "BIN-0075",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 854,
+    "WAREHOUSE_CODE": "WH0854",
+    "WAREHOUSE_CAPACITY": 47997
+  },
+  {
+    "BIN_ID": 76,
+    "BIN_CODE": "BIN-0076",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 794,
+    "WAREHOUSE_CODE": "WH0794",
+    "WAREHOUSE_CAPACITY": 51108
+  },
+  {
+    "BIN_ID": 77,
+    "BIN_CODE": "BIN-0077",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 561,
+    "WAREHOUSE_CODE": "WH0561",
+    "WAREHOUSE_CAPACITY": 85370
+  },
+  {
+    "BIN_ID": 78,
+    "BIN_CODE": "BIN-0078",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 760,
+    "WAREHOUSE_CODE": "WH0760",
+    "WAREHOUSE_CAPACITY": 6484
+  },
+  {
+    "BIN_ID": 79,
+    "BIN_CODE": "BIN-0079",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 810,
+    "WAREHOUSE_CODE": "WH0810",
+    "WAREHOUSE_CAPACITY": 41340
+  },
+  {
+    "BIN_ID": 80,
+    "BIN_CODE": "BIN-0080",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 164,
+    "WAREHOUSE_CODE": "WH0164",
+    "WAREHOUSE_CAPACITY": 68534
+  },
+  {
+    "BIN_ID": 81,
+    "BIN_CODE": "BIN-0081",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 783,
+    "WAREHOUSE_CODE": "WH0783",
+    "WAREHOUSE_CAPACITY": 3562
+  },
+  {
+    "BIN_ID": 82,
+    "BIN_CODE": "BIN-0082",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 37,
+    "WAREHOUSE_CODE": "WH0037",
+    "WAREHOUSE_CAPACITY": 22024
+  },
+  {
+    "BIN_ID": 83,
+    "BIN_CODE": "BIN-0083",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 173,
+    "WAREHOUSE_CODE": "WH0173",
+    "WAREHOUSE_CAPACITY": 57434
+  },
+  {
+    "BIN_ID": 84,
+    "BIN_CODE": "BIN-0084",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 228,
+    "WAREHOUSE_CODE": "WH0228",
+    "WAREHOUSE_CAPACITY": 51542
+  },
+  {
+    "BIN_ID": 85,
+    "BIN_CODE": "BIN-0085",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 661,
+    "WAREHOUSE_CODE": "WH0661",
+    "WAREHOUSE_CAPACITY": 30617
+  },
+  {
+    "BIN_ID": 86,
+    "BIN_CODE": "BIN-0086",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 394,
+    "WAREHOUSE_CODE": "WH0394",
+    "WAREHOUSE_CAPACITY": 15770
+  },
+  {
+    "BIN_ID": 87,
+    "BIN_CODE": "BIN-0087",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 960,
+    "WAREHOUSE_CODE": "WH0960",
+    "WAREHOUSE_CAPACITY": 35101
+  },
+  {
+    "BIN_ID": 88,
+    "BIN_CODE": "BIN-0088",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 200,
+    "WAREHOUSE_CODE": "WH0200",
+    "WAREHOUSE_CAPACITY": 98155
+  },
+  {
+    "BIN_ID": 89,
+    "BIN_CODE": "BIN-0089",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 118,
+    "WAREHOUSE_CODE": "WH0118",
+    "WAREHOUSE_CAPACITY": 15382
+  },
+  {
+    "BIN_ID": 90,
+    "BIN_CODE": "BIN-0090",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 221,
+    "WAREHOUSE_CODE": "WH0221",
+    "WAREHOUSE_CAPACITY": 91153
+  },
+  {
+    "BIN_ID": 91,
+    "BIN_CODE": "BIN-0091",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 460,
+    "WAREHOUSE_CODE": "WH0460",
+    "WAREHOUSE_CAPACITY": 12821
+  },
+  {
+    "BIN_ID": 92,
+    "BIN_CODE": "BIN-0092",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 958,
+    "WAREHOUSE_CODE": "WH0958",
+    "WAREHOUSE_CAPACITY": 45665
+  },
+  {
+    "BIN_ID": 93,
+    "BIN_CODE": "BIN-0093",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 432,
+    "WAREHOUSE_CODE": "WH0432",
+    "WAREHOUSE_CAPACITY": 74465
+  },
+  {
+    "BIN_ID": 94,
+    "BIN_CODE": "BIN-0094",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 710,
+    "WAREHOUSE_CODE": "WH0710",
+    "WAREHOUSE_CAPACITY": 86557
+  },
+  {
+    "BIN_ID": 95,
+    "BIN_CODE": "BIN-0095",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 734,
+    "WAREHOUSE_CODE": "WH0734",
+    "WAREHOUSE_CAPACITY": 75933
+  },
+  {
+    "BIN_ID": 96,
+    "BIN_CODE": "BIN-0096",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 782,
+    "WAREHOUSE_CODE": "WH0782",
+    "WAREHOUSE_CAPACITY": 93383
+  },
+  {
+    "BIN_ID": 97,
+    "BIN_CODE": "BIN-0097",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 609,
+    "WAREHOUSE_CODE": "WH0609",
+    "WAREHOUSE_CAPACITY": 94093
+  },
+  {
+    "BIN_ID": 98,
+    "BIN_CODE": "BIN-0098",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 967,
+    "WAREHOUSE_CODE": "WH0967",
+    "WAREHOUSE_CAPACITY": 60996
+  },
+  {
+    "BIN_ID": 99,
+    "BIN_CODE": "BIN-0099",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 726,
+    "WAREHOUSE_CODE": "WH0726",
+    "WAREHOUSE_CAPACITY": 85609
+  },
+  {
+    "BIN_ID": 100,
+    "BIN_CODE": "BIN-0100",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 769,
+    "WAREHOUSE_CODE": "WH0769",
+    "WAREHOUSE_CAPACITY": 7395
+  },
+  {
+    "BIN_ID": 101,
+    "BIN_CODE": "BIN-0101",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 552,
+    "WAREHOUSE_CODE": "WH0552",
+    "WAREHOUSE_CAPACITY": 19663
+  },
+  {
+    "BIN_ID": 102,
+    "BIN_CODE": "BIN-0102",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 257,
+    "WAREHOUSE_CODE": "WH0257",
+    "WAREHOUSE_CAPACITY": 4082
+  },
+  {
+    "BIN_ID": 103,
+    "BIN_CODE": "BIN-0103",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 249,
+    "WAREHOUSE_CODE": "WH0249",
+    "WAREHOUSE_CAPACITY": 4758
+  },
+  {
+    "BIN_ID": 104,
+    "BIN_CODE": "BIN-0104",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 414,
+    "WAREHOUSE_CODE": "WH0414",
+    "WAREHOUSE_CAPACITY": 14104
+  },
+  {
+    "BIN_ID": 105,
+    "BIN_CODE": "BIN-0105",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 344,
+    "WAREHOUSE_CODE": "WH0344",
+    "WAREHOUSE_CAPACITY": 39043
+  },
+  {
+    "BIN_ID": 106,
+    "BIN_CODE": "BIN-0106",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 57,
+    "WAREHOUSE_CODE": "WH0057",
+    "WAREHOUSE_CAPACITY": 92873
+  },
+  {
+    "BIN_ID": 107,
+    "BIN_CODE": "BIN-0107",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 645,
+    "WAREHOUSE_CODE": "WH0645",
+    "WAREHOUSE_CAPACITY": 48978
+  },
+  {
+    "BIN_ID": 108,
+    "BIN_CODE": "BIN-0108",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 160,
+    "WAREHOUSE_CODE": "WH0160",
+    "WAREHOUSE_CAPACITY": 35244
+  },
+  {
+    "BIN_ID": 109,
+    "BIN_CODE": "BIN-0109",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 838,
+    "WAREHOUSE_CODE": "WH0838",
+    "WAREHOUSE_CAPACITY": 61136
+  },
+  {
+    "BIN_ID": 110,
+    "BIN_CODE": "BIN-0110",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 143,
+    "WAREHOUSE_CODE": "WH0143",
+    "WAREHOUSE_CAPACITY": 28207
+  },
+  {
+    "BIN_ID": 111,
+    "BIN_CODE": "BIN-0111",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 264,
+    "WAREHOUSE_CODE": "WH0264",
+    "WAREHOUSE_CAPACITY": 18936
+  },
+  {
+    "BIN_ID": 112,
+    "BIN_CODE": "BIN-0112",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 258,
+    "WAREHOUSE_CODE": "WH0258",
+    "WAREHOUSE_CAPACITY": 15423
+  },
+  {
+    "BIN_ID": 113,
+    "BIN_CODE": "BIN-0113",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 960,
+    "WAREHOUSE_CODE": "WH0960",
+    "WAREHOUSE_CAPACITY": 35101
+  },
+  {
+    "BIN_ID": 114,
+    "BIN_CODE": "BIN-0114",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 686,
+    "WAREHOUSE_CODE": "WH0686",
+    "WAREHOUSE_CAPACITY": 62774
+  },
+  {
+    "BIN_ID": 115,
+    "BIN_CODE": "BIN-0115",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 950,
+    "WAREHOUSE_CODE": "WH0950",
+    "WAREHOUSE_CAPACITY": 62264
+  },
+  {
+    "BIN_ID": 116,
+    "BIN_CODE": "BIN-0116",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 763,
+    "WAREHOUSE_CODE": "WH0763",
+    "WAREHOUSE_CAPACITY": 25883
+  },
+  {
+    "BIN_ID": 117,
+    "BIN_CODE": "BIN-0117",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 715,
+    "WAREHOUSE_CODE": "WH0715",
+    "WAREHOUSE_CAPACITY": 88097
+  },
+  {
+    "BIN_ID": 118,
+    "BIN_CODE": "BIN-0118",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 486,
+    "WAREHOUSE_CODE": "WH0486",
+    "WAREHOUSE_CAPACITY": 31219
+  },
+  {
+    "BIN_ID": 119,
+    "BIN_CODE": "BIN-0119",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 670,
+    "WAREHOUSE_CODE": "WH0670",
+    "WAREHOUSE_CAPACITY": 16861
+  },
+  {
+    "BIN_ID": 120,
+    "BIN_CODE": "BIN-0120",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 681,
+    "WAREHOUSE_CODE": "WH0681",
+    "WAREHOUSE_CAPACITY": 66060
+  },
+  {
+    "BIN_ID": 121,
+    "BIN_CODE": "BIN-0121",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 968,
+    "WAREHOUSE_CODE": "WH0968",
+    "WAREHOUSE_CAPACITY": 89689
+  },
+  {
+    "BIN_ID": 122,
+    "BIN_CODE": "BIN-0122",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 354,
+    "WAREHOUSE_CODE": "WH0354",
+    "WAREHOUSE_CAPACITY": 13733
+  },
+  {
+    "BIN_ID": 123,
+    "BIN_CODE": "BIN-0123",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 902,
+    "WAREHOUSE_CODE": "WH0902",
+    "WAREHOUSE_CAPACITY": 6729
+  },
+  {
+    "BIN_ID": 124,
+    "BIN_CODE": "BIN-0124",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 767,
+    "WAREHOUSE_CODE": "WH0767",
+    "WAREHOUSE_CAPACITY": 85866
+  },
+  {
+    "BIN_ID": 125,
+    "BIN_CODE": "BIN-0125",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 133,
+    "WAREHOUSE_CODE": "WH0133",
+    "WAREHOUSE_CAPACITY": 69374
+  },
+  {
+    "BIN_ID": 126,
+    "BIN_CODE": "BIN-0126",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 822,
+    "WAREHOUSE_CODE": "WH0822",
+    "WAREHOUSE_CAPACITY": 32440
+  },
+  {
+    "BIN_ID": 127,
+    "BIN_CODE": "BIN-0127",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 210,
+    "WAREHOUSE_CODE": "WH0210",
+    "WAREHOUSE_CAPACITY": 91224
+  },
+  {
+    "BIN_ID": 128,
+    "BIN_CODE": "BIN-0128",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 250,
+    "WAREHOUSE_CODE": "WH0250",
+    "WAREHOUSE_CAPACITY": 33553
+  },
+  {
+    "BIN_ID": 129,
+    "BIN_CODE": "BIN-0129",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 663,
+    "WAREHOUSE_CODE": "WH0663",
+    "WAREHOUSE_CAPACITY": 51847
+  },
+  {
+    "BIN_ID": 130,
+    "BIN_CODE": "BIN-0130",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 478,
+    "WAREHOUSE_CODE": "WH0478",
+    "WAREHOUSE_CAPACITY": 5929
+  },
+  {
+    "BIN_ID": 131,
+    "BIN_CODE": "BIN-0131",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 97,
+    "WAREHOUSE_CODE": "WH0097",
+    "WAREHOUSE_CAPACITY": 13070
+  },
+  {
+    "BIN_ID": 132,
+    "BIN_CODE": "BIN-0132",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 246,
+    "WAREHOUSE_CODE": "WH0246",
+    "WAREHOUSE_CAPACITY": 28123
+  },
+  {
+    "BIN_ID": 133,
+    "BIN_CODE": "BIN-0133",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 782,
+    "WAREHOUSE_CODE": "WH0782",
+    "WAREHOUSE_CAPACITY": 93383
+  },
+  {
+    "BIN_ID": 134,
+    "BIN_CODE": "BIN-0134",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 450,
+    "WAREHOUSE_CODE": "WH0450",
+    "WAREHOUSE_CAPACITY": 38577
+  },
+  {
+    "BIN_ID": 135,
+    "BIN_CODE": "BIN-0135",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 367,
+    "WAREHOUSE_CODE": "WH0367",
+    "WAREHOUSE_CAPACITY": 40579
+  },
+  {
+    "BIN_ID": 136,
+    "BIN_CODE": "BIN-0136",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 887,
+    "WAREHOUSE_CODE": "WH0887",
+    "WAREHOUSE_CAPACITY": 12083
+  },
+  {
+    "BIN_ID": 137,
+    "BIN_CODE": "BIN-0137",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 151,
+    "WAREHOUSE_CODE": "WH0151",
+    "WAREHOUSE_CAPACITY": 77671
+  },
+  {
+    "BIN_ID": 138,
+    "BIN_CODE": "BIN-0138",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 606,
+    "WAREHOUSE_CODE": "WH0606",
+    "WAREHOUSE_CAPACITY": 43429
+  },
+  {
+    "BIN_ID": 139,
+    "BIN_CODE": "BIN-0139",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 986,
+    "WAREHOUSE_CODE": "WH0986",
+    "WAREHOUSE_CAPACITY": 45790
+  },
+  {
+    "BIN_ID": 140,
+    "BIN_CODE": "BIN-0140",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 94,
+    "WAREHOUSE_CODE": "WH0094",
+    "WAREHOUSE_CAPACITY": 41899
+  },
+  {
+    "BIN_ID": 141,
+    "BIN_CODE": "BIN-0141",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 97,
+    "WAREHOUSE_CODE": "WH0097",
+    "WAREHOUSE_CAPACITY": 13070
+  },
+  {
+    "BIN_ID": 142,
+    "BIN_CODE": "BIN-0142",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 67,
+    "WAREHOUSE_CODE": "WH0067",
+    "WAREHOUSE_CAPACITY": 82761
+  },
+  {
+    "BIN_ID": 143,
+    "BIN_CODE": "BIN-0143",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 934,
+    "WAREHOUSE_CODE": "WH0934",
+    "WAREHOUSE_CAPACITY": 54186
+  },
+  {
+    "BIN_ID": 144,
+    "BIN_CODE": "BIN-0144",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 813,
+    "WAREHOUSE_CODE": "WH0813",
+    "WAREHOUSE_CAPACITY": 76237
+  },
+  {
+    "BIN_ID": 145,
+    "BIN_CODE": "BIN-0145",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 276,
+    "WAREHOUSE_CODE": "WH0276",
+    "WAREHOUSE_CAPACITY": 62576
+  },
+  {
+    "BIN_ID": 146,
+    "BIN_CODE": "BIN-0146",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 784,
+    "WAREHOUSE_CODE": "WH0784",
+    "WAREHOUSE_CAPACITY": 62597
+  },
+  {
+    "BIN_ID": 147,
+    "BIN_CODE": "BIN-0147",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 898,
+    "WAREHOUSE_CODE": "WH0898",
+    "WAREHOUSE_CAPACITY": 66366
+  },
+  {
+    "BIN_ID": 148,
+    "BIN_CODE": "BIN-0148",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 979,
+    "WAREHOUSE_CODE": "WH0979",
+    "WAREHOUSE_CAPACITY": 1186
+  },
+  {
+    "BIN_ID": 149,
+    "BIN_CODE": "BIN-0149",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 42,
+    "WAREHOUSE_CODE": "WH0042",
+    "WAREHOUSE_CAPACITY": 7269
+  },
+  {
+    "BIN_ID": 150,
+    "BIN_CODE": "BIN-0150",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 5,
+    "WAREHOUSE_CODE": "WH0005",
+    "WAREHOUSE_CAPACITY": 17928
+  },
+  {
+    "BIN_ID": 151,
+    "BIN_CODE": "BIN-0151",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 322,
+    "WAREHOUSE_CODE": "WH0322",
+    "WAREHOUSE_CAPACITY": 6126
+  },
+  {
+    "BIN_ID": 152,
+    "BIN_CODE": "BIN-0152",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 726,
+    "WAREHOUSE_CODE": "WH0726",
+    "WAREHOUSE_CAPACITY": 85609
+  },
+  {
+    "BIN_ID": 153,
+    "BIN_CODE": "BIN-0153",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 553,
+    "WAREHOUSE_CODE": "WH0553",
+    "WAREHOUSE_CAPACITY": 56935
+  },
+  {
+    "BIN_ID": 154,
+    "BIN_CODE": "BIN-0154",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 368,
+    "WAREHOUSE_CODE": "WH0368",
+    "WAREHOUSE_CAPACITY": 41634
+  },
+  {
+    "BIN_ID": 155,
+    "BIN_CODE": "BIN-0155",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 859,
+    "WAREHOUSE_CODE": "WH0859",
+    "WAREHOUSE_CAPACITY": 87005
+  },
+  {
+    "BIN_ID": 156,
+    "BIN_CODE": "BIN-0156",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 945,
+    "WAREHOUSE_CODE": "WH0945",
+    "WAREHOUSE_CAPACITY": 81239
+  },
+  {
+    "BIN_ID": 157,
+    "BIN_CODE": "BIN-0157",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 818,
+    "WAREHOUSE_CODE": "WH0818",
+    "WAREHOUSE_CAPACITY": 50912
+  },
+  {
+    "BIN_ID": 158,
+    "BIN_CODE": "BIN-0158",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 931,
+    "WAREHOUSE_CODE": "WH0931",
+    "WAREHOUSE_CAPACITY": 52292
+  },
+  {
+    "BIN_ID": 159,
+    "BIN_CODE": "BIN-0159",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 304,
+    "WAREHOUSE_CODE": "WH0304",
+    "WAREHOUSE_CAPACITY": 85607
+  },
+  {
+    "BIN_ID": 160,
+    "BIN_CODE": "BIN-0160",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 719,
+    "WAREHOUSE_CODE": "WH0719",
+    "WAREHOUSE_CAPACITY": 15433
+  },
+  {
+    "BIN_ID": 161,
+    "BIN_CODE": "BIN-0161",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 708,
+    "WAREHOUSE_CODE": "WH0708",
+    "WAREHOUSE_CAPACITY": 1650
+  },
+  {
+    "BIN_ID": 162,
+    "BIN_CODE": "BIN-0162",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 32,
+    "WAREHOUSE_CODE": "WH0032",
+    "WAREHOUSE_CAPACITY": 87669
+  },
+  {
+    "BIN_ID": 163,
+    "BIN_CODE": "BIN-0163",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 292,
+    "WAREHOUSE_CODE": "WH0292",
+    "WAREHOUSE_CAPACITY": 29938
+  },
+  {
+    "BIN_ID": 164,
+    "BIN_CODE": "BIN-0164",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 71,
+    "WAREHOUSE_CODE": "WH0071",
+    "WAREHOUSE_CAPACITY": 53069
+  },
+  {
+    "BIN_ID": 165,
+    "BIN_CODE": "BIN-0165",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 56,
+    "WAREHOUSE_CODE": "WH0056",
+    "WAREHOUSE_CAPACITY": 2421
+  },
+  {
+    "BIN_ID": 166,
+    "BIN_CODE": "BIN-0166",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 99,
+    "WAREHOUSE_CODE": "WH0099",
+    "WAREHOUSE_CAPACITY": 85786
+  },
+  {
+    "BIN_ID": 167,
+    "BIN_CODE": "BIN-0167",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 667,
+    "WAREHOUSE_CODE": "WH0667",
+    "WAREHOUSE_CAPACITY": 34227
+  },
+  {
+    "BIN_ID": 168,
+    "BIN_CODE": "BIN-0168",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 411,
+    "WAREHOUSE_CODE": "WH0411",
+    "WAREHOUSE_CAPACITY": 42217
+  },
+  {
+    "BIN_ID": 169,
+    "BIN_CODE": "BIN-0169",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 634,
+    "WAREHOUSE_CODE": "WH0634",
+    "WAREHOUSE_CAPACITY": 15131
+  },
+  {
+    "BIN_ID": 170,
+    "BIN_CODE": "BIN-0170",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 246,
+    "WAREHOUSE_CODE": "WH0246",
+    "WAREHOUSE_CAPACITY": 28123
+  },
+  {
+    "BIN_ID": 171,
+    "BIN_CODE": "BIN-0171",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 348,
+    "WAREHOUSE_CODE": "WH0348",
+    "WAREHOUSE_CAPACITY": 11825
+  },
+  {
+    "BIN_ID": 172,
+    "BIN_CODE": "BIN-0172",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 244,
+    "WAREHOUSE_CODE": "WH0244",
+    "WAREHOUSE_CAPACITY": 48670
+  },
+  {
+    "BIN_ID": 173,
+    "BIN_CODE": "BIN-0173",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 276,
+    "WAREHOUSE_CODE": "WH0276",
+    "WAREHOUSE_CAPACITY": 62576
+  },
+  {
+    "BIN_ID": 174,
+    "BIN_CODE": "BIN-0174",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 816,
+    "WAREHOUSE_CODE": "WH0816",
+    "WAREHOUSE_CAPACITY": 11788
+  },
+  {
+    "BIN_ID": 175,
+    "BIN_CODE": "BIN-0175",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 517,
+    "WAREHOUSE_CODE": "WH0517",
+    "WAREHOUSE_CAPACITY": 71308
+  },
+  {
+    "BIN_ID": 176,
+    "BIN_CODE": "BIN-0176",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 428,
+    "WAREHOUSE_CODE": "WH0428",
+    "WAREHOUSE_CAPACITY": 37848
+  },
+  {
+    "BIN_ID": 177,
+    "BIN_CODE": "BIN-0177",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 531,
+    "WAREHOUSE_CODE": "WH0531",
+    "WAREHOUSE_CAPACITY": 4288
+  },
+  {
+    "BIN_ID": 178,
+    "BIN_CODE": "BIN-0178",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 947,
+    "WAREHOUSE_CODE": "WH0947",
+    "WAREHOUSE_CAPACITY": 88798
+  },
+  {
+    "BIN_ID": 179,
+    "BIN_CODE": "BIN-0179",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 944,
+    "WAREHOUSE_CODE": "WH0944",
+    "WAREHOUSE_CAPACITY": 76014
+  },
+  {
+    "BIN_ID": 180,
+    "BIN_CODE": "BIN-0180",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 413,
+    "WAREHOUSE_CODE": "WH0413",
+    "WAREHOUSE_CAPACITY": 83285
+  },
+  {
+    "BIN_ID": 181,
+    "BIN_CODE": "BIN-0181",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 181,
+    "WAREHOUSE_CODE": "WH0181",
+    "WAREHOUSE_CAPACITY": 18549
+  },
+  {
+    "BIN_ID": 182,
+    "BIN_CODE": "BIN-0182",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 112,
+    "WAREHOUSE_CODE": "WH0112",
+    "WAREHOUSE_CAPACITY": 94275
+  },
+  {
+    "BIN_ID": 183,
+    "BIN_CODE": "BIN-0183",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 127,
+    "WAREHOUSE_CODE": "WH0127",
+    "WAREHOUSE_CAPACITY": 87496
+  },
+  {
+    "BIN_ID": 184,
+    "BIN_CODE": "BIN-0184",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 609,
+    "WAREHOUSE_CODE": "WH0609",
+    "WAREHOUSE_CAPACITY": 94093
+  },
+  {
+    "BIN_ID": 185,
+    "BIN_CODE": "BIN-0185",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 329,
+    "WAREHOUSE_CODE": "WH0329",
+    "WAREHOUSE_CAPACITY": 6851
+  },
+  {
+    "BIN_ID": 186,
+    "BIN_CODE": "BIN-0186",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 485,
+    "WAREHOUSE_CODE": "WH0485",
+    "WAREHOUSE_CAPACITY": 43248
+  },
+  {
+    "BIN_ID": 187,
+    "BIN_CODE": "BIN-0187",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 639,
+    "WAREHOUSE_CODE": "WH0639",
+    "WAREHOUSE_CAPACITY": 47048
+  },
+  {
+    "BIN_ID": 188,
+    "BIN_CODE": "BIN-0188",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 812,
+    "WAREHOUSE_CODE": "WH0812",
+    "WAREHOUSE_CAPACITY": 47012
+  },
+  {
+    "BIN_ID": 189,
+    "BIN_CODE": "BIN-0189",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 848,
+    "WAREHOUSE_CODE": "WH0848",
+    "WAREHOUSE_CAPACITY": 30575
+  },
+  {
+    "BIN_ID": 190,
+    "BIN_CODE": "BIN-0190",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 959,
+    "WAREHOUSE_CODE": "WH0959",
+    "WAREHOUSE_CAPACITY": 35318
+  },
+  {
+    "BIN_ID": 191,
+    "BIN_CODE": "BIN-0191",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 993,
+    "WAREHOUSE_CODE": "WH0993",
+    "WAREHOUSE_CAPACITY": 14794
+  },
+  {
+    "BIN_ID": 192,
+    "BIN_CODE": "BIN-0192",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 308,
+    "WAREHOUSE_CODE": "WH0308",
+    "WAREHOUSE_CAPACITY": 71207
+  },
+  {
+    "BIN_ID": 193,
+    "BIN_CODE": "BIN-0193",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 566,
+    "WAREHOUSE_CODE": "WH0566",
+    "WAREHOUSE_CAPACITY": 18987
+  },
+  {
+    "BIN_ID": 194,
+    "BIN_CODE": "BIN-0194",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 934,
+    "WAREHOUSE_CODE": "WH0934",
+    "WAREHOUSE_CAPACITY": 54186
+  },
+  {
+    "BIN_ID": 195,
+    "BIN_CODE": "BIN-0195",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 277,
+    "WAREHOUSE_CODE": "WH0277",
+    "WAREHOUSE_CAPACITY": 38892
+  },
+  {
+    "BIN_ID": 196,
+    "BIN_CODE": "BIN-0196",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 826,
+    "WAREHOUSE_CODE": "WH0826",
+    "WAREHOUSE_CAPACITY": 66797
+  },
+  {
+    "BIN_ID": 197,
+    "BIN_CODE": "BIN-0197",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 197,
+    "WAREHOUSE_CODE": "WH0197",
+    "WAREHOUSE_CAPACITY": 48056
+  },
+  {
+    "BIN_ID": 198,
+    "BIN_CODE": "BIN-0198",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 888,
+    "WAREHOUSE_CODE": "WH0888",
+    "WAREHOUSE_CAPACITY": 79358
+  },
+  {
+    "BIN_ID": 199,
+    "BIN_CODE": "BIN-0199",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 287,
+    "WAREHOUSE_CODE": "WH0287",
+    "WAREHOUSE_CAPACITY": 2224
+  },
+  {
+    "BIN_ID": 200,
+    "BIN_CODE": "BIN-0200",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 102,
+    "WAREHOUSE_CODE": "WH0102",
+    "WAREHOUSE_CAPACITY": 12670
+  },
+  {
+    "BIN_ID": 201,
+    "BIN_CODE": "BIN-0201",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 504,
+    "WAREHOUSE_CODE": "WH0504",
+    "WAREHOUSE_CAPACITY": 93594
+  },
+  {
+    "BIN_ID": 202,
+    "BIN_CODE": "BIN-0202",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 87,
+    "WAREHOUSE_CODE": "WH0087",
+    "WAREHOUSE_CAPACITY": 87431
+  },
+  {
+    "BIN_ID": 203,
+    "BIN_CODE": "BIN-0203",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 729,
+    "WAREHOUSE_CODE": "WH0729",
+    "WAREHOUSE_CAPACITY": 53562
+  },
+  {
+    "BIN_ID": 204,
+    "BIN_CODE": "BIN-0204",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 725,
+    "WAREHOUSE_CODE": "WH0725",
+    "WAREHOUSE_CAPACITY": 16215
+  },
+  {
+    "BIN_ID": 205,
+    "BIN_CODE": "BIN-0205",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 944,
+    "WAREHOUSE_CODE": "WH0944",
+    "WAREHOUSE_CAPACITY": 76014
+  },
+  {
+    "BIN_ID": 206,
+    "BIN_CODE": "BIN-0206",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 22,
+    "WAREHOUSE_CODE": "WH0022",
+    "WAREHOUSE_CAPACITY": 55134
+  },
+  {
+    "BIN_ID": 207,
+    "BIN_CODE": "BIN-0207",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 295,
+    "WAREHOUSE_CODE": "WH0295",
+    "WAREHOUSE_CAPACITY": 75573
+  },
+  {
+    "BIN_ID": 208,
+    "BIN_CODE": "BIN-0208",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 695,
+    "WAREHOUSE_CODE": "WH0695",
+    "WAREHOUSE_CAPACITY": 84251
+  },
+  {
+    "BIN_ID": 209,
+    "BIN_CODE": "BIN-0209",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 668,
+    "WAREHOUSE_CODE": "WH0668",
+    "WAREHOUSE_CAPACITY": 68940
+  },
+  {
+    "BIN_ID": 210,
+    "BIN_CODE": "BIN-0210",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 792,
+    "WAREHOUSE_CODE": "WH0792",
+    "WAREHOUSE_CAPACITY": 47232
+  },
+  {
+    "BIN_ID": 211,
+    "BIN_CODE": "BIN-0211",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 698,
+    "WAREHOUSE_CODE": "WH0698",
+    "WAREHOUSE_CAPACITY": 95655
+  },
+  {
+    "BIN_ID": 212,
+    "BIN_CODE": "BIN-0212",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 940,
+    "WAREHOUSE_CODE": "WH0940",
+    "WAREHOUSE_CAPACITY": 90026
+  },
+  {
+    "BIN_ID": 213,
+    "BIN_CODE": "BIN-0213",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 486,
+    "WAREHOUSE_CODE": "WH0486",
+    "WAREHOUSE_CAPACITY": 31219
+  },
+  {
+    "BIN_ID": 214,
+    "BIN_CODE": "BIN-0214",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 539,
+    "WAREHOUSE_CODE": "WH0539",
+    "WAREHOUSE_CAPACITY": 27171
+  },
+  {
+    "BIN_ID": 215,
+    "BIN_CODE": "BIN-0215",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 447,
+    "WAREHOUSE_CODE": "WH0447",
+    "WAREHOUSE_CAPACITY": 87168
+  },
+  {
+    "BIN_ID": 216,
+    "BIN_CODE": "BIN-0216",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 303,
+    "WAREHOUSE_CODE": "WH0303",
+    "WAREHOUSE_CAPACITY": 49530
+  },
+  {
+    "BIN_ID": 217,
+    "BIN_CODE": "BIN-0217",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 595,
+    "WAREHOUSE_CODE": "WH0595",
+    "WAREHOUSE_CAPACITY": 67065
+  },
+  {
+    "BIN_ID": 218,
+    "BIN_CODE": "BIN-0218",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 952,
+    "WAREHOUSE_CODE": "WH0952",
+    "WAREHOUSE_CAPACITY": 62882
+  },
+  {
+    "BIN_ID": 219,
+    "BIN_CODE": "BIN-0219",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 483,
+    "WAREHOUSE_CODE": "WH0483",
+    "WAREHOUSE_CAPACITY": 41608
+  },
+  {
+    "BIN_ID": 220,
+    "BIN_CODE": "BIN-0220",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 141,
+    "WAREHOUSE_CODE": "WH0141",
+    "WAREHOUSE_CAPACITY": 27509
+  },
+  {
+    "BIN_ID": 221,
+    "BIN_CODE": "BIN-0221",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 745,
+    "WAREHOUSE_CODE": "WH0745",
+    "WAREHOUSE_CAPACITY": 71769
+  },
+  {
+    "BIN_ID": 222,
+    "BIN_CODE": "BIN-0222",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 95,
+    "WAREHOUSE_CODE": "WH0095",
+    "WAREHOUSE_CAPACITY": 4648
+  },
+  {
+    "BIN_ID": 223,
+    "BIN_CODE": "BIN-0223",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 479,
+    "WAREHOUSE_CODE": "WH0479",
+    "WAREHOUSE_CAPACITY": 2139
+  },
+  {
+    "BIN_ID": 224,
+    "BIN_CODE": "BIN-0224",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 70,
+    "WAREHOUSE_CODE": "WH0070",
+    "WAREHOUSE_CAPACITY": 68334
+  },
+  {
+    "BIN_ID": 225,
+    "BIN_CODE": "BIN-0225",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 602,
+    "WAREHOUSE_CODE": "WH0602",
+    "WAREHOUSE_CAPACITY": 13673
+  },
+  {
+    "BIN_ID": 226,
+    "BIN_CODE": "BIN-0226",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 783,
+    "WAREHOUSE_CODE": "WH0783",
+    "WAREHOUSE_CAPACITY": 3562
+  },
+  {
+    "BIN_ID": 227,
+    "BIN_CODE": "BIN-0227",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 639,
+    "WAREHOUSE_CODE": "WH0639",
+    "WAREHOUSE_CAPACITY": 47048
+  },
+  {
+    "BIN_ID": 228,
+    "BIN_CODE": "BIN-0228",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 63,
+    "WAREHOUSE_CODE": "WH0063",
+    "WAREHOUSE_CAPACITY": 78863
+  },
+  {
+    "BIN_ID": 229,
+    "BIN_CODE": "BIN-0229",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 621,
+    "WAREHOUSE_CODE": "WH0621",
+    "WAREHOUSE_CAPACITY": 84571
+  },
+  {
+    "BIN_ID": 230,
+    "BIN_CODE": "BIN-0230",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 29,
+    "WAREHOUSE_CODE": "WH0029",
+    "WAREHOUSE_CAPACITY": 92601
+  },
+  {
+    "BIN_ID": 231,
+    "BIN_CODE": "BIN-0231",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 840,
+    "WAREHOUSE_CODE": "WH0840",
+    "WAREHOUSE_CAPACITY": 84002
+  },
+  {
+    "BIN_ID": 232,
+    "BIN_CODE": "BIN-0232",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 620,
+    "WAREHOUSE_CODE": "WH0620",
+    "WAREHOUSE_CAPACITY": 96630
+  },
+  {
+    "BIN_ID": 233,
+    "BIN_CODE": "BIN-0233",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 628,
+    "WAREHOUSE_CODE": "WH0628",
+    "WAREHOUSE_CAPACITY": 94835
+  },
+  {
+    "BIN_ID": 234,
+    "BIN_CODE": "BIN-0234",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 522,
+    "WAREHOUSE_CODE": "WH0522",
+    "WAREHOUSE_CAPACITY": 68496
+  },
+  {
+    "BIN_ID": 235,
+    "BIN_CODE": "BIN-0235",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 619,
+    "WAREHOUSE_CODE": "WH0619",
+    "WAREHOUSE_CAPACITY": 7698
+  },
+  {
+    "BIN_ID": 236,
+    "BIN_CODE": "BIN-0236",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 854,
+    "WAREHOUSE_CODE": "WH0854",
+    "WAREHOUSE_CAPACITY": 47997
+  },
+  {
+    "BIN_ID": 237,
+    "BIN_CODE": "BIN-0237",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 815,
+    "WAREHOUSE_CODE": "WH0815",
+    "WAREHOUSE_CAPACITY": 92258
+  },
+  {
+    "BIN_ID": 238,
+    "BIN_CODE": "BIN-0238",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 93,
+    "WAREHOUSE_CODE": "WH0093",
+    "WAREHOUSE_CAPACITY": 40641
+  },
+  {
+    "BIN_ID": 239,
+    "BIN_CODE": "BIN-0239",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 268,
+    "WAREHOUSE_CODE": "WH0268",
+    "WAREHOUSE_CAPACITY": 31078
+  },
+  {
+    "BIN_ID": 240,
+    "BIN_CODE": "BIN-0240",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 427,
+    "WAREHOUSE_CODE": "WH0427",
+    "WAREHOUSE_CAPACITY": 96839
+  },
+  {
+    "BIN_ID": 241,
+    "BIN_CODE": "BIN-0241",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 116,
+    "WAREHOUSE_CODE": "WH0116",
+    "WAREHOUSE_CAPACITY": 68943
+  },
+  {
+    "BIN_ID": 242,
+    "BIN_CODE": "BIN-0242",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 971,
+    "WAREHOUSE_CODE": "WH0971",
+    "WAREHOUSE_CAPACITY": 96265
+  },
+  {
+    "BIN_ID": 243,
+    "BIN_CODE": "BIN-0243",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 374,
+    "WAREHOUSE_CODE": "WH0374",
+    "WAREHOUSE_CAPACITY": 71740
+  },
+  {
+    "BIN_ID": 244,
+    "BIN_CODE": "BIN-0244",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 304,
+    "WAREHOUSE_CODE": "WH0304",
+    "WAREHOUSE_CAPACITY": 85607
+  },
+  {
+    "BIN_ID": 245,
+    "BIN_CODE": "BIN-0245",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 993,
+    "WAREHOUSE_CODE": "WH0993",
+    "WAREHOUSE_CAPACITY": 14794
+  },
+  {
+    "BIN_ID": 246,
+    "BIN_CODE": "BIN-0246",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 389,
+    "WAREHOUSE_CODE": "WH0389",
+    "WAREHOUSE_CAPACITY": 14865
+  },
+  {
+    "BIN_ID": 247,
+    "BIN_CODE": "BIN-0247",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 523,
+    "WAREHOUSE_CODE": "WH0523",
+    "WAREHOUSE_CAPACITY": 17248
+  },
+  {
+    "BIN_ID": 248,
+    "BIN_CODE": "BIN-0248",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 973,
+    "WAREHOUSE_CODE": "WH0973",
+    "WAREHOUSE_CAPACITY": 63526
+  },
+  {
+    "BIN_ID": 249,
+    "BIN_CODE": "BIN-0249",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 294,
+    "WAREHOUSE_CODE": "WH0294",
+    "WAREHOUSE_CAPACITY": 12487
+  },
+  {
+    "BIN_ID": 250,
+    "BIN_CODE": "BIN-0250",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 228,
+    "WAREHOUSE_CODE": "WH0228",
+    "WAREHOUSE_CAPACITY": 51542
+  },
+  {
+    "BIN_ID": 251,
+    "BIN_CODE": "BIN-0251",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 559,
+    "WAREHOUSE_CODE": "WH0559",
+    "WAREHOUSE_CAPACITY": 3911
+  },
+  {
+    "BIN_ID": 252,
+    "BIN_CODE": "BIN-0252",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 594,
+    "WAREHOUSE_CODE": "WH0594",
+    "WAREHOUSE_CAPACITY": 34416
+  },
+  {
+    "BIN_ID": 253,
+    "BIN_CODE": "BIN-0253",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 681,
+    "WAREHOUSE_CODE": "WH0681",
+    "WAREHOUSE_CAPACITY": 66060
+  },
+  {
+    "BIN_ID": 254,
+    "BIN_CODE": "BIN-0254",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 69,
+    "WAREHOUSE_CODE": "WH0069",
+    "WAREHOUSE_CAPACITY": 20197
+  },
+  {
+    "BIN_ID": 255,
+    "BIN_CODE": "BIN-0255",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 606,
+    "WAREHOUSE_CODE": "WH0606",
+    "WAREHOUSE_CAPACITY": 43429
+  },
+  {
+    "BIN_ID": 256,
+    "BIN_CODE": "BIN-0256",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 238,
+    "WAREHOUSE_CODE": "WH0238",
+    "WAREHOUSE_CAPACITY": 53586
+  },
+  {
+    "BIN_ID": 257,
+    "BIN_CODE": "BIN-0257",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 91,
+    "WAREHOUSE_CODE": "WH0091",
+    "WAREHOUSE_CAPACITY": 56586
+  },
+  {
+    "BIN_ID": 258,
+    "BIN_CODE": "BIN-0258",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 476,
+    "WAREHOUSE_CODE": "WH0476",
+    "WAREHOUSE_CAPACITY": 52778
+  },
+  {
+    "BIN_ID": 259,
+    "BIN_CODE": "BIN-0259",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 567,
+    "WAREHOUSE_CODE": "WH0567",
+    "WAREHOUSE_CAPACITY": 15285
+  },
+  {
+    "BIN_ID": 260,
+    "BIN_CODE": "BIN-0260",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 307,
+    "WAREHOUSE_CODE": "WH0307",
+    "WAREHOUSE_CAPACITY": 33389
+  },
+  {
+    "BIN_ID": 261,
+    "BIN_CODE": "BIN-0261",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 354,
+    "WAREHOUSE_CODE": "WH0354",
+    "WAREHOUSE_CAPACITY": 13733
+  },
+  {
+    "BIN_ID": 262,
+    "BIN_CODE": "BIN-0262",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 28,
+    "WAREHOUSE_CODE": "WH0028",
+    "WAREHOUSE_CAPACITY": 73424
+  },
+  {
+    "BIN_ID": 263,
+    "BIN_CODE": "BIN-0263",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 828,
+    "WAREHOUSE_CODE": "WH0828",
+    "WAREHOUSE_CAPACITY": 78439
+  },
+  {
+    "BIN_ID": 264,
+    "BIN_CODE": "BIN-0264",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 704,
+    "WAREHOUSE_CODE": "WH0704",
+    "WAREHOUSE_CAPACITY": 35796
+  },
+  {
+    "BIN_ID": 265,
+    "BIN_CODE": "BIN-0265",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 708,
+    "WAREHOUSE_CODE": "WH0708",
+    "WAREHOUSE_CAPACITY": 1650
+  },
+  {
+    "BIN_ID": 266,
+    "BIN_CODE": "BIN-0266",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 762,
+    "WAREHOUSE_CODE": "WH0762",
+    "WAREHOUSE_CAPACITY": 84631
+  },
+  {
+    "BIN_ID": 267,
+    "BIN_CODE": "BIN-0267",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 891,
+    "WAREHOUSE_CODE": "WH0891",
+    "WAREHOUSE_CAPACITY": 67424
+  },
+  {
+    "BIN_ID": 268,
+    "BIN_CODE": "BIN-0268",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 623,
+    "WAREHOUSE_CODE": "WH0623",
+    "WAREHOUSE_CAPACITY": 28198
+  },
+  {
+    "BIN_ID": 269,
+    "BIN_CODE": "BIN-0269",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 544,
+    "WAREHOUSE_CODE": "WH0544",
+    "WAREHOUSE_CAPACITY": 75507
+  },
+  {
+    "BIN_ID": 270,
+    "BIN_CODE": "BIN-0270",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 700,
+    "WAREHOUSE_CODE": "WH0700",
+    "WAREHOUSE_CAPACITY": 94858
+  },
+  {
+    "BIN_ID": 271,
+    "BIN_CODE": "BIN-0271",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 439,
+    "WAREHOUSE_CODE": "WH0439",
+    "WAREHOUSE_CAPACITY": 73995
+  },
+  {
+    "BIN_ID": 272,
+    "BIN_CODE": "BIN-0272",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 940,
+    "WAREHOUSE_CODE": "WH0940",
+    "WAREHOUSE_CAPACITY": 90026
+  },
+  {
+    "BIN_ID": 273,
+    "BIN_CODE": "BIN-0273",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 738,
+    "WAREHOUSE_CODE": "WH0738",
+    "WAREHOUSE_CAPACITY": 55528
+  },
+  {
+    "BIN_ID": 274,
+    "BIN_CODE": "BIN-0274",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 722,
+    "WAREHOUSE_CODE": "WH0722",
+    "WAREHOUSE_CAPACITY": 59876
+  },
+  {
+    "BIN_ID": 275,
+    "BIN_CODE": "BIN-0275",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 677,
+    "WAREHOUSE_CODE": "WH0677",
+    "WAREHOUSE_CAPACITY": 62178
+  },
+  {
+    "BIN_ID": 276,
+    "BIN_CODE": "BIN-0276",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 670,
+    "WAREHOUSE_CODE": "WH0670",
+    "WAREHOUSE_CAPACITY": 16861
+  },
+  {
+    "BIN_ID": 277,
+    "BIN_CODE": "BIN-0277",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 90,
+    "WAREHOUSE_CODE": "WH0090",
+    "WAREHOUSE_CAPACITY": 90584
+  },
+  {
+    "BIN_ID": 278,
+    "BIN_CODE": "BIN-0278",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 220,
+    "WAREHOUSE_CODE": "WH0220",
+    "WAREHOUSE_CAPACITY": 18407
+  },
+  {
+    "BIN_ID": 279,
+    "BIN_CODE": "BIN-0279",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 897,
+    "WAREHOUSE_CODE": "WH0897",
+    "WAREHOUSE_CAPACITY": 93863
+  },
+  {
+    "BIN_ID": 280,
+    "BIN_CODE": "BIN-0280",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 435,
+    "WAREHOUSE_CODE": "WH0435",
+    "WAREHOUSE_CAPACITY": 19139
+  },
+  {
+    "BIN_ID": 281,
+    "BIN_CODE": "BIN-0281",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 117,
+    "WAREHOUSE_CODE": "WH0117",
+    "WAREHOUSE_CAPACITY": 72748
+  },
+  {
+    "BIN_ID": 282,
+    "BIN_CODE": "BIN-0282",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 773,
+    "WAREHOUSE_CODE": "WH0773",
+    "WAREHOUSE_CAPACITY": 61875
+  },
+  {
+    "BIN_ID": 283,
+    "BIN_CODE": "BIN-0283",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 507,
+    "WAREHOUSE_CODE": "WH0507",
+    "WAREHOUSE_CAPACITY": 62384
+  },
+  {
+    "BIN_ID": 284,
+    "BIN_CODE": "BIN-0284",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 774,
+    "WAREHOUSE_CODE": "WH0774",
+    "WAREHOUSE_CAPACITY": 3208
+  },
+  {
+    "BIN_ID": 285,
+    "BIN_CODE": "BIN-0285",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 914,
+    "WAREHOUSE_CODE": "WH0914",
+    "WAREHOUSE_CAPACITY": 10059
+  },
+  {
+    "BIN_ID": 286,
+    "BIN_CODE": "BIN-0286",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 129,
+    "WAREHOUSE_CODE": "WH0129",
+    "WAREHOUSE_CAPACITY": 57051
+  },
+  {
+    "BIN_ID": 287,
+    "BIN_CODE": "BIN-0287",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 6,
+    "WAREHOUSE_CODE": "WH0006",
+    "WAREHOUSE_CAPACITY": 63860
+  },
+  {
+    "BIN_ID": 288,
+    "BIN_CODE": "BIN-0288",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 152,
+    "WAREHOUSE_CODE": "WH0152",
+    "WAREHOUSE_CAPACITY": 31216
+  },
+  {
+    "BIN_ID": 289,
+    "BIN_CODE": "BIN-0289",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 910,
+    "WAREHOUSE_CODE": "WH0910",
+    "WAREHOUSE_CAPACITY": 51959
+  },
+  {
+    "BIN_ID": 290,
+    "BIN_CODE": "BIN-0290",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 88,
+    "WAREHOUSE_CODE": "WH0088",
+    "WAREHOUSE_CAPACITY": 78021
+  },
+  {
+    "BIN_ID": 291,
+    "BIN_CODE": "BIN-0291",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 716,
+    "WAREHOUSE_CODE": "WH0716",
+    "WAREHOUSE_CAPACITY": 33760
+  },
+  {
+    "BIN_ID": 292,
+    "BIN_CODE": "BIN-0292",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 630,
+    "WAREHOUSE_CODE": "WH0630",
+    "WAREHOUSE_CAPACITY": 85753
+  },
+  {
+    "BIN_ID": 293,
+    "BIN_CODE": "BIN-0293",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 816,
+    "WAREHOUSE_CODE": "WH0816",
+    "WAREHOUSE_CAPACITY": 11788
+  },
+  {
+    "BIN_ID": 294,
+    "BIN_CODE": "BIN-0294",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 785,
+    "WAREHOUSE_CODE": "WH0785",
+    "WAREHOUSE_CAPACITY": 99315
+  },
+  {
+    "BIN_ID": 295,
+    "BIN_CODE": "BIN-0295",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 51,
+    "WAREHOUSE_CODE": "WH0051",
+    "WAREHOUSE_CAPACITY": 42122
+  },
+  {
+    "BIN_ID": 296,
+    "BIN_CODE": "BIN-0296",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 103,
+    "WAREHOUSE_CODE": "WH0103",
+    "WAREHOUSE_CAPACITY": 5306
+  },
+  {
+    "BIN_ID": 297,
+    "BIN_CODE": "BIN-0297",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 880,
+    "WAREHOUSE_CODE": "WH0880",
+    "WAREHOUSE_CAPACITY": 98584
+  },
+  {
+    "BIN_ID": 298,
+    "BIN_CODE": "BIN-0298",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 89,
+    "WAREHOUSE_CODE": "WH0089",
+    "WAREHOUSE_CAPACITY": 52967
+  },
+  {
+    "BIN_ID": 299,
+    "BIN_CODE": "BIN-0299",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 770,
+    "WAREHOUSE_CODE": "WH0770",
+    "WAREHOUSE_CAPACITY": 27764
+  },
+  {
+    "BIN_ID": 300,
+    "BIN_CODE": "BIN-0300",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 655,
+    "WAREHOUSE_CODE": "WH0655",
+    "WAREHOUSE_CAPACITY": 8036
+  },
+  {
+    "BIN_ID": 301,
+    "BIN_CODE": "BIN-0301",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 703,
+    "WAREHOUSE_CODE": "WH0703",
+    "WAREHOUSE_CAPACITY": 81263
+  },
+  {
+    "BIN_ID": 302,
+    "BIN_CODE": "BIN-0302",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 285,
+    "WAREHOUSE_CODE": "WH0285",
+    "WAREHOUSE_CAPACITY": 27443
+  },
+  {
+    "BIN_ID": 303,
+    "BIN_CODE": "BIN-0303",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 401,
+    "WAREHOUSE_CODE": "WH0401",
+    "WAREHOUSE_CAPACITY": 70174
+  },
+  {
+    "BIN_ID": 304,
+    "BIN_CODE": "BIN-0304",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 727,
+    "WAREHOUSE_CODE": "WH0727",
+    "WAREHOUSE_CAPACITY": 5932
+  },
+  {
+    "BIN_ID": 305,
+    "BIN_CODE": "BIN-0305",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 986,
+    "WAREHOUSE_CODE": "WH0986",
+    "WAREHOUSE_CAPACITY": 45790
+  },
+  {
+    "BIN_ID": 306,
+    "BIN_CODE": "BIN-0306",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 718,
+    "WAREHOUSE_CODE": "WH0718",
+    "WAREHOUSE_CAPACITY": 28477
+  },
+  {
+    "BIN_ID": 307,
+    "BIN_CODE": "BIN-0307",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 554,
+    "WAREHOUSE_CODE": "WH0554",
+    "WAREHOUSE_CAPACITY": 48919
+  },
+  {
+    "BIN_ID": 308,
+    "BIN_CODE": "BIN-0308",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 94,
+    "WAREHOUSE_CODE": "WH0094",
+    "WAREHOUSE_CAPACITY": 41899
+  },
+  {
+    "BIN_ID": 309,
+    "BIN_CODE": "BIN-0309",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 793,
+    "WAREHOUSE_CODE": "WH0793",
+    "WAREHOUSE_CAPACITY": 49097
+  },
+  {
+    "BIN_ID": 310,
+    "BIN_CODE": "BIN-0310",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 1000,
+    "WAREHOUSE_CODE": "WH1000",
+    "WAREHOUSE_CAPACITY": 89815
+  },
+  {
+    "BIN_ID": 311,
+    "BIN_CODE": "BIN-0311",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 709,
+    "WAREHOUSE_CODE": "WH0709",
+    "WAREHOUSE_CAPACITY": 94341
+  },
+  {
+    "BIN_ID": 312,
+    "BIN_CODE": "BIN-0312",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 123,
+    "WAREHOUSE_CODE": "WH0123",
+    "WAREHOUSE_CAPACITY": 85840
+  },
+  {
+    "BIN_ID": 313,
+    "BIN_CODE": "BIN-0313",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 893,
+    "WAREHOUSE_CODE": "WH0893",
+    "WAREHOUSE_CAPACITY": 17708
+  },
+  {
+    "BIN_ID": 314,
+    "BIN_CODE": "BIN-0314",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 863,
+    "WAREHOUSE_CODE": "WH0863",
+    "WAREHOUSE_CAPACITY": 21790
+  },
+  {
+    "BIN_ID": 315,
+    "BIN_CODE": "BIN-0315",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 245,
+    "WAREHOUSE_CODE": "WH0245",
+    "WAREHOUSE_CAPACITY": 25667
+  },
+  {
+    "BIN_ID": 316,
+    "BIN_CODE": "BIN-0316",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 554,
+    "WAREHOUSE_CODE": "WH0554",
+    "WAREHOUSE_CAPACITY": 48919
+  },
+  {
+    "BIN_ID": 317,
+    "BIN_CODE": "BIN-0317",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 24,
+    "WAREHOUSE_CODE": "WH0024",
+    "WAREHOUSE_CAPACITY": 98052
+  },
+  {
+    "BIN_ID": 318,
+    "BIN_CODE": "BIN-0318",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 52,
+    "WAREHOUSE_CODE": "WH0052",
+    "WAREHOUSE_CAPACITY": 58961
+  },
+  {
+    "BIN_ID": 319,
+    "BIN_CODE": "BIN-0319",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 406,
+    "WAREHOUSE_CODE": "WH0406",
+    "WAREHOUSE_CAPACITY": 7993
+  },
+  {
+    "BIN_ID": 320,
+    "BIN_CODE": "BIN-0320",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 807,
+    "WAREHOUSE_CODE": "WH0807",
+    "WAREHOUSE_CAPACITY": 62513
+  },
+  {
+    "BIN_ID": 321,
+    "BIN_CODE": "BIN-0321",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 572,
+    "WAREHOUSE_CODE": "WH0572",
+    "WAREHOUSE_CAPACITY": 80075
+  },
+  {
+    "BIN_ID": 322,
+    "BIN_CODE": "BIN-0322",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 320,
+    "WAREHOUSE_CODE": "WH0320",
+    "WAREHOUSE_CAPACITY": 16634
+  },
+  {
+    "BIN_ID": 323,
+    "BIN_CODE": "BIN-0323",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 408,
+    "WAREHOUSE_CODE": "WH0408",
+    "WAREHOUSE_CAPACITY": 10008
+  },
+  {
+    "BIN_ID": 324,
+    "BIN_CODE": "BIN-0324",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 432,
+    "WAREHOUSE_CODE": "WH0432",
+    "WAREHOUSE_CAPACITY": 74465
+  },
+  {
+    "BIN_ID": 325,
+    "BIN_CODE": "BIN-0325",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 314,
+    "WAREHOUSE_CODE": "WH0314",
+    "WAREHOUSE_CAPACITY": 92230
+  },
+  {
+    "BIN_ID": 326,
+    "BIN_CODE": "BIN-0326",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 550,
+    "WAREHOUSE_CODE": "WH0550",
+    "WAREHOUSE_CAPACITY": 24807
+  },
+  {
+    "BIN_ID": 327,
+    "BIN_CODE": "BIN-0327",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 679,
+    "WAREHOUSE_CODE": "WH0679",
+    "WAREHOUSE_CAPACITY": 78953
+  },
+  {
+    "BIN_ID": 328,
+    "BIN_CODE": "BIN-0328",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 535,
+    "WAREHOUSE_CODE": "WH0535",
+    "WAREHOUSE_CAPACITY": 10384
+  },
+  {
+    "BIN_ID": 329,
+    "BIN_CODE": "BIN-0329",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 442,
+    "WAREHOUSE_CODE": "WH0442",
+    "WAREHOUSE_CAPACITY": 17245
+  },
+  {
+    "BIN_ID": 330,
+    "BIN_CODE": "BIN-0330",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 778,
+    "WAREHOUSE_CODE": "WH0778",
+    "WAREHOUSE_CAPACITY": 87357
+  },
+  {
+    "BIN_ID": 331,
+    "BIN_CODE": "BIN-0331",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 364,
+    "WAREHOUSE_CODE": "WH0364",
+    "WAREHOUSE_CAPACITY": 97103
+  },
+  {
+    "BIN_ID": 332,
+    "BIN_CODE": "BIN-0332",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 816,
+    "WAREHOUSE_CODE": "WH0816",
+    "WAREHOUSE_CAPACITY": 11788
+  },
+  {
+    "BIN_ID": 333,
+    "BIN_CODE": "BIN-0333",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 612,
+    "WAREHOUSE_CODE": "WH0612",
+    "WAREHOUSE_CAPACITY": 63296
+  },
+  {
+    "BIN_ID": 334,
+    "BIN_CODE": "BIN-0334",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 810,
+    "WAREHOUSE_CODE": "WH0810",
+    "WAREHOUSE_CAPACITY": 41340
+  },
+  {
+    "BIN_ID": 335,
+    "BIN_CODE": "BIN-0335",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 202,
+    "WAREHOUSE_CODE": "WH0202",
+    "WAREHOUSE_CAPACITY": 59989
+  },
+  {
+    "BIN_ID": 336,
+    "BIN_CODE": "BIN-0336",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 265,
+    "WAREHOUSE_CODE": "WH0265",
+    "WAREHOUSE_CAPACITY": 59759
+  },
+  {
+    "BIN_ID": 337,
+    "BIN_CODE": "BIN-0337",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 753,
+    "WAREHOUSE_CODE": "WH0753",
+    "WAREHOUSE_CAPACITY": 86719
+  },
+  {
+    "BIN_ID": 338,
+    "BIN_CODE": "BIN-0338",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 341,
+    "WAREHOUSE_CODE": "WH0341",
+    "WAREHOUSE_CAPACITY": 71515
+  },
+  {
+    "BIN_ID": 339,
+    "BIN_CODE": "BIN-0339",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 787,
+    "WAREHOUSE_CODE": "WH0787",
+    "WAREHOUSE_CAPACITY": 71279
+  },
+  {
+    "BIN_ID": 340,
+    "BIN_CODE": "BIN-0340",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 536,
+    "WAREHOUSE_CODE": "WH0536",
+    "WAREHOUSE_CAPACITY": 8812
+  },
+  {
+    "BIN_ID": 341,
+    "BIN_CODE": "BIN-0341",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 613,
+    "WAREHOUSE_CODE": "WH0613",
+    "WAREHOUSE_CAPACITY": 59315
+  },
+  {
+    "BIN_ID": 342,
+    "BIN_CODE": "BIN-0342",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 183,
+    "WAREHOUSE_CODE": "WH0183",
+    "WAREHOUSE_CAPACITY": 70447
+  },
+  {
+    "BIN_ID": 343,
+    "BIN_CODE": "BIN-0343",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 39,
+    "WAREHOUSE_CODE": "WH0039",
+    "WAREHOUSE_CAPACITY": 44461
+  },
+  {
+    "BIN_ID": 344,
+    "BIN_CODE": "BIN-0344",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 81,
+    "WAREHOUSE_CODE": "WH0081",
+    "WAREHOUSE_CAPACITY": 23810
+  },
+  {
+    "BIN_ID": 345,
+    "BIN_CODE": "BIN-0345",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 594,
+    "WAREHOUSE_CODE": "WH0594",
+    "WAREHOUSE_CAPACITY": 34416
+  },
+  {
+    "BIN_ID": 346,
+    "BIN_CODE": "BIN-0346",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 840,
+    "WAREHOUSE_CODE": "WH0840",
+    "WAREHOUSE_CAPACITY": 84002
+  },
+  {
+    "BIN_ID": 347,
+    "BIN_CODE": "BIN-0347",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 686,
+    "WAREHOUSE_CODE": "WH0686",
+    "WAREHOUSE_CAPACITY": 62774
+  },
+  {
+    "BIN_ID": 348,
+    "BIN_CODE": "BIN-0348",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 676,
+    "WAREHOUSE_CODE": "WH0676",
+    "WAREHOUSE_CAPACITY": 70213
+  },
+  {
+    "BIN_ID": 349,
+    "BIN_CODE": "BIN-0349",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 883,
+    "WAREHOUSE_CODE": "WH0883",
+    "WAREHOUSE_CAPACITY": 22679
+  },
+  {
+    "BIN_ID": 350,
+    "BIN_CODE": "BIN-0350",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 79,
+    "WAREHOUSE_CODE": "WH0079",
+    "WAREHOUSE_CAPACITY": 17749
+  },
+  {
+    "BIN_ID": 351,
+    "BIN_CODE": "BIN-0351",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 430,
+    "WAREHOUSE_CODE": "WH0430",
+    "WAREHOUSE_CAPACITY": 25906
+  },
+  {
+    "BIN_ID": 352,
+    "BIN_CODE": "BIN-0352",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 857,
+    "WAREHOUSE_CODE": "WH0857",
+    "WAREHOUSE_CAPACITY": 12278
+  },
+  {
+    "BIN_ID": 353,
+    "BIN_CODE": "BIN-0353",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 804,
+    "WAREHOUSE_CODE": "WH0804",
+    "WAREHOUSE_CAPACITY": 64771
+  },
+  {
+    "BIN_ID": 354,
+    "BIN_CODE": "BIN-0354",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 585,
+    "WAREHOUSE_CODE": "WH0585",
+    "WAREHOUSE_CAPACITY": 95039
+  },
+  {
+    "BIN_ID": 355,
+    "BIN_CODE": "BIN-0355",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 358,
+    "WAREHOUSE_CODE": "WH0358",
+    "WAREHOUSE_CAPACITY": 70852
+  },
+  {
+    "BIN_ID": 356,
+    "BIN_CODE": "BIN-0356",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 840,
+    "WAREHOUSE_CODE": "WH0840",
+    "WAREHOUSE_CAPACITY": 84002
+  },
+  {
+    "BIN_ID": 357,
+    "BIN_CODE": "BIN-0357",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 866,
+    "WAREHOUSE_CODE": "WH0866",
+    "WAREHOUSE_CAPACITY": 49507
+  },
+  {
+    "BIN_ID": 358,
+    "BIN_CODE": "BIN-0358",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 625,
+    "WAREHOUSE_CODE": "WH0625",
+    "WAREHOUSE_CAPACITY": 53723
+  },
+  {
+    "BIN_ID": 359,
+    "BIN_CODE": "BIN-0359",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 818,
+    "WAREHOUSE_CODE": "WH0818",
+    "WAREHOUSE_CAPACITY": 50912
+  },
+  {
+    "BIN_ID": 360,
+    "BIN_CODE": "BIN-0360",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 667,
+    "WAREHOUSE_CODE": "WH0667",
+    "WAREHOUSE_CAPACITY": 34227
+  },
+  {
+    "BIN_ID": 361,
+    "BIN_CODE": "BIN-0361",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 374,
+    "WAREHOUSE_CODE": "WH0374",
+    "WAREHOUSE_CAPACITY": 71740
+  },
+  {
+    "BIN_ID": 362,
+    "BIN_CODE": "BIN-0362",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 6,
+    "WAREHOUSE_CODE": "WH0006",
+    "WAREHOUSE_CAPACITY": 63860
+  },
+  {
+    "BIN_ID": 363,
+    "BIN_CODE": "BIN-0363",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 941,
+    "WAREHOUSE_CODE": "WH0941",
+    "WAREHOUSE_CAPACITY": 75896
+  },
+  {
+    "BIN_ID": 364,
+    "BIN_CODE": "BIN-0364",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 996,
+    "WAREHOUSE_CODE": "WH0996",
+    "WAREHOUSE_CAPACITY": 76035
+  },
+  {
+    "BIN_ID": 365,
+    "BIN_CODE": "BIN-0365",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 194,
+    "WAREHOUSE_CODE": "WH0194",
+    "WAREHOUSE_CAPACITY": 89473
+  },
+  {
+    "BIN_ID": 366,
+    "BIN_CODE": "BIN-0366",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 337,
+    "WAREHOUSE_CODE": "WH0337",
+    "WAREHOUSE_CAPACITY": 75843
+  },
+  {
+    "BIN_ID": 367,
+    "BIN_CODE": "BIN-0367",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 598,
+    "WAREHOUSE_CODE": "WH0598",
+    "WAREHOUSE_CAPACITY": 58331
+  },
+  {
+    "BIN_ID": 368,
+    "BIN_CODE": "BIN-0368",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 304,
+    "WAREHOUSE_CODE": "WH0304",
+    "WAREHOUSE_CAPACITY": 85607
+  },
+  {
+    "BIN_ID": 369,
+    "BIN_CODE": "BIN-0369",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 617,
+    "WAREHOUSE_CODE": "WH0617",
+    "WAREHOUSE_CAPACITY": 72878
+  },
+  {
+    "BIN_ID": 370,
+    "BIN_CODE": "BIN-0370",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 714,
+    "WAREHOUSE_CODE": "WH0714",
+    "WAREHOUSE_CAPACITY": 66146
+  },
+  {
+    "BIN_ID": 371,
+    "BIN_CODE": "BIN-0371",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 821,
+    "WAREHOUSE_CODE": "WH0821",
+    "WAREHOUSE_CAPACITY": 79660
+  },
+  {
+    "BIN_ID": 372,
+    "BIN_CODE": "BIN-0372",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 419,
+    "WAREHOUSE_CODE": "WH0419",
+    "WAREHOUSE_CAPACITY": 54918
+  },
+  {
+    "BIN_ID": 373,
+    "BIN_CODE": "BIN-0373",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 278,
+    "WAREHOUSE_CODE": "WH0278",
+    "WAREHOUSE_CAPACITY": 32732
+  },
+  {
+    "BIN_ID": 374,
+    "BIN_CODE": "BIN-0374",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 904,
+    "WAREHOUSE_CODE": "WH0904",
+    "WAREHOUSE_CAPACITY": 78748
+  },
+  {
+    "BIN_ID": 375,
+    "BIN_CODE": "BIN-0375",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 256,
+    "WAREHOUSE_CODE": "WH0256",
+    "WAREHOUSE_CAPACITY": 30543
+  },
+  {
+    "BIN_ID": 376,
+    "BIN_CODE": "BIN-0376",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 683,
+    "WAREHOUSE_CODE": "WH0683",
+    "WAREHOUSE_CAPACITY": 34436
+  },
+  {
+    "BIN_ID": 377,
+    "BIN_CODE": "BIN-0377",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 620,
+    "WAREHOUSE_CODE": "WH0620",
+    "WAREHOUSE_CAPACITY": 96630
+  },
+  {
+    "BIN_ID": 378,
+    "BIN_CODE": "BIN-0378",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 469,
+    "WAREHOUSE_CODE": "WH0469",
+    "WAREHOUSE_CAPACITY": 15157
+  },
+  {
+    "BIN_ID": 379,
+    "BIN_CODE": "BIN-0379",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 554,
+    "WAREHOUSE_CODE": "WH0554",
+    "WAREHOUSE_CAPACITY": 48919
+  },
+  {
+    "BIN_ID": 380,
+    "BIN_CODE": "BIN-0380",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 885,
+    "WAREHOUSE_CODE": "WH0885",
+    "WAREHOUSE_CAPACITY": 56288
+  },
+  {
+    "BIN_ID": 381,
+    "BIN_CODE": "BIN-0381",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 979,
+    "WAREHOUSE_CODE": "WH0979",
+    "WAREHOUSE_CAPACITY": 1186
+  },
+  {
+    "BIN_ID": 382,
+    "BIN_CODE": "BIN-0382",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 79,
+    "WAREHOUSE_CODE": "WH0079",
+    "WAREHOUSE_CAPACITY": 17749
+  },
+  {
+    "BIN_ID": 383,
+    "BIN_CODE": "BIN-0383",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 404,
+    "WAREHOUSE_CODE": "WH0404",
+    "WAREHOUSE_CAPACITY": 90674
+  },
+  {
+    "BIN_ID": 384,
+    "BIN_CODE": "BIN-0384",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 825,
+    "WAREHOUSE_CODE": "WH0825",
+    "WAREHOUSE_CAPACITY": 52410
+  },
+  {
+    "BIN_ID": 385,
+    "BIN_CODE": "BIN-0385",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 308,
+    "WAREHOUSE_CODE": "WH0308",
+    "WAREHOUSE_CAPACITY": 71207
+  },
+  {
+    "BIN_ID": 386,
+    "BIN_CODE": "BIN-0386",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 131,
+    "WAREHOUSE_CODE": "WH0131",
+    "WAREHOUSE_CAPACITY": 32366
+  },
+  {
+    "BIN_ID": 387,
+    "BIN_CODE": "BIN-0387",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 186,
+    "WAREHOUSE_CODE": "WH0186",
+    "WAREHOUSE_CAPACITY": 91959
+  },
+  {
+    "BIN_ID": 388,
+    "BIN_CODE": "BIN-0388",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 610,
+    "WAREHOUSE_CODE": "WH0610",
+    "WAREHOUSE_CAPACITY": 41338
+  },
+  {
+    "BIN_ID": 389,
+    "BIN_CODE": "BIN-0389",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 295,
+    "WAREHOUSE_CODE": "WH0295",
+    "WAREHOUSE_CAPACITY": 75573
+  },
+  {
+    "BIN_ID": 390,
+    "BIN_CODE": "BIN-0390",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 361,
+    "WAREHOUSE_CODE": "WH0361",
+    "WAREHOUSE_CAPACITY": 27185
+  },
+  {
+    "BIN_ID": 391,
+    "BIN_CODE": "BIN-0391",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 344,
+    "WAREHOUSE_CODE": "WH0344",
+    "WAREHOUSE_CAPACITY": 39043
+  },
+  {
+    "BIN_ID": 392,
+    "BIN_CODE": "BIN-0392",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 751,
+    "WAREHOUSE_CODE": "WH0751",
+    "WAREHOUSE_CAPACITY": 21924
+  },
+  {
+    "BIN_ID": 393,
+    "BIN_CODE": "BIN-0393",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 931,
+    "WAREHOUSE_CODE": "WH0931",
+    "WAREHOUSE_CAPACITY": 52292
+  },
+  {
+    "BIN_ID": 394,
+    "BIN_CODE": "BIN-0394",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 731,
+    "WAREHOUSE_CODE": "WH0731",
+    "WAREHOUSE_CAPACITY": 14811
+  },
+  {
+    "BIN_ID": 395,
+    "BIN_CODE": "BIN-0395",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 68,
+    "WAREHOUSE_CODE": "WH0068",
+    "WAREHOUSE_CAPACITY": 22595
+  },
+  {
+    "BIN_ID": 396,
+    "BIN_CODE": "BIN-0396",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 414,
+    "WAREHOUSE_CODE": "WH0414",
+    "WAREHOUSE_CAPACITY": 14104
+  },
+  {
+    "BIN_ID": 397,
+    "BIN_CODE": "BIN-0397",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 716,
+    "WAREHOUSE_CODE": "WH0716",
+    "WAREHOUSE_CAPACITY": 33760
+  },
+  {
+    "BIN_ID": 398,
+    "BIN_CODE": "BIN-0398",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 620,
+    "WAREHOUSE_CODE": "WH0620",
+    "WAREHOUSE_CAPACITY": 96630
+  },
+  {
+    "BIN_ID": 399,
+    "BIN_CODE": "BIN-0399",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 146,
+    "WAREHOUSE_CODE": "WH0146",
+    "WAREHOUSE_CAPACITY": 29965
+  },
+  {
+    "BIN_ID": 400,
+    "BIN_CODE": "BIN-0400",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 681,
+    "WAREHOUSE_CODE": "WH0681",
+    "WAREHOUSE_CAPACITY": 66060
+  },
+  {
+    "BIN_ID": 401,
+    "BIN_CODE": "BIN-0401",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 975,
+    "WAREHOUSE_CODE": "WH0975",
+    "WAREHOUSE_CAPACITY": 13544
+  },
+  {
+    "BIN_ID": 402,
+    "BIN_CODE": "BIN-0402",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 559,
+    "WAREHOUSE_CODE": "WH0559",
+    "WAREHOUSE_CAPACITY": 3911
+  },
+  {
+    "BIN_ID": 403,
+    "BIN_CODE": "BIN-0403",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 295,
+    "WAREHOUSE_CODE": "WH0295",
+    "WAREHOUSE_CAPACITY": 75573
+  },
+  {
+    "BIN_ID": 404,
+    "BIN_CODE": "BIN-0404",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 253,
+    "WAREHOUSE_CODE": "WH0253",
+    "WAREHOUSE_CAPACITY": 74494
+  },
+  {
+    "BIN_ID": 405,
+    "BIN_CODE": "BIN-0405",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 608,
+    "WAREHOUSE_CODE": "WH0608",
+    "WAREHOUSE_CAPACITY": 83389
+  },
+  {
+    "BIN_ID": 406,
+    "BIN_CODE": "BIN-0406",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 879,
+    "WAREHOUSE_CODE": "WH0879",
+    "WAREHOUSE_CAPACITY": 28524
+  },
+  {
+    "BIN_ID": 407,
+    "BIN_CODE": "BIN-0407",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 642,
+    "WAREHOUSE_CODE": "WH0642",
+    "WAREHOUSE_CAPACITY": 15937
+  },
+  {
+    "BIN_ID": 408,
+    "BIN_CODE": "BIN-0408",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 986,
+    "WAREHOUSE_CODE": "WH0986",
+    "WAREHOUSE_CAPACITY": 45790
+  },
+  {
+    "BIN_ID": 409,
+    "BIN_CODE": "BIN-0409",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 919,
+    "WAREHOUSE_CODE": "WH0919",
+    "WAREHOUSE_CAPACITY": 86617
+  },
+  {
+    "BIN_ID": 410,
+    "BIN_CODE": "BIN-0410",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 830,
+    "WAREHOUSE_CODE": "WH0830",
+    "WAREHOUSE_CAPACITY": 15651
+  },
+  {
+    "BIN_ID": 411,
+    "BIN_CODE": "BIN-0411",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 57,
+    "WAREHOUSE_CODE": "WH0057",
+    "WAREHOUSE_CAPACITY": 92873
+  },
+  {
+    "BIN_ID": 412,
+    "BIN_CODE": "BIN-0412",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 953,
+    "WAREHOUSE_CODE": "WH0953",
+    "WAREHOUSE_CAPACITY": 83511
+  },
+  {
+    "BIN_ID": 413,
+    "BIN_CODE": "BIN-0413",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 497,
+    "WAREHOUSE_CODE": "WH0497",
+    "WAREHOUSE_CAPACITY": 6455
+  },
+  {
+    "BIN_ID": 414,
+    "BIN_CODE": "BIN-0414",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 960,
+    "WAREHOUSE_CODE": "WH0960",
+    "WAREHOUSE_CAPACITY": 35101
+  },
+  {
+    "BIN_ID": 415,
+    "BIN_CODE": "BIN-0415",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 822,
+    "WAREHOUSE_CODE": "WH0822",
+    "WAREHOUSE_CAPACITY": 32440
+  },
+  {
+    "BIN_ID": 416,
+    "BIN_CODE": "BIN-0416",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 390,
+    "WAREHOUSE_CODE": "WH0390",
+    "WAREHOUSE_CAPACITY": 17340
+  },
+  {
+    "BIN_ID": 417,
+    "BIN_CODE": "BIN-0417",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 534,
+    "WAREHOUSE_CODE": "WH0534",
+    "WAREHOUSE_CAPACITY": 22917
+  },
+  {
+    "BIN_ID": 418,
+    "BIN_CODE": "BIN-0418",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 825,
+    "WAREHOUSE_CODE": "WH0825",
+    "WAREHOUSE_CAPACITY": 52410
+  },
+  {
+    "BIN_ID": 419,
+    "BIN_CODE": "BIN-0419",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 611,
+    "WAREHOUSE_CODE": "WH0611",
+    "WAREHOUSE_CAPACITY": 89880
+  },
+  {
+    "BIN_ID": 420,
+    "BIN_CODE": "BIN-0420",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 694,
+    "WAREHOUSE_CODE": "WH0694",
+    "WAREHOUSE_CAPACITY": 75551
+  },
+  {
+    "BIN_ID": 421,
+    "BIN_CODE": "BIN-0421",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 505,
+    "WAREHOUSE_CODE": "WH0505",
+    "WAREHOUSE_CAPACITY": 47130
+  },
+  {
+    "BIN_ID": 422,
+    "BIN_CODE": "BIN-0422",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 695,
+    "WAREHOUSE_CODE": "WH0695",
+    "WAREHOUSE_CAPACITY": 84251
+  },
+  {
+    "BIN_ID": 423,
+    "BIN_CODE": "BIN-0423",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 958,
+    "WAREHOUSE_CODE": "WH0958",
+    "WAREHOUSE_CAPACITY": 45665
+  },
+  {
+    "BIN_ID": 424,
+    "BIN_CODE": "BIN-0424",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 84,
+    "WAREHOUSE_CODE": "WH0084",
+    "WAREHOUSE_CAPACITY": 55097
+  },
+  {
+    "BIN_ID": 425,
+    "BIN_CODE": "BIN-0425",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 973,
+    "WAREHOUSE_CODE": "WH0973",
+    "WAREHOUSE_CAPACITY": 63526
+  },
+  {
+    "BIN_ID": 426,
+    "BIN_CODE": "BIN-0426",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 443,
+    "WAREHOUSE_CODE": "WH0443",
+    "WAREHOUSE_CAPACITY": 45860
+  },
+  {
+    "BIN_ID": 427,
+    "BIN_CODE": "BIN-0427",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 45,
+    "WAREHOUSE_CODE": "WH0045",
+    "WAREHOUSE_CAPACITY": 7706
+  },
+  {
+    "BIN_ID": 428,
+    "BIN_CODE": "BIN-0428",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 608,
+    "WAREHOUSE_CODE": "WH0608",
+    "WAREHOUSE_CAPACITY": 83389
+  },
+  {
+    "BIN_ID": 429,
+    "BIN_CODE": "BIN-0429",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 633,
+    "WAREHOUSE_CODE": "WH0633",
+    "WAREHOUSE_CAPACITY": 13513
+  },
+  {
+    "BIN_ID": 430,
+    "BIN_CODE": "BIN-0430",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 637,
+    "WAREHOUSE_CODE": "WH0637",
+    "WAREHOUSE_CAPACITY": 95583
+  },
+  {
+    "BIN_ID": 431,
+    "BIN_CODE": "BIN-0431",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 250,
+    "WAREHOUSE_CODE": "WH0250",
+    "WAREHOUSE_CAPACITY": 33553
+  },
+  {
+    "BIN_ID": 432,
+    "BIN_CODE": "BIN-0432",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 911,
+    "WAREHOUSE_CODE": "WH0911",
+    "WAREHOUSE_CAPACITY": 71786
+  },
+  {
+    "BIN_ID": 433,
+    "BIN_CODE": "BIN-0433",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 126,
+    "WAREHOUSE_CODE": "WH0126",
+    "WAREHOUSE_CAPACITY": 78494
+  },
+  {
+    "BIN_ID": 434,
+    "BIN_CODE": "BIN-0434",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 622,
+    "WAREHOUSE_CODE": "WH0622",
+    "WAREHOUSE_CAPACITY": 25759
+  },
+  {
+    "BIN_ID": 435,
+    "BIN_CODE": "BIN-0435",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 257,
+    "WAREHOUSE_CODE": "WH0257",
+    "WAREHOUSE_CAPACITY": 4082
+  },
+  {
+    "BIN_ID": 436,
+    "BIN_CODE": "BIN-0436",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 235,
+    "WAREHOUSE_CODE": "WH0235",
+    "WAREHOUSE_CAPACITY": 17972
+  },
+  {
+    "BIN_ID": 437,
+    "BIN_CODE": "BIN-0437",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 203,
+    "WAREHOUSE_CODE": "WH0203",
+    "WAREHOUSE_CAPACITY": 38838
+  },
+  {
+    "BIN_ID": 438,
+    "BIN_CODE": "BIN-0438",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 618,
+    "WAREHOUSE_CODE": "WH0618",
+    "WAREHOUSE_CAPACITY": 33520
+  },
+  {
+    "BIN_ID": 439,
+    "BIN_CODE": "BIN-0439",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 196,
+    "WAREHOUSE_CODE": "WH0196",
+    "WAREHOUSE_CAPACITY": 93123
+  },
+  {
+    "BIN_ID": 440,
+    "BIN_CODE": "BIN-0440",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 406,
+    "WAREHOUSE_CODE": "WH0406",
+    "WAREHOUSE_CAPACITY": 7993
+  },
+  {
+    "BIN_ID": 441,
+    "BIN_CODE": "BIN-0441",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 599,
+    "WAREHOUSE_CODE": "WH0599",
+    "WAREHOUSE_CAPACITY": 11934
+  },
+  {
+    "BIN_ID": 442,
+    "BIN_CODE": "BIN-0442",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 684,
+    "WAREHOUSE_CODE": "WH0684",
+    "WAREHOUSE_CAPACITY": 37980
+  },
+  {
+    "BIN_ID": 443,
+    "BIN_CODE": "BIN-0443",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 567,
+    "WAREHOUSE_CODE": "WH0567",
+    "WAREHOUSE_CAPACITY": 15285
+  },
+  {
+    "BIN_ID": 444,
+    "BIN_CODE": "BIN-0444",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 698,
+    "WAREHOUSE_CODE": "WH0698",
+    "WAREHOUSE_CAPACITY": 95655
+  },
+  {
+    "BIN_ID": 445,
+    "BIN_CODE": "BIN-0445",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 394,
+    "WAREHOUSE_CODE": "WH0394",
+    "WAREHOUSE_CAPACITY": 15770
+  },
+  {
+    "BIN_ID": 446,
+    "BIN_CODE": "BIN-0446",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 523,
+    "WAREHOUSE_CODE": "WH0523",
+    "WAREHOUSE_CAPACITY": 17248
+  },
+  {
+    "BIN_ID": 447,
+    "BIN_CODE": "BIN-0447",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 703,
+    "WAREHOUSE_CODE": "WH0703",
+    "WAREHOUSE_CAPACITY": 81263
+  },
+  {
+    "BIN_ID": 448,
+    "BIN_CODE": "BIN-0448",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 668,
+    "WAREHOUSE_CODE": "WH0668",
+    "WAREHOUSE_CAPACITY": 68940
+  },
+  {
+    "BIN_ID": 449,
+    "BIN_CODE": "BIN-0449",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 19,
+    "WAREHOUSE_CODE": "WH0019",
+    "WAREHOUSE_CAPACITY": 8991
+  },
+  {
+    "BIN_ID": 450,
+    "BIN_CODE": "BIN-0450",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 861,
+    "WAREHOUSE_CODE": "WH0861",
+    "WAREHOUSE_CAPACITY": 8135
+  },
+  {
+    "BIN_ID": 451,
+    "BIN_CODE": "BIN-0451",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 871,
+    "WAREHOUSE_CODE": "WH0871",
+    "WAREHOUSE_CAPACITY": 71310
+  },
+  {
+    "BIN_ID": 452,
+    "BIN_CODE": "BIN-0452",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 206,
+    "WAREHOUSE_CODE": "WH0206",
+    "WAREHOUSE_CAPACITY": 49471
+  },
+  {
+    "BIN_ID": 453,
+    "BIN_CODE": "BIN-0453",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 162,
+    "WAREHOUSE_CODE": "WH0162",
+    "WAREHOUSE_CAPACITY": 94623
+  },
+  {
+    "BIN_ID": 454,
+    "BIN_CODE": "BIN-0454",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 970,
+    "WAREHOUSE_CODE": "WH0970",
+    "WAREHOUSE_CAPACITY": 95766
+  },
+  {
+    "BIN_ID": 455,
+    "BIN_CODE": "BIN-0455",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 932,
+    "WAREHOUSE_CODE": "WH0932",
+    "WAREHOUSE_CAPACITY": 91645
+  },
+  {
+    "BIN_ID": 456,
+    "BIN_CODE": "BIN-0456",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 832,
+    "WAREHOUSE_CODE": "WH0832",
+    "WAREHOUSE_CAPACITY": 22733
+  },
+  {
+    "BIN_ID": 457,
+    "BIN_CODE": "BIN-0457",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 324,
+    "WAREHOUSE_CODE": "WH0324",
+    "WAREHOUSE_CAPACITY": 26889
+  },
+  {
+    "BIN_ID": 458,
+    "BIN_CODE": "BIN-0458",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 768,
+    "WAREHOUSE_CODE": "WH0768",
+    "WAREHOUSE_CAPACITY": 77877
+  },
+  {
+    "BIN_ID": 459,
+    "BIN_CODE": "BIN-0459",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 263,
+    "WAREHOUSE_CODE": "WH0263",
+    "WAREHOUSE_CAPACITY": 63180
+  },
+  {
+    "BIN_ID": 460,
+    "BIN_CODE": "BIN-0460",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 714,
+    "WAREHOUSE_CODE": "WH0714",
+    "WAREHOUSE_CAPACITY": 66146
+  },
+  {
+    "BIN_ID": 461,
+    "BIN_CODE": "BIN-0461",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 103,
+    "WAREHOUSE_CODE": "WH0103",
+    "WAREHOUSE_CAPACITY": 5306
+  },
+  {
+    "BIN_ID": 462,
+    "BIN_CODE": "BIN-0462",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 995,
+    "WAREHOUSE_CODE": "WH0995",
+    "WAREHOUSE_CAPACITY": 28767
+  },
+  {
+    "BIN_ID": 463,
+    "BIN_CODE": "BIN-0463",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 784,
+    "WAREHOUSE_CODE": "WH0784",
+    "WAREHOUSE_CAPACITY": 62597
+  },
+  {
+    "BIN_ID": 464,
+    "BIN_CODE": "BIN-0464",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 797,
+    "WAREHOUSE_CODE": "WH0797",
+    "WAREHOUSE_CAPACITY": 65354
+  },
+  {
+    "BIN_ID": 465,
+    "BIN_CODE": "BIN-0465",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 743,
+    "WAREHOUSE_CODE": "WH0743",
+    "WAREHOUSE_CAPACITY": 89916
+  },
+  {
+    "BIN_ID": 466,
+    "BIN_CODE": "BIN-0466",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 85,
+    "WAREHOUSE_CODE": "WH0085",
+    "WAREHOUSE_CAPACITY": 21833
+  },
+  {
+    "BIN_ID": 467,
+    "BIN_CODE": "BIN-0467",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 434,
+    "WAREHOUSE_CODE": "WH0434",
+    "WAREHOUSE_CAPACITY": 31773
+  },
+  {
+    "BIN_ID": 468,
+    "BIN_CODE": "BIN-0468",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 869,
+    "WAREHOUSE_CODE": "WH0869",
+    "WAREHOUSE_CAPACITY": 35286
+  },
+  {
+    "BIN_ID": 469,
+    "BIN_CODE": "BIN-0469",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 38,
+    "WAREHOUSE_CODE": "WH0038",
+    "WAREHOUSE_CAPACITY": 51779
+  },
+  {
+    "BIN_ID": 470,
+    "BIN_CODE": "BIN-0470",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 316,
+    "WAREHOUSE_CODE": "WH0316",
+    "WAREHOUSE_CAPACITY": 66673
+  },
+  {
+    "BIN_ID": 471,
+    "BIN_CODE": "BIN-0471",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 422,
+    "WAREHOUSE_CODE": "WH0422",
+    "WAREHOUSE_CAPACITY": 72778
+  },
+  {
+    "BIN_ID": 472,
+    "BIN_CODE": "BIN-0472",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 781,
+    "WAREHOUSE_CODE": "WH0781",
+    "WAREHOUSE_CAPACITY": 90933
+  },
+  {
+    "BIN_ID": 473,
+    "BIN_CODE": "BIN-0473",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 150,
+    "WAREHOUSE_CODE": "WH0150",
+    "WAREHOUSE_CAPACITY": 41090
+  },
+  {
+    "BIN_ID": 474,
+    "BIN_CODE": "BIN-0474",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 253,
+    "WAREHOUSE_CODE": "WH0253",
+    "WAREHOUSE_CAPACITY": 74494
+  },
+  {
+    "BIN_ID": 475,
+    "BIN_CODE": "BIN-0475",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 141,
+    "WAREHOUSE_CODE": "WH0141",
+    "WAREHOUSE_CAPACITY": 27509
+  },
+  {
+    "BIN_ID": 476,
+    "BIN_CODE": "BIN-0476",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 278,
+    "WAREHOUSE_CODE": "WH0278",
+    "WAREHOUSE_CAPACITY": 32732
+  },
+  {
+    "BIN_ID": 477,
+    "BIN_CODE": "BIN-0477",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 161,
+    "WAREHOUSE_CODE": "WH0161",
+    "WAREHOUSE_CAPACITY": 76121
+  },
+  {
+    "BIN_ID": 478,
+    "BIN_CODE": "BIN-0478",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 31,
+    "WAREHOUSE_CODE": "WH0031",
+    "WAREHOUSE_CAPACITY": 16932
+  },
+  {
+    "BIN_ID": 479,
+    "BIN_CODE": "BIN-0479",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 714,
+    "WAREHOUSE_CODE": "WH0714",
+    "WAREHOUSE_CAPACITY": 66146
+  },
+  {
+    "BIN_ID": 480,
+    "BIN_CODE": "BIN-0480",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 541,
+    "WAREHOUSE_CODE": "WH0541",
+    "WAREHOUSE_CAPACITY": 68595
+  },
+  {
+    "BIN_ID": 481,
+    "BIN_CODE": "BIN-0481",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 161,
+    "WAREHOUSE_CODE": "WH0161",
+    "WAREHOUSE_CAPACITY": 76121
+  },
+  {
+    "BIN_ID": 482,
+    "BIN_CODE": "BIN-0482",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 563,
+    "WAREHOUSE_CODE": "WH0563",
+    "WAREHOUSE_CAPACITY": 96528
+  },
+  {
+    "BIN_ID": 483,
+    "BIN_CODE": "BIN-0483",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 584,
+    "WAREHOUSE_CODE": "WH0584",
+    "WAREHOUSE_CAPACITY": 4569
+  },
+  {
+    "BIN_ID": 484,
+    "BIN_CODE": "BIN-0484",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 271,
+    "WAREHOUSE_CODE": "WH0271",
+    "WAREHOUSE_CAPACITY": 49679
+  },
+  {
+    "BIN_ID": 485,
+    "BIN_CODE": "BIN-0485",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 517,
+    "WAREHOUSE_CODE": "WH0517",
+    "WAREHOUSE_CAPACITY": 71308
+  },
+  {
+    "BIN_ID": 486,
+    "BIN_CODE": "BIN-0486",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 313,
+    "WAREHOUSE_CODE": "WH0313",
+    "WAREHOUSE_CAPACITY": 87997
+  },
+  {
+    "BIN_ID": 487,
+    "BIN_CODE": "BIN-0487",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 37,
+    "WAREHOUSE_CODE": "WH0037",
+    "WAREHOUSE_CAPACITY": 22024
+  },
+  {
+    "BIN_ID": 488,
+    "BIN_CODE": "BIN-0488",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 515,
+    "WAREHOUSE_CODE": "WH0515",
+    "WAREHOUSE_CAPACITY": 91166
+  },
+  {
+    "BIN_ID": 489,
+    "BIN_CODE": "BIN-0489",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 402,
+    "WAREHOUSE_CODE": "WH0402",
+    "WAREHOUSE_CAPACITY": 29511
+  },
+  {
+    "BIN_ID": 490,
+    "BIN_CODE": "BIN-0490",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 58,
+    "WAREHOUSE_CODE": "WH0058",
+    "WAREHOUSE_CAPACITY": 80917
+  },
+  {
+    "BIN_ID": 491,
+    "BIN_CODE": "BIN-0491",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 595,
+    "WAREHOUSE_CODE": "WH0595",
+    "WAREHOUSE_CAPACITY": 67065
+  },
+  {
+    "BIN_ID": 492,
+    "BIN_CODE": "BIN-0492",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 517,
+    "WAREHOUSE_CODE": "WH0517",
+    "WAREHOUSE_CAPACITY": 71308
+  },
+  {
+    "BIN_ID": 493,
+    "BIN_CODE": "BIN-0493",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 481,
+    "WAREHOUSE_CODE": "WH0481",
+    "WAREHOUSE_CAPACITY": 10909
+  },
+  {
+    "BIN_ID": 494,
+    "BIN_CODE": "BIN-0494",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 814,
+    "WAREHOUSE_CODE": "WH0814",
+    "WAREHOUSE_CAPACITY": 33589
+  },
+  {
+    "BIN_ID": 495,
+    "BIN_CODE": "BIN-0495",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 961,
+    "WAREHOUSE_CODE": "WH0961",
+    "WAREHOUSE_CAPACITY": 23460
+  },
+  {
+    "BIN_ID": 496,
+    "BIN_CODE": "BIN-0496",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 141,
+    "WAREHOUSE_CODE": "WH0141",
+    "WAREHOUSE_CAPACITY": 27509
+  },
+  {
+    "BIN_ID": 497,
+    "BIN_CODE": "BIN-0497",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 469,
+    "WAREHOUSE_CODE": "WH0469",
+    "WAREHOUSE_CAPACITY": 15157
+  },
+  {
+    "BIN_ID": 498,
+    "BIN_CODE": "BIN-0498",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 210,
+    "WAREHOUSE_CODE": "WH0210",
+    "WAREHOUSE_CAPACITY": 91224
+  },
+  {
+    "BIN_ID": 499,
+    "BIN_CODE": "BIN-0499",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 210,
+    "WAREHOUSE_CODE": "WH0210",
+    "WAREHOUSE_CAPACITY": 91224
+  },
+  {
+    "BIN_ID": 500,
+    "BIN_CODE": "BIN-0500",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 419,
+    "WAREHOUSE_CODE": "WH0419",
+    "WAREHOUSE_CAPACITY": 54918
+  },
+  {
+    "BIN_ID": 501,
+    "BIN_CODE": "BIN-0501",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 187,
+    "WAREHOUSE_CODE": "WH0187",
+    "WAREHOUSE_CAPACITY": 36958
+  },
+  {
+    "BIN_ID": 502,
+    "BIN_CODE": "BIN-0502",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 343,
+    "WAREHOUSE_CODE": "WH0343",
+    "WAREHOUSE_CAPACITY": 32032
+  },
+  {
+    "BIN_ID": 503,
+    "BIN_CODE": "BIN-0503",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 785,
+    "WAREHOUSE_CODE": "WH0785",
+    "WAREHOUSE_CAPACITY": 99315
+  },
+  {
+    "BIN_ID": 504,
+    "BIN_CODE": "BIN-0504",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 540,
+    "WAREHOUSE_CODE": "WH0540",
+    "WAREHOUSE_CAPACITY": 36709
+  },
+  {
+    "BIN_ID": 505,
+    "BIN_CODE": "BIN-0505",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 860,
+    "WAREHOUSE_CODE": "WH0860",
+    "WAREHOUSE_CAPACITY": 82203
+  },
+  {
+    "BIN_ID": 506,
+    "BIN_CODE": "BIN-0506",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 147,
+    "WAREHOUSE_CODE": "WH0147",
+    "WAREHOUSE_CAPACITY": 45698
+  },
+  {
+    "BIN_ID": 507,
+    "BIN_CODE": "BIN-0507",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 541,
+    "WAREHOUSE_CODE": "WH0541",
+    "WAREHOUSE_CAPACITY": 68595
+  },
+  {
+    "BIN_ID": 508,
+    "BIN_CODE": "BIN-0508",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 863,
+    "WAREHOUSE_CODE": "WH0863",
+    "WAREHOUSE_CAPACITY": 21790
+  },
+  {
+    "BIN_ID": 509,
+    "BIN_CODE": "BIN-0509",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 780,
+    "WAREHOUSE_CODE": "WH0780",
+    "WAREHOUSE_CAPACITY": 30178
+  },
+  {
+    "BIN_ID": 510,
+    "BIN_CODE": "BIN-0510",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 185,
+    "WAREHOUSE_CODE": "WH0185",
+    "WAREHOUSE_CAPACITY": 80514
+  },
+  {
+    "BIN_ID": 511,
+    "BIN_CODE": "BIN-0511",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 604,
+    "WAREHOUSE_CODE": "WH0604",
+    "WAREHOUSE_CAPACITY": 84715
+  },
+  {
+    "BIN_ID": 512,
+    "BIN_CODE": "BIN-0512",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 455,
+    "WAREHOUSE_CODE": "WH0455",
+    "WAREHOUSE_CAPACITY": 45536
+  },
+  {
+    "BIN_ID": 513,
+    "BIN_CODE": "BIN-0513",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 548,
+    "WAREHOUSE_CODE": "WH0548",
+    "WAREHOUSE_CAPACITY": 60041
+  },
+  {
+    "BIN_ID": 514,
+    "BIN_CODE": "BIN-0514",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 345,
+    "WAREHOUSE_CODE": "WH0345",
+    "WAREHOUSE_CAPACITY": 33110
+  },
+  {
+    "BIN_ID": 515,
+    "BIN_CODE": "BIN-0515",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 194,
+    "WAREHOUSE_CODE": "WH0194",
+    "WAREHOUSE_CAPACITY": 89473
+  },
+  {
+    "BIN_ID": 516,
+    "BIN_CODE": "BIN-0516",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 154,
+    "WAREHOUSE_CODE": "WH0154",
+    "WAREHOUSE_CAPACITY": 25453
+  },
+  {
+    "BIN_ID": 517,
+    "BIN_CODE": "BIN-0517",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 405,
+    "WAREHOUSE_CODE": "WH0405",
+    "WAREHOUSE_CAPACITY": 17288
+  },
+  {
+    "BIN_ID": 518,
+    "BIN_CODE": "BIN-0518",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 86,
+    "WAREHOUSE_CODE": "WH0086",
+    "WAREHOUSE_CAPACITY": 19621
+  },
+  {
+    "BIN_ID": 519,
+    "BIN_CODE": "BIN-0519",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 362,
+    "WAREHOUSE_CODE": "WH0362",
+    "WAREHOUSE_CAPACITY": 29802
+  },
+  {
+    "BIN_ID": 520,
+    "BIN_CODE": "BIN-0520",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 761,
+    "WAREHOUSE_CODE": "WH0761",
+    "WAREHOUSE_CAPACITY": 40209
+  },
+  {
+    "BIN_ID": 521,
+    "BIN_CODE": "BIN-0521",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 361,
+    "WAREHOUSE_CODE": "WH0361",
+    "WAREHOUSE_CAPACITY": 27185
+  },
+  {
+    "BIN_ID": 522,
+    "BIN_CODE": "BIN-0522",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 343,
+    "WAREHOUSE_CODE": "WH0343",
+    "WAREHOUSE_CAPACITY": 32032
+  },
+  {
+    "BIN_ID": 523,
+    "BIN_CODE": "BIN-0523",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 440,
+    "WAREHOUSE_CODE": "WH0440",
+    "WAREHOUSE_CAPACITY": 58841
+  },
+  {
+    "BIN_ID": 524,
+    "BIN_CODE": "BIN-0524",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 934,
+    "WAREHOUSE_CODE": "WH0934",
+    "WAREHOUSE_CAPACITY": 54186
+  },
+  {
+    "BIN_ID": 525,
+    "BIN_CODE": "BIN-0525",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 459,
+    "WAREHOUSE_CODE": "WH0459",
+    "WAREHOUSE_CAPACITY": 16733
+  },
+  {
+    "BIN_ID": 526,
+    "BIN_CODE": "BIN-0526",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 497,
+    "WAREHOUSE_CODE": "WH0497",
+    "WAREHOUSE_CAPACITY": 6455
+  },
+  {
+    "BIN_ID": 527,
+    "BIN_CODE": "BIN-0527",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 297,
+    "WAREHOUSE_CODE": "WH0297",
+    "WAREHOUSE_CAPACITY": 19536
+  },
+  {
+    "BIN_ID": 528,
+    "BIN_CODE": "BIN-0528",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 822,
+    "WAREHOUSE_CODE": "WH0822",
+    "WAREHOUSE_CAPACITY": 32440
+  },
+  {
+    "BIN_ID": 529,
+    "BIN_CODE": "BIN-0529",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 66,
+    "WAREHOUSE_CODE": "WH0066",
+    "WAREHOUSE_CAPACITY": 3906
+  },
+  {
+    "BIN_ID": 530,
+    "BIN_CODE": "BIN-0530",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 905,
+    "WAREHOUSE_CODE": "WH0905",
+    "WAREHOUSE_CAPACITY": 85992
+  },
+  {
+    "BIN_ID": 531,
+    "BIN_CODE": "BIN-0531",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 683,
+    "WAREHOUSE_CODE": "WH0683",
+    "WAREHOUSE_CAPACITY": 34436
+  },
+  {
+    "BIN_ID": 532,
+    "BIN_CODE": "BIN-0532",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 240,
+    "WAREHOUSE_CODE": "WH0240",
+    "WAREHOUSE_CAPACITY": 46357
+  },
+  {
+    "BIN_ID": 533,
+    "BIN_CODE": "BIN-0533",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 605,
+    "WAREHOUSE_CODE": "WH0605",
+    "WAREHOUSE_CAPACITY": 73030
+  },
+  {
+    "BIN_ID": 534,
+    "BIN_CODE": "BIN-0534",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 783,
+    "WAREHOUSE_CODE": "WH0783",
+    "WAREHOUSE_CAPACITY": 3562
+  },
+  {
+    "BIN_ID": 535,
+    "BIN_CODE": "BIN-0535",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 567,
+    "WAREHOUSE_CODE": "WH0567",
+    "WAREHOUSE_CAPACITY": 15285
+  },
+  {
+    "BIN_ID": 536,
+    "BIN_CODE": "BIN-0536",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 305,
+    "WAREHOUSE_CODE": "WH0305",
+    "WAREHOUSE_CAPACITY": 3603
+  },
+  {
+    "BIN_ID": 537,
+    "BIN_CODE": "BIN-0537",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 964,
+    "WAREHOUSE_CODE": "WH0964",
+    "WAREHOUSE_CAPACITY": 94452
+  },
+  {
+    "BIN_ID": 538,
+    "BIN_CODE": "BIN-0538",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 278,
+    "WAREHOUSE_CODE": "WH0278",
+    "WAREHOUSE_CAPACITY": 32732
+  },
+  {
+    "BIN_ID": 539,
+    "BIN_CODE": "BIN-0539",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 89,
+    "WAREHOUSE_CODE": "WH0089",
+    "WAREHOUSE_CAPACITY": 52967
+  },
+  {
+    "BIN_ID": 540,
+    "BIN_CODE": "BIN-0540",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 620,
+    "WAREHOUSE_CODE": "WH0620",
+    "WAREHOUSE_CAPACITY": 96630
+  },
+  {
+    "BIN_ID": 541,
+    "BIN_CODE": "BIN-0541",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 325,
+    "WAREHOUSE_CODE": "WH0325",
+    "WAREHOUSE_CAPACITY": 9798
+  },
+  {
+    "BIN_ID": 542,
+    "BIN_CODE": "BIN-0542",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 698,
+    "WAREHOUSE_CODE": "WH0698",
+    "WAREHOUSE_CAPACITY": 95655
+  },
+  {
+    "BIN_ID": 543,
+    "BIN_CODE": "BIN-0543",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 910,
+    "WAREHOUSE_CODE": "WH0910",
+    "WAREHOUSE_CAPACITY": 51959
+  },
+  {
+    "BIN_ID": 544,
+    "BIN_CODE": "BIN-0544",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 447,
+    "WAREHOUSE_CODE": "WH0447",
+    "WAREHOUSE_CAPACITY": 87168
+  },
+  {
+    "BIN_ID": 545,
+    "BIN_CODE": "BIN-0545",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 282,
+    "WAREHOUSE_CODE": "WH0282",
+    "WAREHOUSE_CAPACITY": 52398
+  },
+  {
+    "BIN_ID": 546,
+    "BIN_CODE": "BIN-0546",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 218,
+    "WAREHOUSE_CODE": "WH0218",
+    "WAREHOUSE_CAPACITY": 59466
+  },
+  {
+    "BIN_ID": 547,
+    "BIN_CODE": "BIN-0547",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 108,
+    "WAREHOUSE_CODE": "WH0108",
+    "WAREHOUSE_CAPACITY": 43124
+  },
+  {
+    "BIN_ID": 548,
+    "BIN_CODE": "BIN-0548",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 772,
+    "WAREHOUSE_CODE": "WH0772",
+    "WAREHOUSE_CAPACITY": 4298
+  },
+  {
+    "BIN_ID": 549,
+    "BIN_CODE": "BIN-0549",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 449,
+    "WAREHOUSE_CODE": "WH0449",
+    "WAREHOUSE_CAPACITY": 20013
+  },
+  {
+    "BIN_ID": 550,
+    "BIN_CODE": "BIN-0550",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 461,
+    "WAREHOUSE_CODE": "WH0461",
+    "WAREHOUSE_CAPACITY": 16659
+  },
+  {
+    "BIN_ID": 551,
+    "BIN_CODE": "BIN-0551",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 633,
+    "WAREHOUSE_CODE": "WH0633",
+    "WAREHOUSE_CAPACITY": 13513
+  },
+  {
+    "BIN_ID": 552,
+    "BIN_CODE": "BIN-0552",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 598,
+    "WAREHOUSE_CODE": "WH0598",
+    "WAREHOUSE_CAPACITY": 58331
+  },
+  {
+    "BIN_ID": 553,
+    "BIN_CODE": "BIN-0553",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 528,
+    "WAREHOUSE_CODE": "WH0528",
+    "WAREHOUSE_CAPACITY": 18276
+  },
+  {
+    "BIN_ID": 554,
+    "BIN_CODE": "BIN-0554",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 325,
+    "WAREHOUSE_CODE": "WH0325",
+    "WAREHOUSE_CAPACITY": 9798
+  },
+  {
+    "BIN_ID": 555,
+    "BIN_CODE": "BIN-0555",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 139,
+    "WAREHOUSE_CODE": "WH0139",
+    "WAREHOUSE_CAPACITY": 12257
+  },
+  {
+    "BIN_ID": 556,
+    "BIN_CODE": "BIN-0556",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 842,
+    "WAREHOUSE_CODE": "WH0842",
+    "WAREHOUSE_CAPACITY": 24642
+  },
+  {
+    "BIN_ID": 557,
+    "BIN_CODE": "BIN-0557",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 145,
+    "WAREHOUSE_CODE": "WH0145",
+    "WAREHOUSE_CAPACITY": 68544
+  },
+  {
+    "BIN_ID": 558,
+    "BIN_CODE": "BIN-0558",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 174,
+    "WAREHOUSE_CODE": "WH0174",
+    "WAREHOUSE_CAPACITY": 74013
+  },
+  {
+    "BIN_ID": 559,
+    "BIN_CODE": "BIN-0559",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 9,
+    "WAREHOUSE_CODE": "WH0009",
+    "WAREHOUSE_CAPACITY": 95864
+  },
+  {
+    "BIN_ID": 560,
+    "BIN_CODE": "BIN-0560",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 492,
+    "WAREHOUSE_CODE": "WH0492",
+    "WAREHOUSE_CAPACITY": 71935
+  },
+  {
+    "BIN_ID": 561,
+    "BIN_CODE": "BIN-0561",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 634,
+    "WAREHOUSE_CODE": "WH0634",
+    "WAREHOUSE_CAPACITY": 15131
+  },
+  {
+    "BIN_ID": 562,
+    "BIN_CODE": "BIN-0562",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 134,
+    "WAREHOUSE_CODE": "WH0134",
+    "WAREHOUSE_CAPACITY": 56225
+  },
+  {
+    "BIN_ID": 563,
+    "BIN_CODE": "BIN-0563",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 25,
+    "WAREHOUSE_CODE": "WH0025",
+    "WAREHOUSE_CAPACITY": 32265
+  },
+  {
+    "BIN_ID": 564,
+    "BIN_CODE": "BIN-0564",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 214,
+    "WAREHOUSE_CODE": "WH0214",
+    "WAREHOUSE_CAPACITY": 88940
+  },
+  {
+    "BIN_ID": 565,
+    "BIN_CODE": "BIN-0565",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 687,
+    "WAREHOUSE_CODE": "WH0687",
+    "WAREHOUSE_CAPACITY": 95980
+  },
+  {
+    "BIN_ID": 566,
+    "BIN_CODE": "BIN-0566",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 214,
+    "WAREHOUSE_CODE": "WH0214",
+    "WAREHOUSE_CAPACITY": 88940
+  },
+  {
+    "BIN_ID": 567,
+    "BIN_CODE": "BIN-0567",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 775,
+    "WAREHOUSE_CODE": "WH0775",
+    "WAREHOUSE_CAPACITY": 60579
+  },
+  {
+    "BIN_ID": 568,
+    "BIN_CODE": "BIN-0568",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 232,
+    "WAREHOUSE_CODE": "WH0232",
+    "WAREHOUSE_CAPACITY": 62400
+  },
+  {
+    "BIN_ID": 569,
+    "BIN_CODE": "BIN-0569",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 821,
+    "WAREHOUSE_CODE": "WH0821",
+    "WAREHOUSE_CAPACITY": 79660
+  },
+  {
+    "BIN_ID": 570,
+    "BIN_CODE": "BIN-0570",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 731,
+    "WAREHOUSE_CODE": "WH0731",
+    "WAREHOUSE_CAPACITY": 14811
+  },
+  {
+    "BIN_ID": 571,
+    "BIN_CODE": "BIN-0571",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 571,
+    "WAREHOUSE_CODE": "WH0571",
+    "WAREHOUSE_CAPACITY": 48139
+  },
+  {
+    "BIN_ID": 572,
+    "BIN_CODE": "BIN-0572",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 278,
+    "WAREHOUSE_CODE": "WH0278",
+    "WAREHOUSE_CAPACITY": 32732
+  },
+  {
+    "BIN_ID": 573,
+    "BIN_CODE": "BIN-0573",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 748,
+    "WAREHOUSE_CODE": "WH0748",
+    "WAREHOUSE_CAPACITY": 17795
+  },
+  {
+    "BIN_ID": 574,
+    "BIN_CODE": "BIN-0574",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 286,
+    "WAREHOUSE_CODE": "WH0286",
+    "WAREHOUSE_CAPACITY": 87186
+  },
+  {
+    "BIN_ID": 575,
+    "BIN_CODE": "BIN-0575",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 140,
+    "WAREHOUSE_CODE": "WH0140",
+    "WAREHOUSE_CAPACITY": 87773
+  },
+  {
+    "BIN_ID": 576,
+    "BIN_CODE": "BIN-0576",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 865,
+    "WAREHOUSE_CODE": "WH0865",
+    "WAREHOUSE_CAPACITY": 14664
+  },
+  {
+    "BIN_ID": 577,
+    "BIN_CODE": "BIN-0577",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 389,
+    "WAREHOUSE_CODE": "WH0389",
+    "WAREHOUSE_CAPACITY": 14865
+  },
+  {
+    "BIN_ID": 578,
+    "BIN_CODE": "BIN-0578",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 829,
+    "WAREHOUSE_CODE": "WH0829",
+    "WAREHOUSE_CAPACITY": 78153
+  },
+  {
+    "BIN_ID": 579,
+    "BIN_CODE": "BIN-0579",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 914,
+    "WAREHOUSE_CODE": "WH0914",
+    "WAREHOUSE_CAPACITY": 10059
+  },
+  {
+    "BIN_ID": 580,
+    "BIN_CODE": "BIN-0580",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 515,
+    "WAREHOUSE_CODE": "WH0515",
+    "WAREHOUSE_CAPACITY": 91166
+  },
+  {
+    "BIN_ID": 581,
+    "BIN_CODE": "BIN-0581",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 954,
+    "WAREHOUSE_CODE": "WH0954",
+    "WAREHOUSE_CAPACITY": 5030
+  },
+  {
+    "BIN_ID": 582,
+    "BIN_CODE": "BIN-0582",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 586,
+    "WAREHOUSE_CODE": "WH0586",
+    "WAREHOUSE_CAPACITY": 26103
+  },
+  {
+    "BIN_ID": 583,
+    "BIN_CODE": "BIN-0583",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 629,
+    "WAREHOUSE_CODE": "WH0629",
+    "WAREHOUSE_CAPACITY": 11920
+  },
+  {
+    "BIN_ID": 584,
+    "BIN_CODE": "BIN-0584",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 363,
+    "WAREHOUSE_CODE": "WH0363",
+    "WAREHOUSE_CAPACITY": 33613
+  },
+  {
+    "BIN_ID": 585,
+    "BIN_CODE": "BIN-0585",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 166,
+    "WAREHOUSE_CODE": "WH0166",
+    "WAREHOUSE_CAPACITY": 63245
+  },
+  {
+    "BIN_ID": 586,
+    "BIN_CODE": "BIN-0586",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 141,
+    "WAREHOUSE_CODE": "WH0141",
+    "WAREHOUSE_CAPACITY": 27509
+  },
+  {
+    "BIN_ID": 587,
+    "BIN_CODE": "BIN-0587",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 17,
+    "WAREHOUSE_CODE": "WH0017",
+    "WAREHOUSE_CAPACITY": 72960
+  },
+  {
+    "BIN_ID": 588,
+    "BIN_CODE": "BIN-0588",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 394,
+    "WAREHOUSE_CODE": "WH0394",
+    "WAREHOUSE_CAPACITY": 15770
+  },
+  {
+    "BIN_ID": 589,
+    "BIN_CODE": "BIN-0589",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 883,
+    "WAREHOUSE_CODE": "WH0883",
+    "WAREHOUSE_CAPACITY": 22679
+  },
+  {
+    "BIN_ID": 590,
+    "BIN_CODE": "BIN-0590",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 892,
+    "WAREHOUSE_CODE": "WH0892",
+    "WAREHOUSE_CAPACITY": 63808
+  },
+  {
+    "BIN_ID": 591,
+    "BIN_CODE": "BIN-0591",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 758,
+    "WAREHOUSE_CODE": "WH0758",
+    "WAREHOUSE_CAPACITY": 90683
+  },
+  {
+    "BIN_ID": 592,
+    "BIN_CODE": "BIN-0592",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 521,
+    "WAREHOUSE_CODE": "WH0521",
+    "WAREHOUSE_CAPACITY": 2597
+  },
+  {
+    "BIN_ID": 593,
+    "BIN_CODE": "BIN-0593",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 574,
+    "WAREHOUSE_CODE": "WH0574",
+    "WAREHOUSE_CAPACITY": 8760
+  },
+  {
+    "BIN_ID": 594,
+    "BIN_CODE": "BIN-0594",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 973,
+    "WAREHOUSE_CODE": "WH0973",
+    "WAREHOUSE_CAPACITY": 63526
+  },
+  {
+    "BIN_ID": 595,
+    "BIN_CODE": "BIN-0595",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 796,
+    "WAREHOUSE_CODE": "WH0796",
+    "WAREHOUSE_CAPACITY": 96256
+  },
+  {
+    "BIN_ID": 596,
+    "BIN_CODE": "BIN-0596",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 192,
+    "WAREHOUSE_CODE": "WH0192",
+    "WAREHOUSE_CAPACITY": 73012
+  },
+  {
+    "BIN_ID": 597,
+    "BIN_CODE": "BIN-0597",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 569,
+    "WAREHOUSE_CODE": "WH0569",
+    "WAREHOUSE_CAPACITY": 11051
+  },
+  {
+    "BIN_ID": 598,
+    "BIN_CODE": "BIN-0598",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 839,
+    "WAREHOUSE_CODE": "WH0839",
+    "WAREHOUSE_CAPACITY": 90930
+  },
+  {
+    "BIN_ID": 599,
+    "BIN_CODE": "BIN-0599",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 501,
+    "WAREHOUSE_CODE": "WH0501",
+    "WAREHOUSE_CAPACITY": 40397
+  },
+  {
+    "BIN_ID": 600,
+    "BIN_CODE": "BIN-0600",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 487,
+    "WAREHOUSE_CODE": "WH0487",
+    "WAREHOUSE_CAPACITY": 67843
+  },
+  {
+    "BIN_ID": 601,
+    "BIN_CODE": "BIN-0601",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 925,
+    "WAREHOUSE_CODE": "WH0925",
+    "WAREHOUSE_CAPACITY": 58204
+  },
+  {
+    "BIN_ID": 602,
+    "BIN_CODE": "BIN-0602",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 429,
+    "WAREHOUSE_CODE": "WH0429",
+    "WAREHOUSE_CAPACITY": 5046
+  },
+  {
+    "BIN_ID": 603,
+    "BIN_CODE": "BIN-0603",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 901,
+    "WAREHOUSE_CODE": "WH0901",
+    "WAREHOUSE_CAPACITY": 21376
+  },
+  {
+    "BIN_ID": 604,
+    "BIN_CODE": "BIN-0604",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 628,
+    "WAREHOUSE_CODE": "WH0628",
+    "WAREHOUSE_CAPACITY": 94835
+  },
+  {
+    "BIN_ID": 605,
+    "BIN_CODE": "BIN-0605",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 66,
+    "WAREHOUSE_CODE": "WH0066",
+    "WAREHOUSE_CAPACITY": 3906
+  },
+  {
+    "BIN_ID": 606,
+    "BIN_CODE": "BIN-0606",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 354,
+    "WAREHOUSE_CODE": "WH0354",
+    "WAREHOUSE_CAPACITY": 13733
+  },
+  {
+    "BIN_ID": 607,
+    "BIN_CODE": "BIN-0607",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 526,
+    "WAREHOUSE_CODE": "WH0526",
+    "WAREHOUSE_CAPACITY": 81213
+  },
+  {
+    "BIN_ID": 608,
+    "BIN_CODE": "BIN-0608",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 286,
+    "WAREHOUSE_CODE": "WH0286",
+    "WAREHOUSE_CAPACITY": 87186
+  },
+  {
+    "BIN_ID": 609,
+    "BIN_CODE": "BIN-0609",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 27,
+    "WAREHOUSE_CODE": "WH0027",
+    "WAREHOUSE_CAPACITY": 19269
+  },
+  {
+    "BIN_ID": 610,
+    "BIN_CODE": "BIN-0610",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 771,
+    "WAREHOUSE_CODE": "WH0771",
+    "WAREHOUSE_CAPACITY": 51066
+  },
+  {
+    "BIN_ID": 611,
+    "BIN_CODE": "BIN-0611",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 391,
+    "WAREHOUSE_CODE": "WH0391",
+    "WAREHOUSE_CAPACITY": 38335
+  },
+  {
+    "BIN_ID": 612,
+    "BIN_CODE": "BIN-0612",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 340,
+    "WAREHOUSE_CODE": "WH0340",
+    "WAREHOUSE_CAPACITY": 40297
+  },
+  {
+    "BIN_ID": 613,
+    "BIN_CODE": "BIN-0613",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 171,
+    "WAREHOUSE_CODE": "WH0171",
+    "WAREHOUSE_CAPACITY": 26432
+  },
+  {
+    "BIN_ID": 614,
+    "BIN_CODE": "BIN-0614",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 562,
+    "WAREHOUSE_CODE": "WH0562",
+    "WAREHOUSE_CAPACITY": 27149
+  },
+  {
+    "BIN_ID": 615,
+    "BIN_CODE": "BIN-0615",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 163,
+    "WAREHOUSE_CODE": "WH0163",
+    "WAREHOUSE_CAPACITY": 74532
+  },
+  {
+    "BIN_ID": 616,
+    "BIN_CODE": "BIN-0616",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 834,
+    "WAREHOUSE_CODE": "WH0834",
+    "WAREHOUSE_CAPACITY": 50679
+  },
+  {
+    "BIN_ID": 617,
+    "BIN_CODE": "BIN-0617",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 271,
+    "WAREHOUSE_CODE": "WH0271",
+    "WAREHOUSE_CAPACITY": 49679
+  },
+  {
+    "BIN_ID": 618,
+    "BIN_CODE": "BIN-0618",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 381,
+    "WAREHOUSE_CODE": "WH0381",
+    "WAREHOUSE_CAPACITY": 17732
+  },
+  {
+    "BIN_ID": 619,
+    "BIN_CODE": "BIN-0619",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 497,
+    "WAREHOUSE_CODE": "WH0497",
+    "WAREHOUSE_CAPACITY": 6455
+  },
+  {
+    "BIN_ID": 620,
+    "BIN_CODE": "BIN-0620",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 401,
+    "WAREHOUSE_CODE": "WH0401",
+    "WAREHOUSE_CAPACITY": 70174
+  },
+  {
+    "BIN_ID": 621,
+    "BIN_CODE": "BIN-0621",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 171,
+    "WAREHOUSE_CODE": "WH0171",
+    "WAREHOUSE_CAPACITY": 26432
+  },
+  {
+    "BIN_ID": 622,
+    "BIN_CODE": "BIN-0622",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 850,
+    "WAREHOUSE_CODE": "WH0850",
+    "WAREHOUSE_CAPACITY": 32820
+  },
+  {
+    "BIN_ID": 623,
+    "BIN_CODE": "BIN-0623",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 163,
+    "WAREHOUSE_CODE": "WH0163",
+    "WAREHOUSE_CAPACITY": 74532
+  },
+  {
+    "BIN_ID": 624,
+    "BIN_CODE": "BIN-0624",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 211,
+    "WAREHOUSE_CODE": "WH0211",
+    "WAREHOUSE_CAPACITY": 10905
+  },
+  {
+    "BIN_ID": 625,
+    "BIN_CODE": "BIN-0625",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 133,
+    "WAREHOUSE_CODE": "WH0133",
+    "WAREHOUSE_CAPACITY": 69374
+  },
+  {
+    "BIN_ID": 626,
+    "BIN_CODE": "BIN-0626",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 658,
+    "WAREHOUSE_CODE": "WH0658",
+    "WAREHOUSE_CAPACITY": 77731
+  },
+  {
+    "BIN_ID": 627,
+    "BIN_CODE": "BIN-0627",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 69,
+    "WAREHOUSE_CODE": "WH0069",
+    "WAREHOUSE_CAPACITY": 20197
+  },
+  {
+    "BIN_ID": 628,
+    "BIN_CODE": "BIN-0628",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 716,
+    "WAREHOUSE_CODE": "WH0716",
+    "WAREHOUSE_CAPACITY": 33760
+  },
+  {
+    "BIN_ID": 629,
+    "BIN_CODE": "BIN-0629",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 828,
+    "WAREHOUSE_CODE": "WH0828",
+    "WAREHOUSE_CAPACITY": 78439
+  },
+  {
+    "BIN_ID": 630,
+    "BIN_CODE": "BIN-0630",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 11,
+    "WAREHOUSE_CODE": "WH0011",
+    "WAREHOUSE_CAPACITY": 84411
+  },
+  {
+    "BIN_ID": 631,
+    "BIN_CODE": "BIN-0631",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 637,
+    "WAREHOUSE_CODE": "WH0637",
+    "WAREHOUSE_CAPACITY": 95583
+  },
+  {
+    "BIN_ID": 632,
+    "BIN_CODE": "BIN-0632",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 413,
+    "WAREHOUSE_CODE": "WH0413",
+    "WAREHOUSE_CAPACITY": 83285
+  },
+  {
+    "BIN_ID": 633,
+    "BIN_CODE": "BIN-0633",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 317,
+    "WAREHOUSE_CODE": "WH0317",
+    "WAREHOUSE_CAPACITY": 58776
+  },
+  {
+    "BIN_ID": 634,
+    "BIN_CODE": "BIN-0634",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 748,
+    "WAREHOUSE_CODE": "WH0748",
+    "WAREHOUSE_CAPACITY": 17795
+  },
+  {
+    "BIN_ID": 635,
+    "BIN_CODE": "BIN-0635",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 12,
+    "WAREHOUSE_CODE": "WH0012",
+    "WAREHOUSE_CAPACITY": 42339
+  },
+  {
+    "BIN_ID": 636,
+    "BIN_CODE": "BIN-0636",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 519,
+    "WAREHOUSE_CODE": "WH0519",
+    "WAREHOUSE_CAPACITY": 52198
+  },
+  {
+    "BIN_ID": 637,
+    "BIN_CODE": "BIN-0637",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 475,
+    "WAREHOUSE_CODE": "WH0475",
+    "WAREHOUSE_CAPACITY": 82665
+  },
+  {
+    "BIN_ID": 638,
+    "BIN_CODE": "BIN-0638",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 405,
+    "WAREHOUSE_CODE": "WH0405",
+    "WAREHOUSE_CAPACITY": 17288
+  },
+  {
+    "BIN_ID": 639,
+    "BIN_CODE": "BIN-0639",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 512,
+    "WAREHOUSE_CODE": "WH0512",
+    "WAREHOUSE_CAPACITY": 73037
+  },
+  {
+    "BIN_ID": 640,
+    "BIN_CODE": "BIN-0640",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 962,
+    "WAREHOUSE_CODE": "WH0962",
+    "WAREHOUSE_CAPACITY": 26968
+  },
+  {
+    "BIN_ID": 641,
+    "BIN_CODE": "BIN-0641",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 364,
+    "WAREHOUSE_CODE": "WH0364",
+    "WAREHOUSE_CAPACITY": 97103
+  },
+  {
+    "BIN_ID": 642,
+    "BIN_CODE": "BIN-0642",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 566,
+    "WAREHOUSE_CODE": "WH0566",
+    "WAREHOUSE_CAPACITY": 18987
+  },
+  {
+    "BIN_ID": 643,
+    "BIN_CODE": "BIN-0643",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 601,
+    "WAREHOUSE_CODE": "WH0601",
+    "WAREHOUSE_CAPACITY": 55949
+  },
+  {
+    "BIN_ID": 644,
+    "BIN_CODE": "BIN-0644",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 598,
+    "WAREHOUSE_CODE": "WH0598",
+    "WAREHOUSE_CAPACITY": 58331
+  },
+  {
+    "BIN_ID": 645,
+    "BIN_CODE": "BIN-0645",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 686,
+    "WAREHOUSE_CODE": "WH0686",
+    "WAREHOUSE_CAPACITY": 62774
+  },
+  {
+    "BIN_ID": 646,
+    "BIN_CODE": "BIN-0646",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 933,
+    "WAREHOUSE_CODE": "WH0933",
+    "WAREHOUSE_CAPACITY": 25111
+  },
+  {
+    "BIN_ID": 647,
+    "BIN_CODE": "BIN-0647",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 170,
+    "WAREHOUSE_CODE": "WH0170",
+    "WAREHOUSE_CAPACITY": 45841
+  },
+  {
+    "BIN_ID": 648,
+    "BIN_CODE": "BIN-0648",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 172,
+    "WAREHOUSE_CODE": "WH0172",
+    "WAREHOUSE_CAPACITY": 23041
+  },
+  {
+    "BIN_ID": 649,
+    "BIN_CODE": "BIN-0649",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 874,
+    "WAREHOUSE_CODE": "WH0874",
+    "WAREHOUSE_CAPACITY": 42200
+  },
+  {
+    "BIN_ID": 650,
+    "BIN_CODE": "BIN-0650",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 360,
+    "WAREHOUSE_CODE": "WH0360",
+    "WAREHOUSE_CAPACITY": 8265
+  },
+  {
+    "BIN_ID": 651,
+    "BIN_CODE": "BIN-0651",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 550,
+    "WAREHOUSE_CODE": "WH0550",
+    "WAREHOUSE_CAPACITY": 24807
+  },
+  {
+    "BIN_ID": 652,
+    "BIN_CODE": "BIN-0652",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 323,
+    "WAREHOUSE_CODE": "WH0323",
+    "WAREHOUSE_CAPACITY": 56206
+  },
+  {
+    "BIN_ID": 653,
+    "BIN_CODE": "BIN-0653",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 579,
+    "WAREHOUSE_CODE": "WH0579",
+    "WAREHOUSE_CAPACITY": 30557
+  },
+  {
+    "BIN_ID": 654,
+    "BIN_CODE": "BIN-0654",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 764,
+    "WAREHOUSE_CODE": "WH0764",
+    "WAREHOUSE_CAPACITY": 77095
+  },
+  {
+    "BIN_ID": 655,
+    "BIN_CODE": "BIN-0655",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 444,
+    "WAREHOUSE_CODE": "WH0444",
+    "WAREHOUSE_CAPACITY": 59786
+  },
+  {
+    "BIN_ID": 656,
+    "BIN_CODE": "BIN-0656",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 842,
+    "WAREHOUSE_CODE": "WH0842",
+    "WAREHOUSE_CAPACITY": 24642
+  },
+  {
+    "BIN_ID": 657,
+    "BIN_CODE": "BIN-0657",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 118,
+    "WAREHOUSE_CODE": "WH0118",
+    "WAREHOUSE_CAPACITY": 15382
+  },
+  {
+    "BIN_ID": 658,
+    "BIN_CODE": "BIN-0658",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 519,
+    "WAREHOUSE_CODE": "WH0519",
+    "WAREHOUSE_CAPACITY": 52198
+  },
+  {
+    "BIN_ID": 659,
+    "BIN_CODE": "BIN-0659",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 9,
+    "WAREHOUSE_CODE": "WH0009",
+    "WAREHOUSE_CAPACITY": 95864
+  },
+  {
+    "BIN_ID": 660,
+    "BIN_CODE": "BIN-0660",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 961,
+    "WAREHOUSE_CODE": "WH0961",
+    "WAREHOUSE_CAPACITY": 23460
+  },
+  {
+    "BIN_ID": 661,
+    "BIN_CODE": "BIN-0661",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 111,
+    "WAREHOUSE_CODE": "WH0111",
+    "WAREHOUSE_CAPACITY": 9235
+  },
+  {
+    "BIN_ID": 662,
+    "BIN_CODE": "BIN-0662",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 47,
+    "WAREHOUSE_CODE": "WH0047",
+    "WAREHOUSE_CAPACITY": 40521
+  },
+  {
+    "BIN_ID": 663,
+    "BIN_CODE": "BIN-0663",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 610,
+    "WAREHOUSE_CODE": "WH0610",
+    "WAREHOUSE_CAPACITY": 41338
+  },
+  {
+    "BIN_ID": 664,
+    "BIN_CODE": "BIN-0664",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 677,
+    "WAREHOUSE_CODE": "WH0677",
+    "WAREHOUSE_CAPACITY": 62178
+  },
+  {
+    "BIN_ID": 665,
+    "BIN_CODE": "BIN-0665",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 49,
+    "WAREHOUSE_CODE": "WH0049",
+    "WAREHOUSE_CAPACITY": 33478
+  },
+  {
+    "BIN_ID": 666,
+    "BIN_CODE": "BIN-0666",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 392,
+    "WAREHOUSE_CODE": "WH0392",
+    "WAREHOUSE_CAPACITY": 57036
+  },
+  {
+    "BIN_ID": 667,
+    "BIN_CODE": "BIN-0667",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 751,
+    "WAREHOUSE_CODE": "WH0751",
+    "WAREHOUSE_CAPACITY": 21924
+  },
+  {
+    "BIN_ID": 668,
+    "BIN_CODE": "BIN-0668",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 330,
+    "WAREHOUSE_CODE": "WH0330",
+    "WAREHOUSE_CAPACITY": 42942
+  },
+  {
+    "BIN_ID": 669,
+    "BIN_CODE": "BIN-0669",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 875,
+    "WAREHOUSE_CODE": "WH0875",
+    "WAREHOUSE_CAPACITY": 63346
+  },
+  {
+    "BIN_ID": 670,
+    "BIN_CODE": "BIN-0670",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 89,
+    "WAREHOUSE_CODE": "WH0089",
+    "WAREHOUSE_CAPACITY": 52967
+  },
+  {
+    "BIN_ID": 671,
+    "BIN_CODE": "BIN-0671",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 549,
+    "WAREHOUSE_CODE": "WH0549",
+    "WAREHOUSE_CAPACITY": 4604
+  },
+  {
+    "BIN_ID": 672,
+    "BIN_CODE": "BIN-0672",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 53,
+    "WAREHOUSE_CODE": "WH0053",
+    "WAREHOUSE_CAPACITY": 67323
+  },
+  {
+    "BIN_ID": 673,
+    "BIN_CODE": "BIN-0673",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 716,
+    "WAREHOUSE_CODE": "WH0716",
+    "WAREHOUSE_CAPACITY": 33760
+  },
+  {
+    "BIN_ID": 674,
+    "BIN_CODE": "BIN-0674",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 45,
+    "WAREHOUSE_CODE": "WH0045",
+    "WAREHOUSE_CAPACITY": 7706
+  },
+  {
+    "BIN_ID": 675,
+    "BIN_CODE": "BIN-0675",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 765,
+    "WAREHOUSE_CODE": "WH0765",
+    "WAREHOUSE_CAPACITY": 19684
+  },
+  {
+    "BIN_ID": 676,
+    "BIN_CODE": "BIN-0676",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 683,
+    "WAREHOUSE_CODE": "WH0683",
+    "WAREHOUSE_CAPACITY": 34436
+  },
+  {
+    "BIN_ID": 677,
+    "BIN_CODE": "BIN-0677",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 115,
+    "WAREHOUSE_CODE": "WH0115",
+    "WAREHOUSE_CAPACITY": 94070
+  },
+  {
+    "BIN_ID": 678,
+    "BIN_CODE": "BIN-0678",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 671,
+    "WAREHOUSE_CODE": "WH0671",
+    "WAREHOUSE_CAPACITY": 35560
+  },
+  {
+    "BIN_ID": 679,
+    "BIN_CODE": "BIN-0679",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 574,
+    "WAREHOUSE_CODE": "WH0574",
+    "WAREHOUSE_CAPACITY": 8760
+  },
+  {
+    "BIN_ID": 680,
+    "BIN_CODE": "BIN-0680",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 627,
+    "WAREHOUSE_CODE": "WH0627",
+    "WAREHOUSE_CAPACITY": 10515
+  },
+  {
+    "BIN_ID": 681,
+    "BIN_CODE": "BIN-0681",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 663,
+    "WAREHOUSE_CODE": "WH0663",
+    "WAREHOUSE_CAPACITY": 51847
+  },
+  {
+    "BIN_ID": 682,
+    "BIN_CODE": "BIN-0682",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 437,
+    "WAREHOUSE_CODE": "WH0437",
+    "WAREHOUSE_CAPACITY": 24913
+  },
+  {
+    "BIN_ID": 683,
+    "BIN_CODE": "BIN-0683",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 466,
+    "WAREHOUSE_CODE": "WH0466",
+    "WAREHOUSE_CAPACITY": 90059
+  },
+  {
+    "BIN_ID": 684,
+    "BIN_CODE": "BIN-0684",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 485,
+    "WAREHOUSE_CODE": "WH0485",
+    "WAREHOUSE_CAPACITY": 43248
+  },
+  {
+    "BIN_ID": 685,
+    "BIN_CODE": "BIN-0685",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 358,
+    "WAREHOUSE_CODE": "WH0358",
+    "WAREHOUSE_CAPACITY": 70852
+  },
+  {
+    "BIN_ID": 686,
+    "BIN_CODE": "BIN-0686",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 299,
+    "WAREHOUSE_CODE": "WH0299",
+    "WAREHOUSE_CAPACITY": 93807
+  },
+  {
+    "BIN_ID": 687,
+    "BIN_CODE": "BIN-0687",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 835,
+    "WAREHOUSE_CODE": "WH0835",
+    "WAREHOUSE_CAPACITY": 35750
+  },
+  {
+    "BIN_ID": 688,
+    "BIN_CODE": "BIN-0688",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 108,
+    "WAREHOUSE_CODE": "WH0108",
+    "WAREHOUSE_CAPACITY": 43124
+  },
+  {
+    "BIN_ID": 689,
+    "BIN_CODE": "BIN-0689",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 71,
+    "WAREHOUSE_CODE": "WH0071",
+    "WAREHOUSE_CAPACITY": 53069
+  },
+  {
+    "BIN_ID": 690,
+    "BIN_CODE": "BIN-0690",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 67,
+    "WAREHOUSE_CODE": "WH0067",
+    "WAREHOUSE_CAPACITY": 82761
+  },
+  {
+    "BIN_ID": 691,
+    "BIN_CODE": "BIN-0691",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 488,
+    "WAREHOUSE_CODE": "WH0488",
+    "WAREHOUSE_CAPACITY": 4136
+  },
+  {
+    "BIN_ID": 692,
+    "BIN_CODE": "BIN-0692",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 886,
+    "WAREHOUSE_CODE": "WH0886",
+    "WAREHOUSE_CAPACITY": 54736
+  },
+  {
+    "BIN_ID": 693,
+    "BIN_CODE": "BIN-0693",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 38,
+    "WAREHOUSE_CODE": "WH0038",
+    "WAREHOUSE_CAPACITY": 51779
+  },
+  {
+    "BIN_ID": 694,
+    "BIN_CODE": "BIN-0694",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 498,
+    "WAREHOUSE_CODE": "WH0498",
+    "WAREHOUSE_CAPACITY": 22027
+  },
+  {
+    "BIN_ID": 695,
+    "BIN_CODE": "BIN-0695",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 85,
+    "WAREHOUSE_CODE": "WH0085",
+    "WAREHOUSE_CAPACITY": 21833
+  },
+  {
+    "BIN_ID": 696,
+    "BIN_CODE": "BIN-0696",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 842,
+    "WAREHOUSE_CODE": "WH0842",
+    "WAREHOUSE_CAPACITY": 24642
+  },
+  {
+    "BIN_ID": 697,
+    "BIN_CODE": "BIN-0697",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 878,
+    "WAREHOUSE_CODE": "WH0878",
+    "WAREHOUSE_CAPACITY": 44783
+  },
+  {
+    "BIN_ID": 698,
+    "BIN_CODE": "BIN-0698",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 983,
+    "WAREHOUSE_CODE": "WH0983",
+    "WAREHOUSE_CAPACITY": 28362
+  },
+  {
+    "BIN_ID": 699,
+    "BIN_CODE": "BIN-0699",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 955,
+    "WAREHOUSE_CODE": "WH0955",
+    "WAREHOUSE_CAPACITY": 13177
+  },
+  {
+    "BIN_ID": 700,
+    "BIN_CODE": "BIN-0700",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 205,
+    "WAREHOUSE_CODE": "WH0205",
+    "WAREHOUSE_CAPACITY": 32362
+  },
+  {
+    "BIN_ID": 701,
+    "BIN_CODE": "BIN-0701",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 857,
+    "WAREHOUSE_CODE": "WH0857",
+    "WAREHOUSE_CAPACITY": 12278
+  },
+  {
+    "BIN_ID": 702,
+    "BIN_CODE": "BIN-0702",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 692,
+    "WAREHOUSE_CODE": "WH0692",
+    "WAREHOUSE_CAPACITY": 78178
+  },
+  {
+    "BIN_ID": 703,
+    "BIN_CODE": "BIN-0703",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 77,
+    "WAREHOUSE_CODE": "WH0077",
+    "WAREHOUSE_CAPACITY": 90948
+  },
+  {
+    "BIN_ID": 704,
+    "BIN_CODE": "BIN-0704",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 967,
+    "WAREHOUSE_CODE": "WH0967",
+    "WAREHOUSE_CAPACITY": 60996
+  },
+  {
+    "BIN_ID": 705,
+    "BIN_CODE": "BIN-0705",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 218,
+    "WAREHOUSE_CODE": "WH0218",
+    "WAREHOUSE_CAPACITY": 59466
+  },
+  {
+    "BIN_ID": 706,
+    "BIN_CODE": "BIN-0706",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 346,
+    "WAREHOUSE_CODE": "WH0346",
+    "WAREHOUSE_CAPACITY": 25422
+  },
+  {
+    "BIN_ID": 707,
+    "BIN_CODE": "BIN-0707",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 778,
+    "WAREHOUSE_CODE": "WH0778",
+    "WAREHOUSE_CAPACITY": 87357
+  },
+  {
+    "BIN_ID": 708,
+    "BIN_CODE": "BIN-0708",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 847,
+    "WAREHOUSE_CODE": "WH0847",
+    "WAREHOUSE_CAPACITY": 68362
+  },
+  {
+    "BIN_ID": 709,
+    "BIN_CODE": "BIN-0709",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 485,
+    "WAREHOUSE_CODE": "WH0485",
+    "WAREHOUSE_CAPACITY": 43248
+  },
+  {
+    "BIN_ID": 710,
+    "BIN_CODE": "BIN-0710",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 332,
+    "WAREHOUSE_CODE": "WH0332",
+    "WAREHOUSE_CAPACITY": 82120
+  },
+  {
+    "BIN_ID": 711,
+    "BIN_CODE": "BIN-0711",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 367,
+    "WAREHOUSE_CODE": "WH0367",
+    "WAREHOUSE_CAPACITY": 40579
+  },
+  {
+    "BIN_ID": 712,
+    "BIN_CODE": "BIN-0712",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 39,
+    "WAREHOUSE_CODE": "WH0039",
+    "WAREHOUSE_CAPACITY": 44461
+  },
+  {
+    "BIN_ID": 713,
+    "BIN_CODE": "BIN-0713",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 542,
+    "WAREHOUSE_CODE": "WH0542",
+    "WAREHOUSE_CAPACITY": 84973
+  },
+  {
+    "BIN_ID": 714,
+    "BIN_CODE": "BIN-0714",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 439,
+    "WAREHOUSE_CODE": "WH0439",
+    "WAREHOUSE_CAPACITY": 73995
+  },
+  {
+    "BIN_ID": 715,
+    "BIN_CODE": "BIN-0715",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 779,
+    "WAREHOUSE_CODE": "WH0779",
+    "WAREHOUSE_CAPACITY": 98560
+  },
+  {
+    "BIN_ID": 716,
+    "BIN_CODE": "BIN-0716",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 396,
+    "WAREHOUSE_CODE": "WH0396",
+    "WAREHOUSE_CAPACITY": 42182
+  },
+  {
+    "BIN_ID": 717,
+    "BIN_CODE": "BIN-0717",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 204,
+    "WAREHOUSE_CODE": "WH0204",
+    "WAREHOUSE_CAPACITY": 97382
+  },
+  {
+    "BIN_ID": 718,
+    "BIN_CODE": "BIN-0718",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 514,
+    "WAREHOUSE_CODE": "WH0514",
+    "WAREHOUSE_CAPACITY": 35103
+  },
+  {
+    "BIN_ID": 719,
+    "BIN_CODE": "BIN-0719",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 315,
+    "WAREHOUSE_CODE": "WH0315",
+    "WAREHOUSE_CAPACITY": 45061
+  },
+  {
+    "BIN_ID": 720,
+    "BIN_CODE": "BIN-0720",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 878,
+    "WAREHOUSE_CODE": "WH0878",
+    "WAREHOUSE_CAPACITY": 44783
+  },
+  {
+    "BIN_ID": 721,
+    "BIN_CODE": "BIN-0721",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 604,
+    "WAREHOUSE_CODE": "WH0604",
+    "WAREHOUSE_CAPACITY": 84715
+  },
+  {
+    "BIN_ID": 722,
+    "BIN_CODE": "BIN-0722",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 43,
+    "WAREHOUSE_CODE": "WH0043",
+    "WAREHOUSE_CAPACITY": 82955
+  },
+  {
+    "BIN_ID": 723,
+    "BIN_CODE": "BIN-0723",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 415,
+    "WAREHOUSE_CODE": "WH0415",
+    "WAREHOUSE_CAPACITY": 87099
+  },
+  {
+    "BIN_ID": 724,
+    "BIN_CODE": "BIN-0724",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 600,
+    "WAREHOUSE_CODE": "WH0600",
+    "WAREHOUSE_CAPACITY": 2696
+  },
+  {
+    "BIN_ID": 725,
+    "BIN_CODE": "BIN-0725",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 913,
+    "WAREHOUSE_CODE": "WH0913",
+    "WAREHOUSE_CAPACITY": 9663
+  },
+  {
+    "BIN_ID": 726,
+    "BIN_CODE": "BIN-0726",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 643,
+    "WAREHOUSE_CODE": "WH0643",
+    "WAREHOUSE_CAPACITY": 49474
+  },
+  {
+    "BIN_ID": 727,
+    "BIN_CODE": "BIN-0727",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 876,
+    "WAREHOUSE_CODE": "WH0876",
+    "WAREHOUSE_CAPACITY": 14842
+  },
+  {
+    "BIN_ID": 728,
+    "BIN_CODE": "BIN-0728",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 495,
+    "WAREHOUSE_CODE": "WH0495",
+    "WAREHOUSE_CAPACITY": 39985
+  },
+  {
+    "BIN_ID": 729,
+    "BIN_CODE": "BIN-0729",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 484,
+    "WAREHOUSE_CODE": "WH0484",
+    "WAREHOUSE_CAPACITY": 22670
+  },
+  {
+    "BIN_ID": 730,
+    "BIN_CODE": "BIN-0730",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 810,
+    "WAREHOUSE_CODE": "WH0810",
+    "WAREHOUSE_CAPACITY": 41340
+  },
+  {
+    "BIN_ID": 731,
+    "BIN_CODE": "BIN-0731",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 335,
+    "WAREHOUSE_CODE": "WH0335",
+    "WAREHOUSE_CAPACITY": 25796
+  },
+  {
+    "BIN_ID": 732,
+    "BIN_CODE": "BIN-0732",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 393,
+    "WAREHOUSE_CODE": "WH0393",
+    "WAREHOUSE_CAPACITY": 71962
+  },
+  {
+    "BIN_ID": 733,
+    "BIN_CODE": "BIN-0733",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 97,
+    "WAREHOUSE_CODE": "WH0097",
+    "WAREHOUSE_CAPACITY": 13070
+  },
+  {
+    "BIN_ID": 734,
+    "BIN_CODE": "BIN-0734",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 673,
+    "WAREHOUSE_CODE": "WH0673",
+    "WAREHOUSE_CAPACITY": 52452
+  },
+  {
+    "BIN_ID": 735,
+    "BIN_CODE": "BIN-0735",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 410,
+    "WAREHOUSE_CODE": "WH0410",
+    "WAREHOUSE_CAPACITY": 83038
+  },
+  {
+    "BIN_ID": 736,
+    "BIN_CODE": "BIN-0736",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 347,
+    "WAREHOUSE_CODE": "WH0347",
+    "WAREHOUSE_CAPACITY": 38674
+  },
+  {
+    "BIN_ID": 737,
+    "BIN_CODE": "BIN-0737",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 151,
+    "WAREHOUSE_CODE": "WH0151",
+    "WAREHOUSE_CAPACITY": 77671
+  },
+  {
+    "BIN_ID": 738,
+    "BIN_CODE": "BIN-0738",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 430,
+    "WAREHOUSE_CODE": "WH0430",
+    "WAREHOUSE_CAPACITY": 25906
+  },
+  {
+    "BIN_ID": 739,
+    "BIN_CODE": "BIN-0739",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 298,
+    "WAREHOUSE_CODE": "WH0298",
+    "WAREHOUSE_CAPACITY": 96591
+  },
+  {
+    "BIN_ID": 740,
+    "BIN_CODE": "BIN-0740",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 594,
+    "WAREHOUSE_CODE": "WH0594",
+    "WAREHOUSE_CAPACITY": 34416
+  },
+  {
+    "BIN_ID": 741,
+    "BIN_CODE": "BIN-0741",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 237,
+    "WAREHOUSE_CODE": "WH0237",
+    "WAREHOUSE_CAPACITY": 88169
+  },
+  {
+    "BIN_ID": 742,
+    "BIN_CODE": "BIN-0742",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 813,
+    "WAREHOUSE_CODE": "WH0813",
+    "WAREHOUSE_CAPACITY": 76237
+  },
+  {
+    "BIN_ID": 743,
+    "BIN_CODE": "BIN-0743",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 384,
+    "WAREHOUSE_CODE": "WH0384",
+    "WAREHOUSE_CAPACITY": 9991
+  },
+  {
+    "BIN_ID": 744,
+    "BIN_CODE": "BIN-0744",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 348,
+    "WAREHOUSE_CODE": "WH0348",
+    "WAREHOUSE_CAPACITY": 11825
+  },
+  {
+    "BIN_ID": 745,
+    "BIN_CODE": "BIN-0745",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 363,
+    "WAREHOUSE_CODE": "WH0363",
+    "WAREHOUSE_CAPACITY": 33613
+  },
+  {
+    "BIN_ID": 746,
+    "BIN_CODE": "BIN-0746",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 579,
+    "WAREHOUSE_CODE": "WH0579",
+    "WAREHOUSE_CAPACITY": 30557
+  },
+  {
+    "BIN_ID": 747,
+    "BIN_CODE": "BIN-0747",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 43,
+    "WAREHOUSE_CODE": "WH0043",
+    "WAREHOUSE_CAPACITY": 82955
+  },
+  {
+    "BIN_ID": 748,
+    "BIN_CODE": "BIN-0748",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 62,
+    "WAREHOUSE_CODE": "WH0062",
+    "WAREHOUSE_CAPACITY": 26839
+  },
+  {
+    "BIN_ID": 749,
+    "BIN_CODE": "BIN-0749",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 121,
+    "WAREHOUSE_CODE": "WH0121",
+    "WAREHOUSE_CAPACITY": 45975
+  },
+  {
+    "BIN_ID": 750,
+    "BIN_CODE": "BIN-0750",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 994,
+    "WAREHOUSE_CODE": "WH0994",
+    "WAREHOUSE_CAPACITY": 39876
+  },
+  {
+    "BIN_ID": 751,
+    "BIN_CODE": "BIN-0751",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 796,
+    "WAREHOUSE_CODE": "WH0796",
+    "WAREHOUSE_CAPACITY": 96256
+  },
+  {
+    "BIN_ID": 752,
+    "BIN_CODE": "BIN-0752",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 290,
+    "WAREHOUSE_CODE": "WH0290",
+    "WAREHOUSE_CAPACITY": 68658
+  },
+  {
+    "BIN_ID": 753,
+    "BIN_CODE": "BIN-0753",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 278,
+    "WAREHOUSE_CODE": "WH0278",
+    "WAREHOUSE_CAPACITY": 32732
+  },
+  {
+    "BIN_ID": 754,
+    "BIN_CODE": "BIN-0754",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 536,
+    "WAREHOUSE_CODE": "WH0536",
+    "WAREHOUSE_CAPACITY": 8812
+  },
+  {
+    "BIN_ID": 755,
+    "BIN_CODE": "BIN-0755",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 468,
+    "WAREHOUSE_CODE": "WH0468",
+    "WAREHOUSE_CAPACITY": 18816
+  },
+  {
+    "BIN_ID": 756,
+    "BIN_CODE": "BIN-0756",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 473,
+    "WAREHOUSE_CODE": "WH0473",
+    "WAREHOUSE_CAPACITY": 68768
+  },
+  {
+    "BIN_ID": 757,
+    "BIN_CODE": "BIN-0757",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 716,
+    "WAREHOUSE_CODE": "WH0716",
+    "WAREHOUSE_CAPACITY": 33760
+  },
+  {
+    "BIN_ID": 758,
+    "BIN_CODE": "BIN-0758",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 225,
+    "WAREHOUSE_CODE": "WH0225",
+    "WAREHOUSE_CAPACITY": 21340
+  },
+  {
+    "BIN_ID": 759,
+    "BIN_CODE": "BIN-0759",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 421,
+    "WAREHOUSE_CODE": "WH0421",
+    "WAREHOUSE_CAPACITY": 54890
+  },
+  {
+    "BIN_ID": 760,
+    "BIN_CODE": "BIN-0760",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 755,
+    "WAREHOUSE_CODE": "WH0755",
+    "WAREHOUSE_CAPACITY": 70316
+  },
+  {
+    "BIN_ID": 761,
+    "BIN_CODE": "BIN-0761",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 814,
+    "WAREHOUSE_CODE": "WH0814",
+    "WAREHOUSE_CAPACITY": 33589
+  },
+  {
+    "BIN_ID": 762,
+    "BIN_CODE": "BIN-0762",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 157,
+    "WAREHOUSE_CODE": "WH0157",
+    "WAREHOUSE_CAPACITY": 14365
+  },
+  {
+    "BIN_ID": 763,
+    "BIN_CODE": "BIN-0763",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 718,
+    "WAREHOUSE_CODE": "WH0718",
+    "WAREHOUSE_CAPACITY": 28477
+  },
+  {
+    "BIN_ID": 764,
+    "BIN_CODE": "BIN-0764",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 636,
+    "WAREHOUSE_CODE": "WH0636",
+    "WAREHOUSE_CAPACITY": 75955
+  },
+  {
+    "BIN_ID": 765,
+    "BIN_CODE": "BIN-0765",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 976,
+    "WAREHOUSE_CODE": "WH0976",
+    "WAREHOUSE_CAPACITY": 88951
+  },
+  {
+    "BIN_ID": 766,
+    "BIN_CODE": "BIN-0766",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 662,
+    "WAREHOUSE_CODE": "WH0662",
+    "WAREHOUSE_CAPACITY": 20399
+  },
+  {
+    "BIN_ID": 767,
+    "BIN_CODE": "BIN-0767",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 492,
+    "WAREHOUSE_CODE": "WH0492",
+    "WAREHOUSE_CAPACITY": 71935
+  },
+  {
+    "BIN_ID": 768,
+    "BIN_CODE": "BIN-0768",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 391,
+    "WAREHOUSE_CODE": "WH0391",
+    "WAREHOUSE_CAPACITY": 38335
+  },
+  {
+    "BIN_ID": 769,
+    "BIN_CODE": "BIN-0769",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 144,
+    "WAREHOUSE_CODE": "WH0144",
+    "WAREHOUSE_CAPACITY": 21784
+  },
+  {
+    "BIN_ID": 770,
+    "BIN_CODE": "BIN-0770",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 165,
+    "WAREHOUSE_CODE": "WH0165",
+    "WAREHOUSE_CAPACITY": 89661
+  },
+  {
+    "BIN_ID": 771,
+    "BIN_CODE": "BIN-0771",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 342,
+    "WAREHOUSE_CODE": "WH0342",
+    "WAREHOUSE_CAPACITY": 71397
+  },
+  {
+    "BIN_ID": 772,
+    "BIN_CODE": "BIN-0772",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 254,
+    "WAREHOUSE_CODE": "WH0254",
+    "WAREHOUSE_CAPACITY": 12655
+  },
+  {
+    "BIN_ID": 773,
+    "BIN_CODE": "BIN-0773",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 964,
+    "WAREHOUSE_CODE": "WH0964",
+    "WAREHOUSE_CAPACITY": 94452
+  },
+  {
+    "BIN_ID": 774,
+    "BIN_CODE": "BIN-0774",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 672,
+    "WAREHOUSE_CODE": "WH0672",
+    "WAREHOUSE_CAPACITY": 53666
+  },
+  {
+    "BIN_ID": 775,
+    "BIN_CODE": "BIN-0775",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 64,
+    "WAREHOUSE_CODE": "WH0064",
+    "WAREHOUSE_CAPACITY": 15387
+  },
+  {
+    "BIN_ID": 776,
+    "BIN_CODE": "BIN-0776",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 505,
+    "WAREHOUSE_CODE": "WH0505",
+    "WAREHOUSE_CAPACITY": 47130
+  },
+  {
+    "BIN_ID": 777,
+    "BIN_CODE": "BIN-0777",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 673,
+    "WAREHOUSE_CODE": "WH0673",
+    "WAREHOUSE_CAPACITY": 52452
+  },
+  {
+    "BIN_ID": 778,
+    "BIN_CODE": "BIN-0778",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 142,
+    "WAREHOUSE_CODE": "WH0142",
+    "WAREHOUSE_CAPACITY": 25754
+  },
+  {
+    "BIN_ID": 779,
+    "BIN_CODE": "BIN-0779",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 496,
+    "WAREHOUSE_CODE": "WH0496",
+    "WAREHOUSE_CAPACITY": 30475
+  },
+  {
+    "BIN_ID": 780,
+    "BIN_CODE": "BIN-0780",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 371,
+    "WAREHOUSE_CODE": "WH0371",
+    "WAREHOUSE_CAPACITY": 63165
+  },
+  {
+    "BIN_ID": 781,
+    "BIN_CODE": "BIN-0781",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 242,
+    "WAREHOUSE_CODE": "WH0242",
+    "WAREHOUSE_CAPACITY": 30271
+  },
+  {
+    "BIN_ID": 782,
+    "BIN_CODE": "BIN-0782",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 531,
+    "WAREHOUSE_CODE": "WH0531",
+    "WAREHOUSE_CAPACITY": 4288
+  },
+  {
+    "BIN_ID": 783,
+    "BIN_CODE": "BIN-0783",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 673,
+    "WAREHOUSE_CODE": "WH0673",
+    "WAREHOUSE_CAPACITY": 52452
+  },
+  {
+    "BIN_ID": 784,
+    "BIN_CODE": "BIN-0784",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 428,
+    "WAREHOUSE_CODE": "WH0428",
+    "WAREHOUSE_CAPACITY": 37848
+  },
+  {
+    "BIN_ID": 785,
+    "BIN_CODE": "BIN-0785",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 822,
+    "WAREHOUSE_CODE": "WH0822",
+    "WAREHOUSE_CAPACITY": 32440
+  },
+  {
+    "BIN_ID": 786,
+    "BIN_CODE": "BIN-0786",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 453,
+    "WAREHOUSE_CODE": "WH0453",
+    "WAREHOUSE_CAPACITY": 77392
+  },
+  {
+    "BIN_ID": 787,
+    "BIN_CODE": "BIN-0787",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 828,
+    "WAREHOUSE_CODE": "WH0828",
+    "WAREHOUSE_CAPACITY": 78439
+  },
+  {
+    "BIN_ID": 788,
+    "BIN_CODE": "BIN-0788",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 750,
+    "WAREHOUSE_CODE": "WH0750",
+    "WAREHOUSE_CAPACITY": 72556
+  },
+  {
+    "BIN_ID": 789,
+    "BIN_CODE": "BIN-0789",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 307,
+    "WAREHOUSE_CODE": "WH0307",
+    "WAREHOUSE_CAPACITY": 33389
+  },
+  {
+    "BIN_ID": 790,
+    "BIN_CODE": "BIN-0790",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 30,
+    "WAREHOUSE_CODE": "WH0030",
+    "WAREHOUSE_CAPACITY": 14789
+  },
+  {
+    "BIN_ID": 791,
+    "BIN_CODE": "BIN-0791",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 947,
+    "WAREHOUSE_CODE": "WH0947",
+    "WAREHOUSE_CAPACITY": 88798
+  },
+  {
+    "BIN_ID": 792,
+    "BIN_CODE": "BIN-0792",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 666,
+    "WAREHOUSE_CODE": "WH0666",
+    "WAREHOUSE_CAPACITY": 54203
+  },
+  {
+    "BIN_ID": 793,
+    "BIN_CODE": "BIN-0793",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 830,
+    "WAREHOUSE_CODE": "WH0830",
+    "WAREHOUSE_CAPACITY": 15651
+  },
+  {
+    "BIN_ID": 794,
+    "BIN_CODE": "BIN-0794",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 500,
+    "WAREHOUSE_CODE": "WH0500",
+    "WAREHOUSE_CAPACITY": 24596
+  },
+  {
+    "BIN_ID": 795,
+    "BIN_CODE": "BIN-0795",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 536,
+    "WAREHOUSE_CODE": "WH0536",
+    "WAREHOUSE_CAPACITY": 8812
+  },
+  {
+    "BIN_ID": 796,
+    "BIN_CODE": "BIN-0796",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 463,
+    "WAREHOUSE_CODE": "WH0463",
+    "WAREHOUSE_CAPACITY": 3159
+  },
+  {
+    "BIN_ID": 797,
+    "BIN_CODE": "BIN-0797",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 966,
+    "WAREHOUSE_CODE": "WH0966",
+    "WAREHOUSE_CAPACITY": 38494
+  },
+  {
+    "BIN_ID": 798,
+    "BIN_CODE": "BIN-0798",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 359,
+    "WAREHOUSE_CODE": "WH0359",
+    "WAREHOUSE_CAPACITY": 24860
+  },
+  {
+    "BIN_ID": 799,
+    "BIN_CODE": "BIN-0799",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 344,
+    "WAREHOUSE_CODE": "WH0344",
+    "WAREHOUSE_CAPACITY": 39043
+  },
+  {
+    "BIN_ID": 800,
+    "BIN_CODE": "BIN-0800",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 330,
+    "WAREHOUSE_CODE": "WH0330",
+    "WAREHOUSE_CAPACITY": 42942
+  },
+  {
+    "BIN_ID": 801,
+    "BIN_CODE": "BIN-0801",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 922,
+    "WAREHOUSE_CODE": "WH0922",
+    "WAREHOUSE_CAPACITY": 19919
+  },
+  {
+    "BIN_ID": 802,
+    "BIN_CODE": "BIN-0802",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 902,
+    "WAREHOUSE_CODE": "WH0902",
+    "WAREHOUSE_CAPACITY": 6729
+  },
+  {
+    "BIN_ID": 803,
+    "BIN_CODE": "BIN-0803",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 313,
+    "WAREHOUSE_CODE": "WH0313",
+    "WAREHOUSE_CAPACITY": 87997
+  },
+  {
+    "BIN_ID": 804,
+    "BIN_CODE": "BIN-0804",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 757,
+    "WAREHOUSE_CODE": "WH0757",
+    "WAREHOUSE_CAPACITY": 2067
+  },
+  {
+    "BIN_ID": 805,
+    "BIN_CODE": "BIN-0805",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 55,
+    "WAREHOUSE_CODE": "WH0055",
+    "WAREHOUSE_CAPACITY": 14627
+  },
+  {
+    "BIN_ID": 806,
+    "BIN_CODE": "BIN-0806",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 460,
+    "WAREHOUSE_CODE": "WH0460",
+    "WAREHOUSE_CAPACITY": 12821
+  },
+  {
+    "BIN_ID": 807,
+    "BIN_CODE": "BIN-0807",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 36,
+    "WAREHOUSE_CODE": "WH0036",
+    "WAREHOUSE_CAPACITY": 53829
+  },
+  {
+    "BIN_ID": 808,
+    "BIN_CODE": "BIN-0808",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 446,
+    "WAREHOUSE_CODE": "WH0446",
+    "WAREHOUSE_CAPACITY": 4000
+  },
+  {
+    "BIN_ID": 809,
+    "BIN_CODE": "BIN-0809",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 266,
+    "WAREHOUSE_CODE": "WH0266",
+    "WAREHOUSE_CAPACITY": 31760
+  },
+  {
+    "BIN_ID": 810,
+    "BIN_CODE": "BIN-0810",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 989,
+    "WAREHOUSE_CODE": "WH0989",
+    "WAREHOUSE_CAPACITY": 24714
+  },
+  {
+    "BIN_ID": 811,
+    "BIN_CODE": "BIN-0811",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 533,
+    "WAREHOUSE_CODE": "WH0533",
+    "WAREHOUSE_CAPACITY": 35052
+  },
+  {
+    "BIN_ID": 812,
+    "BIN_CODE": "BIN-0812",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 503,
+    "WAREHOUSE_CODE": "WH0503",
+    "WAREHOUSE_CAPACITY": 79014
+  },
+  {
+    "BIN_ID": 813,
+    "BIN_CODE": "BIN-0813",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 748,
+    "WAREHOUSE_CODE": "WH0748",
+    "WAREHOUSE_CAPACITY": 17795
+  },
+  {
+    "BIN_ID": 814,
+    "BIN_CODE": "BIN-0814",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 896,
+    "WAREHOUSE_CODE": "WH0896",
+    "WAREHOUSE_CAPACITY": 68639
+  },
+  {
+    "BIN_ID": 815,
+    "BIN_CODE": "BIN-0815",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 923,
+    "WAREHOUSE_CODE": "WH0923",
+    "WAREHOUSE_CAPACITY": 56017
+  },
+  {
+    "BIN_ID": 816,
+    "BIN_CODE": "BIN-0816",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 412,
+    "WAREHOUSE_CODE": "WH0412",
+    "WAREHOUSE_CAPACITY": 48546
+  },
+  {
+    "BIN_ID": 817,
+    "BIN_CODE": "BIN-0817",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 914,
+    "WAREHOUSE_CODE": "WH0914",
+    "WAREHOUSE_CAPACITY": 10059
+  },
+  {
+    "BIN_ID": 818,
+    "BIN_CODE": "BIN-0818",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 974,
+    "WAREHOUSE_CODE": "WH0974",
+    "WAREHOUSE_CAPACITY": 46158
+  },
+  {
+    "BIN_ID": 819,
+    "BIN_CODE": "BIN-0819",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 488,
+    "WAREHOUSE_CODE": "WH0488",
+    "WAREHOUSE_CAPACITY": 4136
+  },
+  {
+    "BIN_ID": 820,
+    "BIN_CODE": "BIN-0820",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 404,
+    "WAREHOUSE_CODE": "WH0404",
+    "WAREHOUSE_CAPACITY": 90674
+  },
+  {
+    "BIN_ID": 821,
+    "BIN_CODE": "BIN-0821",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 438,
+    "WAREHOUSE_CODE": "WH0438",
+    "WAREHOUSE_CAPACITY": 63167
+  },
+  {
+    "BIN_ID": 822,
+    "BIN_CODE": "BIN-0822",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 667,
+    "WAREHOUSE_CODE": "WH0667",
+    "WAREHOUSE_CAPACITY": 34227
+  },
+  {
+    "BIN_ID": 823,
+    "BIN_CODE": "BIN-0823",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 783,
+    "WAREHOUSE_CODE": "WH0783",
+    "WAREHOUSE_CAPACITY": 3562
+  },
+  {
+    "BIN_ID": 824,
+    "BIN_CODE": "BIN-0824",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 314,
+    "WAREHOUSE_CODE": "WH0314",
+    "WAREHOUSE_CAPACITY": 92230
+  },
+  {
+    "BIN_ID": 825,
+    "BIN_CODE": "BIN-0825",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 866,
+    "WAREHOUSE_CODE": "WH0866",
+    "WAREHOUSE_CAPACITY": 49507
+  },
+  {
+    "BIN_ID": 826,
+    "BIN_CODE": "BIN-0826",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 396,
+    "WAREHOUSE_CODE": "WH0396",
+    "WAREHOUSE_CAPACITY": 42182
+  },
+  {
+    "BIN_ID": 827,
+    "BIN_CODE": "BIN-0827",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 431,
+    "WAREHOUSE_CODE": "WH0431",
+    "WAREHOUSE_CAPACITY": 71281
+  },
+  {
+    "BIN_ID": 828,
+    "BIN_CODE": "BIN-0828",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 309,
+    "WAREHOUSE_CODE": "WH0309",
+    "WAREHOUSE_CAPACITY": 60866
+  },
+  {
+    "BIN_ID": 829,
+    "BIN_CODE": "BIN-0829",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 640,
+    "WAREHOUSE_CODE": "WH0640",
+    "WAREHOUSE_CAPACITY": 81274
+  },
+  {
+    "BIN_ID": 830,
+    "BIN_CODE": "BIN-0830",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 198,
+    "WAREHOUSE_CODE": "WH0198",
+    "WAREHOUSE_CAPACITY": 14913
+  },
+  {
+    "BIN_ID": 831,
+    "BIN_CODE": "BIN-0831",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 799,
+    "WAREHOUSE_CODE": "WH0799",
+    "WAREHOUSE_CAPACITY": 10521
+  },
+  {
+    "BIN_ID": 832,
+    "BIN_CODE": "BIN-0832",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 10,
+    "WAREHOUSE_CODE": "WH0010",
+    "WAREHOUSE_CAPACITY": 1716
+  },
+  {
+    "BIN_ID": 833,
+    "BIN_CODE": "BIN-0833",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 208,
+    "WAREHOUSE_CODE": "WH0208",
+    "WAREHOUSE_CAPACITY": 43039
+  },
+  {
+    "BIN_ID": 834,
+    "BIN_CODE": "BIN-0834",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 365,
+    "WAREHOUSE_CODE": "WH0365",
+    "WAREHOUSE_CAPACITY": 73728
+  },
+  {
+    "BIN_ID": 835,
+    "BIN_CODE": "BIN-0835",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 234,
+    "WAREHOUSE_CODE": "WH0234",
+    "WAREHOUSE_CAPACITY": 49732
+  },
+  {
+    "BIN_ID": 836,
+    "BIN_CODE": "BIN-0836",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 871,
+    "WAREHOUSE_CODE": "WH0871",
+    "WAREHOUSE_CAPACITY": 71310
+  },
+  {
+    "BIN_ID": 837,
+    "BIN_CODE": "BIN-0837",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 929,
+    "WAREHOUSE_CODE": "WH0929",
+    "WAREHOUSE_CAPACITY": 27137
+  },
+  {
+    "BIN_ID": 838,
+    "BIN_CODE": "BIN-0838",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 725,
+    "WAREHOUSE_CODE": "WH0725",
+    "WAREHOUSE_CAPACITY": 16215
+  },
+  {
+    "BIN_ID": 839,
+    "BIN_CODE": "BIN-0839",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 947,
+    "WAREHOUSE_CODE": "WH0947",
+    "WAREHOUSE_CAPACITY": 88798
+  },
+  {
+    "BIN_ID": 840,
+    "BIN_CODE": "BIN-0840",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 292,
+    "WAREHOUSE_CODE": "WH0292",
+    "WAREHOUSE_CAPACITY": 29938
+  },
+  {
+    "BIN_ID": 841,
+    "BIN_CODE": "BIN-0841",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 642,
+    "WAREHOUSE_CODE": "WH0642",
+    "WAREHOUSE_CAPACITY": 15937
+  },
+  {
+    "BIN_ID": 842,
+    "BIN_CODE": "BIN-0842",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 770,
+    "WAREHOUSE_CODE": "WH0770",
+    "WAREHOUSE_CAPACITY": 27764
+  },
+  {
+    "BIN_ID": 843,
+    "BIN_CODE": "BIN-0843",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 13,
+    "WAREHOUSE_CODE": "WH0013",
+    "WAREHOUSE_CAPACITY": 97586
+  },
+  {
+    "BIN_ID": 844,
+    "BIN_CODE": "BIN-0844",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 500,
+    "WAREHOUSE_CODE": "WH0500",
+    "WAREHOUSE_CAPACITY": 24596
+  },
+  {
+    "BIN_ID": 845,
+    "BIN_CODE": "BIN-0845",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 680,
+    "WAREHOUSE_CODE": "WH0680",
+    "WAREHOUSE_CAPACITY": 24668
+  },
+  {
+    "BIN_ID": 846,
+    "BIN_CODE": "BIN-0846",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 36,
+    "WAREHOUSE_CODE": "WH0036",
+    "WAREHOUSE_CAPACITY": 53829
+  },
+  {
+    "BIN_ID": 847,
+    "BIN_CODE": "BIN-0847",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 551,
+    "WAREHOUSE_CODE": "WH0551",
+    "WAREHOUSE_CAPACITY": 71303
+  },
+  {
+    "BIN_ID": 848,
+    "BIN_CODE": "BIN-0848",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 577,
+    "WAREHOUSE_CODE": "WH0577",
+    "WAREHOUSE_CAPACITY": 65923
+  },
+  {
+    "BIN_ID": 849,
+    "BIN_CODE": "BIN-0849",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 397,
+    "WAREHOUSE_CODE": "WH0397",
+    "WAREHOUSE_CAPACITY": 14269
+  },
+  {
+    "BIN_ID": 850,
+    "BIN_CODE": "BIN-0850",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 164,
+    "WAREHOUSE_CODE": "WH0164",
+    "WAREHOUSE_CAPACITY": 68534
+  },
+  {
+    "BIN_ID": 851,
+    "BIN_CODE": "BIN-0851",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 414,
+    "WAREHOUSE_CODE": "WH0414",
+    "WAREHOUSE_CAPACITY": 14104
+  },
+  {
+    "BIN_ID": 852,
+    "BIN_CODE": "BIN-0852",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 627,
+    "WAREHOUSE_CODE": "WH0627",
+    "WAREHOUSE_CAPACITY": 10515
+  },
+  {
+    "BIN_ID": 853,
+    "BIN_CODE": "BIN-0853",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 304,
+    "WAREHOUSE_CODE": "WH0304",
+    "WAREHOUSE_CAPACITY": 85607
+  },
+  {
+    "BIN_ID": 854,
+    "BIN_CODE": "BIN-0854",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 464,
+    "WAREHOUSE_CODE": "WH0464",
+    "WAREHOUSE_CAPACITY": 72643
+  },
+  {
+    "BIN_ID": 855,
+    "BIN_CODE": "BIN-0855",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 835,
+    "WAREHOUSE_CODE": "WH0835",
+    "WAREHOUSE_CAPACITY": 35750
+  },
+  {
+    "BIN_ID": 856,
+    "BIN_CODE": "BIN-0856",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 166,
+    "WAREHOUSE_CODE": "WH0166",
+    "WAREHOUSE_CAPACITY": 63245
+  },
+  {
+    "BIN_ID": 857,
+    "BIN_CODE": "BIN-0857",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 176,
+    "WAREHOUSE_CODE": "WH0176",
+    "WAREHOUSE_CAPACITY": 54175
+  },
+  {
+    "BIN_ID": 858,
+    "BIN_CODE": "BIN-0858",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 926,
+    "WAREHOUSE_CODE": "WH0926",
+    "WAREHOUSE_CAPACITY": 84721
+  },
+  {
+    "BIN_ID": 859,
+    "BIN_CODE": "BIN-0859",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 489,
+    "WAREHOUSE_CODE": "WH0489",
+    "WAREHOUSE_CAPACITY": 99007
+  },
+  {
+    "BIN_ID": 860,
+    "BIN_CODE": "BIN-0860",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 982,
+    "WAREHOUSE_CODE": "WH0982",
+    "WAREHOUSE_CAPACITY": 77805
+  },
+  {
+    "BIN_ID": 861,
+    "BIN_CODE": "BIN-0861",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 799,
+    "WAREHOUSE_CODE": "WH0799",
+    "WAREHOUSE_CAPACITY": 10521
+  },
+  {
+    "BIN_ID": 862,
+    "BIN_CODE": "BIN-0862",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 654,
+    "WAREHOUSE_CODE": "WH0654",
+    "WAREHOUSE_CAPACITY": 89186
+  },
+  {
+    "BIN_ID": 863,
+    "BIN_CODE": "BIN-0863",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 313,
+    "WAREHOUSE_CODE": "WH0313",
+    "WAREHOUSE_CAPACITY": 87997
+  },
+  {
+    "BIN_ID": 864,
+    "BIN_CODE": "BIN-0864",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 978,
+    "WAREHOUSE_CODE": "WH0978",
+    "WAREHOUSE_CAPACITY": 90138
+  },
+  {
+    "BIN_ID": 865,
+    "BIN_CODE": "BIN-0865",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 852,
+    "WAREHOUSE_CODE": "WH0852",
+    "WAREHOUSE_CAPACITY": 72928
+  },
+  {
+    "BIN_ID": 866,
+    "BIN_CODE": "BIN-0866",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 462,
+    "WAREHOUSE_CODE": "WH0462",
+    "WAREHOUSE_CAPACITY": 68415
+  },
+  {
+    "BIN_ID": 867,
+    "BIN_CODE": "BIN-0867",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 660,
+    "WAREHOUSE_CODE": "WH0660",
+    "WAREHOUSE_CAPACITY": 24248
+  },
+  {
+    "BIN_ID": 868,
+    "BIN_CODE": "BIN-0868",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 909,
+    "WAREHOUSE_CODE": "WH0909",
+    "WAREHOUSE_CAPACITY": 24547
+  },
+  {
+    "BIN_ID": 869,
+    "BIN_CODE": "BIN-0869",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 564,
+    "WAREHOUSE_CODE": "WH0564",
+    "WAREHOUSE_CAPACITY": 39295
+  },
+  {
+    "BIN_ID": 870,
+    "BIN_CODE": "BIN-0870",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 217,
+    "WAREHOUSE_CODE": "WH0217",
+    "WAREHOUSE_CAPACITY": 55429
+  },
+  {
+    "BIN_ID": 871,
+    "BIN_CODE": "BIN-0871",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 369,
+    "WAREHOUSE_CODE": "WH0369",
+    "WAREHOUSE_CAPACITY": 34536
+  },
+  {
+    "BIN_ID": 872,
+    "BIN_CODE": "BIN-0872",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 359,
+    "WAREHOUSE_CODE": "WH0359",
+    "WAREHOUSE_CAPACITY": 24860
+  },
+  {
+    "BIN_ID": 873,
+    "BIN_CODE": "BIN-0873",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 907,
+    "WAREHOUSE_CODE": "WH0907",
+    "WAREHOUSE_CAPACITY": 76855
+  },
+  {
+    "BIN_ID": 874,
+    "BIN_CODE": "BIN-0874",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 780,
+    "WAREHOUSE_CODE": "WH0780",
+    "WAREHOUSE_CAPACITY": 30178
+  },
+  {
+    "BIN_ID": 875,
+    "BIN_CODE": "BIN-0875",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 627,
+    "WAREHOUSE_CODE": "WH0627",
+    "WAREHOUSE_CAPACITY": 10515
+  },
+  {
+    "BIN_ID": 876,
+    "BIN_CODE": "BIN-0876",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 648,
+    "WAREHOUSE_CODE": "WH0648",
+    "WAREHOUSE_CAPACITY": 9691
+  },
+  {
+    "BIN_ID": 877,
+    "BIN_CODE": "BIN-0877",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 962,
+    "WAREHOUSE_CODE": "WH0962",
+    "WAREHOUSE_CAPACITY": 26968
+  },
+  {
+    "BIN_ID": 878,
+    "BIN_CODE": "BIN-0878",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 643,
+    "WAREHOUSE_CODE": "WH0643",
+    "WAREHOUSE_CAPACITY": 49474
+  },
+  {
+    "BIN_ID": 879,
+    "BIN_CODE": "BIN-0879",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 756,
+    "WAREHOUSE_CODE": "WH0756",
+    "WAREHOUSE_CAPACITY": 14978
+  },
+  {
+    "BIN_ID": 880,
+    "BIN_CODE": "BIN-0880",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 429,
+    "WAREHOUSE_CODE": "WH0429",
+    "WAREHOUSE_CAPACITY": 5046
+  },
+  {
+    "BIN_ID": 881,
+    "BIN_CODE": "BIN-0881",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 405,
+    "WAREHOUSE_CODE": "WH0405",
+    "WAREHOUSE_CAPACITY": 17288
+  },
+  {
+    "BIN_ID": 882,
+    "BIN_CODE": "BIN-0882",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 529,
+    "WAREHOUSE_CODE": "WH0529",
+    "WAREHOUSE_CAPACITY": 11385
+  },
+  {
+    "BIN_ID": 883,
+    "BIN_CODE": "BIN-0883",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 242,
+    "WAREHOUSE_CODE": "WH0242",
+    "WAREHOUSE_CAPACITY": 30271
+  },
+  {
+    "BIN_ID": 884,
+    "BIN_CODE": "BIN-0884",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 962,
+    "WAREHOUSE_CODE": "WH0962",
+    "WAREHOUSE_CAPACITY": 26968
+  },
+  {
+    "BIN_ID": 885,
+    "BIN_CODE": "BIN-0885",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 213,
+    "WAREHOUSE_CODE": "WH0213",
+    "WAREHOUSE_CAPACITY": 10177
+  },
+  {
+    "BIN_ID": 886,
+    "BIN_CODE": "BIN-0886",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 861,
+    "WAREHOUSE_CODE": "WH0861",
+    "WAREHOUSE_CAPACITY": 8135
+  },
+  {
+    "BIN_ID": 887,
+    "BIN_CODE": "BIN-0887",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 263,
+    "WAREHOUSE_CODE": "WH0263",
+    "WAREHOUSE_CAPACITY": 63180
+  },
+  {
+    "BIN_ID": 888,
+    "BIN_CODE": "BIN-0888",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 997,
+    "WAREHOUSE_CODE": "WH0997",
+    "WAREHOUSE_CAPACITY": 3417
+  },
+  {
+    "BIN_ID": 889,
+    "BIN_CODE": "BIN-0889",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 312,
+    "WAREHOUSE_CODE": "WH0312",
+    "WAREHOUSE_CAPACITY": 52899
+  },
+  {
+    "BIN_ID": 890,
+    "BIN_CODE": "BIN-0890",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 925,
+    "WAREHOUSE_CODE": "WH0925",
+    "WAREHOUSE_CAPACITY": 58204
+  },
+  {
+    "BIN_ID": 891,
+    "BIN_CODE": "BIN-0891",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 948,
+    "WAREHOUSE_CODE": "WH0948",
+    "WAREHOUSE_CAPACITY": 14875
+  },
+  {
+    "BIN_ID": 892,
+    "BIN_CODE": "BIN-0892",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 437,
+    "WAREHOUSE_CODE": "WH0437",
+    "WAREHOUSE_CAPACITY": 24913
+  },
+  {
+    "BIN_ID": 893,
+    "BIN_CODE": "BIN-0893",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 44,
+    "WAREHOUSE_CODE": "WH0044",
+    "WAREHOUSE_CAPACITY": 16014
+  },
+  {
+    "BIN_ID": 894,
+    "BIN_CODE": "BIN-0894",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 604,
+    "WAREHOUSE_CODE": "WH0604",
+    "WAREHOUSE_CAPACITY": 84715
+  },
+  {
+    "BIN_ID": 895,
+    "BIN_CODE": "BIN-0895",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 49,
+    "WAREHOUSE_CODE": "WH0049",
+    "WAREHOUSE_CAPACITY": 33478
+  },
+  {
+    "BIN_ID": 896,
+    "BIN_CODE": "BIN-0896",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 496,
+    "WAREHOUSE_CODE": "WH0496",
+    "WAREHOUSE_CAPACITY": 30475
+  },
+  {
+    "BIN_ID": 897,
+    "BIN_CODE": "BIN-0897",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 336,
+    "WAREHOUSE_CODE": "WH0336",
+    "WAREHOUSE_CAPACITY": 88211
+  },
+  {
+    "BIN_ID": 898,
+    "BIN_CODE": "BIN-0898",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 521,
+    "WAREHOUSE_CODE": "WH0521",
+    "WAREHOUSE_CAPACITY": 2597
+  },
+  {
+    "BIN_ID": 899,
+    "BIN_CODE": "BIN-0899",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 937,
+    "WAREHOUSE_CODE": "WH0937",
+    "WAREHOUSE_CAPACITY": 1392
+  },
+  {
+    "BIN_ID": 900,
+    "BIN_CODE": "BIN-0900",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 48,
+    "WAREHOUSE_CODE": "WH0048",
+    "WAREHOUSE_CAPACITY": 6229
+  },
+  {
+    "BIN_ID": 901,
+    "BIN_CODE": "BIN-0901",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 69,
+    "WAREHOUSE_CODE": "WH0069",
+    "WAREHOUSE_CAPACITY": 20197
+  },
+  {
+    "BIN_ID": 902,
+    "BIN_CODE": "BIN-0902",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 839,
+    "WAREHOUSE_CODE": "WH0839",
+    "WAREHOUSE_CAPACITY": 90930
+  },
+  {
+    "BIN_ID": 903,
+    "BIN_CODE": "BIN-0903",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 856,
+    "WAREHOUSE_CODE": "WH0856",
+    "WAREHOUSE_CAPACITY": 95723
+  },
+  {
+    "BIN_ID": 904,
+    "BIN_CODE": "BIN-0904",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 678,
+    "WAREHOUSE_CODE": "WH0678",
+    "WAREHOUSE_CAPACITY": 39075
+  },
+  {
+    "BIN_ID": 905,
+    "BIN_CODE": "BIN-0905",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 662,
+    "WAREHOUSE_CODE": "WH0662",
+    "WAREHOUSE_CAPACITY": 20399
+  },
+  {
+    "BIN_ID": 906,
+    "BIN_CODE": "BIN-0906",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 758,
+    "WAREHOUSE_CODE": "WH0758",
+    "WAREHOUSE_CAPACITY": 90683
+  },
+  {
+    "BIN_ID": 907,
+    "BIN_CODE": "BIN-0907",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 791,
+    "WAREHOUSE_CODE": "WH0791",
+    "WAREHOUSE_CAPACITY": 89452
+  },
+  {
+    "BIN_ID": 908,
+    "BIN_CODE": "BIN-0908",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 416,
+    "WAREHOUSE_CODE": "WH0416",
+    "WAREHOUSE_CAPACITY": 51379
+  },
+  {
+    "BIN_ID": 909,
+    "BIN_CODE": "BIN-0909",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 874,
+    "WAREHOUSE_CODE": "WH0874",
+    "WAREHOUSE_CAPACITY": 42200
+  },
+  {
+    "BIN_ID": 910,
+    "BIN_CODE": "BIN-0910",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 839,
+    "WAREHOUSE_CODE": "WH0839",
+    "WAREHOUSE_CAPACITY": 90930
+  },
+  {
+    "BIN_ID": 911,
+    "BIN_CODE": "BIN-0911",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 270,
+    "WAREHOUSE_CODE": "WH0270",
+    "WAREHOUSE_CAPACITY": 7938
+  },
+  {
+    "BIN_ID": 912,
+    "BIN_CODE": "BIN-0912",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 396,
+    "WAREHOUSE_CODE": "WH0396",
+    "WAREHOUSE_CAPACITY": 42182
+  },
+  {
+    "BIN_ID": 913,
+    "BIN_CODE": "BIN-0913",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 82,
+    "WAREHOUSE_CODE": "WH0082",
+    "WAREHOUSE_CAPACITY": 28746
+  },
+  {
+    "BIN_ID": 914,
+    "BIN_CODE": "BIN-0914",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 144,
+    "WAREHOUSE_CODE": "WH0144",
+    "WAREHOUSE_CAPACITY": 21784
+  },
+  {
+    "BIN_ID": 915,
+    "BIN_CODE": "BIN-0915",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 985,
+    "WAREHOUSE_CODE": "WH0985",
+    "WAREHOUSE_CAPACITY": 16535
+  },
+  {
+    "BIN_ID": 916,
+    "BIN_CODE": "BIN-0916",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 785,
+    "WAREHOUSE_CODE": "WH0785",
+    "WAREHOUSE_CAPACITY": 99315
+  },
+  {
+    "BIN_ID": 917,
+    "BIN_CODE": "BIN-0917",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 247,
+    "WAREHOUSE_CODE": "WH0247",
+    "WAREHOUSE_CAPACITY": 85518
+  },
+  {
+    "BIN_ID": 918,
+    "BIN_CODE": "BIN-0918",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 285,
+    "WAREHOUSE_CODE": "WH0285",
+    "WAREHOUSE_CAPACITY": 27443
+  },
+  {
+    "BIN_ID": 919,
+    "BIN_CODE": "BIN-0919",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 532,
+    "WAREHOUSE_CODE": "WH0532",
+    "WAREHOUSE_CAPACITY": 33434
+  },
+  {
+    "BIN_ID": 920,
+    "BIN_CODE": "BIN-0920",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 642,
+    "WAREHOUSE_CODE": "WH0642",
+    "WAREHOUSE_CAPACITY": 15937
+  },
+  {
+    "BIN_ID": 921,
+    "BIN_CODE": "BIN-0921",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 101,
+    "WAREHOUSE_CODE": "WH0101",
+    "WAREHOUSE_CAPACITY": 52722
+  },
+  {
+    "BIN_ID": 922,
+    "BIN_CODE": "BIN-0922",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 566,
+    "WAREHOUSE_CODE": "WH0566",
+    "WAREHOUSE_CAPACITY": 18987
+  },
+  {
+    "BIN_ID": 923,
+    "BIN_CODE": "BIN-0923",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 420,
+    "WAREHOUSE_CODE": "WH0420",
+    "WAREHOUSE_CAPACITY": 10643
+  },
+  {
+    "BIN_ID": 924,
+    "BIN_CODE": "BIN-0924",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 876,
+    "WAREHOUSE_CODE": "WH0876",
+    "WAREHOUSE_CAPACITY": 14842
+  },
+  {
+    "BIN_ID": 925,
+    "BIN_CODE": "BIN-0925",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 315,
+    "WAREHOUSE_CODE": "WH0315",
+    "WAREHOUSE_CAPACITY": 45061
+  },
+  {
+    "BIN_ID": 926,
+    "BIN_CODE": "BIN-0926",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 228,
+    "WAREHOUSE_CODE": "WH0228",
+    "WAREHOUSE_CAPACITY": 51542
+  },
+  {
+    "BIN_ID": 927,
+    "BIN_CODE": "BIN-0927",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 812,
+    "WAREHOUSE_CODE": "WH0812",
+    "WAREHOUSE_CAPACITY": 47012
+  },
+  {
+    "BIN_ID": 928,
+    "BIN_CODE": "BIN-0928",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 882,
+    "WAREHOUSE_CODE": "WH0882",
+    "WAREHOUSE_CAPACITY": 70239
+  },
+  {
+    "BIN_ID": 929,
+    "BIN_CODE": "BIN-0929",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 472,
+    "WAREHOUSE_CODE": "WH0472",
+    "WAREHOUSE_CAPACITY": 39728
+  },
+  {
+    "BIN_ID": 930,
+    "BIN_CODE": "BIN-0930",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 738,
+    "WAREHOUSE_CODE": "WH0738",
+    "WAREHOUSE_CAPACITY": 55528
+  },
+  {
+    "BIN_ID": 931,
+    "BIN_CODE": "BIN-0931",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 255,
+    "WAREHOUSE_CODE": "WH0255",
+    "WAREHOUSE_CAPACITY": 46390
+  },
+  {
+    "BIN_ID": 932,
+    "BIN_CODE": "BIN-0932",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 860,
+    "WAREHOUSE_CODE": "WH0860",
+    "WAREHOUSE_CAPACITY": 82203
+  },
+  {
+    "BIN_ID": 933,
+    "BIN_CODE": "BIN-0933",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 236,
+    "WAREHOUSE_CODE": "WH0236",
+    "WAREHOUSE_CAPACITY": 80665
+  },
+  {
+    "BIN_ID": 934,
+    "BIN_CODE": "BIN-0934",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 364,
+    "WAREHOUSE_CODE": "WH0364",
+    "WAREHOUSE_CAPACITY": 97103
+  },
+  {
+    "BIN_ID": 935,
+    "BIN_CODE": "BIN-0935",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 482,
+    "WAREHOUSE_CODE": "WH0482",
+    "WAREHOUSE_CAPACITY": 83954
+  },
+  {
+    "BIN_ID": 936,
+    "BIN_CODE": "BIN-0936",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 670,
+    "WAREHOUSE_CODE": "WH0670",
+    "WAREHOUSE_CAPACITY": 16861
+  },
+  {
+    "BIN_ID": 937,
+    "BIN_CODE": "BIN-0937",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 63,
+    "WAREHOUSE_CODE": "WH0063",
+    "WAREHOUSE_CAPACITY": 78863
+  },
+  {
+    "BIN_ID": 938,
+    "BIN_CODE": "BIN-0938",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 371,
+    "WAREHOUSE_CODE": "WH0371",
+    "WAREHOUSE_CAPACITY": 63165
+  },
+  {
+    "BIN_ID": 939,
+    "BIN_CODE": "BIN-0939",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 877,
+    "WAREHOUSE_CODE": "WH0877",
+    "WAREHOUSE_CAPACITY": 65730
+  },
+  {
+    "BIN_ID": 940,
+    "BIN_CODE": "BIN-0940",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 238,
+    "WAREHOUSE_CODE": "WH0238",
+    "WAREHOUSE_CAPACITY": 53586
+  },
+  {
+    "BIN_ID": 941,
+    "BIN_CODE": "BIN-0941",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 257,
+    "WAREHOUSE_CODE": "WH0257",
+    "WAREHOUSE_CAPACITY": 4082
+  },
+  {
+    "BIN_ID": 942,
+    "BIN_CODE": "BIN-0942",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 806,
+    "WAREHOUSE_CODE": "WH0806",
+    "WAREHOUSE_CAPACITY": 49165
+  },
+  {
+    "BIN_ID": 943,
+    "BIN_CODE": "BIN-0943",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 522,
+    "WAREHOUSE_CODE": "WH0522",
+    "WAREHOUSE_CAPACITY": 68496
+  },
+  {
+    "BIN_ID": 944,
+    "BIN_CODE": "BIN-0944",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 203,
+    "WAREHOUSE_CODE": "WH0203",
+    "WAREHOUSE_CAPACITY": 38838
+  },
+  {
+    "BIN_ID": 945,
+    "BIN_CODE": "BIN-0945",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 990,
+    "WAREHOUSE_CODE": "WH0990",
+    "WAREHOUSE_CAPACITY": 60895
+  },
+  {
+    "BIN_ID": 946,
+    "BIN_CODE": "BIN-0946",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 722,
+    "WAREHOUSE_CODE": "WH0722",
+    "WAREHOUSE_CAPACITY": 59876
+  },
+  {
+    "BIN_ID": 947,
+    "BIN_CODE": "BIN-0947",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 87,
+    "WAREHOUSE_CODE": "WH0087",
+    "WAREHOUSE_CAPACITY": 87431
+  },
+  {
+    "BIN_ID": 948,
+    "BIN_CODE": "BIN-0948",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 313,
+    "WAREHOUSE_CODE": "WH0313",
+    "WAREHOUSE_CAPACITY": 87997
+  },
+  {
+    "BIN_ID": 949,
+    "BIN_CODE": "BIN-0949",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 402,
+    "WAREHOUSE_CODE": "WH0402",
+    "WAREHOUSE_CAPACITY": 29511
+  },
+  {
+    "BIN_ID": 950,
+    "BIN_CODE": "BIN-0950",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 933,
+    "WAREHOUSE_CODE": "WH0933",
+    "WAREHOUSE_CAPACITY": 25111
+  },
+  {
+    "BIN_ID": 951,
+    "BIN_CODE": "BIN-0951",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 840,
+    "WAREHOUSE_CODE": "WH0840",
+    "WAREHOUSE_CAPACITY": 84002
+  },
+  {
+    "BIN_ID": 952,
+    "BIN_CODE": "BIN-0952",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 484,
+    "WAREHOUSE_CODE": "WH0484",
+    "WAREHOUSE_CAPACITY": 22670
+  },
+  {
+    "BIN_ID": 953,
+    "BIN_CODE": "BIN-0953",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 680,
+    "WAREHOUSE_CODE": "WH0680",
+    "WAREHOUSE_CAPACITY": 24668
+  },
+  {
+    "BIN_ID": 954,
+    "BIN_CODE": "BIN-0954",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 806,
+    "WAREHOUSE_CODE": "WH0806",
+    "WAREHOUSE_CAPACITY": 49165
+  },
+  {
+    "BIN_ID": 955,
+    "BIN_CODE": "BIN-0955",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 564,
+    "WAREHOUSE_CODE": "WH0564",
+    "WAREHOUSE_CAPACITY": 39295
+  },
+  {
+    "BIN_ID": 956,
+    "BIN_CODE": "BIN-0956",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 767,
+    "WAREHOUSE_CODE": "WH0767",
+    "WAREHOUSE_CAPACITY": 85866
+  },
+  {
+    "BIN_ID": 957,
+    "BIN_CODE": "BIN-0957",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 272,
+    "WAREHOUSE_CODE": "WH0272",
+    "WAREHOUSE_CAPACITY": 43685
+  },
+  {
+    "BIN_ID": 958,
+    "BIN_CODE": "BIN-0958",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 205,
+    "WAREHOUSE_CODE": "WH0205",
+    "WAREHOUSE_CAPACITY": 32362
+  },
+  {
+    "BIN_ID": 959,
+    "BIN_CODE": "BIN-0959",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 262,
+    "WAREHOUSE_CODE": "WH0262",
+    "WAREHOUSE_CAPACITY": 18188
+  },
+  {
+    "BIN_ID": 960,
+    "BIN_CODE": "BIN-0960",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 875,
+    "WAREHOUSE_CODE": "WH0875",
+    "WAREHOUSE_CAPACITY": 63346
+  },
+  {
+    "BIN_ID": 961,
+    "BIN_CODE": "BIN-0961",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 17,
+    "WAREHOUSE_CODE": "WH0017",
+    "WAREHOUSE_CAPACITY": 72960
+  },
+  {
+    "BIN_ID": 962,
+    "BIN_CODE": "BIN-0962",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 179,
+    "WAREHOUSE_CODE": "WH0179",
+    "WAREHOUSE_CAPACITY": 91265
+  },
+  {
+    "BIN_ID": 963,
+    "BIN_CODE": "BIN-0963",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 986,
+    "WAREHOUSE_CODE": "WH0986",
+    "WAREHOUSE_CAPACITY": 45790
+  },
+  {
+    "BIN_ID": 964,
+    "BIN_CODE": "BIN-0964",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 587,
+    "WAREHOUSE_CODE": "WH0587",
+    "WAREHOUSE_CAPACITY": 6431
+  },
+  {
+    "BIN_ID": 965,
+    "BIN_CODE": "BIN-0965",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 689,
+    "WAREHOUSE_CODE": "WH0689",
+    "WAREHOUSE_CAPACITY": 35533
+  },
+  {
+    "BIN_ID": 966,
+    "BIN_CODE": "BIN-0966",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 969,
+    "WAREHOUSE_CODE": "WH0969",
+    "WAREHOUSE_CAPACITY": 76822
+  },
+  {
+    "BIN_ID": 967,
+    "BIN_CODE": "BIN-0967",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 6,
+    "WAREHOUSE_CODE": "WH0006",
+    "WAREHOUSE_CAPACITY": 63860
+  },
+  {
+    "BIN_ID": 968,
+    "BIN_CODE": "BIN-0968",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 795,
+    "WAREHOUSE_CODE": "WH0795",
+    "WAREHOUSE_CAPACITY": 76206
+  },
+  {
+    "BIN_ID": 969,
+    "BIN_CODE": "BIN-0969",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 26,
+    "WAREHOUSE_CODE": "WH0026",
+    "WAREHOUSE_CAPACITY": 61297
+  },
+  {
+    "BIN_ID": 970,
+    "BIN_CODE": "BIN-0970",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 295,
+    "WAREHOUSE_CODE": "WH0295",
+    "WAREHOUSE_CAPACITY": 75573
+  },
+  {
+    "BIN_ID": 971,
+    "BIN_CODE": "BIN-0971",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 611,
+    "WAREHOUSE_CODE": "WH0611",
+    "WAREHOUSE_CAPACITY": 89880
+  },
+  {
+    "BIN_ID": 972,
+    "BIN_CODE": "BIN-0972",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 200,
+    "WAREHOUSE_CODE": "WH0200",
+    "WAREHOUSE_CAPACITY": 98155
+  },
+  {
+    "BIN_ID": 973,
+    "BIN_CODE": "BIN-0973",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 985,
+    "WAREHOUSE_CODE": "WH0985",
+    "WAREHOUSE_CAPACITY": 16535
+  },
+  {
+    "BIN_ID": 974,
+    "BIN_CODE": "BIN-0974",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 16,
+    "WAREHOUSE_CODE": "WH0016",
+    "WAREHOUSE_CAPACITY": 92198
+  },
+  {
+    "BIN_ID": 975,
+    "BIN_CODE": "BIN-0975",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 176,
+    "WAREHOUSE_CODE": "WH0176",
+    "WAREHOUSE_CAPACITY": 54175
+  },
+  {
+    "BIN_ID": 976,
+    "BIN_CODE": "BIN-0976",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 746,
+    "WAREHOUSE_CODE": "WH0746",
+    "WAREHOUSE_CAPACITY": 75728
+  },
+  {
+    "BIN_ID": 977,
+    "BIN_CODE": "BIN-0977",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 94,
+    "WAREHOUSE_CODE": "WH0094",
+    "WAREHOUSE_CAPACITY": 41899
+  },
+  {
+    "BIN_ID": 978,
+    "BIN_CODE": "BIN-0978",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 739,
+    "WAREHOUSE_CODE": "WH0739",
+    "WAREHOUSE_CAPACITY": 66663
+  },
+  {
+    "BIN_ID": 979,
+    "BIN_CODE": "BIN-0979",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 113,
+    "WAREHOUSE_CODE": "WH0113",
+    "WAREHOUSE_CAPACITY": 9069
+  },
+  {
+    "BIN_ID": 980,
+    "BIN_CODE": "BIN-0980",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 879,
+    "WAREHOUSE_CODE": "WH0879",
+    "WAREHOUSE_CAPACITY": 28524
+  },
+  {
+    "BIN_ID": 981,
+    "BIN_CODE": "BIN-0981",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 365,
+    "WAREHOUSE_CODE": "WH0365",
+    "WAREHOUSE_CAPACITY": 73728
+  },
+  {
+    "BIN_ID": 982,
+    "BIN_CODE": "BIN-0982",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 812,
+    "WAREHOUSE_CODE": "WH0812",
+    "WAREHOUSE_CAPACITY": 47012
+  },
+  {
+    "BIN_ID": 983,
+    "BIN_CODE": "BIN-0983",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 701,
+    "WAREHOUSE_CODE": "WH0701",
+    "WAREHOUSE_CAPACITY": 82696
+  },
+  {
+    "BIN_ID": 984,
+    "BIN_CODE": "BIN-0984",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 220,
+    "WAREHOUSE_CODE": "WH0220",
+    "WAREHOUSE_CAPACITY": 18407
+  },
+  {
+    "BIN_ID": 985,
+    "BIN_CODE": "BIN-0985",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 432,
+    "WAREHOUSE_CODE": "WH0432",
+    "WAREHOUSE_CAPACITY": 74465
+  },
+  {
+    "BIN_ID": 986,
+    "BIN_CODE": "BIN-0986",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 891,
+    "WAREHOUSE_CODE": "WH0891",
+    "WAREHOUSE_CAPACITY": 67424
+  },
+  {
+    "BIN_ID": 987,
+    "BIN_CODE": "BIN-0987",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 609,
+    "WAREHOUSE_CODE": "WH0609",
+    "WAREHOUSE_CAPACITY": 94093
+  },
+  {
+    "BIN_ID": 988,
+    "BIN_CODE": "BIN-0988",
+    "ZONE": "E",
+    "WAREHOUSE_ID": 784,
+    "WAREHOUSE_CODE": "WH0784",
+    "WAREHOUSE_CAPACITY": 62597
+  },
+  {
+    "BIN_ID": 989,
+    "BIN_CODE": "BIN-0989",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 788,
+    "WAREHOUSE_CODE": "WH0788",
+    "WAREHOUSE_CAPACITY": 9411
+  },
+  {
+    "BIN_ID": 990,
+    "BIN_CODE": "BIN-0990",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 149,
+    "WAREHOUSE_CODE": "WH0149",
+    "WAREHOUSE_CAPACITY": 81439
+  },
+  {
+    "BIN_ID": 991,
+    "BIN_CODE": "BIN-0991",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 592,
+    "WAREHOUSE_CODE": "WH0592",
+    "WAREHOUSE_CAPACITY": 71975
+  },
+  {
+    "BIN_ID": 992,
+    "BIN_CODE": "BIN-0992",
+    "ZONE": "C",
+    "WAREHOUSE_ID": 443,
+    "WAREHOUSE_CODE": "WH0443",
+    "WAREHOUSE_CAPACITY": 45860
+  },
+  {
+    "BIN_ID": 993,
+    "BIN_CODE": "BIN-0993",
+    "ZONE": "B",
+    "WAREHOUSE_ID": 400,
+    "WAREHOUSE_CODE": "WH0400",
+    "WAREHOUSE_CAPACITY": 59981
+  },
+  {
+    "BIN_ID": 994,
+    "BIN_CODE": "BIN-0994",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 352,
+    "WAREHOUSE_CODE": "WH0352",
+    "WAREHOUSE_CAPACITY": 11076
+  },
+  {
+    "BIN_ID": 995,
+    "BIN_CODE": "BIN-0995",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 542,
+    "WAREHOUSE_CODE": "WH0542",
+    "WAREHOUSE_CAPACITY": 84973
+  },
+  {
+    "BIN_ID": 996,
+    "BIN_CODE": "BIN-0996",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 281,
+    "WAREHOUSE_CODE": "WH0281",
+    "WAREHOUSE_CAPACITY": 49784
+  },
+  {
+    "BIN_ID": 997,
+    "BIN_CODE": "BIN-0997",
+    "ZONE": "F",
+    "WAREHOUSE_ID": 301,
+    "WAREHOUSE_CODE": "WH0301",
+    "WAREHOUSE_CAPACITY": 79943
+  },
+  {
+    "BIN_ID": 998,
+    "BIN_CODE": "BIN-0998",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 433,
+    "WAREHOUSE_CODE": "WH0433",
+    "WAREHOUSE_CAPACITY": 43113
+  },
+  {
+    "BIN_ID": 999,
+    "BIN_CODE": "BIN-0999",
+    "ZONE": "A",
+    "WAREHOUSE_ID": 367,
+    "WAREHOUSE_CODE": "WH0367",
+    "WAREHOUSE_CAPACITY": 40579
+  },
+  {
+    "BIN_ID": 1000,
+    "BIN_CODE": "BIN-1000",
+    "ZONE": "D",
+    "WAREHOUSE_ID": 686,
+    "WAREHOUSE_CODE": "WH0686",
+    "WAREHOUSE_CAPACITY": 62774
+  }
+]

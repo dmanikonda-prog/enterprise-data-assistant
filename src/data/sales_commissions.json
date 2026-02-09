@@ -1,0 +1,6002 @@
+[
+  {
+    "COMMISSION_ID": 1,
+    "SALES_REP_ID": 140,
+    "PERIOD_END": "2023-08-28",
+    "AMOUNT": 505.93
+  },
+  {
+    "COMMISSION_ID": 2,
+    "SALES_REP_ID": 395,
+    "PERIOD_END": "2024-10-28",
+    "AMOUNT": 3174.87
+  },
+  {
+    "COMMISSION_ID": 3,
+    "SALES_REP_ID": 477,
+    "PERIOD_END": "2024-07-01",
+    "AMOUNT": 3865.06
+  },
+  {
+    "COMMISSION_ID": 4,
+    "SALES_REP_ID": 292,
+    "PERIOD_END": "2023-12-06",
+    "AMOUNT": 1946.54
+  },
+  {
+    "COMMISSION_ID": 5,
+    "SALES_REP_ID": 452,
+    "PERIOD_END": "2023-10-22",
+    "AMOUNT": 4205.55
+  },
+  {
+    "COMMISSION_ID": 6,
+    "SALES_REP_ID": 455,
+    "PERIOD_END": "2023-01-14",
+    "AMOUNT": 3933.62
+  },
+  {
+    "COMMISSION_ID": 7,
+    "SALES_REP_ID": 122,
+    "PERIOD_END": "2024-09-21",
+    "AMOUNT": 1548.97
+  },
+  {
+    "COMMISSION_ID": 8,
+    "SALES_REP_ID": 776,
+    "PERIOD_END": "2023-12-28",
+    "AMOUNT": 1059.48
+  },
+  {
+    "COMMISSION_ID": 9,
+    "SALES_REP_ID": 630,
+    "PERIOD_END": "2024-12-17",
+    "AMOUNT": 4570.95
+  },
+  {
+    "COMMISSION_ID": 10,
+    "SALES_REP_ID": 943,
+    "PERIOD_END": "2023-03-24",
+    "AMOUNT": 3383.39
+  },
+  {
+    "COMMISSION_ID": 11,
+    "SALES_REP_ID": 998,
+    "PERIOD_END": "2024-05-25",
+    "AMOUNT": 2196.75
+  },
+  {
+    "COMMISSION_ID": 12,
+    "SALES_REP_ID": 431,
+    "PERIOD_END": "2024-12-29",
+    "AMOUNT": 2197.25
+  },
+  {
+    "COMMISSION_ID": 13,
+    "SALES_REP_ID": 60,
+    "PERIOD_END": "2023-12-19",
+    "AMOUNT": 966.3
+  },
+  {
+    "COMMISSION_ID": 14,
+    "SALES_REP_ID": 483,
+    "PERIOD_END": "2024-10-25",
+    "AMOUNT": 4492.02
+  },
+  {
+    "COMMISSION_ID": 15,
+    "SALES_REP_ID": 429,
+    "PERIOD_END": "2023-03-10",
+    "AMOUNT": 712.61
+  },
+  {
+    "COMMISSION_ID": 16,
+    "SALES_REP_ID": 803,
+    "PERIOD_END": "2024-08-12",
+    "AMOUNT": 884.59
+  },
+  {
+    "COMMISSION_ID": 17,
+    "SALES_REP_ID": 89,
+    "PERIOD_END": "2024-12-18",
+    "AMOUNT": 3275.21
+  },
+  {
+    "COMMISSION_ID": 18,
+    "SALES_REP_ID": 489,
+    "PERIOD_END": "2024-07-14",
+    "AMOUNT": 369.23
+  },
+  {
+    "COMMISSION_ID": 19,
+    "SALES_REP_ID": 679,
+    "PERIOD_END": "2023-03-17",
+    "AMOUNT": 4006.05
+  },
+  {
+    "COMMISSION_ID": 20,
+    "SALES_REP_ID": 640,
+    "PERIOD_END": "2023-03-03",
+    "AMOUNT": 863.81
+  },
+  {
+    "COMMISSION_ID": 21,
+    "SALES_REP_ID": 252,
+    "PERIOD_END": "2023-03-12",
+    "AMOUNT": 3408.34
+  },
+  {
+    "COMMISSION_ID": 22,
+    "SALES_REP_ID": 401,
+    "PERIOD_END": "2024-05-04",
+    "AMOUNT": 3167.71
+  },
+  {
+    "COMMISSION_ID": 23,
+    "SALES_REP_ID": 697,
+    "PERIOD_END": "2024-03-28",
+    "AMOUNT": 217.8
+  },
+  {
+    "COMMISSION_ID": 24,
+    "SALES_REP_ID": 645,
+    "PERIOD_END": "2024-05-04",
+    "AMOUNT": 3199.79
+  },
+  {
+    "COMMISSION_ID": 25,
+    "SALES_REP_ID": 210,
+    "PERIOD_END": "2023-12-10",
+    "AMOUNT": 1305.76
+  },
+  {
+    "COMMISSION_ID": 26,
+    "SALES_REP_ID": 155,
+    "PERIOD_END": "2023-07-23",
+    "AMOUNT": 3451.38
+  },
+  {
+    "COMMISSION_ID": 27,
+    "SALES_REP_ID": 127,
+    "PERIOD_END": "2024-07-06",
+    "AMOUNT": 1843.11
+  },
+  {
+    "COMMISSION_ID": 28,
+    "SALES_REP_ID": 160,
+    "PERIOD_END": "2023-03-15",
+    "AMOUNT": 4358.12
+  },
+  {
+    "COMMISSION_ID": 29,
+    "SALES_REP_ID": 388,
+    "PERIOD_END": "2024-10-13",
+    "AMOUNT": 2632.4
+  },
+  {
+    "COMMISSION_ID": 30,
+    "SALES_REP_ID": 292,
+    "PERIOD_END": "2024-10-24",
+    "AMOUNT": 2611.88
+  },
+  {
+    "COMMISSION_ID": 31,
+    "SALES_REP_ID": 425,
+    "PERIOD_END": "2023-08-14",
+    "AMOUNT": 4566.91
+  },
+  {
+    "COMMISSION_ID": 32,
+    "SALES_REP_ID": 86,
+    "PERIOD_END": "2023-03-27",
+    "AMOUNT": 1501.73
+  },
+  {
+    "COMMISSION_ID": 33,
+    "SALES_REP_ID": 156,
+    "PERIOD_END": "2024-09-12",
+    "AMOUNT": 1626.69
+  },
+  {
+    "COMMISSION_ID": 34,
+    "SALES_REP_ID": 23,
+    "PERIOD_END": "2023-02-11",
+    "AMOUNT": 241.7
+  },
+  {
+    "COMMISSION_ID": 35,
+    "SALES_REP_ID": 765,
+    "PERIOD_END": "2023-09-08",
+    "AMOUNT": 2322.42
+  },
+  {
+    "COMMISSION_ID": 36,
+    "SALES_REP_ID": 345,
+    "PERIOD_END": "2023-09-09",
+    "AMOUNT": 2892.01
+  },
+  {
+    "COMMISSION_ID": 37,
+    "SALES_REP_ID": 551,
+    "PERIOD_END": "2024-08-01",
+    "AMOUNT": 4548.53
+  },
+  {
+    "COMMISSION_ID": 38,
+    "SALES_REP_ID": 153,
+    "PERIOD_END": "2023-09-07",
+    "AMOUNT": 3544.89
+  },
+  {
+    "COMMISSION_ID": 39,
+    "SALES_REP_ID": 75,
+    "PERIOD_END": "2023-08-01",
+    "AMOUNT": 801.69
+  },
+  {
+    "COMMISSION_ID": 40,
+    "SALES_REP_ID": 448,
+    "PERIOD_END": "2023-12-19",
+    "AMOUNT": 3037.25
+  },
+  {
+    "COMMISSION_ID": 41,
+    "SALES_REP_ID": 642,
+    "PERIOD_END": "2024-05-29",
+    "AMOUNT": 4272.14
+  },
+  {
+    "COMMISSION_ID": 42,
+    "SALES_REP_ID": 390,
+    "PERIOD_END": "2024-09-19",
+    "AMOUNT": 1122.59
+  },
+  {
+    "COMMISSION_ID": 43,
+    "SALES_REP_ID": 995,
+    "PERIOD_END": "2024-05-05",
+    "AMOUNT": 3799.33
+  },
+  {
+    "COMMISSION_ID": 44,
+    "SALES_REP_ID": 549,
+    "PERIOD_END": "2024-12-31",
+    "AMOUNT": 1363.49
+  },
+  {
+    "COMMISSION_ID": 45,
+    "SALES_REP_ID": 503,
+    "PERIOD_END": "2024-11-05",
+    "AMOUNT": 2813.35
+  },
+  {
+    "COMMISSION_ID": 46,
+    "SALES_REP_ID": 821,
+    "PERIOD_END": "2024-11-30",
+    "AMOUNT": 2534.97
+  },
+  {
+    "COMMISSION_ID": 47,
+    "SALES_REP_ID": 351,
+    "PERIOD_END": "2024-08-06",
+    "AMOUNT": 450.73
+  },
+  {
+    "COMMISSION_ID": 48,
+    "SALES_REP_ID": 350,
+    "PERIOD_END": "2023-08-04",
+    "AMOUNT": 4604.81
+  },
+  {
+    "COMMISSION_ID": 49,
+    "SALES_REP_ID": 143,
+    "PERIOD_END": "2023-02-12",
+    "AMOUNT": 561.81
+  },
+  {
+    "COMMISSION_ID": 50,
+    "SALES_REP_ID": 798,
+    "PERIOD_END": "2023-10-09",
+    "AMOUNT": 3369.76
+  },
+  {
+    "COMMISSION_ID": 51,
+    "SALES_REP_ID": 32,
+    "PERIOD_END": "2024-02-02",
+    "AMOUNT": 4038.76
+  },
+  {
+    "COMMISSION_ID": 52,
+    "SALES_REP_ID": 168,
+    "PERIOD_END": "2024-12-18",
+    "AMOUNT": 2197.05
+  },
+  {
+    "COMMISSION_ID": 53,
+    "SALES_REP_ID": 300,
+    "PERIOD_END": "2023-07-08",
+    "AMOUNT": 2212.3
+  },
+  {
+    "COMMISSION_ID": 54,
+    "SALES_REP_ID": 887,
+    "PERIOD_END": "2023-08-14",
+    "AMOUNT": 4370.37
+  },
+  {
+    "COMMISSION_ID": 55,
+    "SALES_REP_ID": 378,
+    "PERIOD_END": "2023-03-07",
+    "AMOUNT": 4046.86
+  },
+  {
+    "COMMISSION_ID": 56,
+    "SALES_REP_ID": 500,
+    "PERIOD_END": "2023-07-07",
+    "AMOUNT": 4967.77
+  },
+  {
+    "COMMISSION_ID": 57,
+    "SALES_REP_ID": 324,
+    "PERIOD_END": "2023-12-20",
+    "AMOUNT": 1180.98
+  },
+  {
+    "COMMISSION_ID": 58,
+    "SALES_REP_ID": 828,
+    "PERIOD_END": "2023-09-12",
+    "AMOUNT": 2496.14
+  },
+  {
+    "COMMISSION_ID": 59,
+    "SALES_REP_ID": 855,
+    "PERIOD_END": "2024-01-10",
+    "AMOUNT": 3395.94
+  },
+  {
+    "COMMISSION_ID": 60,
+    "SALES_REP_ID": 322,
+    "PERIOD_END": "2024-01-31",
+    "AMOUNT": 3106.62
+  },
+  {
+    "COMMISSION_ID": 61,
+    "SALES_REP_ID": 421,
+    "PERIOD_END": "2023-09-24",
+    "AMOUNT": 2691.78
+  },
+  {
+    "COMMISSION_ID": 62,
+    "SALES_REP_ID": 524,
+    "PERIOD_END": "2023-10-28",
+    "AMOUNT": 2984.53
+  },
+  {
+    "COMMISSION_ID": 63,
+    "SALES_REP_ID": 164,
+    "PERIOD_END": "2023-06-18",
+    "AMOUNT": 1465.54
+  },
+  {
+    "COMMISSION_ID": 64,
+    "SALES_REP_ID": 822,
+    "PERIOD_END": "2024-08-14",
+    "AMOUNT": 1511.1
+  },
+  {
+    "COMMISSION_ID": 65,
+    "SALES_REP_ID": 377,
+    "PERIOD_END": "2023-05-04",
+    "AMOUNT": 206.23
+  },
+  {
+    "COMMISSION_ID": 66,
+    "SALES_REP_ID": 417,
+    "PERIOD_END": "2024-10-02",
+    "AMOUNT": 776.64
+  },
+  {
+    "COMMISSION_ID": 67,
+    "SALES_REP_ID": 6,
+    "PERIOD_END": "2024-02-28",
+    "AMOUNT": 2935.11
+  },
+  {
+    "COMMISSION_ID": 68,
+    "SALES_REP_ID": 994,
+    "PERIOD_END": "2024-08-04",
+    "AMOUNT": 2152.15
+  },
+  {
+    "COMMISSION_ID": 69,
+    "SALES_REP_ID": 393,
+    "PERIOD_END": "2024-06-30",
+    "AMOUNT": 4651.17
+  },
+  {
+    "COMMISSION_ID": 70,
+    "SALES_REP_ID": 880,
+    "PERIOD_END": "2023-04-23",
+    "AMOUNT": 800.67
+  },
+  {
+    "COMMISSION_ID": 71,
+    "SALES_REP_ID": 689,
+    "PERIOD_END": "2023-02-25",
+    "AMOUNT": 4345.2
+  },
+  {
+    "COMMISSION_ID": 72,
+    "SALES_REP_ID": 785,
+    "PERIOD_END": "2023-05-10",
+    "AMOUNT": 3778.4
+  },
+  {
+    "COMMISSION_ID": 73,
+    "SALES_REP_ID": 897,
+    "PERIOD_END": "2024-03-03",
+    "AMOUNT": 3583.71
+  },
+  {
+    "COMMISSION_ID": 74,
+    "SALES_REP_ID": 184,
+    "PERIOD_END": "2024-09-03",
+    "AMOUNT": 4728.82
+  },
+  {
+    "COMMISSION_ID": 75,
+    "SALES_REP_ID": 758,
+    "PERIOD_END": "2023-11-24",
+    "AMOUNT": 3540.55
+  },
+  {
+    "COMMISSION_ID": 76,
+    "SALES_REP_ID": 629,
+    "PERIOD_END": "2024-03-27",
+    "AMOUNT": 2963.1
+  },
+  {
+    "COMMISSION_ID": 77,
+    "SALES_REP_ID": 221,
+    "PERIOD_END": "2023-09-21",
+    "AMOUNT": 3455.59
+  },
+  {
+    "COMMISSION_ID": 78,
+    "SALES_REP_ID": 276,
+    "PERIOD_END": "2023-05-22",
+    "AMOUNT": 457.45
+  },
+  {
+    "COMMISSION_ID": 79,
+    "SALES_REP_ID": 590,
+    "PERIOD_END": "2023-04-23",
+    "AMOUNT": 1575.69
+  },
+  {
+    "COMMISSION_ID": 80,
+    "SALES_REP_ID": 890,
+    "PERIOD_END": "2024-11-03",
+    "AMOUNT": 1919.12
+  },
+  {
+    "COMMISSION_ID": 81,
+    "SALES_REP_ID": 5,
+    "PERIOD_END": "2023-07-10",
+    "AMOUNT": 821.99
+  },
+  {
+    "COMMISSION_ID": 82,
+    "SALES_REP_ID": 201,
+    "PERIOD_END": "2023-10-27",
+    "AMOUNT": 4475.6
+  },
+  {
+    "COMMISSION_ID": 83,
+    "SALES_REP_ID": 473,
+    "PERIOD_END": "2024-07-17",
+    "AMOUNT": 4921.43
+  },
+  {
+    "COMMISSION_ID": 84,
+    "SALES_REP_ID": 707,
+    "PERIOD_END": "2024-12-17",
+    "AMOUNT": 3373.84
+  },
+  {
+    "COMMISSION_ID": 85,
+    "SALES_REP_ID": 716,
+    "PERIOD_END": "2023-01-07",
+    "AMOUNT": 1505.69
+  },
+  {
+    "COMMISSION_ID": 86,
+    "SALES_REP_ID": 354,
+    "PERIOD_END": "2024-05-19",
+    "AMOUNT": 3642.89
+  },
+  {
+    "COMMISSION_ID": 87,
+    "SALES_REP_ID": 475,
+    "PERIOD_END": "2023-05-21",
+    "AMOUNT": 1930.54
+  },
+  {
+    "COMMISSION_ID": 88,
+    "SALES_REP_ID": 885,
+    "PERIOD_END": "2024-06-16",
+    "AMOUNT": 1527.4
+  },
+  {
+    "COMMISSION_ID": 89,
+    "SALES_REP_ID": 672,
+    "PERIOD_END": "2023-02-23",
+    "AMOUNT": 2348.88
+  },
+  {
+    "COMMISSION_ID": 90,
+    "SALES_REP_ID": 209,
+    "PERIOD_END": "2023-08-24",
+    "AMOUNT": 3283.68
+  },
+  {
+    "COMMISSION_ID": 91,
+    "SALES_REP_ID": 543,
+    "PERIOD_END": "2023-05-18",
+    "AMOUNT": 558.68
+  },
+  {
+    "COMMISSION_ID": 92,
+    "SALES_REP_ID": 464,
+    "PERIOD_END": "2024-07-22",
+    "AMOUNT": 3435.11
+  },
+  {
+    "COMMISSION_ID": 93,
+    "SALES_REP_ID": 970,
+    "PERIOD_END": "2023-05-28",
+    "AMOUNT": 3893.44
+  },
+  {
+    "COMMISSION_ID": 94,
+    "SALES_REP_ID": 198,
+    "PERIOD_END": "2024-03-31",
+    "AMOUNT": 3261.03
+  },
+  {
+    "COMMISSION_ID": 95,
+    "SALES_REP_ID": 902,
+    "PERIOD_END": "2023-06-09",
+    "AMOUNT": 3497.74
+  },
+  {
+    "COMMISSION_ID": 96,
+    "SALES_REP_ID": 949,
+    "PERIOD_END": "2024-08-04",
+    "AMOUNT": 3523.71
+  },
+  {
+    "COMMISSION_ID": 97,
+    "SALES_REP_ID": 277,
+    "PERIOD_END": "2023-11-21",
+    "AMOUNT": 413.75
+  },
+  {
+    "COMMISSION_ID": 98,
+    "SALES_REP_ID": 945,
+    "PERIOD_END": "2024-02-09",
+    "AMOUNT": 2492.36
+  },
+  {
+    "COMMISSION_ID": 99,
+    "SALES_REP_ID": 785,
+    "PERIOD_END": "2024-03-31",
+    "AMOUNT": 157.58
+  },
+  {
+    "COMMISSION_ID": 100,
+    "SALES_REP_ID": 202,
+    "PERIOD_END": "2024-02-21",
+    "AMOUNT": 3187.69
+  },
+  {
+    "COMMISSION_ID": 101,
+    "SALES_REP_ID": 688,
+    "PERIOD_END": "2023-05-24",
+    "AMOUNT": 4258.64
+  },
+  {
+    "COMMISSION_ID": 102,
+    "SALES_REP_ID": 803,
+    "PERIOD_END": "2024-06-16",
+    "AMOUNT": 2189.06
+  },
+  {
+    "COMMISSION_ID": 103,
+    "SALES_REP_ID": 5,
+    "PERIOD_END": "2023-04-26",
+    "AMOUNT": 430.08
+  },
+  {
+    "COMMISSION_ID": 104,
+    "SALES_REP_ID": 142,
+    "PERIOD_END": "2023-06-05",
+    "AMOUNT": 232.63
+  },
+  {
+    "COMMISSION_ID": 105,
+    "SALES_REP_ID": 972,
+    "PERIOD_END": "2023-02-20",
+    "AMOUNT": 4467.57
+  },
+  {
+    "COMMISSION_ID": 106,
+    "SALES_REP_ID": 738,
+    "PERIOD_END": "2024-11-23",
+    "AMOUNT": 2638.16
+  },
+  {
+    "COMMISSION_ID": 107,
+    "SALES_REP_ID": 516,
+    "PERIOD_END": "2023-10-02",
+    "AMOUNT": 719.85
+  },
+  {
+    "COMMISSION_ID": 108,
+    "SALES_REP_ID": 837,
+    "PERIOD_END": "2023-09-17",
+    "AMOUNT": 3888.85
+  },
+  {
+    "COMMISSION_ID": 109,
+    "SALES_REP_ID": 891,
+    "PERIOD_END": "2024-07-10",
+    "AMOUNT": 1097.35
+  },
+  {
+    "COMMISSION_ID": 110,
+    "SALES_REP_ID": 771,
+    "PERIOD_END": "2023-08-06",
+    "AMOUNT": 2172.01
+  },
+  {
+    "COMMISSION_ID": 111,
+    "SALES_REP_ID": 463,
+    "PERIOD_END": "2024-11-22",
+    "AMOUNT": 2923.66
+  },
+  {
+    "COMMISSION_ID": 112,
+    "SALES_REP_ID": 24,
+    "PERIOD_END": "2024-06-05",
+    "AMOUNT": 915.29
+  },
+  {
+    "COMMISSION_ID": 113,
+    "SALES_REP_ID": 708,
+    "PERIOD_END": "2024-07-07",
+    "AMOUNT": 3065.73
+  },
+  {
+    "COMMISSION_ID": 114,
+    "SALES_REP_ID": 511,
+    "PERIOD_END": "2024-10-15",
+    "AMOUNT": 520.39
+  },
+  {
+    "COMMISSION_ID": 115,
+    "SALES_REP_ID": 212,
+    "PERIOD_END": "2024-01-26",
+    "AMOUNT": 142.76
+  },
+  {
+    "COMMISSION_ID": 116,
+    "SALES_REP_ID": 344,
+    "PERIOD_END": "2024-10-17",
+    "AMOUNT": 3418.17
+  },
+  {
+    "COMMISSION_ID": 117,
+    "SALES_REP_ID": 622,
+    "PERIOD_END": "2023-10-20",
+    "AMOUNT": 4464.2
+  },
+  {
+    "COMMISSION_ID": 118,
+    "SALES_REP_ID": 898,
+    "PERIOD_END": "2024-09-05",
+    "AMOUNT": 752.1
+  },
+  {
+    "COMMISSION_ID": 119,
+    "SALES_REP_ID": 576,
+    "PERIOD_END": "2024-01-15",
+    "AMOUNT": 4594.41
+  },
+  {
+    "COMMISSION_ID": 120,
+    "SALES_REP_ID": 287,
+    "PERIOD_END": "2024-08-04",
+    "AMOUNT": 3604.44
+  },
+  {
+    "COMMISSION_ID": 121,
+    "SALES_REP_ID": 54,
+    "PERIOD_END": "2023-04-27",
+    "AMOUNT": 4348.73
+  },
+  {
+    "COMMISSION_ID": 122,
+    "SALES_REP_ID": 150,
+    "PERIOD_END": "2023-09-25",
+    "AMOUNT": 3145.99
+  },
+  {
+    "COMMISSION_ID": 123,
+    "SALES_REP_ID": 782,
+    "PERIOD_END": "2023-04-06",
+    "AMOUNT": 4549.67
+  },
+  {
+    "COMMISSION_ID": 124,
+    "SALES_REP_ID": 953,
+    "PERIOD_END": "2023-08-09",
+    "AMOUNT": 1933.58
+  },
+  {
+    "COMMISSION_ID": 125,
+    "SALES_REP_ID": 845,
+    "PERIOD_END": "2024-10-30",
+    "AMOUNT": 4848.7
+  },
+  {
+    "COMMISSION_ID": 126,
+    "SALES_REP_ID": 896,
+    "PERIOD_END": "2023-01-01",
+    "AMOUNT": 479.48
+  },
+  {
+    "COMMISSION_ID": 127,
+    "SALES_REP_ID": 921,
+    "PERIOD_END": "2023-12-06",
+    "AMOUNT": 1529.69
+  },
+  {
+    "COMMISSION_ID": 128,
+    "SALES_REP_ID": 113,
+    "PERIOD_END": "2024-05-01",
+    "AMOUNT": 1790.41
+  },
+  {
+    "COMMISSION_ID": 129,
+    "SALES_REP_ID": 922,
+    "PERIOD_END": "2024-06-27",
+    "AMOUNT": 3605.44
+  },
+  {
+    "COMMISSION_ID": 130,
+    "SALES_REP_ID": 917,
+    "PERIOD_END": "2024-12-26",
+    "AMOUNT": 3247.18
+  },
+  {
+    "COMMISSION_ID": 131,
+    "SALES_REP_ID": 554,
+    "PERIOD_END": "2023-02-19",
+    "AMOUNT": 1162.01
+  },
+  {
+    "COMMISSION_ID": 132,
+    "SALES_REP_ID": 537,
+    "PERIOD_END": "2024-06-05",
+    "AMOUNT": 2927.68
+  },
+  {
+    "COMMISSION_ID": 133,
+    "SALES_REP_ID": 776,
+    "PERIOD_END": "2023-02-06",
+    "AMOUNT": 1500.62
+  },
+  {
+    "COMMISSION_ID": 134,
+    "SALES_REP_ID": 654,
+    "PERIOD_END": "2023-03-11",
+    "AMOUNT": 400.13
+  },
+  {
+    "COMMISSION_ID": 135,
+    "SALES_REP_ID": 63,
+    "PERIOD_END": "2023-10-06",
+    "AMOUNT": 1285.75
+  },
+  {
+    "COMMISSION_ID": 136,
+    "SALES_REP_ID": 357,
+    "PERIOD_END": "2024-02-20",
+    "AMOUNT": 1986.31
+  },
+  {
+    "COMMISSION_ID": 137,
+    "SALES_REP_ID": 522,
+    "PERIOD_END": "2023-12-15",
+    "AMOUNT": 471.65
+  },
+  {
+    "COMMISSION_ID": 138,
+    "SALES_REP_ID": 219,
+    "PERIOD_END": "2023-12-05",
+    "AMOUNT": 1035.57
+  },
+  {
+    "COMMISSION_ID": 139,
+    "SALES_REP_ID": 650,
+    "PERIOD_END": "2024-11-01",
+    "AMOUNT": 604.84
+  },
+  {
+    "COMMISSION_ID": 140,
+    "SALES_REP_ID": 528,
+    "PERIOD_END": "2024-10-23",
+    "AMOUNT": 1164.48
+  },
+  {
+    "COMMISSION_ID": 141,
+    "SALES_REP_ID": 318,
+    "PERIOD_END": "2024-04-14",
+    "AMOUNT": 1666.62
+  },
+  {
+    "COMMISSION_ID": 142,
+    "SALES_REP_ID": 518,
+    "PERIOD_END": "2023-02-21",
+    "AMOUNT": 1065.72
+  },
+  {
+    "COMMISSION_ID": 143,
+    "SALES_REP_ID": 640,
+    "PERIOD_END": "2024-10-16",
+    "AMOUNT": 158.91
+  },
+  {
+    "COMMISSION_ID": 144,
+    "SALES_REP_ID": 945,
+    "PERIOD_END": "2024-02-17",
+    "AMOUNT": 2629.97
+  },
+  {
+    "COMMISSION_ID": 145,
+    "SALES_REP_ID": 326,
+    "PERIOD_END": "2024-01-26",
+    "AMOUNT": 1480.98
+  },
+  {
+    "COMMISSION_ID": 146,
+    "SALES_REP_ID": 113,
+    "PERIOD_END": "2024-05-13",
+    "AMOUNT": 4219.9
+  },
+  {
+    "COMMISSION_ID": 147,
+    "SALES_REP_ID": 462,
+    "PERIOD_END": "2024-07-16",
+    "AMOUNT": 1385.09
+  },
+  {
+    "COMMISSION_ID": 148,
+    "SALES_REP_ID": 94,
+    "PERIOD_END": "2024-09-14",
+    "AMOUNT": 282.29
+  },
+  {
+    "COMMISSION_ID": 149,
+    "SALES_REP_ID": 910,
+    "PERIOD_END": "2024-04-18",
+    "AMOUNT": 3972.52
+  },
+  {
+    "COMMISSION_ID": 150,
+    "SALES_REP_ID": 673,
+    "PERIOD_END": "2023-04-16",
+    "AMOUNT": 2083.51
+  },
+  {
+    "COMMISSION_ID": 151,
+    "SALES_REP_ID": 621,
+    "PERIOD_END": "2024-06-23",
+    "AMOUNT": 3500.18
+  },
+  {
+    "COMMISSION_ID": 152,
+    "SALES_REP_ID": 662,
+    "PERIOD_END": "2024-12-21",
+    "AMOUNT": 1100.61
+  },
+  {
+    "COMMISSION_ID": 153,
+    "SALES_REP_ID": 719,
+    "PERIOD_END": "2023-04-16",
+    "AMOUNT": 2236.06
+  },
+  {
+    "COMMISSION_ID": 154,
+    "SALES_REP_ID": 110,
+    "PERIOD_END": "2024-01-10",
+    "AMOUNT": 2628.19
+  },
+  {
+    "COMMISSION_ID": 155,
+    "SALES_REP_ID": 399,
+    "PERIOD_END": "2024-03-10",
+    "AMOUNT": 4906.67
+  },
+  {
+    "COMMISSION_ID": 156,
+    "SALES_REP_ID": 530,
+    "PERIOD_END": "2024-03-08",
+    "AMOUNT": 652.83
+  },
+  {
+    "COMMISSION_ID": 157,
+    "SALES_REP_ID": 583,
+    "PERIOD_END": "2024-08-07",
+    "AMOUNT": 2403.11
+  },
+  {
+    "COMMISSION_ID": 158,
+    "SALES_REP_ID": 852,
+    "PERIOD_END": "2024-01-30",
+    "AMOUNT": 2248.85
+  },
+  {
+    "COMMISSION_ID": 159,
+    "SALES_REP_ID": 594,
+    "PERIOD_END": "2024-12-30",
+    "AMOUNT": 2654.45
+  },
+  {
+    "COMMISSION_ID": 160,
+    "SALES_REP_ID": 680,
+    "PERIOD_END": "2023-07-23",
+    "AMOUNT": 883.17
+  },
+  {
+    "COMMISSION_ID": 161,
+    "SALES_REP_ID": 68,
+    "PERIOD_END": "2024-05-02",
+    "AMOUNT": 4361.95
+  },
+  {
+    "COMMISSION_ID": 162,
+    "SALES_REP_ID": 737,
+    "PERIOD_END": "2023-11-25",
+    "AMOUNT": 4337.7
+  },
+  {
+    "COMMISSION_ID": 163,
+    "SALES_REP_ID": 341,
+    "PERIOD_END": "2024-07-03",
+    "AMOUNT": 1116.16
+  },
+  {
+    "COMMISSION_ID": 164,
+    "SALES_REP_ID": 195,
+    "PERIOD_END": "2023-09-19",
+    "AMOUNT": 1847.03
+  },
+  {
+    "COMMISSION_ID": 165,
+    "SALES_REP_ID": 553,
+    "PERIOD_END": "2023-03-10",
+    "AMOUNT": 2981.51
+  },
+  {
+    "COMMISSION_ID": 166,
+    "SALES_REP_ID": 433,
+    "PERIOD_END": "2023-12-02",
+    "AMOUNT": 2254.69
+  },
+  {
+    "COMMISSION_ID": 167,
+    "SALES_REP_ID": 154,
+    "PERIOD_END": "2024-07-12",
+    "AMOUNT": 1911.13
+  },
+  {
+    "COMMISSION_ID": 168,
+    "SALES_REP_ID": 374,
+    "PERIOD_END": "2023-09-03",
+    "AMOUNT": 4938.21
+  },
+  {
+    "COMMISSION_ID": 169,
+    "SALES_REP_ID": 593,
+    "PERIOD_END": "2024-11-02",
+    "AMOUNT": 3007.01
+  },
+  {
+    "COMMISSION_ID": 170,
+    "SALES_REP_ID": 780,
+    "PERIOD_END": "2024-06-05",
+    "AMOUNT": 899.16
+  },
+  {
+    "COMMISSION_ID": 171,
+    "SALES_REP_ID": 164,
+    "PERIOD_END": "2024-02-02",
+    "AMOUNT": 2060.88
+  },
+  {
+    "COMMISSION_ID": 172,
+    "SALES_REP_ID": 146,
+    "PERIOD_END": "2023-04-07",
+    "AMOUNT": 2393.81
+  },
+  {
+    "COMMISSION_ID": 173,
+    "SALES_REP_ID": 796,
+    "PERIOD_END": "2024-12-18",
+    "AMOUNT": 2461.69
+  },
+  {
+    "COMMISSION_ID": 174,
+    "SALES_REP_ID": 573,
+    "PERIOD_END": "2023-02-14",
+    "AMOUNT": 426.03
+  },
+  {
+    "COMMISSION_ID": 175,
+    "SALES_REP_ID": 339,
+    "PERIOD_END": "2024-07-06",
+    "AMOUNT": 4090.48
+  },
+  {
+    "COMMISSION_ID": 176,
+    "SALES_REP_ID": 952,
+    "PERIOD_END": "2024-03-11",
+    "AMOUNT": 2196.01
+  },
+  {
+    "COMMISSION_ID": 177,
+    "SALES_REP_ID": 497,
+    "PERIOD_END": "2024-09-11",
+    "AMOUNT": 4358.13
+  },
+  {
+    "COMMISSION_ID": 178,
+    "SALES_REP_ID": 5,
+    "PERIOD_END": "2023-07-27",
+    "AMOUNT": 131.65
+  },
+  {
+    "COMMISSION_ID": 179,
+    "SALES_REP_ID": 808,
+    "PERIOD_END": "2024-06-11",
+    "AMOUNT": 1770.76
+  },
+  {
+    "COMMISSION_ID": 180,
+    "SALES_REP_ID": 162,
+    "PERIOD_END": "2024-04-18",
+    "AMOUNT": 975.97
+  },
+  {
+    "COMMISSION_ID": 181,
+    "SALES_REP_ID": 773,
+    "PERIOD_END": "2024-01-29",
+    "AMOUNT": 2206.99
+  },
+  {
+    "COMMISSION_ID": 182,
+    "SALES_REP_ID": 574,
+    "PERIOD_END": "2024-10-24",
+    "AMOUNT": 1187.69
+  },
+  {
+    "COMMISSION_ID": 183,
+    "SALES_REP_ID": 325,
+    "PERIOD_END": "2023-03-13",
+    "AMOUNT": 3226.06
+  },
+  {
+    "COMMISSION_ID": 184,
+    "SALES_REP_ID": 831,
+    "PERIOD_END": "2024-12-28",
+    "AMOUNT": 400.03
+  },
+  {
+    "COMMISSION_ID": 185,
+    "SALES_REP_ID": 328,
+    "PERIOD_END": "2023-05-09",
+    "AMOUNT": 4386.46
+  },
+  {
+    "COMMISSION_ID": 186,
+    "SALES_REP_ID": 380,
+    "PERIOD_END": "2023-11-04",
+    "AMOUNT": 2189.7
+  },
+  {
+    "COMMISSION_ID": 187,
+    "SALES_REP_ID": 992,
+    "PERIOD_END": "2023-09-02",
+    "AMOUNT": 121.65
+  },
+  {
+    "COMMISSION_ID": 188,
+    "SALES_REP_ID": 558,
+    "PERIOD_END": "2024-04-23",
+    "AMOUNT": 4109.1
+  },
+  {
+    "COMMISSION_ID": 189,
+    "SALES_REP_ID": 964,
+    "PERIOD_END": "2023-01-08",
+    "AMOUNT": 2722.34
+  },
+  {
+    "COMMISSION_ID": 190,
+    "SALES_REP_ID": 578,
+    "PERIOD_END": "2024-04-28",
+    "AMOUNT": 712.8
+  },
+  {
+    "COMMISSION_ID": 191,
+    "SALES_REP_ID": 740,
+    "PERIOD_END": "2023-01-09",
+    "AMOUNT": 3230.65
+  },
+  {
+    "COMMISSION_ID": 192,
+    "SALES_REP_ID": 784,
+    "PERIOD_END": "2023-08-18",
+    "AMOUNT": 2822.29
+  },
+  {
+    "COMMISSION_ID": 193,
+    "SALES_REP_ID": 733,
+    "PERIOD_END": "2023-06-20",
+    "AMOUNT": 4755.64
+  },
+  {
+    "COMMISSION_ID": 194,
+    "SALES_REP_ID": 813,
+    "PERIOD_END": "2024-05-01",
+    "AMOUNT": 2398.8
+  },
+  {
+    "COMMISSION_ID": 195,
+    "SALES_REP_ID": 942,
+    "PERIOD_END": "2023-04-29",
+    "AMOUNT": 692.27
+  },
+  {
+    "COMMISSION_ID": 196,
+    "SALES_REP_ID": 779,
+    "PERIOD_END": "2024-05-28",
+    "AMOUNT": 1533.2
+  },
+  {
+    "COMMISSION_ID": 197,
+    "SALES_REP_ID": 327,
+    "PERIOD_END": "2023-05-12",
+    "AMOUNT": 3497.14
+  },
+  {
+    "COMMISSION_ID": 198,
+    "SALES_REP_ID": 493,
+    "PERIOD_END": "2024-10-30",
+    "AMOUNT": 2569.38
+  },
+  {
+    "COMMISSION_ID": 199,
+    "SALES_REP_ID": 400,
+    "PERIOD_END": "2023-07-23",
+    "AMOUNT": 105.37
+  },
+  {
+    "COMMISSION_ID": 200,
+    "SALES_REP_ID": 618,
+    "PERIOD_END": "2023-03-04",
+    "AMOUNT": 142.24
+  },
+  {
+    "COMMISSION_ID": 201,
+    "SALES_REP_ID": 930,
+    "PERIOD_END": "2023-03-26",
+    "AMOUNT": 817.49
+  },
+  {
+    "COMMISSION_ID": 202,
+    "SALES_REP_ID": 50,
+    "PERIOD_END": "2023-05-25",
+    "AMOUNT": 3610.01
+  },
+  {
+    "COMMISSION_ID": 203,
+    "SALES_REP_ID": 286,
+    "PERIOD_END": "2023-05-25",
+    "AMOUNT": 1047.96
+  },
+  {
+    "COMMISSION_ID": 204,
+    "SALES_REP_ID": 692,
+    "PERIOD_END": "2023-10-25",
+    "AMOUNT": 2495.41
+  },
+  {
+    "COMMISSION_ID": 205,
+    "SALES_REP_ID": 910,
+    "PERIOD_END": "2024-11-25",
+    "AMOUNT": 4825.13
+  },
+  {
+    "COMMISSION_ID": 206,
+    "SALES_REP_ID": 358,
+    "PERIOD_END": "2024-11-05",
+    "AMOUNT": 2468.8
+  },
+  {
+    "COMMISSION_ID": 207,
+    "SALES_REP_ID": 842,
+    "PERIOD_END": "2024-12-09",
+    "AMOUNT": 3344.85
+  },
+  {
+    "COMMISSION_ID": 208,
+    "SALES_REP_ID": 481,
+    "PERIOD_END": "2023-04-07",
+    "AMOUNT": 3811.22
+  },
+  {
+    "COMMISSION_ID": 209,
+    "SALES_REP_ID": 855,
+    "PERIOD_END": "2024-12-29",
+    "AMOUNT": 4526.13
+  },
+  {
+    "COMMISSION_ID": 210,
+    "SALES_REP_ID": 958,
+    "PERIOD_END": "2023-05-04",
+    "AMOUNT": 3421.49
+  },
+  {
+    "COMMISSION_ID": 211,
+    "SALES_REP_ID": 597,
+    "PERIOD_END": "2024-10-08",
+    "AMOUNT": 2426.21
+  },
+  {
+    "COMMISSION_ID": 212,
+    "SALES_REP_ID": 386,
+    "PERIOD_END": "2024-01-09",
+    "AMOUNT": 3577.91
+  },
+  {
+    "COMMISSION_ID": 213,
+    "SALES_REP_ID": 445,
+    "PERIOD_END": "2023-12-25",
+    "AMOUNT": 3882.22
+  },
+  {
+    "COMMISSION_ID": 214,
+    "SALES_REP_ID": 413,
+    "PERIOD_END": "2024-04-11",
+    "AMOUNT": 2092.93
+  },
+  {
+    "COMMISSION_ID": 215,
+    "SALES_REP_ID": 42,
+    "PERIOD_END": "2024-09-13",
+    "AMOUNT": 3086.06
+  },
+  {
+    "COMMISSION_ID": 216,
+    "SALES_REP_ID": 698,
+    "PERIOD_END": "2024-01-22",
+    "AMOUNT": 2667.67
+  },
+  {
+    "COMMISSION_ID": 217,
+    "SALES_REP_ID": 241,
+    "PERIOD_END": "2023-07-19",
+    "AMOUNT": 1509.1
+  },
+  {
+    "COMMISSION_ID": 218,
+    "SALES_REP_ID": 273,
+    "PERIOD_END": "2023-01-17",
+    "AMOUNT": 185.58
+  },
+  {
+    "COMMISSION_ID": 219,
+    "SALES_REP_ID": 731,
+    "PERIOD_END": "2024-01-11",
+    "AMOUNT": 846.46
+  },
+  {
+    "COMMISSION_ID": 220,
+    "SALES_REP_ID": 959,
+    "PERIOD_END": "2023-10-16",
+    "AMOUNT": 4730.38
+  },
+  {
+    "COMMISSION_ID": 221,
+    "SALES_REP_ID": 691,
+    "PERIOD_END": "2024-01-24",
+    "AMOUNT": 3442.54
+  },
+  {
+    "COMMISSION_ID": 222,
+    "SALES_REP_ID": 374,
+    "PERIOD_END": "2023-07-20",
+    "AMOUNT": 3923.62
+  },
+  {
+    "COMMISSION_ID": 223,
+    "SALES_REP_ID": 640,
+    "PERIOD_END": "2023-07-25",
+    "AMOUNT": 4790.22
+  },
+  {
+    "COMMISSION_ID": 224,
+    "SALES_REP_ID": 187,
+    "PERIOD_END": "2023-05-11",
+    "AMOUNT": 4205.16
+  },
+  {
+    "COMMISSION_ID": 225,
+    "SALES_REP_ID": 594,
+    "PERIOD_END": "2023-03-19",
+    "AMOUNT": 3825.17
+  },
+  {
+    "COMMISSION_ID": 226,
+    "SALES_REP_ID": 250,
+    "PERIOD_END": "2024-09-30",
+    "AMOUNT": 3546.76
+  },
+  {
+    "COMMISSION_ID": 227,
+    "SALES_REP_ID": 470,
+    "PERIOD_END": "2023-01-22",
+    "AMOUNT": 1873.04
+  },
+  {
+    "COMMISSION_ID": 228,
+    "SALES_REP_ID": 292,
+    "PERIOD_END": "2024-05-04",
+    "AMOUNT": 3391.63
+  },
+  {
+    "COMMISSION_ID": 229,
+    "SALES_REP_ID": 432,
+    "PERIOD_END": "2023-02-21",
+    "AMOUNT": 3835.09
+  },
+  {
+    "COMMISSION_ID": 230,
+    "SALES_REP_ID": 343,
+    "PERIOD_END": "2024-05-19",
+    "AMOUNT": 3964.1
+  },
+  {
+    "COMMISSION_ID": 231,
+    "SALES_REP_ID": 601,
+    "PERIOD_END": "2023-04-28",
+    "AMOUNT": 504.82
+  },
+  {
+    "COMMISSION_ID": 232,
+    "SALES_REP_ID": 968,
+    "PERIOD_END": "2023-12-03",
+    "AMOUNT": 282
+  },
+  {
+    "COMMISSION_ID": 233,
+    "SALES_REP_ID": 719,
+    "PERIOD_END": "2023-04-09",
+    "AMOUNT": 314.9
+  },
+  {
+    "COMMISSION_ID": 234,
+    "SALES_REP_ID": 407,
+    "PERIOD_END": "2024-12-26",
+    "AMOUNT": 4161.14
+  },
+  {
+    "COMMISSION_ID": 235,
+    "SALES_REP_ID": 156,
+    "PERIOD_END": "2024-03-05",
+    "AMOUNT": 143.68
+  },
+  {
+    "COMMISSION_ID": 236,
+    "SALES_REP_ID": 517,
+    "PERIOD_END": "2023-02-03",
+    "AMOUNT": 759.3
+  },
+  {
+    "COMMISSION_ID": 237,
+    "SALES_REP_ID": 358,
+    "PERIOD_END": "2024-07-27",
+    "AMOUNT": 2901.92
+  },
+  {
+    "COMMISSION_ID": 238,
+    "SALES_REP_ID": 214,
+    "PERIOD_END": "2024-11-16",
+    "AMOUNT": 1382.11
+  },
+  {
+    "COMMISSION_ID": 239,
+    "SALES_REP_ID": 480,
+    "PERIOD_END": "2023-12-11",
+    "AMOUNT": 3029.58
+  },
+  {
+    "COMMISSION_ID": 240,
+    "SALES_REP_ID": 885,
+    "PERIOD_END": "2024-07-23",
+    "AMOUNT": 4600.72
+  },
+  {
+    "COMMISSION_ID": 241,
+    "SALES_REP_ID": 209,
+    "PERIOD_END": "2023-08-14",
+    "AMOUNT": 1661.36
+  },
+  {
+    "COMMISSION_ID": 242,
+    "SALES_REP_ID": 520,
+    "PERIOD_END": "2024-05-27",
+    "AMOUNT": 3597.28
+  },
+  {
+    "COMMISSION_ID": 243,
+    "SALES_REP_ID": 367,
+    "PERIOD_END": "2024-05-18",
+    "AMOUNT": 4482.71
+  },
+  {
+    "COMMISSION_ID": 244,
+    "SALES_REP_ID": 615,
+    "PERIOD_END": "2023-07-11",
+    "AMOUNT": 628.21
+  },
+  {
+    "COMMISSION_ID": 245,
+    "SALES_REP_ID": 585,
+    "PERIOD_END": "2024-02-17",
+    "AMOUNT": 2412.77
+  },
+  {
+    "COMMISSION_ID": 246,
+    "SALES_REP_ID": 94,
+    "PERIOD_END": "2023-09-16",
+    "AMOUNT": 1983.58
+  },
+  {
+    "COMMISSION_ID": 247,
+    "SALES_REP_ID": 994,
+    "PERIOD_END": "2024-12-28",
+    "AMOUNT": 2576.25
+  },
+  {
+    "COMMISSION_ID": 248,
+    "SALES_REP_ID": 424,
+    "PERIOD_END": "2024-10-10",
+    "AMOUNT": 1997.96
+  },
+  {
+    "COMMISSION_ID": 249,
+    "SALES_REP_ID": 291,
+    "PERIOD_END": "2024-11-26",
+    "AMOUNT": 4175.6
+  },
+  {
+    "COMMISSION_ID": 250,
+    "SALES_REP_ID": 832,
+    "PERIOD_END": "2023-06-09",
+    "AMOUNT": 212.43
+  },
+  {
+    "COMMISSION_ID": 251,
+    "SALES_REP_ID": 213,
+    "PERIOD_END": "2023-04-04",
+    "AMOUNT": 4717.82
+  },
+  {
+    "COMMISSION_ID": 252,
+    "SALES_REP_ID": 973,
+    "PERIOD_END": "2024-05-21",
+    "AMOUNT": 3494.1
+  },
+  {
+    "COMMISSION_ID": 253,
+    "SALES_REP_ID": 837,
+    "PERIOD_END": "2024-11-04",
+    "AMOUNT": 2097.57
+  },
+  {
+    "COMMISSION_ID": 254,
+    "SALES_REP_ID": 374,
+    "PERIOD_END": "2023-05-30",
+    "AMOUNT": 3915.53
+  },
+  {
+    "COMMISSION_ID": 255,
+    "SALES_REP_ID": 146,
+    "PERIOD_END": "2023-11-14",
+    "AMOUNT": 2024.94
+  },
+  {
+    "COMMISSION_ID": 256,
+    "SALES_REP_ID": 342,
+    "PERIOD_END": "2023-09-28",
+    "AMOUNT": 4305.73
+  },
+  {
+    "COMMISSION_ID": 257,
+    "SALES_REP_ID": 607,
+    "PERIOD_END": "2023-06-20",
+    "AMOUNT": 4943.66
+  },
+  {
+    "COMMISSION_ID": 258,
+    "SALES_REP_ID": 511,
+    "PERIOD_END": "2024-11-16",
+    "AMOUNT": 729.82
+  },
+  {
+    "COMMISSION_ID": 259,
+    "SALES_REP_ID": 3,
+    "PERIOD_END": "2023-02-10",
+    "AMOUNT": 4073.14
+  },
+  {
+    "COMMISSION_ID": 260,
+    "SALES_REP_ID": 706,
+    "PERIOD_END": "2024-11-22",
+    "AMOUNT": 3323.36
+  },
+  {
+    "COMMISSION_ID": 261,
+    "SALES_REP_ID": 22,
+    "PERIOD_END": "2024-07-13",
+    "AMOUNT": 2016.5
+  },
+  {
+    "COMMISSION_ID": 262,
+    "SALES_REP_ID": 51,
+    "PERIOD_END": "2023-03-30",
+    "AMOUNT": 1590.55
+  },
+  {
+    "COMMISSION_ID": 263,
+    "SALES_REP_ID": 765,
+    "PERIOD_END": "2024-01-22",
+    "AMOUNT": 3970.56
+  },
+  {
+    "COMMISSION_ID": 264,
+    "SALES_REP_ID": 328,
+    "PERIOD_END": "2023-03-30",
+    "AMOUNT": 2987.22
+  },
+  {
+    "COMMISSION_ID": 265,
+    "SALES_REP_ID": 573,
+    "PERIOD_END": "2023-12-13",
+    "AMOUNT": 1471.04
+  },
+  {
+    "COMMISSION_ID": 266,
+    "SALES_REP_ID": 844,
+    "PERIOD_END": "2023-05-27",
+    "AMOUNT": 2527.99
+  },
+  {
+    "COMMISSION_ID": 267,
+    "SALES_REP_ID": 118,
+    "PERIOD_END": "2024-02-15",
+    "AMOUNT": 4776.36
+  },
+  {
+    "COMMISSION_ID": 268,
+    "SALES_REP_ID": 208,
+    "PERIOD_END": "2023-02-28",
+    "AMOUNT": 4407.63
+  },
+  {
+    "COMMISSION_ID": 269,
+    "SALES_REP_ID": 713,
+    "PERIOD_END": "2023-07-22",
+    "AMOUNT": 4942.92
+  },
+  {
+    "COMMISSION_ID": 270,
+    "SALES_REP_ID": 328,
+    "PERIOD_END": "2024-03-06",
+    "AMOUNT": 4240.58
+  },
+  {
+    "COMMISSION_ID": 271,
+    "SALES_REP_ID": 932,
+    "PERIOD_END": "2023-08-11",
+    "AMOUNT": 1968.81
+  },
+  {
+    "COMMISSION_ID": 272,
+    "SALES_REP_ID": 730,
+    "PERIOD_END": "2023-07-25",
+    "AMOUNT": 4077.94
+  },
+  {
+    "COMMISSION_ID": 273,
+    "SALES_REP_ID": 92,
+    "PERIOD_END": "2023-03-01",
+    "AMOUNT": 378.64
+  },
+  {
+    "COMMISSION_ID": 274,
+    "SALES_REP_ID": 39,
+    "PERIOD_END": "2024-08-26",
+    "AMOUNT": 356.83
+  },
+  {
+    "COMMISSION_ID": 275,
+    "SALES_REP_ID": 841,
+    "PERIOD_END": "2024-09-01",
+    "AMOUNT": 2984.36
+  },
+  {
+    "COMMISSION_ID": 276,
+    "SALES_REP_ID": 68,
+    "PERIOD_END": "2024-07-20",
+    "AMOUNT": 2272.5
+  },
+  {
+    "COMMISSION_ID": 277,
+    "SALES_REP_ID": 117,
+    "PERIOD_END": "2023-01-04",
+    "AMOUNT": 4066.76
+  },
+  {
+    "COMMISSION_ID": 278,
+    "SALES_REP_ID": 318,
+    "PERIOD_END": "2024-06-28",
+    "AMOUNT": 4839.16
+  },
+  {
+    "COMMISSION_ID": 279,
+    "SALES_REP_ID": 178,
+    "PERIOD_END": "2024-06-23",
+    "AMOUNT": 3254.12
+  },
+  {
+    "COMMISSION_ID": 280,
+    "SALES_REP_ID": 972,
+    "PERIOD_END": "2023-08-25",
+    "AMOUNT": 1746.02
+  },
+  {
+    "COMMISSION_ID": 281,
+    "SALES_REP_ID": 975,
+    "PERIOD_END": "2023-10-13",
+    "AMOUNT": 415.9
+  },
+  {
+    "COMMISSION_ID": 282,
+    "SALES_REP_ID": 557,
+    "PERIOD_END": "2024-09-06",
+    "AMOUNT": 3804.39
+  },
+  {
+    "COMMISSION_ID": 283,
+    "SALES_REP_ID": 640,
+    "PERIOD_END": "2024-11-30",
+    "AMOUNT": 347.8
+  },
+  {
+    "COMMISSION_ID": 284,
+    "SALES_REP_ID": 758,
+    "PERIOD_END": "2023-08-24",
+    "AMOUNT": 341.91
+  },
+  {
+    "COMMISSION_ID": 285,
+    "SALES_REP_ID": 269,
+    "PERIOD_END": "2024-12-24",
+    "AMOUNT": 1181.06
+  },
+  {
+    "COMMISSION_ID": 286,
+    "SALES_REP_ID": 455,
+    "PERIOD_END": "2024-03-03",
+    "AMOUNT": 2181.02
+  },
+  {
+    "COMMISSION_ID": 287,
+    "SALES_REP_ID": 249,
+    "PERIOD_END": "2024-03-03",
+    "AMOUNT": 2030.15
+  },
+  {
+    "COMMISSION_ID": 288,
+    "SALES_REP_ID": 547,
+    "PERIOD_END": "2024-10-20",
+    "AMOUNT": 221.19
+  },
+  {
+    "COMMISSION_ID": 289,
+    "SALES_REP_ID": 808,
+    "PERIOD_END": "2023-03-26",
+    "AMOUNT": 787.62
+  },
+  {
+    "COMMISSION_ID": 290,
+    "SALES_REP_ID": 141,
+    "PERIOD_END": "2024-11-21",
+    "AMOUNT": 3212.43
+  },
+  {
+    "COMMISSION_ID": 291,
+    "SALES_REP_ID": 533,
+    "PERIOD_END": "2023-03-10",
+    "AMOUNT": 1809.07
+  },
+  {
+    "COMMISSION_ID": 292,
+    "SALES_REP_ID": 886,
+    "PERIOD_END": "2024-08-08",
+    "AMOUNT": 1585.19
+  },
+  {
+    "COMMISSION_ID": 293,
+    "SALES_REP_ID": 470,
+    "PERIOD_END": "2024-12-15",
+    "AMOUNT": 4908.82
+  },
+  {
+    "COMMISSION_ID": 294,
+    "SALES_REP_ID": 788,
+    "PERIOD_END": "2024-04-13",
+    "AMOUNT": 4249.34
+  },
+  {
+    "COMMISSION_ID": 295,
+    "SALES_REP_ID": 893,
+    "PERIOD_END": "2023-12-22",
+    "AMOUNT": 4565.67
+  },
+  {
+    "COMMISSION_ID": 296,
+    "SALES_REP_ID": 226,
+    "PERIOD_END": "2023-03-17",
+    "AMOUNT": 4968.19
+  },
+  {
+    "COMMISSION_ID": 297,
+    "SALES_REP_ID": 884,
+    "PERIOD_END": "2023-04-01",
+    "AMOUNT": 278.05
+  },
+  {
+    "COMMISSION_ID": 298,
+    "SALES_REP_ID": 358,
+    "PERIOD_END": "2024-11-28",
+    "AMOUNT": 2787.55
+  },
+  {
+    "COMMISSION_ID": 299,
+    "SALES_REP_ID": 218,
+    "PERIOD_END": "2024-11-21",
+    "AMOUNT": 3920.8
+  },
+  {
+    "COMMISSION_ID": 300,
+    "SALES_REP_ID": 251,
+    "PERIOD_END": "2023-01-09",
+    "AMOUNT": 4323.89
+  },
+  {
+    "COMMISSION_ID": 301,
+    "SALES_REP_ID": 444,
+    "PERIOD_END": "2024-05-24",
+    "AMOUNT": 4656.36
+  },
+  {
+    "COMMISSION_ID": 302,
+    "SALES_REP_ID": 620,
+    "PERIOD_END": "2024-04-03",
+    "AMOUNT": 3131.8
+  },
+  {
+    "COMMISSION_ID": 303,
+    "SALES_REP_ID": 298,
+    "PERIOD_END": "2023-05-23",
+    "AMOUNT": 563.86
+  },
+  {
+    "COMMISSION_ID": 304,
+    "SALES_REP_ID": 599,
+    "PERIOD_END": "2023-05-08",
+    "AMOUNT": 3760.28
+  },
+  {
+    "COMMISSION_ID": 305,
+    "SALES_REP_ID": 144,
+    "PERIOD_END": "2024-11-14",
+    "AMOUNT": 2168.73
+  },
+  {
+    "COMMISSION_ID": 306,
+    "SALES_REP_ID": 239,
+    "PERIOD_END": "2024-04-30",
+    "AMOUNT": 4993.62
+  },
+  {
+    "COMMISSION_ID": 307,
+    "SALES_REP_ID": 752,
+    "PERIOD_END": "2023-12-31",
+    "AMOUNT": 3273.43
+  },
+  {
+    "COMMISSION_ID": 308,
+    "SALES_REP_ID": 776,
+    "PERIOD_END": "2023-04-17",
+    "AMOUNT": 2087.13
+  },
+  {
+    "COMMISSION_ID": 309,
+    "SALES_REP_ID": 498,
+    "PERIOD_END": "2024-03-13",
+    "AMOUNT": 2446.79
+  },
+  {
+    "COMMISSION_ID": 310,
+    "SALES_REP_ID": 888,
+    "PERIOD_END": "2023-04-11",
+    "AMOUNT": 2594.53
+  },
+  {
+    "COMMISSION_ID": 311,
+    "SALES_REP_ID": 491,
+    "PERIOD_END": "2024-02-12",
+    "AMOUNT": 4361.69
+  },
+  {
+    "COMMISSION_ID": 312,
+    "SALES_REP_ID": 129,
+    "PERIOD_END": "2024-11-04",
+    "AMOUNT": 2700.77
+  },
+  {
+    "COMMISSION_ID": 313,
+    "SALES_REP_ID": 830,
+    "PERIOD_END": "2023-08-10",
+    "AMOUNT": 2104.92
+  },
+  {
+    "COMMISSION_ID": 314,
+    "SALES_REP_ID": 242,
+    "PERIOD_END": "2024-03-18",
+    "AMOUNT": 2769.26
+  },
+  {
+    "COMMISSION_ID": 315,
+    "SALES_REP_ID": 928,
+    "PERIOD_END": "2024-11-11",
+    "AMOUNT": 3367.16
+  },
+  {
+    "COMMISSION_ID": 316,
+    "SALES_REP_ID": 26,
+    "PERIOD_END": "2023-03-31",
+    "AMOUNT": 3670.68
+  },
+  {
+    "COMMISSION_ID": 317,
+    "SALES_REP_ID": 407,
+    "PERIOD_END": "2024-10-17",
+    "AMOUNT": 891.18
+  },
+  {
+    "COMMISSION_ID": 318,
+    "SALES_REP_ID": 947,
+    "PERIOD_END": "2024-02-16",
+    "AMOUNT": 942.3
+  },
+  {
+    "COMMISSION_ID": 319,
+    "SALES_REP_ID": 163,
+    "PERIOD_END": "2023-07-08",
+    "AMOUNT": 2183.06
+  },
+  {
+    "COMMISSION_ID": 320,
+    "SALES_REP_ID": 446,
+    "PERIOD_END": "2024-03-30",
+    "AMOUNT": 2622.14
+  },
+  {
+    "COMMISSION_ID": 321,
+    "SALES_REP_ID": 708,
+    "PERIOD_END": "2024-06-11",
+    "AMOUNT": 154.85
+  },
+  {
+    "COMMISSION_ID": 322,
+    "SALES_REP_ID": 717,
+    "PERIOD_END": "2024-12-05",
+    "AMOUNT": 1054.11
+  },
+  {
+    "COMMISSION_ID": 323,
+    "SALES_REP_ID": 660,
+    "PERIOD_END": "2024-02-11",
+    "AMOUNT": 519.56
+  },
+  {
+    "COMMISSION_ID": 324,
+    "SALES_REP_ID": 405,
+    "PERIOD_END": "2023-11-29",
+    "AMOUNT": 928.14
+  },
+  {
+    "COMMISSION_ID": 325,
+    "SALES_REP_ID": 564,
+    "PERIOD_END": "2024-10-18",
+    "AMOUNT": 3050.91
+  },
+  {
+    "COMMISSION_ID": 326,
+    "SALES_REP_ID": 914,
+    "PERIOD_END": "2024-07-04",
+    "AMOUNT": 4840.53
+  },
+  {
+    "COMMISSION_ID": 327,
+    "SALES_REP_ID": 1,
+    "PERIOD_END": "2024-04-19",
+    "AMOUNT": 1528.03
+  },
+  {
+    "COMMISSION_ID": 328,
+    "SALES_REP_ID": 598,
+    "PERIOD_END": "2023-09-05",
+    "AMOUNT": 4061.28
+  },
+  {
+    "COMMISSION_ID": 329,
+    "SALES_REP_ID": 580,
+    "PERIOD_END": "2024-07-02",
+    "AMOUNT": 620.25
+  },
+  {
+    "COMMISSION_ID": 330,
+    "SALES_REP_ID": 332,
+    "PERIOD_END": "2023-12-16",
+    "AMOUNT": 3150.19
+  },
+  {
+    "COMMISSION_ID": 331,
+    "SALES_REP_ID": 492,
+    "PERIOD_END": "2024-04-21",
+    "AMOUNT": 846.24
+  },
+  {
+    "COMMISSION_ID": 332,
+    "SALES_REP_ID": 331,
+    "PERIOD_END": "2024-09-09",
+    "AMOUNT": 4196.13
+  },
+  {
+    "COMMISSION_ID": 333,
+    "SALES_REP_ID": 390,
+    "PERIOD_END": "2023-10-31",
+    "AMOUNT": 222.19
+  },
+  {
+    "COMMISSION_ID": 334,
+    "SALES_REP_ID": 859,
+    "PERIOD_END": "2023-07-12",
+    "AMOUNT": 4569.46
+  },
+  {
+    "COMMISSION_ID": 335,
+    "SALES_REP_ID": 379,
+    "PERIOD_END": "2024-06-28",
+    "AMOUNT": 220.72
+  },
+  {
+    "COMMISSION_ID": 336,
+    "SALES_REP_ID": 31,
+    "PERIOD_END": "2023-03-16",
+    "AMOUNT": 4600.43
+  },
+  {
+    "COMMISSION_ID": 337,
+    "SALES_REP_ID": 964,
+    "PERIOD_END": "2023-10-25",
+    "AMOUNT": 711.51
+  },
+  {
+    "COMMISSION_ID": 338,
+    "SALES_REP_ID": 452,
+    "PERIOD_END": "2023-04-22",
+    "AMOUNT": 4470.51
+  },
+  {
+    "COMMISSION_ID": 339,
+    "SALES_REP_ID": 800,
+    "PERIOD_END": "2024-02-01",
+    "AMOUNT": 1715.34
+  },
+  {
+    "COMMISSION_ID": 340,
+    "SALES_REP_ID": 565,
+    "PERIOD_END": "2024-08-19",
+    "AMOUNT": 1023.51
+  },
+  {
+    "COMMISSION_ID": 341,
+    "SALES_REP_ID": 72,
+    "PERIOD_END": "2023-05-23",
+    "AMOUNT": 2992.13
+  },
+  {
+    "COMMISSION_ID": 342,
+    "SALES_REP_ID": 972,
+    "PERIOD_END": "2023-12-27",
+    "AMOUNT": 4350.27
+  },
+  {
+    "COMMISSION_ID": 343,
+    "SALES_REP_ID": 360,
+    "PERIOD_END": "2023-04-06",
+    "AMOUNT": 2718.48
+  },
+  {
+    "COMMISSION_ID": 344,
+    "SALES_REP_ID": 452,
+    "PERIOD_END": "2023-03-24",
+    "AMOUNT": 3276.61
+  },
+  {
+    "COMMISSION_ID": 345,
+    "SALES_REP_ID": 862,
+    "PERIOD_END": "2023-11-12",
+    "AMOUNT": 2675.35
+  },
+  {
+    "COMMISSION_ID": 346,
+    "SALES_REP_ID": 41,
+    "PERIOD_END": "2023-02-27",
+    "AMOUNT": 4377.88
+  },
+  {
+    "COMMISSION_ID": 347,
+    "SALES_REP_ID": 370,
+    "PERIOD_END": "2023-02-14",
+    "AMOUNT": 121.38
+  },
+  {
+    "COMMISSION_ID": 348,
+    "SALES_REP_ID": 618,
+    "PERIOD_END": "2023-07-08",
+    "AMOUNT": 1383.26
+  },
+  {
+    "COMMISSION_ID": 349,
+    "SALES_REP_ID": 609,
+    "PERIOD_END": "2024-12-21",
+    "AMOUNT": 3229.12
+  },
+  {
+    "COMMISSION_ID": 350,
+    "SALES_REP_ID": 536,
+    "PERIOD_END": "2024-04-02",
+    "AMOUNT": 2849.77
+  },
+  {
+    "COMMISSION_ID": 351,
+    "SALES_REP_ID": 911,
+    "PERIOD_END": "2024-05-18",
+    "AMOUNT": 1812.95
+  },
+  {
+    "COMMISSION_ID": 352,
+    "SALES_REP_ID": 475,
+    "PERIOD_END": "2023-02-20",
+    "AMOUNT": 3169.65
+  },
+  {
+    "COMMISSION_ID": 353,
+    "SALES_REP_ID": 658,
+    "PERIOD_END": "2023-01-18",
+    "AMOUNT": 3892.31
+  },
+  {
+    "COMMISSION_ID": 354,
+    "SALES_REP_ID": 604,
+    "PERIOD_END": "2023-07-20",
+    "AMOUNT": 188.29
+  },
+  {
+    "COMMISSION_ID": 355,
+    "SALES_REP_ID": 105,
+    "PERIOD_END": "2023-06-03",
+    "AMOUNT": 1765.49
+  },
+  {
+    "COMMISSION_ID": 356,
+    "SALES_REP_ID": 14,
+    "PERIOD_END": "2023-03-07",
+    "AMOUNT": 3254.36
+  },
+  {
+    "COMMISSION_ID": 357,
+    "SALES_REP_ID": 401,
+    "PERIOD_END": "2024-10-02",
+    "AMOUNT": 277.03
+  },
+  {
+    "COMMISSION_ID": 358,
+    "SALES_REP_ID": 282,
+    "PERIOD_END": "2023-06-25",
+    "AMOUNT": 2900.94
+  },
+  {
+    "COMMISSION_ID": 359,
+    "SALES_REP_ID": 993,
+    "PERIOD_END": "2023-01-24",
+    "AMOUNT": 2067.35
+  },
+  {
+    "COMMISSION_ID": 360,
+    "SALES_REP_ID": 659,
+    "PERIOD_END": "2024-09-07",
+    "AMOUNT": 1788.68
+  },
+  {
+    "COMMISSION_ID": 361,
+    "SALES_REP_ID": 186,
+    "PERIOD_END": "2023-06-15",
+    "AMOUNT": 1212.6
+  },
+  {
+    "COMMISSION_ID": 362,
+    "SALES_REP_ID": 194,
+    "PERIOD_END": "2024-02-22",
+    "AMOUNT": 3063.17
+  },
+  {
+    "COMMISSION_ID": 363,
+    "SALES_REP_ID": 841,
+    "PERIOD_END": "2023-05-02",
+    "AMOUNT": 3206.54
+  },
+  {
+    "COMMISSION_ID": 364,
+    "SALES_REP_ID": 17,
+    "PERIOD_END": "2024-01-29",
+    "AMOUNT": 923.93
+  },
+  {
+    "COMMISSION_ID": 365,
+    "SALES_REP_ID": 43,
+    "PERIOD_END": "2023-01-14",
+    "AMOUNT": 3934.05
+  },
+  {
+    "COMMISSION_ID": 366,
+    "SALES_REP_ID": 511,
+    "PERIOD_END": "2024-10-16",
+    "AMOUNT": 1058.27
+  },
+  {
+    "COMMISSION_ID": 367,
+    "SALES_REP_ID": 963,
+    "PERIOD_END": "2023-05-20",
+    "AMOUNT": 4080.69
+  },
+  {
+    "COMMISSION_ID": 368,
+    "SALES_REP_ID": 805,
+    "PERIOD_END": "2023-06-26",
+    "AMOUNT": 4533.02
+  },
+  {
+    "COMMISSION_ID": 369,
+    "SALES_REP_ID": 667,
+    "PERIOD_END": "2024-12-28",
+    "AMOUNT": 2175.03
+  },
+  {
+    "COMMISSION_ID": 370,
+    "SALES_REP_ID": 266,
+    "PERIOD_END": "2024-12-19",
+    "AMOUNT": 4044.16
+  },
+  {
+    "COMMISSION_ID": 371,
+    "SALES_REP_ID": 463,
+    "PERIOD_END": "2024-01-08",
+    "AMOUNT": 1272.17
+  },
+  {
+    "COMMISSION_ID": 372,
+    "SALES_REP_ID": 968,
+    "PERIOD_END": "2024-10-12",
+    "AMOUNT": 1512.57
+  },
+  {
+    "COMMISSION_ID": 373,
+    "SALES_REP_ID": 26,
+    "PERIOD_END": "2024-12-15",
+    "AMOUNT": 4063.97
+  },
+  {
+    "COMMISSION_ID": 374,
+    "SALES_REP_ID": 507,
+    "PERIOD_END": "2024-12-07",
+    "AMOUNT": 550.91
+  },
+  {
+    "COMMISSION_ID": 375,
+    "SALES_REP_ID": 658,
+    "PERIOD_END": "2023-10-11",
+    "AMOUNT": 1594.87
+  },
+  {
+    "COMMISSION_ID": 376,
+    "SALES_REP_ID": 969,
+    "PERIOD_END": "2024-11-10",
+    "AMOUNT": 4809.05
+  },
+  {
+    "COMMISSION_ID": 377,
+    "SALES_REP_ID": 377,
+    "PERIOD_END": "2024-02-22",
+    "AMOUNT": 3423.62
+  },
+  {
+    "COMMISSION_ID": 378,
+    "SALES_REP_ID": 931,
+    "PERIOD_END": "2024-05-22",
+    "AMOUNT": 1352.99
+  },
+  {
+    "COMMISSION_ID": 379,
+    "SALES_REP_ID": 738,
+    "PERIOD_END": "2024-01-25",
+    "AMOUNT": 2759.48
+  },
+  {
+    "COMMISSION_ID": 380,
+    "SALES_REP_ID": 505,
+    "PERIOD_END": "2023-08-02",
+    "AMOUNT": 1873.25
+  },
+  {
+    "COMMISSION_ID": 381,
+    "SALES_REP_ID": 312,
+    "PERIOD_END": "2023-09-17",
+    "AMOUNT": 4704.75
+  },
+  {
+    "COMMISSION_ID": 382,
+    "SALES_REP_ID": 225,
+    "PERIOD_END": "2023-09-18",
+    "AMOUNT": 1718.5
+  },
+  {
+    "COMMISSION_ID": 383,
+    "SALES_REP_ID": 68,
+    "PERIOD_END": "2023-10-15",
+    "AMOUNT": 1966
+  },
+  {
+    "COMMISSION_ID": 384,
+    "SALES_REP_ID": 440,
+    "PERIOD_END": "2024-07-16",
+    "AMOUNT": 4878.4
+  },
+  {
+    "COMMISSION_ID": 385,
+    "SALES_REP_ID": 679,
+    "PERIOD_END": "2024-03-04",
+    "AMOUNT": 1834.29
+  },
+  {
+    "COMMISSION_ID": 386,
+    "SALES_REP_ID": 895,
+    "PERIOD_END": "2024-06-10",
+    "AMOUNT": 1073.27
+  },
+  {
+    "COMMISSION_ID": 387,
+    "SALES_REP_ID": 766,
+    "PERIOD_END": "2023-10-02",
+    "AMOUNT": 2582.71
+  },
+  {
+    "COMMISSION_ID": 388,
+    "SALES_REP_ID": 806,
+    "PERIOD_END": "2023-10-31",
+    "AMOUNT": 2851.67
+  },
+  {
+    "COMMISSION_ID": 389,
+    "SALES_REP_ID": 877,
+    "PERIOD_END": "2023-08-23",
+    "AMOUNT": 3340.62
+  },
+  {
+    "COMMISSION_ID": 390,
+    "SALES_REP_ID": 950,
+    "PERIOD_END": "2023-12-28",
+    "AMOUNT": 3309.08
+  },
+  {
+    "COMMISSION_ID": 391,
+    "SALES_REP_ID": 968,
+    "PERIOD_END": "2024-03-15",
+    "AMOUNT": 3186.91
+  },
+  {
+    "COMMISSION_ID": 392,
+    "SALES_REP_ID": 876,
+    "PERIOD_END": "2024-03-02",
+    "AMOUNT": 4177.41
+  },
+  {
+    "COMMISSION_ID": 393,
+    "SALES_REP_ID": 222,
+    "PERIOD_END": "2024-03-20",
+    "AMOUNT": 4895.32
+  },
+  {
+    "COMMISSION_ID": 394,
+    "SALES_REP_ID": 850,
+    "PERIOD_END": "2023-11-03",
+    "AMOUNT": 2636.17
+  },
+  {
+    "COMMISSION_ID": 395,
+    "SALES_REP_ID": 247,
+    "PERIOD_END": "2023-06-07",
+    "AMOUNT": 243.56
+  },
+  {
+    "COMMISSION_ID": 396,
+    "SALES_REP_ID": 679,
+    "PERIOD_END": "2024-04-16",
+    "AMOUNT": 2416.54
+  },
+  {
+    "COMMISSION_ID": 397,
+    "SALES_REP_ID": 538,
+    "PERIOD_END": "2024-04-27",
+    "AMOUNT": 122.42
+  },
+  {
+    "COMMISSION_ID": 398,
+    "SALES_REP_ID": 521,
+    "PERIOD_END": "2024-09-15",
+    "AMOUNT": 1524.57
+  },
+  {
+    "COMMISSION_ID": 399,
+    "SALES_REP_ID": 163,
+    "PERIOD_END": "2024-10-28",
+    "AMOUNT": 2101.71
+  },
+  {
+    "COMMISSION_ID": 400,
+    "SALES_REP_ID": 824,
+    "PERIOD_END": "2024-09-16",
+    "AMOUNT": 2848.18
+  },
+  {
+    "COMMISSION_ID": 401,
+    "SALES_REP_ID": 673,
+    "PERIOD_END": "2024-10-26",
+    "AMOUNT": 1333.93
+  },
+  {
+    "COMMISSION_ID": 402,
+    "SALES_REP_ID": 250,
+    "PERIOD_END": "2024-03-16",
+    "AMOUNT": 4984.4
+  },
+  {
+    "COMMISSION_ID": 403,
+    "SALES_REP_ID": 708,
+    "PERIOD_END": "2023-12-12",
+    "AMOUNT": 4345.95
+  },
+  {
+    "COMMISSION_ID": 404,
+    "SALES_REP_ID": 33,
+    "PERIOD_END": "2023-12-31",
+    "AMOUNT": 216.52
+  },
+  {
+    "COMMISSION_ID": 405,
+    "SALES_REP_ID": 742,
+    "PERIOD_END": "2023-11-09",
+    "AMOUNT": 1663.72
+  },
+  {
+    "COMMISSION_ID": 406,
+    "SALES_REP_ID": 62,
+    "PERIOD_END": "2024-01-05",
+    "AMOUNT": 4973.18
+  },
+  {
+    "COMMISSION_ID": 407,
+    "SALES_REP_ID": 33,
+    "PERIOD_END": "2024-09-02",
+    "AMOUNT": 956.86
+  },
+  {
+    "COMMISSION_ID": 408,
+    "SALES_REP_ID": 276,
+    "PERIOD_END": "2024-02-15",
+    "AMOUNT": 2371.06
+  },
+  {
+    "COMMISSION_ID": 409,
+    "SALES_REP_ID": 751,
+    "PERIOD_END": "2023-01-09",
+    "AMOUNT": 350.57
+  },
+  {
+    "COMMISSION_ID": 410,
+    "SALES_REP_ID": 202,
+    "PERIOD_END": "2023-10-15",
+    "AMOUNT": 943.86
+  },
+  {
+    "COMMISSION_ID": 411,
+    "SALES_REP_ID": 777,
+    "PERIOD_END": "2024-09-09",
+    "AMOUNT": 3816.59
+  },
+  {
+    "COMMISSION_ID": 412,
+    "SALES_REP_ID": 581,
+    "PERIOD_END": "2023-02-16",
+    "AMOUNT": 3515.02
+  },
+  {
+    "COMMISSION_ID": 413,
+    "SALES_REP_ID": 458,
+    "PERIOD_END": "2023-08-21",
+    "AMOUNT": 4581.92
+  },
+  {
+    "COMMISSION_ID": 414,
+    "SALES_REP_ID": 502,
+    "PERIOD_END": "2023-05-26",
+    "AMOUNT": 4238.23
+  },
+  {
+    "COMMISSION_ID": 415,
+    "SALES_REP_ID": 605,
+    "PERIOD_END": "2023-11-19",
+    "AMOUNT": 1421.24
+  },
+  {
+    "COMMISSION_ID": 416,
+    "SALES_REP_ID": 808,
+    "PERIOD_END": "2023-12-20",
+    "AMOUNT": 3368.08
+  },
+  {
+    "COMMISSION_ID": 417,
+    "SALES_REP_ID": 993,
+    "PERIOD_END": "2024-12-03",
+    "AMOUNT": 123.46
+  },
+  {
+    "COMMISSION_ID": 418,
+    "SALES_REP_ID": 576,
+    "PERIOD_END": "2023-01-30",
+    "AMOUNT": 410.83
+  },
+  {
+    "COMMISSION_ID": 419,
+    "SALES_REP_ID": 142,
+    "PERIOD_END": "2023-12-10",
+    "AMOUNT": 2839.56
+  },
+  {
+    "COMMISSION_ID": 420,
+    "SALES_REP_ID": 360,
+    "PERIOD_END": "2023-04-23",
+    "AMOUNT": 1836.3
+  },
+  {
+    "COMMISSION_ID": 421,
+    "SALES_REP_ID": 693,
+    "PERIOD_END": "2023-05-16",
+    "AMOUNT": 3476.73
+  },
+  {
+    "COMMISSION_ID": 422,
+    "SALES_REP_ID": 652,
+    "PERIOD_END": "2023-01-05",
+    "AMOUNT": 1569.5
+  },
+  {
+    "COMMISSION_ID": 423,
+    "SALES_REP_ID": 352,
+    "PERIOD_END": "2023-01-24",
+    "AMOUNT": 3323.87
+  },
+  {
+    "COMMISSION_ID": 424,
+    "SALES_REP_ID": 983,
+    "PERIOD_END": "2024-07-29",
+    "AMOUNT": 561.65
+  },
+  {
+    "COMMISSION_ID": 425,
+    "SALES_REP_ID": 215,
+    "PERIOD_END": "2023-12-18",
+    "AMOUNT": 1212.18
+  },
+  {
+    "COMMISSION_ID": 426,
+    "SALES_REP_ID": 67,
+    "PERIOD_END": "2023-05-23",
+    "AMOUNT": 4553.39
+  },
+  {
+    "COMMISSION_ID": 427,
+    "SALES_REP_ID": 611,
+    "PERIOD_END": "2023-09-29",
+    "AMOUNT": 3881.72
+  },
+  {
+    "COMMISSION_ID": 428,
+    "SALES_REP_ID": 704,
+    "PERIOD_END": "2024-11-19",
+    "AMOUNT": 3454.28
+  },
+  {
+    "COMMISSION_ID": 429,
+    "SALES_REP_ID": 845,
+    "PERIOD_END": "2023-08-18",
+    "AMOUNT": 3777.92
+  },
+  {
+    "COMMISSION_ID": 430,
+    "SALES_REP_ID": 636,
+    "PERIOD_END": "2023-12-05",
+    "AMOUNT": 1021.64
+  },
+  {
+    "COMMISSION_ID": 431,
+    "SALES_REP_ID": 817,
+    "PERIOD_END": "2023-04-13",
+    "AMOUNT": 647.21
+  },
+  {
+    "COMMISSION_ID": 432,
+    "SALES_REP_ID": 245,
+    "PERIOD_END": "2024-11-03",
+    "AMOUNT": 1827.7
+  },
+  {
+    "COMMISSION_ID": 433,
+    "SALES_REP_ID": 30,
+    "PERIOD_END": "2023-10-09",
+    "AMOUNT": 4969.42
+  },
+  {
+    "COMMISSION_ID": 434,
+    "SALES_REP_ID": 171,
+    "PERIOD_END": "2024-02-15",
+    "AMOUNT": 1854.05
+  },
+  {
+    "COMMISSION_ID": 435,
+    "SALES_REP_ID": 907,
+    "PERIOD_END": "2024-04-16",
+    "AMOUNT": 4103.86
+  },
+  {
+    "COMMISSION_ID": 436,
+    "SALES_REP_ID": 153,
+    "PERIOD_END": "2024-07-18",
+    "AMOUNT": 2227.24
+  },
+  {
+    "COMMISSION_ID": 437,
+    "SALES_REP_ID": 692,
+    "PERIOD_END": "2024-01-25",
+    "AMOUNT": 4539.94
+  },
+  {
+    "COMMISSION_ID": 438,
+    "SALES_REP_ID": 826,
+    "PERIOD_END": "2024-11-14",
+    "AMOUNT": 1785.34
+  },
+  {
+    "COMMISSION_ID": 439,
+    "SALES_REP_ID": 709,
+    "PERIOD_END": "2023-02-22",
+    "AMOUNT": 2665.51
+  },
+  {
+    "COMMISSION_ID": 440,
+    "SALES_REP_ID": 508,
+    "PERIOD_END": "2023-08-17",
+    "AMOUNT": 2689.8
+  },
+  {
+    "COMMISSION_ID": 441,
+    "SALES_REP_ID": 568,
+    "PERIOD_END": "2024-11-24",
+    "AMOUNT": 1815.48
+  },
+  {
+    "COMMISSION_ID": 442,
+    "SALES_REP_ID": 300,
+    "PERIOD_END": "2023-12-17",
+    "AMOUNT": 4777.34
+  },
+  {
+    "COMMISSION_ID": 443,
+    "SALES_REP_ID": 266,
+    "PERIOD_END": "2024-10-09",
+    "AMOUNT": 3807.34
+  },
+  {
+    "COMMISSION_ID": 444,
+    "SALES_REP_ID": 42,
+    "PERIOD_END": "2024-09-10",
+    "AMOUNT": 4136.61
+  },
+  {
+    "COMMISSION_ID": 445,
+    "SALES_REP_ID": 641,
+    "PERIOD_END": "2023-03-24",
+    "AMOUNT": 2964.54
+  },
+  {
+    "COMMISSION_ID": 446,
+    "SALES_REP_ID": 332,
+    "PERIOD_END": "2023-04-07",
+    "AMOUNT": 484.12
+  },
+  {
+    "COMMISSION_ID": 447,
+    "SALES_REP_ID": 682,
+    "PERIOD_END": "2023-11-08",
+    "AMOUNT": 1785.7
+  },
+  {
+    "COMMISSION_ID": 448,
+    "SALES_REP_ID": 367,
+    "PERIOD_END": "2023-11-17",
+    "AMOUNT": 3803.41
+  },
+  {
+    "COMMISSION_ID": 449,
+    "SALES_REP_ID": 226,
+    "PERIOD_END": "2024-12-06",
+    "AMOUNT": 2323.4
+  },
+  {
+    "COMMISSION_ID": 450,
+    "SALES_REP_ID": 33,
+    "PERIOD_END": "2024-03-03",
+    "AMOUNT": 764.99
+  },
+  {
+    "COMMISSION_ID": 451,
+    "SALES_REP_ID": 191,
+    "PERIOD_END": "2024-07-10",
+    "AMOUNT": 4241.49
+  },
+  {
+    "COMMISSION_ID": 452,
+    "SALES_REP_ID": 426,
+    "PERIOD_END": "2024-04-11",
+    "AMOUNT": 1079
+  },
+  {
+    "COMMISSION_ID": 453,
+    "SALES_REP_ID": 453,
+    "PERIOD_END": "2023-09-14",
+    "AMOUNT": 1987.83
+  },
+  {
+    "COMMISSION_ID": 454,
+    "SALES_REP_ID": 864,
+    "PERIOD_END": "2023-05-24",
+    "AMOUNT": 4244.69
+  },
+  {
+    "COMMISSION_ID": 455,
+    "SALES_REP_ID": 684,
+    "PERIOD_END": "2023-11-22",
+    "AMOUNT": 4169.23
+  },
+  {
+    "COMMISSION_ID": 456,
+    "SALES_REP_ID": 384,
+    "PERIOD_END": "2024-03-09",
+    "AMOUNT": 3623.79
+  },
+  {
+    "COMMISSION_ID": 457,
+    "SALES_REP_ID": 781,
+    "PERIOD_END": "2023-06-20",
+    "AMOUNT": 3829.15
+  },
+  {
+    "COMMISSION_ID": 458,
+    "SALES_REP_ID": 264,
+    "PERIOD_END": "2023-04-14",
+    "AMOUNT": 951.62
+  },
+  {
+    "COMMISSION_ID": 459,
+    "SALES_REP_ID": 435,
+    "PERIOD_END": "2023-01-30",
+    "AMOUNT": 2617.11
+  },
+  {
+    "COMMISSION_ID": 460,
+    "SALES_REP_ID": 539,
+    "PERIOD_END": "2023-05-02",
+    "AMOUNT": 2604.7
+  },
+  {
+    "COMMISSION_ID": 461,
+    "SALES_REP_ID": 803,
+    "PERIOD_END": "2024-11-01",
+    "AMOUNT": 2266.17
+  },
+  {
+    "COMMISSION_ID": 462,
+    "SALES_REP_ID": 164,
+    "PERIOD_END": "2023-01-15",
+    "AMOUNT": 2986.86
+  },
+  {
+    "COMMISSION_ID": 463,
+    "SALES_REP_ID": 956,
+    "PERIOD_END": "2023-03-02",
+    "AMOUNT": 2177.09
+  },
+  {
+    "COMMISSION_ID": 464,
+    "SALES_REP_ID": 240,
+    "PERIOD_END": "2023-03-27",
+    "AMOUNT": 3057.19
+  },
+  {
+    "COMMISSION_ID": 465,
+    "SALES_REP_ID": 442,
+    "PERIOD_END": "2023-09-04",
+    "AMOUNT": 198.87
+  },
+  {
+    "COMMISSION_ID": 466,
+    "SALES_REP_ID": 865,
+    "PERIOD_END": "2023-08-29",
+    "AMOUNT": 4622.44
+  },
+  {
+    "COMMISSION_ID": 467,
+    "SALES_REP_ID": 613,
+    "PERIOD_END": "2023-12-11",
+    "AMOUNT": 4754.12
+  },
+  {
+    "COMMISSION_ID": 468,
+    "SALES_REP_ID": 447,
+    "PERIOD_END": "2024-05-20",
+    "AMOUNT": 4711.02
+  },
+  {
+    "COMMISSION_ID": 469,
+    "SALES_REP_ID": 319,
+    "PERIOD_END": "2023-12-10",
+    "AMOUNT": 259.18
+  },
+  {
+    "COMMISSION_ID": 470,
+    "SALES_REP_ID": 338,
+    "PERIOD_END": "2024-09-22",
+    "AMOUNT": 4125.38
+  },
+  {
+    "COMMISSION_ID": 471,
+    "SALES_REP_ID": 553,
+    "PERIOD_END": "2023-05-27",
+    "AMOUNT": 4596.66
+  },
+  {
+    "COMMISSION_ID": 472,
+    "SALES_REP_ID": 129,
+    "PERIOD_END": "2024-11-24",
+    "AMOUNT": 3549.1
+  },
+  {
+    "COMMISSION_ID": 473,
+    "SALES_REP_ID": 429,
+    "PERIOD_END": "2024-03-27",
+    "AMOUNT": 1215.06
+  },
+  {
+    "COMMISSION_ID": 474,
+    "SALES_REP_ID": 824,
+    "PERIOD_END": "2023-04-13",
+    "AMOUNT": 4743.45
+  },
+  {
+    "COMMISSION_ID": 475,
+    "SALES_REP_ID": 976,
+    "PERIOD_END": "2023-08-09",
+    "AMOUNT": 1473.95
+  },
+  {
+    "COMMISSION_ID": 476,
+    "SALES_REP_ID": 235,
+    "PERIOD_END": "2024-06-27",
+    "AMOUNT": 4606.81
+  },
+  {
+    "COMMISSION_ID": 477,
+    "SALES_REP_ID": 544,
+    "PERIOD_END": "2023-02-09",
+    "AMOUNT": 1612.02
+  },
+  {
+    "COMMISSION_ID": 478,
+    "SALES_REP_ID": 353,
+    "PERIOD_END": "2023-04-03",
+    "AMOUNT": 3322.1
+  },
+  {
+    "COMMISSION_ID": 479,
+    "SALES_REP_ID": 666,
+    "PERIOD_END": "2023-06-05",
+    "AMOUNT": 380.2
+  },
+  {
+    "COMMISSION_ID": 480,
+    "SALES_REP_ID": 379,
+    "PERIOD_END": "2024-09-14",
+    "AMOUNT": 4097.96
+  },
+  {
+    "COMMISSION_ID": 481,
+    "SALES_REP_ID": 411,
+    "PERIOD_END": "2023-11-01",
+    "AMOUNT": 1894.71
+  },
+  {
+    "COMMISSION_ID": 482,
+    "SALES_REP_ID": 880,
+    "PERIOD_END": "2024-11-26",
+    "AMOUNT": 809.29
+  },
+  {
+    "COMMISSION_ID": 483,
+    "SALES_REP_ID": 180,
+    "PERIOD_END": "2023-09-01",
+    "AMOUNT": 624.63
+  },
+  {
+    "COMMISSION_ID": 484,
+    "SALES_REP_ID": 262,
+    "PERIOD_END": "2023-05-16",
+    "AMOUNT": 2409.77
+  },
+  {
+    "COMMISSION_ID": 485,
+    "SALES_REP_ID": 786,
+    "PERIOD_END": "2024-01-15",
+    "AMOUNT": 2263.66
+  },
+  {
+    "COMMISSION_ID": 486,
+    "SALES_REP_ID": 478,
+    "PERIOD_END": "2023-07-09",
+    "AMOUNT": 3071.25
+  },
+  {
+    "COMMISSION_ID": 487,
+    "SALES_REP_ID": 66,
+    "PERIOD_END": "2023-04-23",
+    "AMOUNT": 3619.84
+  },
+  {
+    "COMMISSION_ID": 488,
+    "SALES_REP_ID": 300,
+    "PERIOD_END": "2024-08-27",
+    "AMOUNT": 218.99
+  },
+  {
+    "COMMISSION_ID": 489,
+    "SALES_REP_ID": 293,
+    "PERIOD_END": "2024-10-05",
+    "AMOUNT": 1367.93
+  },
+  {
+    "COMMISSION_ID": 490,
+    "SALES_REP_ID": 917,
+    "PERIOD_END": "2023-03-29",
+    "AMOUNT": 2654.55
+  },
+  {
+    "COMMISSION_ID": 491,
+    "SALES_REP_ID": 725,
+    "PERIOD_END": "2023-07-27",
+    "AMOUNT": 3269.79
+  },
+  {
+    "COMMISSION_ID": 492,
+    "SALES_REP_ID": 255,
+    "PERIOD_END": "2024-03-22",
+    "AMOUNT": 4426.37
+  },
+  {
+    "COMMISSION_ID": 493,
+    "SALES_REP_ID": 382,
+    "PERIOD_END": "2023-08-19",
+    "AMOUNT": 4585.22
+  },
+  {
+    "COMMISSION_ID": 494,
+    "SALES_REP_ID": 87,
+    "PERIOD_END": "2023-02-09",
+    "AMOUNT": 3459.81
+  },
+  {
+    "COMMISSION_ID": 495,
+    "SALES_REP_ID": 877,
+    "PERIOD_END": "2023-06-10",
+    "AMOUNT": 3355.91
+  },
+  {
+    "COMMISSION_ID": 496,
+    "SALES_REP_ID": 600,
+    "PERIOD_END": "2024-05-10",
+    "AMOUNT": 2469.86
+  },
+  {
+    "COMMISSION_ID": 497,
+    "SALES_REP_ID": 695,
+    "PERIOD_END": "2024-10-19",
+    "AMOUNT": 625.3
+  },
+  {
+    "COMMISSION_ID": 498,
+    "SALES_REP_ID": 17,
+    "PERIOD_END": "2024-02-22",
+    "AMOUNT": 820.68
+  },
+  {
+    "COMMISSION_ID": 499,
+    "SALES_REP_ID": 599,
+    "PERIOD_END": "2023-04-28",
+    "AMOUNT": 4748.75
+  },
+  {
+    "COMMISSION_ID": 500,
+    "SALES_REP_ID": 959,
+    "PERIOD_END": "2024-04-23",
+    "AMOUNT": 3064.29
+  },
+  {
+    "COMMISSION_ID": 501,
+    "SALES_REP_ID": 400,
+    "PERIOD_END": "2023-12-14",
+    "AMOUNT": 4063.6
+  },
+  {
+    "COMMISSION_ID": 502,
+    "SALES_REP_ID": 932,
+    "PERIOD_END": "2024-04-07",
+    "AMOUNT": 1146.78
+  },
+  {
+    "COMMISSION_ID": 503,
+    "SALES_REP_ID": 166,
+    "PERIOD_END": "2024-06-05",
+    "AMOUNT": 646.56
+  },
+  {
+    "COMMISSION_ID": 504,
+    "SALES_REP_ID": 438,
+    "PERIOD_END": "2023-05-25",
+    "AMOUNT": 3458.01
+  },
+  {
+    "COMMISSION_ID": 505,
+    "SALES_REP_ID": 86,
+    "PERIOD_END": "2023-02-24",
+    "AMOUNT": 3682.66
+  },
+  {
+    "COMMISSION_ID": 506,
+    "SALES_REP_ID": 501,
+    "PERIOD_END": "2023-08-23",
+    "AMOUNT": 4118.47
+  },
+  {
+    "COMMISSION_ID": 507,
+    "SALES_REP_ID": 160,
+    "PERIOD_END": "2023-06-10",
+    "AMOUNT": 579.96
+  },
+  {
+    "COMMISSION_ID": 508,
+    "SALES_REP_ID": 564,
+    "PERIOD_END": "2023-09-10",
+    "AMOUNT": 2045.64
+  },
+  {
+    "COMMISSION_ID": 509,
+    "SALES_REP_ID": 922,
+    "PERIOD_END": "2023-03-19",
+    "AMOUNT": 3955.55
+  },
+  {
+    "COMMISSION_ID": 510,
+    "SALES_REP_ID": 454,
+    "PERIOD_END": "2023-08-12",
+    "AMOUNT": 3429.05
+  },
+  {
+    "COMMISSION_ID": 511,
+    "SALES_REP_ID": 446,
+    "PERIOD_END": "2024-05-10",
+    "AMOUNT": 658.15
+  },
+  {
+    "COMMISSION_ID": 512,
+    "SALES_REP_ID": 28,
+    "PERIOD_END": "2024-01-03",
+    "AMOUNT": 770.85
+  },
+  {
+    "COMMISSION_ID": 513,
+    "SALES_REP_ID": 527,
+    "PERIOD_END": "2024-11-29",
+    "AMOUNT": 2310.98
+  },
+  {
+    "COMMISSION_ID": 514,
+    "SALES_REP_ID": 2,
+    "PERIOD_END": "2024-03-28",
+    "AMOUNT": 3253
+  },
+  {
+    "COMMISSION_ID": 515,
+    "SALES_REP_ID": 355,
+    "PERIOD_END": "2024-09-01",
+    "AMOUNT": 3728.38
+  },
+  {
+    "COMMISSION_ID": 516,
+    "SALES_REP_ID": 861,
+    "PERIOD_END": "2023-03-24",
+    "AMOUNT": 1928.48
+  },
+  {
+    "COMMISSION_ID": 517,
+    "SALES_REP_ID": 202,
+    "PERIOD_END": "2023-02-27",
+    "AMOUNT": 1346.05
+  },
+  {
+    "COMMISSION_ID": 518,
+    "SALES_REP_ID": 326,
+    "PERIOD_END": "2023-02-22",
+    "AMOUNT": 150.73
+  },
+  {
+    "COMMISSION_ID": 519,
+    "SALES_REP_ID": 182,
+    "PERIOD_END": "2023-01-07",
+    "AMOUNT": 741.57
+  },
+  {
+    "COMMISSION_ID": 520,
+    "SALES_REP_ID": 662,
+    "PERIOD_END": "2024-01-22",
+    "AMOUNT": 3737.77
+  },
+  {
+    "COMMISSION_ID": 521,
+    "SALES_REP_ID": 534,
+    "PERIOD_END": "2023-09-07",
+    "AMOUNT": 2846.26
+  },
+  {
+    "COMMISSION_ID": 522,
+    "SALES_REP_ID": 569,
+    "PERIOD_END": "2024-09-19",
+    "AMOUNT": 267.65
+  },
+  {
+    "COMMISSION_ID": 523,
+    "SALES_REP_ID": 219,
+    "PERIOD_END": "2023-11-14",
+    "AMOUNT": 3225.96
+  },
+  {
+    "COMMISSION_ID": 524,
+    "SALES_REP_ID": 902,
+    "PERIOD_END": "2023-02-26",
+    "AMOUNT": 933.49
+  },
+  {
+    "COMMISSION_ID": 525,
+    "SALES_REP_ID": 324,
+    "PERIOD_END": "2024-05-30",
+    "AMOUNT": 2058.85
+  },
+  {
+    "COMMISSION_ID": 526,
+    "SALES_REP_ID": 780,
+    "PERIOD_END": "2024-02-11",
+    "AMOUNT": 331.43
+  },
+  {
+    "COMMISSION_ID": 527,
+    "SALES_REP_ID": 665,
+    "PERIOD_END": "2023-02-18",
+    "AMOUNT": 1433.78
+  },
+  {
+    "COMMISSION_ID": 528,
+    "SALES_REP_ID": 620,
+    "PERIOD_END": "2023-07-30",
+    "AMOUNT": 1438.4
+  },
+  {
+    "COMMISSION_ID": 529,
+    "SALES_REP_ID": 702,
+    "PERIOD_END": "2024-12-07",
+    "AMOUNT": 2350.27
+  },
+  {
+    "COMMISSION_ID": 530,
+    "SALES_REP_ID": 357,
+    "PERIOD_END": "2023-11-01",
+    "AMOUNT": 3164.63
+  },
+  {
+    "COMMISSION_ID": 531,
+    "SALES_REP_ID": 550,
+    "PERIOD_END": "2024-12-29",
+    "AMOUNT": 3645.65
+  },
+  {
+    "COMMISSION_ID": 532,
+    "SALES_REP_ID": 246,
+    "PERIOD_END": "2024-03-10",
+    "AMOUNT": 2754.35
+  },
+  {
+    "COMMISSION_ID": 533,
+    "SALES_REP_ID": 99,
+    "PERIOD_END": "2023-02-15",
+    "AMOUNT": 470.03
+  },
+  {
+    "COMMISSION_ID": 534,
+    "SALES_REP_ID": 250,
+    "PERIOD_END": "2024-07-16",
+    "AMOUNT": 3358.65
+  },
+  {
+    "COMMISSION_ID": 535,
+    "SALES_REP_ID": 458,
+    "PERIOD_END": "2023-06-26",
+    "AMOUNT": 451.19
+  },
+  {
+    "COMMISSION_ID": 536,
+    "SALES_REP_ID": 893,
+    "PERIOD_END": "2023-11-18",
+    "AMOUNT": 590.63
+  },
+  {
+    "COMMISSION_ID": 537,
+    "SALES_REP_ID": 251,
+    "PERIOD_END": "2023-10-15",
+    "AMOUNT": 1938.96
+  },
+  {
+    "COMMISSION_ID": 538,
+    "SALES_REP_ID": 103,
+    "PERIOD_END": "2024-07-12",
+    "AMOUNT": 1621.47
+  },
+  {
+    "COMMISSION_ID": 539,
+    "SALES_REP_ID": 153,
+    "PERIOD_END": "2023-01-03",
+    "AMOUNT": 582.85
+  },
+  {
+    "COMMISSION_ID": 540,
+    "SALES_REP_ID": 549,
+    "PERIOD_END": "2024-11-04",
+    "AMOUNT": 2779.83
+  },
+  {
+    "COMMISSION_ID": 541,
+    "SALES_REP_ID": 371,
+    "PERIOD_END": "2023-08-30",
+    "AMOUNT": 951.68
+  },
+  {
+    "COMMISSION_ID": 542,
+    "SALES_REP_ID": 790,
+    "PERIOD_END": "2024-07-17",
+    "AMOUNT": 3727.14
+  },
+  {
+    "COMMISSION_ID": 543,
+    "SALES_REP_ID": 702,
+    "PERIOD_END": "2023-03-20",
+    "AMOUNT": 4419.27
+  },
+  {
+    "COMMISSION_ID": 544,
+    "SALES_REP_ID": 689,
+    "PERIOD_END": "2024-02-01",
+    "AMOUNT": 2662.56
+  },
+  {
+    "COMMISSION_ID": 545,
+    "SALES_REP_ID": 742,
+    "PERIOD_END": "2024-10-14",
+    "AMOUNT": 2114.27
+  },
+  {
+    "COMMISSION_ID": 546,
+    "SALES_REP_ID": 426,
+    "PERIOD_END": "2023-01-10",
+    "AMOUNT": 1264.04
+  },
+  {
+    "COMMISSION_ID": 547,
+    "SALES_REP_ID": 579,
+    "PERIOD_END": "2024-11-23",
+    "AMOUNT": 3371.07
+  },
+  {
+    "COMMISSION_ID": 548,
+    "SALES_REP_ID": 89,
+    "PERIOD_END": "2024-10-26",
+    "AMOUNT": 4698.22
+  },
+  {
+    "COMMISSION_ID": 549,
+    "SALES_REP_ID": 491,
+    "PERIOD_END": "2023-09-09",
+    "AMOUNT": 3717.57
+  },
+  {
+    "COMMISSION_ID": 550,
+    "SALES_REP_ID": 615,
+    "PERIOD_END": "2023-01-13",
+    "AMOUNT": 2382.7
+  },
+  {
+    "COMMISSION_ID": 551,
+    "SALES_REP_ID": 523,
+    "PERIOD_END": "2024-08-29",
+    "AMOUNT": 3561.51
+  },
+  {
+    "COMMISSION_ID": 552,
+    "SALES_REP_ID": 664,
+    "PERIOD_END": "2024-05-12",
+    "AMOUNT": 2199.21
+  },
+  {
+    "COMMISSION_ID": 553,
+    "SALES_REP_ID": 189,
+    "PERIOD_END": "2023-02-17",
+    "AMOUNT": 309.43
+  },
+  {
+    "COMMISSION_ID": 554,
+    "SALES_REP_ID": 363,
+    "PERIOD_END": "2023-05-13",
+    "AMOUNT": 495.88
+  },
+  {
+    "COMMISSION_ID": 555,
+    "SALES_REP_ID": 716,
+    "PERIOD_END": "2023-04-13",
+    "AMOUNT": 3924.66
+  },
+  {
+    "COMMISSION_ID": 556,
+    "SALES_REP_ID": 990,
+    "PERIOD_END": "2024-04-30",
+    "AMOUNT": 4575.29
+  },
+  {
+    "COMMISSION_ID": 557,
+    "SALES_REP_ID": 468,
+    "PERIOD_END": "2023-04-27",
+    "AMOUNT": 2225.14
+  },
+  {
+    "COMMISSION_ID": 558,
+    "SALES_REP_ID": 276,
+    "PERIOD_END": "2024-07-28",
+    "AMOUNT": 1889.4
+  },
+  {
+    "COMMISSION_ID": 559,
+    "SALES_REP_ID": 814,
+    "PERIOD_END": "2023-01-29",
+    "AMOUNT": 3992.83
+  },
+  {
+    "COMMISSION_ID": 560,
+    "SALES_REP_ID": 688,
+    "PERIOD_END": "2024-06-29",
+    "AMOUNT": 4205.95
+  },
+  {
+    "COMMISSION_ID": 561,
+    "SALES_REP_ID": 329,
+    "PERIOD_END": "2023-04-17",
+    "AMOUNT": 983.49
+  },
+  {
+    "COMMISSION_ID": 562,
+    "SALES_REP_ID": 470,
+    "PERIOD_END": "2023-01-07",
+    "AMOUNT": 2692.52
+  },
+  {
+    "COMMISSION_ID": 563,
+    "SALES_REP_ID": 83,
+    "PERIOD_END": "2023-04-23",
+    "AMOUNT": 4422.55
+  },
+  {
+    "COMMISSION_ID": 564,
+    "SALES_REP_ID": 599,
+    "PERIOD_END": "2023-03-24",
+    "AMOUNT": 3148.86
+  },
+  {
+    "COMMISSION_ID": 565,
+    "SALES_REP_ID": 818,
+    "PERIOD_END": "2024-10-20",
+    "AMOUNT": 1589.27
+  },
+  {
+    "COMMISSION_ID": 566,
+    "SALES_REP_ID": 266,
+    "PERIOD_END": "2024-01-08",
+    "AMOUNT": 2159.55
+  },
+  {
+    "COMMISSION_ID": 567,
+    "SALES_REP_ID": 484,
+    "PERIOD_END": "2023-05-26",
+    "AMOUNT": 3122.49
+  },
+  {
+    "COMMISSION_ID": 568,
+    "SALES_REP_ID": 353,
+    "PERIOD_END": "2023-12-13",
+    "AMOUNT": 2008.48
+  },
+  {
+    "COMMISSION_ID": 569,
+    "SALES_REP_ID": 118,
+    "PERIOD_END": "2024-09-06",
+    "AMOUNT": 1011.72
+  },
+  {
+    "COMMISSION_ID": 570,
+    "SALES_REP_ID": 439,
+    "PERIOD_END": "2024-05-25",
+    "AMOUNT": 483.41
+  },
+  {
+    "COMMISSION_ID": 571,
+    "SALES_REP_ID": 450,
+    "PERIOD_END": "2024-04-01",
+    "AMOUNT": 3698.37
+  },
+  {
+    "COMMISSION_ID": 572,
+    "SALES_REP_ID": 831,
+    "PERIOD_END": "2023-04-30",
+    "AMOUNT": 3471.68
+  },
+  {
+    "COMMISSION_ID": 573,
+    "SALES_REP_ID": 692,
+    "PERIOD_END": "2024-05-28",
+    "AMOUNT": 2552.33
+  },
+  {
+    "COMMISSION_ID": 574,
+    "SALES_REP_ID": 769,
+    "PERIOD_END": "2023-05-25",
+    "AMOUNT": 4247.64
+  },
+  {
+    "COMMISSION_ID": 575,
+    "SALES_REP_ID": 247,
+    "PERIOD_END": "2024-08-21",
+    "AMOUNT": 1836.44
+  },
+  {
+    "COMMISSION_ID": 576,
+    "SALES_REP_ID": 110,
+    "PERIOD_END": "2023-05-18",
+    "AMOUNT": 3736.71
+  },
+  {
+    "COMMISSION_ID": 577,
+    "SALES_REP_ID": 784,
+    "PERIOD_END": "2024-01-26",
+    "AMOUNT": 4625.97
+  },
+  {
+    "COMMISSION_ID": 578,
+    "SALES_REP_ID": 452,
+    "PERIOD_END": "2024-07-10",
+    "AMOUNT": 1171.92
+  },
+  {
+    "COMMISSION_ID": 579,
+    "SALES_REP_ID": 26,
+    "PERIOD_END": "2024-01-17",
+    "AMOUNT": 1880.94
+  },
+  {
+    "COMMISSION_ID": 580,
+    "SALES_REP_ID": 213,
+    "PERIOD_END": "2024-04-14",
+    "AMOUNT": 582.38
+  },
+  {
+    "COMMISSION_ID": 581,
+    "SALES_REP_ID": 558,
+    "PERIOD_END": "2024-06-21",
+    "AMOUNT": 2441.35
+  },
+  {
+    "COMMISSION_ID": 582,
+    "SALES_REP_ID": 294,
+    "PERIOD_END": "2023-02-17",
+    "AMOUNT": 912.78
+  },
+  {
+    "COMMISSION_ID": 583,
+    "SALES_REP_ID": 144,
+    "PERIOD_END": "2023-08-11",
+    "AMOUNT": 3468.21
+  },
+  {
+    "COMMISSION_ID": 584,
+    "SALES_REP_ID": 950,
+    "PERIOD_END": "2023-10-23",
+    "AMOUNT": 3369.36
+  },
+  {
+    "COMMISSION_ID": 585,
+    "SALES_REP_ID": 985,
+    "PERIOD_END": "2023-03-12",
+    "AMOUNT": 1579.44
+  },
+  {
+    "COMMISSION_ID": 586,
+    "SALES_REP_ID": 807,
+    "PERIOD_END": "2024-02-05",
+    "AMOUNT": 4440.16
+  },
+  {
+    "COMMISSION_ID": 587,
+    "SALES_REP_ID": 181,
+    "PERIOD_END": "2024-05-21",
+    "AMOUNT": 2178.89
+  },
+  {
+    "COMMISSION_ID": 588,
+    "SALES_REP_ID": 745,
+    "PERIOD_END": "2023-08-12",
+    "AMOUNT": 104.16
+  },
+  {
+    "COMMISSION_ID": 589,
+    "SALES_REP_ID": 975,
+    "PERIOD_END": "2024-11-27",
+    "AMOUNT": 641.2
+  },
+  {
+    "COMMISSION_ID": 590,
+    "SALES_REP_ID": 825,
+    "PERIOD_END": "2024-04-13",
+    "AMOUNT": 2138.87
+  },
+  {
+    "COMMISSION_ID": 591,
+    "SALES_REP_ID": 100,
+    "PERIOD_END": "2024-12-01",
+    "AMOUNT": 1561.13
+  },
+  {
+    "COMMISSION_ID": 592,
+    "SALES_REP_ID": 642,
+    "PERIOD_END": "2024-11-18",
+    "AMOUNT": 601.1
+  },
+  {
+    "COMMISSION_ID": 593,
+    "SALES_REP_ID": 191,
+    "PERIOD_END": "2023-10-30",
+    "AMOUNT": 2605.66
+  },
+  {
+    "COMMISSION_ID": 594,
+    "SALES_REP_ID": 116,
+    "PERIOD_END": "2024-09-07",
+    "AMOUNT": 2044.23
+  },
+  {
+    "COMMISSION_ID": 595,
+    "SALES_REP_ID": 545,
+    "PERIOD_END": "2024-03-07",
+    "AMOUNT": 1115.32
+  },
+  {
+    "COMMISSION_ID": 596,
+    "SALES_REP_ID": 946,
+    "PERIOD_END": "2024-03-01",
+    "AMOUNT": 1383.47
+  },
+  {
+    "COMMISSION_ID": 597,
+    "SALES_REP_ID": 28,
+    "PERIOD_END": "2023-09-14",
+    "AMOUNT": 2002.66
+  },
+  {
+    "COMMISSION_ID": 598,
+    "SALES_REP_ID": 387,
+    "PERIOD_END": "2024-07-05",
+    "AMOUNT": 4887.09
+  },
+  {
+    "COMMISSION_ID": 599,
+    "SALES_REP_ID": 397,
+    "PERIOD_END": "2024-08-30",
+    "AMOUNT": 2601.52
+  },
+  {
+    "COMMISSION_ID": 600,
+    "SALES_REP_ID": 495,
+    "PERIOD_END": "2023-01-23",
+    "AMOUNT": 1160.61
+  },
+  {
+    "COMMISSION_ID": 601,
+    "SALES_REP_ID": 565,
+    "PERIOD_END": "2024-07-26",
+    "AMOUNT": 3919.11
+  },
+  {
+    "COMMISSION_ID": 602,
+    "SALES_REP_ID": 237,
+    "PERIOD_END": "2023-01-04",
+    "AMOUNT": 238.7
+  },
+  {
+    "COMMISSION_ID": 603,
+    "SALES_REP_ID": 555,
+    "PERIOD_END": "2023-08-14",
+    "AMOUNT": 2483.46
+  },
+  {
+    "COMMISSION_ID": 604,
+    "SALES_REP_ID": 618,
+    "PERIOD_END": "2024-10-18",
+    "AMOUNT": 1216.4
+  },
+  {
+    "COMMISSION_ID": 605,
+    "SALES_REP_ID": 747,
+    "PERIOD_END": "2023-08-21",
+    "AMOUNT": 3481.47
+  },
+  {
+    "COMMISSION_ID": 606,
+    "SALES_REP_ID": 81,
+    "PERIOD_END": "2023-12-19",
+    "AMOUNT": 2925.6
+  },
+  {
+    "COMMISSION_ID": 607,
+    "SALES_REP_ID": 186,
+    "PERIOD_END": "2023-05-29",
+    "AMOUNT": 3919.38
+  },
+  {
+    "COMMISSION_ID": 608,
+    "SALES_REP_ID": 724,
+    "PERIOD_END": "2024-08-31",
+    "AMOUNT": 656.71
+  },
+  {
+    "COMMISSION_ID": 609,
+    "SALES_REP_ID": 660,
+    "PERIOD_END": "2023-06-21",
+    "AMOUNT": 2464.52
+  },
+  {
+    "COMMISSION_ID": 610,
+    "SALES_REP_ID": 60,
+    "PERIOD_END": "2024-01-28",
+    "AMOUNT": 1716.17
+  },
+  {
+    "COMMISSION_ID": 611,
+    "SALES_REP_ID": 229,
+    "PERIOD_END": "2023-10-14",
+    "AMOUNT": 415.63
+  },
+  {
+    "COMMISSION_ID": 612,
+    "SALES_REP_ID": 930,
+    "PERIOD_END": "2023-09-28",
+    "AMOUNT": 344.41
+  },
+  {
+    "COMMISSION_ID": 613,
+    "SALES_REP_ID": 761,
+    "PERIOD_END": "2024-12-03",
+    "AMOUNT": 811.25
+  },
+  {
+    "COMMISSION_ID": 614,
+    "SALES_REP_ID": 97,
+    "PERIOD_END": "2023-03-25",
+    "AMOUNT": 2761.76
+  },
+  {
+    "COMMISSION_ID": 615,
+    "SALES_REP_ID": 175,
+    "PERIOD_END": "2023-05-12",
+    "AMOUNT": 2616.46
+  },
+  {
+    "COMMISSION_ID": 616,
+    "SALES_REP_ID": 288,
+    "PERIOD_END": "2024-05-06",
+    "AMOUNT": 707.98
+  },
+  {
+    "COMMISSION_ID": 617,
+    "SALES_REP_ID": 198,
+    "PERIOD_END": "2023-01-21",
+    "AMOUNT": 528.78
+  },
+  {
+    "COMMISSION_ID": 618,
+    "SALES_REP_ID": 117,
+    "PERIOD_END": "2024-04-02",
+    "AMOUNT": 3512.96
+  },
+  {
+    "COMMISSION_ID": 619,
+    "SALES_REP_ID": 792,
+    "PERIOD_END": "2024-02-15",
+    "AMOUNT": 3294.82
+  },
+  {
+    "COMMISSION_ID": 620,
+    "SALES_REP_ID": 869,
+    "PERIOD_END": "2024-05-06",
+    "AMOUNT": 1739.86
+  },
+  {
+    "COMMISSION_ID": 621,
+    "SALES_REP_ID": 459,
+    "PERIOD_END": "2024-06-22",
+    "AMOUNT": 3102.83
+  },
+  {
+    "COMMISSION_ID": 622,
+    "SALES_REP_ID": 810,
+    "PERIOD_END": "2024-06-17",
+    "AMOUNT": 3315.23
+  },
+  {
+    "COMMISSION_ID": 623,
+    "SALES_REP_ID": 853,
+    "PERIOD_END": "2024-08-13",
+    "AMOUNT": 2437.62
+  },
+  {
+    "COMMISSION_ID": 624,
+    "SALES_REP_ID": 292,
+    "PERIOD_END": "2024-08-18",
+    "AMOUNT": 3110.07
+  },
+  {
+    "COMMISSION_ID": 625,
+    "SALES_REP_ID": 640,
+    "PERIOD_END": "2024-09-06",
+    "AMOUNT": 378.71
+  },
+  {
+    "COMMISSION_ID": 626,
+    "SALES_REP_ID": 166,
+    "PERIOD_END": "2023-05-19",
+    "AMOUNT": 621.63
+  },
+  {
+    "COMMISSION_ID": 627,
+    "SALES_REP_ID": 128,
+    "PERIOD_END": "2023-04-24",
+    "AMOUNT": 1467.88
+  },
+  {
+    "COMMISSION_ID": 628,
+    "SALES_REP_ID": 875,
+    "PERIOD_END": "2024-02-24",
+    "AMOUNT": 3973.58
+  },
+  {
+    "COMMISSION_ID": 629,
+    "SALES_REP_ID": 428,
+    "PERIOD_END": "2023-12-31",
+    "AMOUNT": 2632.24
+  },
+  {
+    "COMMISSION_ID": 630,
+    "SALES_REP_ID": 98,
+    "PERIOD_END": "2024-07-20",
+    "AMOUNT": 3137.07
+  },
+  {
+    "COMMISSION_ID": 631,
+    "SALES_REP_ID": 679,
+    "PERIOD_END": "2023-04-15",
+    "AMOUNT": 4975.01
+  },
+  {
+    "COMMISSION_ID": 632,
+    "SALES_REP_ID": 913,
+    "PERIOD_END": "2023-01-10",
+    "AMOUNT": 2220.08
+  },
+  {
+    "COMMISSION_ID": 633,
+    "SALES_REP_ID": 505,
+    "PERIOD_END": "2023-08-05",
+    "AMOUNT": 3196.03
+  },
+  {
+    "COMMISSION_ID": 634,
+    "SALES_REP_ID": 702,
+    "PERIOD_END": "2024-12-24",
+    "AMOUNT": 1635.58
+  },
+  {
+    "COMMISSION_ID": 635,
+    "SALES_REP_ID": 883,
+    "PERIOD_END": "2023-09-07",
+    "AMOUNT": 564.09
+  },
+  {
+    "COMMISSION_ID": 636,
+    "SALES_REP_ID": 418,
+    "PERIOD_END": "2023-07-24",
+    "AMOUNT": 4162.54
+  },
+  {
+    "COMMISSION_ID": 637,
+    "SALES_REP_ID": 173,
+    "PERIOD_END": "2024-09-02",
+    "AMOUNT": 2358.89
+  },
+  {
+    "COMMISSION_ID": 638,
+    "SALES_REP_ID": 979,
+    "PERIOD_END": "2024-01-11",
+    "AMOUNT": 4180.73
+  },
+  {
+    "COMMISSION_ID": 639,
+    "SALES_REP_ID": 460,
+    "PERIOD_END": "2023-07-02",
+    "AMOUNT": 3749.75
+  },
+  {
+    "COMMISSION_ID": 640,
+    "SALES_REP_ID": 772,
+    "PERIOD_END": "2024-02-29",
+    "AMOUNT": 606.44
+  },
+  {
+    "COMMISSION_ID": 641,
+    "SALES_REP_ID": 612,
+    "PERIOD_END": "2023-11-09",
+    "AMOUNT": 3083.13
+  },
+  {
+    "COMMISSION_ID": 642,
+    "SALES_REP_ID": 224,
+    "PERIOD_END": "2024-05-14",
+    "AMOUNT": 4577.89
+  },
+  {
+    "COMMISSION_ID": 643,
+    "SALES_REP_ID": 520,
+    "PERIOD_END": "2023-03-14",
+    "AMOUNT": 534.53
+  },
+  {
+    "COMMISSION_ID": 644,
+    "SALES_REP_ID": 860,
+    "PERIOD_END": "2023-08-05",
+    "AMOUNT": 2675.22
+  },
+  {
+    "COMMISSION_ID": 645,
+    "SALES_REP_ID": 707,
+    "PERIOD_END": "2024-12-28",
+    "AMOUNT": 2990.89
+  },
+  {
+    "COMMISSION_ID": 646,
+    "SALES_REP_ID": 595,
+    "PERIOD_END": "2024-08-22",
+    "AMOUNT": 362.4
+  },
+  {
+    "COMMISSION_ID": 647,
+    "SALES_REP_ID": 544,
+    "PERIOD_END": "2023-06-20",
+    "AMOUNT": 3518.73
+  },
+  {
+    "COMMISSION_ID": 648,
+    "SALES_REP_ID": 117,
+    "PERIOD_END": "2023-08-01",
+    "AMOUNT": 3250.71
+  },
+  {
+    "COMMISSION_ID": 649,
+    "SALES_REP_ID": 14,
+    "PERIOD_END": "2024-05-26",
+    "AMOUNT": 476.61
+  },
+  {
+    "COMMISSION_ID": 650,
+    "SALES_REP_ID": 506,
+    "PERIOD_END": "2023-12-23",
+    "AMOUNT": 1023.77
+  },
+  {
+    "COMMISSION_ID": 651,
+    "SALES_REP_ID": 700,
+    "PERIOD_END": "2024-12-13",
+    "AMOUNT": 941.53
+  },
+  {
+    "COMMISSION_ID": 652,
+    "SALES_REP_ID": 399,
+    "PERIOD_END": "2023-08-16",
+    "AMOUNT": 4032.13
+  },
+  {
+    "COMMISSION_ID": 653,
+    "SALES_REP_ID": 708,
+    "PERIOD_END": "2023-07-19",
+    "AMOUNT": 2165.8
+  },
+  {
+    "COMMISSION_ID": 654,
+    "SALES_REP_ID": 124,
+    "PERIOD_END": "2023-09-05",
+    "AMOUNT": 476.72
+  },
+  {
+    "COMMISSION_ID": 655,
+    "SALES_REP_ID": 629,
+    "PERIOD_END": "2024-06-23",
+    "AMOUNT": 1714.17
+  },
+  {
+    "COMMISSION_ID": 656,
+    "SALES_REP_ID": 593,
+    "PERIOD_END": "2023-02-07",
+    "AMOUNT": 3796.13
+  },
+  {
+    "COMMISSION_ID": 657,
+    "SALES_REP_ID": 47,
+    "PERIOD_END": "2023-11-14",
+    "AMOUNT": 3477.31
+  },
+  {
+    "COMMISSION_ID": 658,
+    "SALES_REP_ID": 855,
+    "PERIOD_END": "2023-02-27",
+    "AMOUNT": 1289.1
+  },
+  {
+    "COMMISSION_ID": 659,
+    "SALES_REP_ID": 689,
+    "PERIOD_END": "2023-06-17",
+    "AMOUNT": 3046.75
+  },
+  {
+    "COMMISSION_ID": 660,
+    "SALES_REP_ID": 768,
+    "PERIOD_END": "2023-10-30",
+    "AMOUNT": 1920.7
+  },
+  {
+    "COMMISSION_ID": 661,
+    "SALES_REP_ID": 796,
+    "PERIOD_END": "2023-12-07",
+    "AMOUNT": 2567.26
+  },
+  {
+    "COMMISSION_ID": 662,
+    "SALES_REP_ID": 350,
+    "PERIOD_END": "2024-12-12",
+    "AMOUNT": 2163.38
+  },
+  {
+    "COMMISSION_ID": 663,
+    "SALES_REP_ID": 991,
+    "PERIOD_END": "2023-08-29",
+    "AMOUNT": 3432.4
+  },
+  {
+    "COMMISSION_ID": 664,
+    "SALES_REP_ID": 940,
+    "PERIOD_END": "2024-08-23",
+    "AMOUNT": 2785.98
+  },
+  {
+    "COMMISSION_ID": 665,
+    "SALES_REP_ID": 851,
+    "PERIOD_END": "2023-05-07",
+    "AMOUNT": 850.43
+  },
+  {
+    "COMMISSION_ID": 666,
+    "SALES_REP_ID": 872,
+    "PERIOD_END": "2023-10-13",
+    "AMOUNT": 4996.03
+  },
+  {
+    "COMMISSION_ID": 667,
+    "SALES_REP_ID": 224,
+    "PERIOD_END": "2024-09-10",
+    "AMOUNT": 3197.38
+  },
+  {
+    "COMMISSION_ID": 668,
+    "SALES_REP_ID": 149,
+    "PERIOD_END": "2023-11-26",
+    "AMOUNT": 3908.26
+  },
+  {
+    "COMMISSION_ID": 669,
+    "SALES_REP_ID": 914,
+    "PERIOD_END": "2023-12-17",
+    "AMOUNT": 618.62
+  },
+  {
+    "COMMISSION_ID": 670,
+    "SALES_REP_ID": 829,
+    "PERIOD_END": "2023-10-06",
+    "AMOUNT": 441.73
+  },
+  {
+    "COMMISSION_ID": 671,
+    "SALES_REP_ID": 615,
+    "PERIOD_END": "2024-12-18",
+    "AMOUNT": 3724.86
+  },
+  {
+    "COMMISSION_ID": 672,
+    "SALES_REP_ID": 331,
+    "PERIOD_END": "2024-07-25",
+    "AMOUNT": 4414.86
+  },
+  {
+    "COMMISSION_ID": 673,
+    "SALES_REP_ID": 69,
+    "PERIOD_END": "2024-10-06",
+    "AMOUNT": 3721.36
+  },
+  {
+    "COMMISSION_ID": 674,
+    "SALES_REP_ID": 925,
+    "PERIOD_END": "2023-09-18",
+    "AMOUNT": 4177.15
+  },
+  {
+    "COMMISSION_ID": 675,
+    "SALES_REP_ID": 889,
+    "PERIOD_END": "2024-03-07",
+    "AMOUNT": 4500.35
+  },
+  {
+    "COMMISSION_ID": 676,
+    "SALES_REP_ID": 927,
+    "PERIOD_END": "2023-04-19",
+    "AMOUNT": 4112.61
+  },
+  {
+    "COMMISSION_ID": 677,
+    "SALES_REP_ID": 187,
+    "PERIOD_END": "2024-12-24",
+    "AMOUNT": 1020.56
+  },
+  {
+    "COMMISSION_ID": 678,
+    "SALES_REP_ID": 831,
+    "PERIOD_END": "2023-02-08",
+    "AMOUNT": 695.42
+  },
+  {
+    "COMMISSION_ID": 679,
+    "SALES_REP_ID": 556,
+    "PERIOD_END": "2024-02-09",
+    "AMOUNT": 1243.03
+  },
+  {
+    "COMMISSION_ID": 680,
+    "SALES_REP_ID": 613,
+    "PERIOD_END": "2023-09-25",
+    "AMOUNT": 1854.24
+  },
+  {
+    "COMMISSION_ID": 681,
+    "SALES_REP_ID": 101,
+    "PERIOD_END": "2023-08-01",
+    "AMOUNT": 3644.31
+  },
+  {
+    "COMMISSION_ID": 682,
+    "SALES_REP_ID": 569,
+    "PERIOD_END": "2023-09-15",
+    "AMOUNT": 1659.86
+  },
+  {
+    "COMMISSION_ID": 683,
+    "SALES_REP_ID": 97,
+    "PERIOD_END": "2023-11-18",
+    "AMOUNT": 2009.1
+  },
+  {
+    "COMMISSION_ID": 684,
+    "SALES_REP_ID": 795,
+    "PERIOD_END": "2023-02-23",
+    "AMOUNT": 3055.23
+  },
+  {
+    "COMMISSION_ID": 685,
+    "SALES_REP_ID": 9,
+    "PERIOD_END": "2024-04-26",
+    "AMOUNT": 3029.3
+  },
+  {
+    "COMMISSION_ID": 686,
+    "SALES_REP_ID": 534,
+    "PERIOD_END": "2024-11-08",
+    "AMOUNT": 3710.7
+  },
+  {
+    "COMMISSION_ID": 687,
+    "SALES_REP_ID": 794,
+    "PERIOD_END": "2024-09-28",
+    "AMOUNT": 326.09
+  },
+  {
+    "COMMISSION_ID": 688,
+    "SALES_REP_ID": 602,
+    "PERIOD_END": "2024-03-14",
+    "AMOUNT": 3509.24
+  },
+  {
+    "COMMISSION_ID": 689,
+    "SALES_REP_ID": 314,
+    "PERIOD_END": "2024-01-07",
+    "AMOUNT": 4421.45
+  },
+  {
+    "COMMISSION_ID": 690,
+    "SALES_REP_ID": 594,
+    "PERIOD_END": "2024-07-05",
+    "AMOUNT": 2377.59
+  },
+  {
+    "COMMISSION_ID": 691,
+    "SALES_REP_ID": 645,
+    "PERIOD_END": "2023-10-12",
+    "AMOUNT": 4581.87
+  },
+  {
+    "COMMISSION_ID": 692,
+    "SALES_REP_ID": 33,
+    "PERIOD_END": "2024-07-29",
+    "AMOUNT": 4927.83
+  },
+  {
+    "COMMISSION_ID": 693,
+    "SALES_REP_ID": 626,
+    "PERIOD_END": "2024-09-11",
+    "AMOUNT": 4344.59
+  },
+  {
+    "COMMISSION_ID": 694,
+    "SALES_REP_ID": 720,
+    "PERIOD_END": "2023-04-21",
+    "AMOUNT": 2358.42
+  },
+  {
+    "COMMISSION_ID": 695,
+    "SALES_REP_ID": 652,
+    "PERIOD_END": "2023-07-12",
+    "AMOUNT": 1710.25
+  },
+  {
+    "COMMISSION_ID": 696,
+    "SALES_REP_ID": 969,
+    "PERIOD_END": "2023-04-06",
+    "AMOUNT": 2150.83
+  },
+  {
+    "COMMISSION_ID": 697,
+    "SALES_REP_ID": 521,
+    "PERIOD_END": "2023-03-07",
+    "AMOUNT": 426.06
+  },
+  {
+    "COMMISSION_ID": 698,
+    "SALES_REP_ID": 212,
+    "PERIOD_END": "2023-08-09",
+    "AMOUNT": 4818.66
+  },
+  {
+    "COMMISSION_ID": 699,
+    "SALES_REP_ID": 482,
+    "PERIOD_END": "2023-07-16",
+    "AMOUNT": 4678.1
+  },
+  {
+    "COMMISSION_ID": 700,
+    "SALES_REP_ID": 464,
+    "PERIOD_END": "2023-01-30",
+    "AMOUNT": 2443.27
+  },
+  {
+    "COMMISSION_ID": 701,
+    "SALES_REP_ID": 140,
+    "PERIOD_END": "2023-05-04",
+    "AMOUNT": 2446.23
+  },
+  {
+    "COMMISSION_ID": 702,
+    "SALES_REP_ID": 232,
+    "PERIOD_END": "2024-12-24",
+    "AMOUNT": 1539.3
+  },
+  {
+    "COMMISSION_ID": 703,
+    "SALES_REP_ID": 12,
+    "PERIOD_END": "2024-12-24",
+    "AMOUNT": 4607.42
+  },
+  {
+    "COMMISSION_ID": 704,
+    "SALES_REP_ID": 313,
+    "PERIOD_END": "2023-05-16",
+    "AMOUNT": 3287.24
+  },
+  {
+    "COMMISSION_ID": 705,
+    "SALES_REP_ID": 662,
+    "PERIOD_END": "2023-06-24",
+    "AMOUNT": 3701.38
+  },
+  {
+    "COMMISSION_ID": 706,
+    "SALES_REP_ID": 968,
+    "PERIOD_END": "2023-10-04",
+    "AMOUNT": 560.88
+  },
+  {
+    "COMMISSION_ID": 707,
+    "SALES_REP_ID": 632,
+    "PERIOD_END": "2024-06-21",
+    "AMOUNT": 4409.84
+  },
+  {
+    "COMMISSION_ID": 708,
+    "SALES_REP_ID": 860,
+    "PERIOD_END": "2023-08-24",
+    "AMOUNT": 4072.72
+  },
+  {
+    "COMMISSION_ID": 709,
+    "SALES_REP_ID": 63,
+    "PERIOD_END": "2024-02-26",
+    "AMOUNT": 3401.18
+  },
+  {
+    "COMMISSION_ID": 710,
+    "SALES_REP_ID": 252,
+    "PERIOD_END": "2023-07-09",
+    "AMOUNT": 3694.25
+  },
+  {
+    "COMMISSION_ID": 711,
+    "SALES_REP_ID": 445,
+    "PERIOD_END": "2023-11-17",
+    "AMOUNT": 1611.85
+  },
+  {
+    "COMMISSION_ID": 712,
+    "SALES_REP_ID": 15,
+    "PERIOD_END": "2023-04-07",
+    "AMOUNT": 4468.64
+  },
+  {
+    "COMMISSION_ID": 713,
+    "SALES_REP_ID": 103,
+    "PERIOD_END": "2024-10-26",
+    "AMOUNT": 3975.42
+  },
+  {
+    "COMMISSION_ID": 714,
+    "SALES_REP_ID": 298,
+    "PERIOD_END": "2023-10-02",
+    "AMOUNT": 924.16
+  },
+  {
+    "COMMISSION_ID": 715,
+    "SALES_REP_ID": 780,
+    "PERIOD_END": "2024-07-20",
+    "AMOUNT": 4375.81
+  },
+  {
+    "COMMISSION_ID": 716,
+    "SALES_REP_ID": 278,
+    "PERIOD_END": "2023-06-09",
+    "AMOUNT": 3380.07
+  },
+  {
+    "COMMISSION_ID": 717,
+    "SALES_REP_ID": 685,
+    "PERIOD_END": "2023-02-01",
+    "AMOUNT": 870.98
+  },
+  {
+    "COMMISSION_ID": 718,
+    "SALES_REP_ID": 287,
+    "PERIOD_END": "2023-09-08",
+    "AMOUNT": 4061.7
+  },
+  {
+    "COMMISSION_ID": 719,
+    "SALES_REP_ID": 773,
+    "PERIOD_END": "2024-01-12",
+    "AMOUNT": 135.88
+  },
+  {
+    "COMMISSION_ID": 720,
+    "SALES_REP_ID": 616,
+    "PERIOD_END": "2023-11-12",
+    "AMOUNT": 2252.17
+  },
+  {
+    "COMMISSION_ID": 721,
+    "SALES_REP_ID": 360,
+    "PERIOD_END": "2024-12-19",
+    "AMOUNT": 4482.78
+  },
+  {
+    "COMMISSION_ID": 722,
+    "SALES_REP_ID": 94,
+    "PERIOD_END": "2023-05-01",
+    "AMOUNT": 3374.71
+  },
+  {
+    "COMMISSION_ID": 723,
+    "SALES_REP_ID": 528,
+    "PERIOD_END": "2024-03-12",
+    "AMOUNT": 3321.11
+  },
+  {
+    "COMMISSION_ID": 724,
+    "SALES_REP_ID": 345,
+    "PERIOD_END": "2024-03-02",
+    "AMOUNT": 4949.5
+  },
+  {
+    "COMMISSION_ID": 725,
+    "SALES_REP_ID": 9,
+    "PERIOD_END": "2024-09-19",
+    "AMOUNT": 4033.26
+  },
+  {
+    "COMMISSION_ID": 726,
+    "SALES_REP_ID": 292,
+    "PERIOD_END": "2023-04-16",
+    "AMOUNT": 1613.75
+  },
+  {
+    "COMMISSION_ID": 727,
+    "SALES_REP_ID": 360,
+    "PERIOD_END": "2023-07-17",
+    "AMOUNT": 3142.89
+  },
+  {
+    "COMMISSION_ID": 728,
+    "SALES_REP_ID": 635,
+    "PERIOD_END": "2024-12-24",
+    "AMOUNT": 418.27
+  },
+  {
+    "COMMISSION_ID": 729,
+    "SALES_REP_ID": 198,
+    "PERIOD_END": "2024-04-23",
+    "AMOUNT": 290.76
+  },
+  {
+    "COMMISSION_ID": 730,
+    "SALES_REP_ID": 319,
+    "PERIOD_END": "2024-10-13",
+    "AMOUNT": 757.75
+  },
+  {
+    "COMMISSION_ID": 731,
+    "SALES_REP_ID": 859,
+    "PERIOD_END": "2023-11-29",
+    "AMOUNT": 4951.58
+  },
+  {
+    "COMMISSION_ID": 732,
+    "SALES_REP_ID": 701,
+    "PERIOD_END": "2024-10-10",
+    "AMOUNT": 3155.59
+  },
+  {
+    "COMMISSION_ID": 733,
+    "SALES_REP_ID": 521,
+    "PERIOD_END": "2023-07-03",
+    "AMOUNT": 1989.16
+  },
+  {
+    "COMMISSION_ID": 734,
+    "SALES_REP_ID": 78,
+    "PERIOD_END": "2024-11-14",
+    "AMOUNT": 4518.91
+  },
+  {
+    "COMMISSION_ID": 735,
+    "SALES_REP_ID": 799,
+    "PERIOD_END": "2023-03-14",
+    "AMOUNT": 233.09
+  },
+  {
+    "COMMISSION_ID": 736,
+    "SALES_REP_ID": 205,
+    "PERIOD_END": "2023-11-22",
+    "AMOUNT": 1978.32
+  },
+  {
+    "COMMISSION_ID": 737,
+    "SALES_REP_ID": 632,
+    "PERIOD_END": "2023-10-01",
+    "AMOUNT": 988.07
+  },
+  {
+    "COMMISSION_ID": 738,
+    "SALES_REP_ID": 592,
+    "PERIOD_END": "2024-08-30",
+    "AMOUNT": 4951.38
+  },
+  {
+    "COMMISSION_ID": 739,
+    "SALES_REP_ID": 37,
+    "PERIOD_END": "2024-10-11",
+    "AMOUNT": 4788.37
+  },
+  {
+    "COMMISSION_ID": 740,
+    "SALES_REP_ID": 248,
+    "PERIOD_END": "2024-05-06",
+    "AMOUNT": 1972.93
+  },
+  {
+    "COMMISSION_ID": 741,
+    "SALES_REP_ID": 391,
+    "PERIOD_END": "2024-03-19",
+    "AMOUNT": 2957.12
+  },
+  {
+    "COMMISSION_ID": 742,
+    "SALES_REP_ID": 960,
+    "PERIOD_END": "2024-03-09",
+    "AMOUNT": 3039.75
+  },
+  {
+    "COMMISSION_ID": 743,
+    "SALES_REP_ID": 794,
+    "PERIOD_END": "2023-06-21",
+    "AMOUNT": 2892.25
+  },
+  {
+    "COMMISSION_ID": 744,
+    "SALES_REP_ID": 240,
+    "PERIOD_END": "2023-08-26",
+    "AMOUNT": 2732.57
+  },
+  {
+    "COMMISSION_ID": 745,
+    "SALES_REP_ID": 96,
+    "PERIOD_END": "2024-08-05",
+    "AMOUNT": 1325.24
+  },
+  {
+    "COMMISSION_ID": 746,
+    "SALES_REP_ID": 855,
+    "PERIOD_END": "2023-03-08",
+    "AMOUNT": 3163.05
+  },
+  {
+    "COMMISSION_ID": 747,
+    "SALES_REP_ID": 555,
+    "PERIOD_END": "2023-07-16",
+    "AMOUNT": 3083.27
+  },
+  {
+    "COMMISSION_ID": 748,
+    "SALES_REP_ID": 17,
+    "PERIOD_END": "2024-09-28",
+    "AMOUNT": 3985.94
+  },
+  {
+    "COMMISSION_ID": 749,
+    "SALES_REP_ID": 803,
+    "PERIOD_END": "2023-11-09",
+    "AMOUNT": 721.4
+  },
+  {
+    "COMMISSION_ID": 750,
+    "SALES_REP_ID": 670,
+    "PERIOD_END": "2024-10-08",
+    "AMOUNT": 4307.44
+  },
+  {
+    "COMMISSION_ID": 751,
+    "SALES_REP_ID": 302,
+    "PERIOD_END": "2023-01-03",
+    "AMOUNT": 1954.88
+  },
+  {
+    "COMMISSION_ID": 752,
+    "SALES_REP_ID": 690,
+    "PERIOD_END": "2023-07-01",
+    "AMOUNT": 2610.7
+  },
+  {
+    "COMMISSION_ID": 753,
+    "SALES_REP_ID": 193,
+    "PERIOD_END": "2023-10-04",
+    "AMOUNT": 2109.55
+  },
+  {
+    "COMMISSION_ID": 754,
+    "SALES_REP_ID": 207,
+    "PERIOD_END": "2023-11-04",
+    "AMOUNT": 3405.27
+  },
+  {
+    "COMMISSION_ID": 755,
+    "SALES_REP_ID": 552,
+    "PERIOD_END": "2024-09-11",
+    "AMOUNT": 1227.35
+  },
+  {
+    "COMMISSION_ID": 756,
+    "SALES_REP_ID": 244,
+    "PERIOD_END": "2023-09-21",
+    "AMOUNT": 1122.57
+  },
+  {
+    "COMMISSION_ID": 757,
+    "SALES_REP_ID": 380,
+    "PERIOD_END": "2023-04-15",
+    "AMOUNT": 4701.45
+  },
+  {
+    "COMMISSION_ID": 758,
+    "SALES_REP_ID": 756,
+    "PERIOD_END": "2024-06-23",
+    "AMOUNT": 1968.12
+  },
+  {
+    "COMMISSION_ID": 759,
+    "SALES_REP_ID": 925,
+    "PERIOD_END": "2024-09-18",
+    "AMOUNT": 1346.57
+  },
+  {
+    "COMMISSION_ID": 760,
+    "SALES_REP_ID": 39,
+    "PERIOD_END": "2024-06-03",
+    "AMOUNT": 2229.82
+  },
+  {
+    "COMMISSION_ID": 761,
+    "SALES_REP_ID": 828,
+    "PERIOD_END": "2024-01-06",
+    "AMOUNT": 4078.48
+  },
+  {
+    "COMMISSION_ID": 762,
+    "SALES_REP_ID": 180,
+    "PERIOD_END": "2023-10-19",
+    "AMOUNT": 1320.54
+  },
+  {
+    "COMMISSION_ID": 763,
+    "SALES_REP_ID": 576,
+    "PERIOD_END": "2023-06-30",
+    "AMOUNT": 1980.22
+  },
+  {
+    "COMMISSION_ID": 764,
+    "SALES_REP_ID": 636,
+    "PERIOD_END": "2023-05-17",
+    "AMOUNT": 2816.98
+  },
+  {
+    "COMMISSION_ID": 765,
+    "SALES_REP_ID": 352,
+    "PERIOD_END": "2023-01-22",
+    "AMOUNT": 2303.86
+  },
+  {
+    "COMMISSION_ID": 766,
+    "SALES_REP_ID": 210,
+    "PERIOD_END": "2023-12-15",
+    "AMOUNT": 4123.84
+  },
+  {
+    "COMMISSION_ID": 767,
+    "SALES_REP_ID": 23,
+    "PERIOD_END": "2024-08-14",
+    "AMOUNT": 4323.65
+  },
+  {
+    "COMMISSION_ID": 768,
+    "SALES_REP_ID": 168,
+    "PERIOD_END": "2024-07-26",
+    "AMOUNT": 3204.65
+  },
+  {
+    "COMMISSION_ID": 769,
+    "SALES_REP_ID": 959,
+    "PERIOD_END": "2024-06-19",
+    "AMOUNT": 4054.11
+  },
+  {
+    "COMMISSION_ID": 770,
+    "SALES_REP_ID": 383,
+    "PERIOD_END": "2024-09-15",
+    "AMOUNT": 1432.7
+  },
+  {
+    "COMMISSION_ID": 771,
+    "SALES_REP_ID": 944,
+    "PERIOD_END": "2024-05-06",
+    "AMOUNT": 4233.29
+  },
+  {
+    "COMMISSION_ID": 772,
+    "SALES_REP_ID": 887,
+    "PERIOD_END": "2023-01-09",
+    "AMOUNT": 1318.82
+  },
+  {
+    "COMMISSION_ID": 773,
+    "SALES_REP_ID": 438,
+    "PERIOD_END": "2024-09-11",
+    "AMOUNT": 4380.76
+  },
+  {
+    "COMMISSION_ID": 774,
+    "SALES_REP_ID": 433,
+    "PERIOD_END": "2023-10-18",
+    "AMOUNT": 1701.12
+  },
+  {
+    "COMMISSION_ID": 775,
+    "SALES_REP_ID": 331,
+    "PERIOD_END": "2024-09-07",
+    "AMOUNT": 571.02
+  },
+  {
+    "COMMISSION_ID": 776,
+    "SALES_REP_ID": 883,
+    "PERIOD_END": "2024-04-26",
+    "AMOUNT": 2083.8
+  },
+  {
+    "COMMISSION_ID": 777,
+    "SALES_REP_ID": 46,
+    "PERIOD_END": "2023-09-22",
+    "AMOUNT": 2343.74
+  },
+  {
+    "COMMISSION_ID": 778,
+    "SALES_REP_ID": 822,
+    "PERIOD_END": "2024-07-16",
+    "AMOUNT": 2662.87
+  },
+  {
+    "COMMISSION_ID": 779,
+    "SALES_REP_ID": 5,
+    "PERIOD_END": "2023-02-08",
+    "AMOUNT": 3833.91
+  },
+  {
+    "COMMISSION_ID": 780,
+    "SALES_REP_ID": 818,
+    "PERIOD_END": "2024-08-25",
+    "AMOUNT": 1767.09
+  },
+  {
+    "COMMISSION_ID": 781,
+    "SALES_REP_ID": 140,
+    "PERIOD_END": "2024-07-17",
+    "AMOUNT": 2592.43
+  },
+  {
+    "COMMISSION_ID": 782,
+    "SALES_REP_ID": 467,
+    "PERIOD_END": "2023-08-06",
+    "AMOUNT": 4679.35
+  },
+  {
+    "COMMISSION_ID": 783,
+    "SALES_REP_ID": 292,
+    "PERIOD_END": "2024-09-17",
+    "AMOUNT": 3260.78
+  },
+  {
+    "COMMISSION_ID": 784,
+    "SALES_REP_ID": 683,
+    "PERIOD_END": "2024-01-22",
+    "AMOUNT": 2630.09
+  },
+  {
+    "COMMISSION_ID": 785,
+    "SALES_REP_ID": 445,
+    "PERIOD_END": "2024-03-16",
+    "AMOUNT": 2304.87
+  },
+  {
+    "COMMISSION_ID": 786,
+    "SALES_REP_ID": 552,
+    "PERIOD_END": "2024-09-17",
+    "AMOUNT": 2939.01
+  },
+  {
+    "COMMISSION_ID": 787,
+    "SALES_REP_ID": 468,
+    "PERIOD_END": "2023-01-17",
+    "AMOUNT": 2102.06
+  },
+  {
+    "COMMISSION_ID": 788,
+    "SALES_REP_ID": 110,
+    "PERIOD_END": "2024-04-13",
+    "AMOUNT": 3531.37
+  },
+  {
+    "COMMISSION_ID": 789,
+    "SALES_REP_ID": 876,
+    "PERIOD_END": "2024-10-19",
+    "AMOUNT": 209.02
+  },
+  {
+    "COMMISSION_ID": 790,
+    "SALES_REP_ID": 885,
+    "PERIOD_END": "2024-03-19",
+    "AMOUNT": 2962.79
+  },
+  {
+    "COMMISSION_ID": 791,
+    "SALES_REP_ID": 88,
+    "PERIOD_END": "2023-09-25",
+    "AMOUNT": 3144
+  },
+  {
+    "COMMISSION_ID": 792,
+    "SALES_REP_ID": 930,
+    "PERIOD_END": "2023-03-26",
+    "AMOUNT": 495.89
+  },
+  {
+    "COMMISSION_ID": 793,
+    "SALES_REP_ID": 987,
+    "PERIOD_END": "2023-08-09",
+    "AMOUNT": 4012.26
+  },
+  {
+    "COMMISSION_ID": 794,
+    "SALES_REP_ID": 267,
+    "PERIOD_END": "2024-04-03",
+    "AMOUNT": 602.88
+  },
+  {
+    "COMMISSION_ID": 795,
+    "SALES_REP_ID": 402,
+    "PERIOD_END": "2024-05-06",
+    "AMOUNT": 4163.42
+  },
+  {
+    "COMMISSION_ID": 796,
+    "SALES_REP_ID": 429,
+    "PERIOD_END": "2024-03-18",
+    "AMOUNT": 3666.69
+  },
+  {
+    "COMMISSION_ID": 797,
+    "SALES_REP_ID": 1,
+    "PERIOD_END": "2024-10-30",
+    "AMOUNT": 1759.66
+  },
+  {
+    "COMMISSION_ID": 798,
+    "SALES_REP_ID": 556,
+    "PERIOD_END": "2024-06-01",
+    "AMOUNT": 2169.65
+  },
+  {
+    "COMMISSION_ID": 799,
+    "SALES_REP_ID": 21,
+    "PERIOD_END": "2024-12-03",
+    "AMOUNT": 570.02
+  },
+  {
+    "COMMISSION_ID": 800,
+    "SALES_REP_ID": 504,
+    "PERIOD_END": "2024-11-09",
+    "AMOUNT": 1533.4
+  },
+  {
+    "COMMISSION_ID": 801,
+    "SALES_REP_ID": 577,
+    "PERIOD_END": "2024-11-30",
+    "AMOUNT": 985.44
+  },
+  {
+    "COMMISSION_ID": 802,
+    "SALES_REP_ID": 291,
+    "PERIOD_END": "2024-12-11",
+    "AMOUNT": 1116.69
+  },
+  {
+    "COMMISSION_ID": 803,
+    "SALES_REP_ID": 989,
+    "PERIOD_END": "2024-01-12",
+    "AMOUNT": 3092.41
+  },
+  {
+    "COMMISSION_ID": 804,
+    "SALES_REP_ID": 656,
+    "PERIOD_END": "2024-03-21",
+    "AMOUNT": 2919.87
+  },
+  {
+    "COMMISSION_ID": 805,
+    "SALES_REP_ID": 336,
+    "PERIOD_END": "2023-01-20",
+    "AMOUNT": 4426.42
+  },
+  {
+    "COMMISSION_ID": 806,
+    "SALES_REP_ID": 949,
+    "PERIOD_END": "2023-10-12",
+    "AMOUNT": 1688.61
+  },
+  {
+    "COMMISSION_ID": 807,
+    "SALES_REP_ID": 932,
+    "PERIOD_END": "2023-01-18",
+    "AMOUNT": 3263.99
+  },
+  {
+    "COMMISSION_ID": 808,
+    "SALES_REP_ID": 801,
+    "PERIOD_END": "2024-02-23",
+    "AMOUNT": 2101.79
+  },
+  {
+    "COMMISSION_ID": 809,
+    "SALES_REP_ID": 725,
+    "PERIOD_END": "2024-08-13",
+    "AMOUNT": 3975.84
+  },
+  {
+    "COMMISSION_ID": 810,
+    "SALES_REP_ID": 235,
+    "PERIOD_END": "2024-05-11",
+    "AMOUNT": 1781.46
+  },
+  {
+    "COMMISSION_ID": 811,
+    "SALES_REP_ID": 47,
+    "PERIOD_END": "2023-05-19",
+    "AMOUNT": 4141.64
+  },
+  {
+    "COMMISSION_ID": 812,
+    "SALES_REP_ID": 768,
+    "PERIOD_END": "2023-09-28",
+    "AMOUNT": 4516.08
+  },
+  {
+    "COMMISSION_ID": 813,
+    "SALES_REP_ID": 815,
+    "PERIOD_END": "2024-07-28",
+    "AMOUNT": 2229.7
+  },
+  {
+    "COMMISSION_ID": 814,
+    "SALES_REP_ID": 483,
+    "PERIOD_END": "2024-12-20",
+    "AMOUNT": 2731.59
+  },
+  {
+    "COMMISSION_ID": 815,
+    "SALES_REP_ID": 172,
+    "PERIOD_END": "2023-12-06",
+    "AMOUNT": 4027.53
+  },
+  {
+    "COMMISSION_ID": 816,
+    "SALES_REP_ID": 128,
+    "PERIOD_END": "2023-11-04",
+    "AMOUNT": 4798.93
+  },
+  {
+    "COMMISSION_ID": 817,
+    "SALES_REP_ID": 865,
+    "PERIOD_END": "2023-05-14",
+    "AMOUNT": 1719.15
+  },
+  {
+    "COMMISSION_ID": 818,
+    "SALES_REP_ID": 883,
+    "PERIOD_END": "2024-11-29",
+    "AMOUNT": 4310.4
+  },
+  {
+    "COMMISSION_ID": 819,
+    "SALES_REP_ID": 552,
+    "PERIOD_END": "2023-11-28",
+    "AMOUNT": 4369.34
+  },
+  {
+    "COMMISSION_ID": 820,
+    "SALES_REP_ID": 503,
+    "PERIOD_END": "2024-03-14",
+    "AMOUNT": 3748.38
+  },
+  {
+    "COMMISSION_ID": 821,
+    "SALES_REP_ID": 774,
+    "PERIOD_END": "2024-01-21",
+    "AMOUNT": 4385.27
+  },
+  {
+    "COMMISSION_ID": 822,
+    "SALES_REP_ID": 309,
+    "PERIOD_END": "2024-06-10",
+    "AMOUNT": 4964.31
+  },
+  {
+    "COMMISSION_ID": 823,
+    "SALES_REP_ID": 74,
+    "PERIOD_END": "2024-10-06",
+    "AMOUNT": 2115.23
+  },
+  {
+    "COMMISSION_ID": 824,
+    "SALES_REP_ID": 775,
+    "PERIOD_END": "2023-09-13",
+    "AMOUNT": 2634.78
+  },
+  {
+    "COMMISSION_ID": 825,
+    "SALES_REP_ID": 295,
+    "PERIOD_END": "2024-08-09",
+    "AMOUNT": 1298.02
+  },
+  {
+    "COMMISSION_ID": 826,
+    "SALES_REP_ID": 767,
+    "PERIOD_END": "2024-02-21",
+    "AMOUNT": 4311.31
+  },
+  {
+    "COMMISSION_ID": 827,
+    "SALES_REP_ID": 890,
+    "PERIOD_END": "2023-02-23",
+    "AMOUNT": 3388.75
+  },
+  {
+    "COMMISSION_ID": 828,
+    "SALES_REP_ID": 201,
+    "PERIOD_END": "2023-11-27",
+    "AMOUNT": 2609.53
+  },
+  {
+    "COMMISSION_ID": 829,
+    "SALES_REP_ID": 227,
+    "PERIOD_END": "2023-01-20",
+    "AMOUNT": 3628.44
+  },
+  {
+    "COMMISSION_ID": 830,
+    "SALES_REP_ID": 87,
+    "PERIOD_END": "2023-01-23",
+    "AMOUNT": 3871.92
+  },
+  {
+    "COMMISSION_ID": 831,
+    "SALES_REP_ID": 871,
+    "PERIOD_END": "2023-05-25",
+    "AMOUNT": 2252.45
+  },
+  {
+    "COMMISSION_ID": 832,
+    "SALES_REP_ID": 592,
+    "PERIOD_END": "2024-01-22",
+    "AMOUNT": 3045.3
+  },
+  {
+    "COMMISSION_ID": 833,
+    "SALES_REP_ID": 87,
+    "PERIOD_END": "2024-09-17",
+    "AMOUNT": 3277.76
+  },
+  {
+    "COMMISSION_ID": 834,
+    "SALES_REP_ID": 2,
+    "PERIOD_END": "2023-10-29",
+    "AMOUNT": 3249.23
+  },
+  {
+    "COMMISSION_ID": 835,
+    "SALES_REP_ID": 516,
+    "PERIOD_END": "2024-01-13",
+    "AMOUNT": 822.41
+  },
+  {
+    "COMMISSION_ID": 836,
+    "SALES_REP_ID": 890,
+    "PERIOD_END": "2024-12-26",
+    "AMOUNT": 2499.66
+  },
+  {
+    "COMMISSION_ID": 837,
+    "SALES_REP_ID": 359,
+    "PERIOD_END": "2024-06-20",
+    "AMOUNT": 1942.63
+  },
+  {
+    "COMMISSION_ID": 838,
+    "SALES_REP_ID": 487,
+    "PERIOD_END": "2023-02-19",
+    "AMOUNT": 4468.51
+  },
+  {
+    "COMMISSION_ID": 839,
+    "SALES_REP_ID": 397,
+    "PERIOD_END": "2023-12-02",
+    "AMOUNT": 2133.27
+  },
+  {
+    "COMMISSION_ID": 840,
+    "SALES_REP_ID": 53,
+    "PERIOD_END": "2023-07-18",
+    "AMOUNT": 3762.05
+  },
+  {
+    "COMMISSION_ID": 841,
+    "SALES_REP_ID": 221,
+    "PERIOD_END": "2023-09-17",
+    "AMOUNT": 1589.82
+  },
+  {
+    "COMMISSION_ID": 842,
+    "SALES_REP_ID": 289,
+    "PERIOD_END": "2023-08-05",
+    "AMOUNT": 3181.45
+  },
+  {
+    "COMMISSION_ID": 843,
+    "SALES_REP_ID": 265,
+    "PERIOD_END": "2024-02-17",
+    "AMOUNT": 2592.48
+  },
+  {
+    "COMMISSION_ID": 844,
+    "SALES_REP_ID": 613,
+    "PERIOD_END": "2024-01-22",
+    "AMOUNT": 3761.32
+  },
+  {
+    "COMMISSION_ID": 845,
+    "SALES_REP_ID": 736,
+    "PERIOD_END": "2023-09-08",
+    "AMOUNT": 1239.88
+  },
+  {
+    "COMMISSION_ID": 846,
+    "SALES_REP_ID": 551,
+    "PERIOD_END": "2023-03-15",
+    "AMOUNT": 3403.9
+  },
+  {
+    "COMMISSION_ID": 847,
+    "SALES_REP_ID": 155,
+    "PERIOD_END": "2023-07-20",
+    "AMOUNT": 1189.52
+  },
+  {
+    "COMMISSION_ID": 848,
+    "SALES_REP_ID": 451,
+    "PERIOD_END": "2024-11-26",
+    "AMOUNT": 2166.23
+  },
+  {
+    "COMMISSION_ID": 849,
+    "SALES_REP_ID": 489,
+    "PERIOD_END": "2023-02-18",
+    "AMOUNT": 2297.62
+  },
+  {
+    "COMMISSION_ID": 850,
+    "SALES_REP_ID": 226,
+    "PERIOD_END": "2023-05-08",
+    "AMOUNT": 4440.95
+  },
+  {
+    "COMMISSION_ID": 851,
+    "SALES_REP_ID": 309,
+    "PERIOD_END": "2023-10-14",
+    "AMOUNT": 4345.3
+  },
+  {
+    "COMMISSION_ID": 852,
+    "SALES_REP_ID": 473,
+    "PERIOD_END": "2024-04-17",
+    "AMOUNT": 4442.1
+  },
+  {
+    "COMMISSION_ID": 853,
+    "SALES_REP_ID": 178,
+    "PERIOD_END": "2024-11-22",
+    "AMOUNT": 2126.03
+  },
+  {
+    "COMMISSION_ID": 854,
+    "SALES_REP_ID": 140,
+    "PERIOD_END": "2024-02-02",
+    "AMOUNT": 1300.51
+  },
+  {
+    "COMMISSION_ID": 855,
+    "SALES_REP_ID": 402,
+    "PERIOD_END": "2024-03-31",
+    "AMOUNT": 2737.1
+  },
+  {
+    "COMMISSION_ID": 856,
+    "SALES_REP_ID": 714,
+    "PERIOD_END": "2023-02-12",
+    "AMOUNT": 2596.26
+  },
+  {
+    "COMMISSION_ID": 857,
+    "SALES_REP_ID": 924,
+    "PERIOD_END": "2024-07-21",
+    "AMOUNT": 4582.67
+  },
+  {
+    "COMMISSION_ID": 858,
+    "SALES_REP_ID": 620,
+    "PERIOD_END": "2024-05-15",
+    "AMOUNT": 4087.21
+  },
+  {
+    "COMMISSION_ID": 859,
+    "SALES_REP_ID": 272,
+    "PERIOD_END": "2024-05-22",
+    "AMOUNT": 4834.32
+  },
+  {
+    "COMMISSION_ID": 860,
+    "SALES_REP_ID": 880,
+    "PERIOD_END": "2024-01-19",
+    "AMOUNT": 3105.05
+  },
+  {
+    "COMMISSION_ID": 861,
+    "SALES_REP_ID": 701,
+    "PERIOD_END": "2023-10-21",
+    "AMOUNT": 3285.31
+  },
+  {
+    "COMMISSION_ID": 862,
+    "SALES_REP_ID": 964,
+    "PERIOD_END": "2023-10-20",
+    "AMOUNT": 4212.62
+  },
+  {
+    "COMMISSION_ID": 863,
+    "SALES_REP_ID": 730,
+    "PERIOD_END": "2023-12-09",
+    "AMOUNT": 777.85
+  },
+  {
+    "COMMISSION_ID": 864,
+    "SALES_REP_ID": 363,
+    "PERIOD_END": "2023-07-14",
+    "AMOUNT": 2286.01
+  },
+  {
+    "COMMISSION_ID": 865,
+    "SALES_REP_ID": 471,
+    "PERIOD_END": "2023-09-17",
+    "AMOUNT": 4403.07
+  },
+  {
+    "COMMISSION_ID": 866,
+    "SALES_REP_ID": 891,
+    "PERIOD_END": "2023-01-29",
+    "AMOUNT": 4815.29
+  },
+  {
+    "COMMISSION_ID": 867,
+    "SALES_REP_ID": 803,
+    "PERIOD_END": "2023-09-03",
+    "AMOUNT": 2433.37
+  },
+  {
+    "COMMISSION_ID": 868,
+    "SALES_REP_ID": 477,
+    "PERIOD_END": "2024-03-05",
+    "AMOUNT": 2832.11
+  },
+  {
+    "COMMISSION_ID": 869,
+    "SALES_REP_ID": 289,
+    "PERIOD_END": "2023-01-26",
+    "AMOUNT": 1399.18
+  },
+  {
+    "COMMISSION_ID": 870,
+    "SALES_REP_ID": 154,
+    "PERIOD_END": "2023-01-24",
+    "AMOUNT": 4795.66
+  },
+  {
+    "COMMISSION_ID": 871,
+    "SALES_REP_ID": 492,
+    "PERIOD_END": "2024-03-07",
+    "AMOUNT": 2389.5
+  },
+  {
+    "COMMISSION_ID": 872,
+    "SALES_REP_ID": 83,
+    "PERIOD_END": "2023-11-12",
+    "AMOUNT": 3024.19
+  },
+  {
+    "COMMISSION_ID": 873,
+    "SALES_REP_ID": 360,
+    "PERIOD_END": "2023-07-24",
+    "AMOUNT": 1560.43
+  },
+  {
+    "COMMISSION_ID": 874,
+    "SALES_REP_ID": 78,
+    "PERIOD_END": "2023-11-21",
+    "AMOUNT": 3796.47
+  },
+  {
+    "COMMISSION_ID": 875,
+    "SALES_REP_ID": 785,
+    "PERIOD_END": "2023-08-01",
+    "AMOUNT": 3293.53
+  },
+  {
+    "COMMISSION_ID": 876,
+    "SALES_REP_ID": 213,
+    "PERIOD_END": "2023-03-02",
+    "AMOUNT": 3147.75
+  },
+  {
+    "COMMISSION_ID": 877,
+    "SALES_REP_ID": 60,
+    "PERIOD_END": "2023-02-03",
+    "AMOUNT": 3252.41
+  },
+  {
+    "COMMISSION_ID": 878,
+    "SALES_REP_ID": 48,
+    "PERIOD_END": "2024-08-07",
+    "AMOUNT": 4270.42
+  },
+  {
+    "COMMISSION_ID": 879,
+    "SALES_REP_ID": 757,
+    "PERIOD_END": "2023-02-04",
+    "AMOUNT": 4001.91
+  },
+  {
+    "COMMISSION_ID": 880,
+    "SALES_REP_ID": 382,
+    "PERIOD_END": "2024-02-12",
+    "AMOUNT": 1849.63
+  },
+  {
+    "COMMISSION_ID": 881,
+    "SALES_REP_ID": 519,
+    "PERIOD_END": "2023-06-03",
+    "AMOUNT": 1286.62
+  },
+  {
+    "COMMISSION_ID": 882,
+    "SALES_REP_ID": 298,
+    "PERIOD_END": "2023-09-27",
+    "AMOUNT": 1782.69
+  },
+  {
+    "COMMISSION_ID": 883,
+    "SALES_REP_ID": 538,
+    "PERIOD_END": "2023-12-08",
+    "AMOUNT": 3308
+  },
+  {
+    "COMMISSION_ID": 884,
+    "SALES_REP_ID": 433,
+    "PERIOD_END": "2024-01-10",
+    "AMOUNT": 1305.41
+  },
+  {
+    "COMMISSION_ID": 885,
+    "SALES_REP_ID": 977,
+    "PERIOD_END": "2023-07-04",
+    "AMOUNT": 4577.56
+  },
+  {
+    "COMMISSION_ID": 886,
+    "SALES_REP_ID": 886,
+    "PERIOD_END": "2024-11-24",
+    "AMOUNT": 737.66
+  },
+  {
+    "COMMISSION_ID": 887,
+    "SALES_REP_ID": 422,
+    "PERIOD_END": "2024-03-16",
+    "AMOUNT": 4920.88
+  },
+  {
+    "COMMISSION_ID": 888,
+    "SALES_REP_ID": 647,
+    "PERIOD_END": "2024-11-30",
+    "AMOUNT": 4585.57
+  },
+  {
+    "COMMISSION_ID": 889,
+    "SALES_REP_ID": 688,
+    "PERIOD_END": "2023-01-14",
+    "AMOUNT": 4322.33
+  },
+  {
+    "COMMISSION_ID": 890,
+    "SALES_REP_ID": 38,
+    "PERIOD_END": "2023-09-24",
+    "AMOUNT": 2385.43
+  },
+  {
+    "COMMISSION_ID": 891,
+    "SALES_REP_ID": 876,
+    "PERIOD_END": "2024-08-07",
+    "AMOUNT": 3710.63
+  },
+  {
+    "COMMISSION_ID": 892,
+    "SALES_REP_ID": 72,
+    "PERIOD_END": "2023-03-03",
+    "AMOUNT": 3704.5
+  },
+  {
+    "COMMISSION_ID": 893,
+    "SALES_REP_ID": 835,
+    "PERIOD_END": "2023-11-12",
+    "AMOUNT": 2966.08
+  },
+  {
+    "COMMISSION_ID": 894,
+    "SALES_REP_ID": 772,
+    "PERIOD_END": "2024-11-12",
+    "AMOUNT": 1872.2
+  },
+  {
+    "COMMISSION_ID": 895,
+    "SALES_REP_ID": 432,
+    "PERIOD_END": "2023-03-21",
+    "AMOUNT": 485.46
+  },
+  {
+    "COMMISSION_ID": 896,
+    "SALES_REP_ID": 706,
+    "PERIOD_END": "2024-09-04",
+    "AMOUNT": 2559.13
+  },
+  {
+    "COMMISSION_ID": 897,
+    "SALES_REP_ID": 606,
+    "PERIOD_END": "2024-02-13",
+    "AMOUNT": 4184.39
+  },
+  {
+    "COMMISSION_ID": 898,
+    "SALES_REP_ID": 83,
+    "PERIOD_END": "2023-03-30",
+    "AMOUNT": 2783.33
+  },
+  {
+    "COMMISSION_ID": 899,
+    "SALES_REP_ID": 700,
+    "PERIOD_END": "2023-11-22",
+    "AMOUNT": 2561.67
+  },
+  {
+    "COMMISSION_ID": 900,
+    "SALES_REP_ID": 767,
+    "PERIOD_END": "2024-04-03",
+    "AMOUNT": 3959.02
+  },
+  {
+    "COMMISSION_ID": 901,
+    "SALES_REP_ID": 284,
+    "PERIOD_END": "2024-02-16",
+    "AMOUNT": 2189.29
+  },
+  {
+    "COMMISSION_ID": 902,
+    "SALES_REP_ID": 320,
+    "PERIOD_END": "2023-11-10",
+    "AMOUNT": 2404.88
+  },
+  {
+    "COMMISSION_ID": 903,
+    "SALES_REP_ID": 436,
+    "PERIOD_END": "2023-04-06",
+    "AMOUNT": 2602.56
+  },
+  {
+    "COMMISSION_ID": 904,
+    "SALES_REP_ID": 783,
+    "PERIOD_END": "2024-10-25",
+    "AMOUNT": 2100.98
+  },
+  {
+    "COMMISSION_ID": 905,
+    "SALES_REP_ID": 499,
+    "PERIOD_END": "2024-11-15",
+    "AMOUNT": 100.29
+  },
+  {
+    "COMMISSION_ID": 906,
+    "SALES_REP_ID": 738,
+    "PERIOD_END": "2024-04-17",
+    "AMOUNT": 3692.08
+  },
+  {
+    "COMMISSION_ID": 907,
+    "SALES_REP_ID": 422,
+    "PERIOD_END": "2024-02-14",
+    "AMOUNT": 3388.95
+  },
+  {
+    "COMMISSION_ID": 908,
+    "SALES_REP_ID": 880,
+    "PERIOD_END": "2024-01-28",
+    "AMOUNT": 2783.04
+  },
+  {
+    "COMMISSION_ID": 909,
+    "SALES_REP_ID": 151,
+    "PERIOD_END": "2024-12-26",
+    "AMOUNT": 3109.14
+  },
+  {
+    "COMMISSION_ID": 910,
+    "SALES_REP_ID": 759,
+    "PERIOD_END": "2024-01-17",
+    "AMOUNT": 3588.87
+  },
+  {
+    "COMMISSION_ID": 911,
+    "SALES_REP_ID": 378,
+    "PERIOD_END": "2024-02-18",
+    "AMOUNT": 1781.16
+  },
+  {
+    "COMMISSION_ID": 912,
+    "SALES_REP_ID": 615,
+    "PERIOD_END": "2024-08-23",
+    "AMOUNT": 1937.14
+  },
+  {
+    "COMMISSION_ID": 913,
+    "SALES_REP_ID": 540,
+    "PERIOD_END": "2024-10-19",
+    "AMOUNT": 3132.24
+  },
+  {
+    "COMMISSION_ID": 914,
+    "SALES_REP_ID": 283,
+    "PERIOD_END": "2023-06-18",
+    "AMOUNT": 3536.78
+  },
+  {
+    "COMMISSION_ID": 915,
+    "SALES_REP_ID": 709,
+    "PERIOD_END": "2023-08-26",
+    "AMOUNT": 117.68
+  },
+  {
+    "COMMISSION_ID": 916,
+    "SALES_REP_ID": 185,
+    "PERIOD_END": "2024-08-11",
+    "AMOUNT": 3551.42
+  },
+  {
+    "COMMISSION_ID": 917,
+    "SALES_REP_ID": 509,
+    "PERIOD_END": "2024-03-08",
+    "AMOUNT": 4550.51
+  },
+  {
+    "COMMISSION_ID": 918,
+    "SALES_REP_ID": 876,
+    "PERIOD_END": "2023-01-18",
+    "AMOUNT": 1646.17
+  },
+  {
+    "COMMISSION_ID": 919,
+    "SALES_REP_ID": 859,
+    "PERIOD_END": "2024-05-07",
+    "AMOUNT": 3434
+  },
+  {
+    "COMMISSION_ID": 920,
+    "SALES_REP_ID": 639,
+    "PERIOD_END": "2024-07-01",
+    "AMOUNT": 2169.42
+  },
+  {
+    "COMMISSION_ID": 921,
+    "SALES_REP_ID": 937,
+    "PERIOD_END": "2023-06-09",
+    "AMOUNT": 428.72
+  },
+  {
+    "COMMISSION_ID": 922,
+    "SALES_REP_ID": 57,
+    "PERIOD_END": "2023-12-30",
+    "AMOUNT": 429.44
+  },
+  {
+    "COMMISSION_ID": 923,
+    "SALES_REP_ID": 897,
+    "PERIOD_END": "2023-04-01",
+    "AMOUNT": 2706.48
+  },
+  {
+    "COMMISSION_ID": 924,
+    "SALES_REP_ID": 386,
+    "PERIOD_END": "2023-02-03",
+    "AMOUNT": 1610.8
+  },
+  {
+    "COMMISSION_ID": 925,
+    "SALES_REP_ID": 315,
+    "PERIOD_END": "2024-04-06",
+    "AMOUNT": 4351.31
+  },
+  {
+    "COMMISSION_ID": 926,
+    "SALES_REP_ID": 219,
+    "PERIOD_END": "2024-07-19",
+    "AMOUNT": 2994.83
+  },
+  {
+    "COMMISSION_ID": 927,
+    "SALES_REP_ID": 93,
+    "PERIOD_END": "2023-09-17",
+    "AMOUNT": 2323.54
+  },
+  {
+    "COMMISSION_ID": 928,
+    "SALES_REP_ID": 759,
+    "PERIOD_END": "2024-05-27",
+    "AMOUNT": 1763.96
+  },
+  {
+    "COMMISSION_ID": 929,
+    "SALES_REP_ID": 268,
+    "PERIOD_END": "2024-04-11",
+    "AMOUNT": 1566.24
+  },
+  {
+    "COMMISSION_ID": 930,
+    "SALES_REP_ID": 310,
+    "PERIOD_END": "2023-05-12",
+    "AMOUNT": 113.05
+  },
+  {
+    "COMMISSION_ID": 931,
+    "SALES_REP_ID": 336,
+    "PERIOD_END": "2024-09-12",
+    "AMOUNT": 1386.03
+  },
+  {
+    "COMMISSION_ID": 932,
+    "SALES_REP_ID": 106,
+    "PERIOD_END": "2023-01-18",
+    "AMOUNT": 4657.11
+  },
+  {
+    "COMMISSION_ID": 933,
+    "SALES_REP_ID": 765,
+    "PERIOD_END": "2024-11-19",
+    "AMOUNT": 915.77
+  },
+  {
+    "COMMISSION_ID": 934,
+    "SALES_REP_ID": 740,
+    "PERIOD_END": "2023-08-20",
+    "AMOUNT": 3937.15
+  },
+  {
+    "COMMISSION_ID": 935,
+    "SALES_REP_ID": 493,
+    "PERIOD_END": "2024-10-22",
+    "AMOUNT": 1205.74
+  },
+  {
+    "COMMISSION_ID": 936,
+    "SALES_REP_ID": 366,
+    "PERIOD_END": "2023-03-26",
+    "AMOUNT": 2732.63
+  },
+  {
+    "COMMISSION_ID": 937,
+    "SALES_REP_ID": 766,
+    "PERIOD_END": "2024-11-29",
+    "AMOUNT": 3528.44
+  },
+  {
+    "COMMISSION_ID": 938,
+    "SALES_REP_ID": 881,
+    "PERIOD_END": "2024-02-21",
+    "AMOUNT": 2126.74
+  },
+  {
+    "COMMISSION_ID": 939,
+    "SALES_REP_ID": 948,
+    "PERIOD_END": "2024-05-23",
+    "AMOUNT": 2447.42
+  },
+  {
+    "COMMISSION_ID": 940,
+    "SALES_REP_ID": 98,
+    "PERIOD_END": "2023-07-28",
+    "AMOUNT": 541.85
+  },
+  {
+    "COMMISSION_ID": 941,
+    "SALES_REP_ID": 209,
+    "PERIOD_END": "2024-01-11",
+    "AMOUNT": 474.14
+  },
+  {
+    "COMMISSION_ID": 942,
+    "SALES_REP_ID": 691,
+    "PERIOD_END": "2023-07-12",
+    "AMOUNT": 142.45
+  },
+  {
+    "COMMISSION_ID": 943,
+    "SALES_REP_ID": 364,
+    "PERIOD_END": "2024-06-10",
+    "AMOUNT": 1932.05
+  },
+  {
+    "COMMISSION_ID": 944,
+    "SALES_REP_ID": 274,
+    "PERIOD_END": "2024-03-04",
+    "AMOUNT": 3884.99
+  },
+  {
+    "COMMISSION_ID": 945,
+    "SALES_REP_ID": 548,
+    "PERIOD_END": "2023-03-22",
+    "AMOUNT": 1811.38
+  },
+  {
+    "COMMISSION_ID": 946,
+    "SALES_REP_ID": 974,
+    "PERIOD_END": "2024-09-28",
+    "AMOUNT": 4684.76
+  },
+  {
+    "COMMISSION_ID": 947,
+    "SALES_REP_ID": 795,
+    "PERIOD_END": "2024-07-04",
+    "AMOUNT": 1886.93
+  },
+  {
+    "COMMISSION_ID": 948,
+    "SALES_REP_ID": 172,
+    "PERIOD_END": "2024-12-11",
+    "AMOUNT": 682.74
+  },
+  {
+    "COMMISSION_ID": 949,
+    "SALES_REP_ID": 564,
+    "PERIOD_END": "2024-09-08",
+    "AMOUNT": 1706.55
+  },
+  {
+    "COMMISSION_ID": 950,
+    "SALES_REP_ID": 898,
+    "PERIOD_END": "2024-09-29",
+    "AMOUNT": 4052.98
+  },
+  {
+    "COMMISSION_ID": 951,
+    "SALES_REP_ID": 60,
+    "PERIOD_END": "2024-08-14",
+    "AMOUNT": 2660.32
+  },
+  {
+    "COMMISSION_ID": 952,
+    "SALES_REP_ID": 723,
+    "PERIOD_END": "2024-11-24",
+    "AMOUNT": 3988.9
+  },
+  {
+    "COMMISSION_ID": 953,
+    "SALES_REP_ID": 78,
+    "PERIOD_END": "2023-06-24",
+    "AMOUNT": 4858.52
+  },
+  {
+    "COMMISSION_ID": 954,
+    "SALES_REP_ID": 568,
+    "PERIOD_END": "2024-01-20",
+    "AMOUNT": 1718.43
+  },
+  {
+    "COMMISSION_ID": 955,
+    "SALES_REP_ID": 828,
+    "PERIOD_END": "2024-06-15",
+    "AMOUNT": 4213.57
+  },
+  {
+    "COMMISSION_ID": 956,
+    "SALES_REP_ID": 997,
+    "PERIOD_END": "2023-04-24",
+    "AMOUNT": 1946.27
+  },
+  {
+    "COMMISSION_ID": 957,
+    "SALES_REP_ID": 354,
+    "PERIOD_END": "2024-09-27",
+    "AMOUNT": 971.29
+  },
+  {
+    "COMMISSION_ID": 958,
+    "SALES_REP_ID": 551,
+    "PERIOD_END": "2023-07-30",
+    "AMOUNT": 4718.07
+  },
+  {
+    "COMMISSION_ID": 959,
+    "SALES_REP_ID": 100,
+    "PERIOD_END": "2024-08-24",
+    "AMOUNT": 1179.66
+  },
+  {
+    "COMMISSION_ID": 960,
+    "SALES_REP_ID": 546,
+    "PERIOD_END": "2024-08-08",
+    "AMOUNT": 549.33
+  },
+  {
+    "COMMISSION_ID": 961,
+    "SALES_REP_ID": 913,
+    "PERIOD_END": "2023-02-12",
+    "AMOUNT": 3688.46
+  },
+  {
+    "COMMISSION_ID": 962,
+    "SALES_REP_ID": 201,
+    "PERIOD_END": "2024-06-29",
+    "AMOUNT": 418.65
+  },
+  {
+    "COMMISSION_ID": 963,
+    "SALES_REP_ID": 265,
+    "PERIOD_END": "2024-01-30",
+    "AMOUNT": 1026.49
+  },
+  {
+    "COMMISSION_ID": 964,
+    "SALES_REP_ID": 131,
+    "PERIOD_END": "2024-12-21",
+    "AMOUNT": 3072.83
+  },
+  {
+    "COMMISSION_ID": 965,
+    "SALES_REP_ID": 837,
+    "PERIOD_END": "2023-06-27",
+    "AMOUNT": 1627.61
+  },
+  {
+    "COMMISSION_ID": 966,
+    "SALES_REP_ID": 161,
+    "PERIOD_END": "2023-04-16",
+    "AMOUNT": 3476.77
+  },
+  {
+    "COMMISSION_ID": 967,
+    "SALES_REP_ID": 898,
+    "PERIOD_END": "2024-01-14",
+    "AMOUNT": 2913.74
+  },
+  {
+    "COMMISSION_ID": 968,
+    "SALES_REP_ID": 763,
+    "PERIOD_END": "2023-09-05",
+    "AMOUNT": 4892.57
+  },
+  {
+    "COMMISSION_ID": 969,
+    "SALES_REP_ID": 868,
+    "PERIOD_END": "2023-02-23",
+    "AMOUNT": 4218.04
+  },
+  {
+    "COMMISSION_ID": 970,
+    "SALES_REP_ID": 754,
+    "PERIOD_END": "2023-04-15",
+    "AMOUNT": 949.61
+  },
+  {
+    "COMMISSION_ID": 971,
+    "SALES_REP_ID": 528,
+    "PERIOD_END": "2023-11-18",
+    "AMOUNT": 858.21
+  },
+  {
+    "COMMISSION_ID": 972,
+    "SALES_REP_ID": 927,
+    "PERIOD_END": "2023-07-17",
+    "AMOUNT": 1546.44
+  },
+  {
+    "COMMISSION_ID": 973,
+    "SALES_REP_ID": 90,
+    "PERIOD_END": "2023-10-30",
+    "AMOUNT": 3646.27
+  },
+  {
+    "COMMISSION_ID": 974,
+    "SALES_REP_ID": 91,
+    "PERIOD_END": "2023-07-21",
+    "AMOUNT": 1322.35
+  },
+  {
+    "COMMISSION_ID": 975,
+    "SALES_REP_ID": 341,
+    "PERIOD_END": "2024-10-18",
+    "AMOUNT": 1846.16
+  },
+  {
+    "COMMISSION_ID": 976,
+    "SALES_REP_ID": 201,
+    "PERIOD_END": "2023-02-25",
+    "AMOUNT": 4766.12
+  },
+  {
+    "COMMISSION_ID": 977,
+    "SALES_REP_ID": 329,
+    "PERIOD_END": "2023-08-17",
+    "AMOUNT": 291.06
+  },
+  {
+    "COMMISSION_ID": 978,
+    "SALES_REP_ID": 61,
+    "PERIOD_END": "2023-11-11",
+    "AMOUNT": 1554.48
+  },
+  {
+    "COMMISSION_ID": 979,
+    "SALES_REP_ID": 461,
+    "PERIOD_END": "2024-03-27",
+    "AMOUNT": 2710.84
+  },
+  {
+    "COMMISSION_ID": 980,
+    "SALES_REP_ID": 688,
+    "PERIOD_END": "2024-12-30",
+    "AMOUNT": 589.06
+  },
+  {
+    "COMMISSION_ID": 981,
+    "SALES_REP_ID": 49,
+    "PERIOD_END": "2024-09-23",
+    "AMOUNT": 4999.1
+  },
+  {
+    "COMMISSION_ID": 982,
+    "SALES_REP_ID": 759,
+    "PERIOD_END": "2024-02-22",
+    "AMOUNT": 1866.76
+  },
+  {
+    "COMMISSION_ID": 983,
+    "SALES_REP_ID": 563,
+    "PERIOD_END": "2023-11-07",
+    "AMOUNT": 3351.85
+  },
+  {
+    "COMMISSION_ID": 984,
+    "SALES_REP_ID": 321,
+    "PERIOD_END": "2023-11-24",
+    "AMOUNT": 2337.43
+  },
+  {
+    "COMMISSION_ID": 985,
+    "SALES_REP_ID": 760,
+    "PERIOD_END": "2024-12-25",
+    "AMOUNT": 2217.58
+  },
+  {
+    "COMMISSION_ID": 986,
+    "SALES_REP_ID": 768,
+    "PERIOD_END": "2023-11-09",
+    "AMOUNT": 1695.13
+  },
+  {
+    "COMMISSION_ID": 987,
+    "SALES_REP_ID": 908,
+    "PERIOD_END": "2023-11-07",
+    "AMOUNT": 686.43
+  },
+  {
+    "COMMISSION_ID": 988,
+    "SALES_REP_ID": 572,
+    "PERIOD_END": "2023-07-08",
+    "AMOUNT": 3028.42
+  },
+  {
+    "COMMISSION_ID": 989,
+    "SALES_REP_ID": 101,
+    "PERIOD_END": "2023-05-25",
+    "AMOUNT": 2092.39
+  },
+  {
+    "COMMISSION_ID": 990,
+    "SALES_REP_ID": 629,
+    "PERIOD_END": "2024-09-04",
+    "AMOUNT": 1407.81
+  },
+  {
+    "COMMISSION_ID": 991,
+    "SALES_REP_ID": 157,
+    "PERIOD_END": "2023-02-26",
+    "AMOUNT": 2143.18
+  },
+  {
+    "COMMISSION_ID": 992,
+    "SALES_REP_ID": 701,
+    "PERIOD_END": "2023-03-26",
+    "AMOUNT": 4681.18
+  },
+  {
+    "COMMISSION_ID": 993,
+    "SALES_REP_ID": 940,
+    "PERIOD_END": "2023-04-16",
+    "AMOUNT": 212.25
+  },
+  {
+    "COMMISSION_ID": 994,
+    "SALES_REP_ID": 996,
+    "PERIOD_END": "2023-04-18",
+    "AMOUNT": 4596.82
+  },
+  {
+    "COMMISSION_ID": 995,
+    "SALES_REP_ID": 767,
+    "PERIOD_END": "2024-01-27",
+    "AMOUNT": 4912.79
+  },
+  {
+    "COMMISSION_ID": 996,
+    "SALES_REP_ID": 390,
+    "PERIOD_END": "2024-12-07",
+    "AMOUNT": 3117.71
+  },
+  {
+    "COMMISSION_ID": 997,
+    "SALES_REP_ID": 18,
+    "PERIOD_END": "2023-03-02",
+    "AMOUNT": 4486.34
+  },
+  {
+    "COMMISSION_ID": 998,
+    "SALES_REP_ID": 910,
+    "PERIOD_END": "2024-12-20",
+    "AMOUNT": 3660.88
+  },
+  {
+    "COMMISSION_ID": 999,
+    "SALES_REP_ID": 652,
+    "PERIOD_END": "2023-05-16",
+    "AMOUNT": 884.18
+  },
+  {
+    "COMMISSION_ID": 1000,
+    "SALES_REP_ID": 257,
+    "PERIOD_END": "2023-05-18",
+    "AMOUNT": 4020.3
+  }
+]

@@ -1,0 +1,5002 @@
+[
+  {
+    "TERRITORY_ID": 1,
+    "TERRITORY_NAME": "East Region 1",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 2,
+    "TERRITORY_NAME": "Central Region 2",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 3,
+    "TERRITORY_NAME": "West Region 3",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 4,
+    "TERRITORY_NAME": "Plains Region 4",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 5,
+    "TERRITORY_NAME": "North Region 5",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 6,
+    "TERRITORY_NAME": "Mountain Region 6",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 7,
+    "TERRITORY_NAME": "Coastal Region 7",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 8,
+    "TERRITORY_NAME": "Coastal Region 8",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 9,
+    "TERRITORY_NAME": "East Region 9",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 10,
+    "TERRITORY_NAME": "West Region 10",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 11,
+    "TERRITORY_NAME": "Central Region 11",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 12,
+    "TERRITORY_NAME": "Coastal Region 12",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 13,
+    "TERRITORY_NAME": "Coastal Region 13",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 14,
+    "TERRITORY_NAME": "East Region 14",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 15,
+    "TERRITORY_NAME": "Central Region 15",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 16,
+    "TERRITORY_NAME": "Plains Region 16",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 17,
+    "TERRITORY_NAME": "West Region 17",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 18,
+    "TERRITORY_NAME": "Central Region 18",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 19,
+    "TERRITORY_NAME": "South Region 19",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 20,
+    "TERRITORY_NAME": "Central Region 20",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 21,
+    "TERRITORY_NAME": "South Region 21",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 22,
+    "TERRITORY_NAME": "East Region 22",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 23,
+    "TERRITORY_NAME": "North Region 23",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 24,
+    "TERRITORY_NAME": "West Region 24",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 25,
+    "TERRITORY_NAME": "Plains Region 25",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 26,
+    "TERRITORY_NAME": "Coastal Region 26",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 27,
+    "TERRITORY_NAME": "Central Region 27",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 28,
+    "TERRITORY_NAME": "Mountain Region 28",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 29,
+    "TERRITORY_NAME": "East Region 29",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 30,
+    "TERRITORY_NAME": "Central Region 30",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 31,
+    "TERRITORY_NAME": "South Region 31",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 32,
+    "TERRITORY_NAME": "Mountain Region 32",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 33,
+    "TERRITORY_NAME": "Central Region 33",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 34,
+    "TERRITORY_NAME": "East Region 34",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 35,
+    "TERRITORY_NAME": "South Region 35",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 36,
+    "TERRITORY_NAME": "South Region 36",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 37,
+    "TERRITORY_NAME": "South Region 37",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 38,
+    "TERRITORY_NAME": "East Region 38",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 39,
+    "TERRITORY_NAME": "Coastal Region 39",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 40,
+    "TERRITORY_NAME": "Plains Region 40",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 41,
+    "TERRITORY_NAME": "South Region 41",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 42,
+    "TERRITORY_NAME": "North Region 42",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 43,
+    "TERRITORY_NAME": "South Region 43",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 44,
+    "TERRITORY_NAME": "Coastal Region 44",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 45,
+    "TERRITORY_NAME": "North Region 45",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 46,
+    "TERRITORY_NAME": "West Region 46",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 47,
+    "TERRITORY_NAME": "Mountain Region 47",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 48,
+    "TERRITORY_NAME": "West Region 48",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 49,
+    "TERRITORY_NAME": "Plains Region 49",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 50,
+    "TERRITORY_NAME": "Plains Region 50",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 51,
+    "TERRITORY_NAME": "Plains Region 51",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 52,
+    "TERRITORY_NAME": "East Region 52",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 53,
+    "TERRITORY_NAME": "South Region 53",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 54,
+    "TERRITORY_NAME": "West Region 54",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 55,
+    "TERRITORY_NAME": "Mountain Region 55",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 56,
+    "TERRITORY_NAME": "Plains Region 56",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 57,
+    "TERRITORY_NAME": "West Region 57",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 58,
+    "TERRITORY_NAME": "North Region 58",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 59,
+    "TERRITORY_NAME": "Central Region 59",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 60,
+    "TERRITORY_NAME": "Mountain Region 60",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 61,
+    "TERRITORY_NAME": "West Region 61",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 62,
+    "TERRITORY_NAME": "Plains Region 62",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 63,
+    "TERRITORY_NAME": "East Region 63",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 64,
+    "TERRITORY_NAME": "West Region 64",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 65,
+    "TERRITORY_NAME": "Plains Region 65",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 66,
+    "TERRITORY_NAME": "Mountain Region 66",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 67,
+    "TERRITORY_NAME": "Coastal Region 67",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 68,
+    "TERRITORY_NAME": "Plains Region 68",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 69,
+    "TERRITORY_NAME": "South Region 69",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 70,
+    "TERRITORY_NAME": "South Region 70",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 71,
+    "TERRITORY_NAME": "Mountain Region 71",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 72,
+    "TERRITORY_NAME": "Coastal Region 72",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 73,
+    "TERRITORY_NAME": "Mountain Region 73",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 74,
+    "TERRITORY_NAME": "East Region 74",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 75,
+    "TERRITORY_NAME": "Coastal Region 75",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 76,
+    "TERRITORY_NAME": "Coastal Region 76",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 77,
+    "TERRITORY_NAME": "East Region 77",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 78,
+    "TERRITORY_NAME": "Plains Region 78",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 79,
+    "TERRITORY_NAME": "Mountain Region 79",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 80,
+    "TERRITORY_NAME": "North Region 80",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 81,
+    "TERRITORY_NAME": "Central Region 81",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 82,
+    "TERRITORY_NAME": "West Region 82",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 83,
+    "TERRITORY_NAME": "North Region 83",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 84,
+    "TERRITORY_NAME": "Coastal Region 84",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 85,
+    "TERRITORY_NAME": "Coastal Region 85",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 86,
+    "TERRITORY_NAME": "Mountain Region 86",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 87,
+    "TERRITORY_NAME": "Mountain Region 87",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 88,
+    "TERRITORY_NAME": "Central Region 88",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 89,
+    "TERRITORY_NAME": "Central Region 89",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 90,
+    "TERRITORY_NAME": "West Region 90",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 91,
+    "TERRITORY_NAME": "North Region 91",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 92,
+    "TERRITORY_NAME": "Plains Region 92",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 93,
+    "TERRITORY_NAME": "West Region 93",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 94,
+    "TERRITORY_NAME": "East Region 94",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 95,
+    "TERRITORY_NAME": "West Region 95",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 96,
+    "TERRITORY_NAME": "Coastal Region 96",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 97,
+    "TERRITORY_NAME": "North Region 97",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 98,
+    "TERRITORY_NAME": "Mountain Region 98",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 99,
+    "TERRITORY_NAME": "Coastal Region 99",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 100,
+    "TERRITORY_NAME": "South Region 0",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 101,
+    "TERRITORY_NAME": "West Region 1",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 102,
+    "TERRITORY_NAME": "West Region 2",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 103,
+    "TERRITORY_NAME": "Mountain Region 3",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 104,
+    "TERRITORY_NAME": "Central Region 4",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 105,
+    "TERRITORY_NAME": "Coastal Region 5",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 106,
+    "TERRITORY_NAME": "Mountain Region 6",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 107,
+    "TERRITORY_NAME": "West Region 7",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 108,
+    "TERRITORY_NAME": "North Region 8",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 109,
+    "TERRITORY_NAME": "South Region 9",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 110,
+    "TERRITORY_NAME": "Mountain Region 10",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 111,
+    "TERRITORY_NAME": "North Region 11",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 112,
+    "TERRITORY_NAME": "Central Region 12",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 113,
+    "TERRITORY_NAME": "North Region 13",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 114,
+    "TERRITORY_NAME": "West Region 14",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 115,
+    "TERRITORY_NAME": "Central Region 15",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 116,
+    "TERRITORY_NAME": "Mountain Region 16",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 117,
+    "TERRITORY_NAME": "East Region 17",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 118,
+    "TERRITORY_NAME": "South Region 18",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 119,
+    "TERRITORY_NAME": "South Region 19",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 120,
+    "TERRITORY_NAME": "Mountain Region 20",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 121,
+    "TERRITORY_NAME": "North Region 21",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 122,
+    "TERRITORY_NAME": "East Region 22",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 123,
+    "TERRITORY_NAME": "Mountain Region 23",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 124,
+    "TERRITORY_NAME": "Central Region 24",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 125,
+    "TERRITORY_NAME": "Mountain Region 25",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 126,
+    "TERRITORY_NAME": "North Region 26",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 127,
+    "TERRITORY_NAME": "Central Region 27",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 128,
+    "TERRITORY_NAME": "West Region 28",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 129,
+    "TERRITORY_NAME": "Central Region 29",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 130,
+    "TERRITORY_NAME": "Plains Region 30",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 131,
+    "TERRITORY_NAME": "Central Region 31",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 132,
+    "TERRITORY_NAME": "South Region 32",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 133,
+    "TERRITORY_NAME": "Mountain Region 33",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 134,
+    "TERRITORY_NAME": "Central Region 34",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 135,
+    "TERRITORY_NAME": "Central Region 35",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 136,
+    "TERRITORY_NAME": "West Region 36",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 137,
+    "TERRITORY_NAME": "North Region 37",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 138,
+    "TERRITORY_NAME": "Mountain Region 38",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 139,
+    "TERRITORY_NAME": "South Region 39",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 140,
+    "TERRITORY_NAME": "West Region 40",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 141,
+    "TERRITORY_NAME": "North Region 41",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 142,
+    "TERRITORY_NAME": "West Region 42",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 143,
+    "TERRITORY_NAME": "Coastal Region 43",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 144,
+    "TERRITORY_NAME": "South Region 44",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 145,
+    "TERRITORY_NAME": "Coastal Region 45",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 146,
+    "TERRITORY_NAME": "South Region 46",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 147,
+    "TERRITORY_NAME": "East Region 47",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 148,
+    "TERRITORY_NAME": "Plains Region 48",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 149,
+    "TERRITORY_NAME": "West Region 49",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 150,
+    "TERRITORY_NAME": "East Region 50",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 151,
+    "TERRITORY_NAME": "Plains Region 51",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 152,
+    "TERRITORY_NAME": "West Region 52",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 153,
+    "TERRITORY_NAME": "Plains Region 53",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 154,
+    "TERRITORY_NAME": "Mountain Region 54",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 155,
+    "TERRITORY_NAME": "Coastal Region 55",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 156,
+    "TERRITORY_NAME": "North Region 56",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 157,
+    "TERRITORY_NAME": "Mountain Region 57",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 158,
+    "TERRITORY_NAME": "Central Region 58",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 159,
+    "TERRITORY_NAME": "Plains Region 59",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 160,
+    "TERRITORY_NAME": "Plains Region 60",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 161,
+    "TERRITORY_NAME": "West Region 61",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 162,
+    "TERRITORY_NAME": "Plains Region 62",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 163,
+    "TERRITORY_NAME": "South Region 63",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 164,
+    "TERRITORY_NAME": "Mountain Region 64",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 165,
+    "TERRITORY_NAME": "Mountain Region 65",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 166,
+    "TERRITORY_NAME": "North Region 66",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 167,
+    "TERRITORY_NAME": "South Region 67",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 168,
+    "TERRITORY_NAME": "West Region 68",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 169,
+    "TERRITORY_NAME": "South Region 69",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 170,
+    "TERRITORY_NAME": "Mountain Region 70",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 171,
+    "TERRITORY_NAME": "East Region 71",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 172,
+    "TERRITORY_NAME": "Plains Region 72",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 173,
+    "TERRITORY_NAME": "Mountain Region 73",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 174,
+    "TERRITORY_NAME": "North Region 74",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 175,
+    "TERRITORY_NAME": "South Region 75",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 176,
+    "TERRITORY_NAME": "Central Region 76",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 177,
+    "TERRITORY_NAME": "Coastal Region 77",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 178,
+    "TERRITORY_NAME": "Coastal Region 78",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 179,
+    "TERRITORY_NAME": "East Region 79",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 180,
+    "TERRITORY_NAME": "Central Region 80",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 181,
+    "TERRITORY_NAME": "West Region 81",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 182,
+    "TERRITORY_NAME": "Coastal Region 82",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 183,
+    "TERRITORY_NAME": "Central Region 83",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 184,
+    "TERRITORY_NAME": "Plains Region 84",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 185,
+    "TERRITORY_NAME": "Coastal Region 85",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 186,
+    "TERRITORY_NAME": "East Region 86",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 187,
+    "TERRITORY_NAME": "Plains Region 87",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 188,
+    "TERRITORY_NAME": "Coastal Region 88",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 189,
+    "TERRITORY_NAME": "East Region 89",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 190,
+    "TERRITORY_NAME": "Plains Region 90",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 191,
+    "TERRITORY_NAME": "North Region 91",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 192,
+    "TERRITORY_NAME": "West Region 92",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 193,
+    "TERRITORY_NAME": "South Region 93",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 194,
+    "TERRITORY_NAME": "Plains Region 94",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 195,
+    "TERRITORY_NAME": "South Region 95",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 196,
+    "TERRITORY_NAME": "Plains Region 96",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 197,
+    "TERRITORY_NAME": "East Region 97",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 198,
+    "TERRITORY_NAME": "Coastal Region 98",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 199,
+    "TERRITORY_NAME": "West Region 99",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 200,
+    "TERRITORY_NAME": "North Region 0",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 201,
+    "TERRITORY_NAME": "Central Region 1",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 202,
+    "TERRITORY_NAME": "Mountain Region 2",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 203,
+    "TERRITORY_NAME": "Central Region 3",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 204,
+    "TERRITORY_NAME": "Mountain Region 4",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 205,
+    "TERRITORY_NAME": "West Region 5",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 206,
+    "TERRITORY_NAME": "East Region 6",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 207,
+    "TERRITORY_NAME": "West Region 7",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 208,
+    "TERRITORY_NAME": "East Region 8",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 209,
+    "TERRITORY_NAME": "South Region 9",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 210,
+    "TERRITORY_NAME": "Mountain Region 10",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 211,
+    "TERRITORY_NAME": "Central Region 11",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 212,
+    "TERRITORY_NAME": "Plains Region 12",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 213,
+    "TERRITORY_NAME": "East Region 13",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 214,
+    "TERRITORY_NAME": "West Region 14",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 215,
+    "TERRITORY_NAME": "South Region 15",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 216,
+    "TERRITORY_NAME": "East Region 16",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 217,
+    "TERRITORY_NAME": "East Region 17",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 218,
+    "TERRITORY_NAME": "North Region 18",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 219,
+    "TERRITORY_NAME": "South Region 19",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 220,
+    "TERRITORY_NAME": "East Region 20",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 221,
+    "TERRITORY_NAME": "Plains Region 21",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 222,
+    "TERRITORY_NAME": "Plains Region 22",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 223,
+    "TERRITORY_NAME": "Central Region 23",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 224,
+    "TERRITORY_NAME": "South Region 24",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 225,
+    "TERRITORY_NAME": "Mountain Region 25",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 226,
+    "TERRITORY_NAME": "Mountain Region 26",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 227,
+    "TERRITORY_NAME": "Coastal Region 27",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 228,
+    "TERRITORY_NAME": "Coastal Region 28",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 229,
+    "TERRITORY_NAME": "South Region 29",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 230,
+    "TERRITORY_NAME": "West Region 30",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 231,
+    "TERRITORY_NAME": "Central Region 31",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 232,
+    "TERRITORY_NAME": "Mountain Region 32",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 233,
+    "TERRITORY_NAME": "Plains Region 33",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 234,
+    "TERRITORY_NAME": "Central Region 34",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 235,
+    "TERRITORY_NAME": "Mountain Region 35",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 236,
+    "TERRITORY_NAME": "East Region 36",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 237,
+    "TERRITORY_NAME": "Coastal Region 37",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 238,
+    "TERRITORY_NAME": "Coastal Region 38",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 239,
+    "TERRITORY_NAME": "West Region 39",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 240,
+    "TERRITORY_NAME": "West Region 40",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 241,
+    "TERRITORY_NAME": "Coastal Region 41",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 242,
+    "TERRITORY_NAME": "North Region 42",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 243,
+    "TERRITORY_NAME": "Plains Region 43",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 244,
+    "TERRITORY_NAME": "West Region 44",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 245,
+    "TERRITORY_NAME": "Central Region 45",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 246,
+    "TERRITORY_NAME": "South Region 46",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 247,
+    "TERRITORY_NAME": "Central Region 47",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 248,
+    "TERRITORY_NAME": "North Region 48",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 249,
+    "TERRITORY_NAME": "Central Region 49",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 250,
+    "TERRITORY_NAME": "Central Region 50",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 251,
+    "TERRITORY_NAME": "Mountain Region 51",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 252,
+    "TERRITORY_NAME": "Central Region 52",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 253,
+    "TERRITORY_NAME": "North Region 53",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 254,
+    "TERRITORY_NAME": "North Region 54",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 255,
+    "TERRITORY_NAME": "Plains Region 55",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 256,
+    "TERRITORY_NAME": "East Region 56",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 257,
+    "TERRITORY_NAME": "South Region 57",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 258,
+    "TERRITORY_NAME": "Coastal Region 58",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 259,
+    "TERRITORY_NAME": "East Region 59",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 260,
+    "TERRITORY_NAME": "East Region 60",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 261,
+    "TERRITORY_NAME": "Mountain Region 61",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 262,
+    "TERRITORY_NAME": "North Region 62",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 263,
+    "TERRITORY_NAME": "North Region 63",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 264,
+    "TERRITORY_NAME": "South Region 64",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 265,
+    "TERRITORY_NAME": "Central Region 65",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 266,
+    "TERRITORY_NAME": "North Region 66",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 267,
+    "TERRITORY_NAME": "Coastal Region 67",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 268,
+    "TERRITORY_NAME": "Coastal Region 68",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 269,
+    "TERRITORY_NAME": "North Region 69",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 270,
+    "TERRITORY_NAME": "Mountain Region 70",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 271,
+    "TERRITORY_NAME": "South Region 71",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 272,
+    "TERRITORY_NAME": "East Region 72",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 273,
+    "TERRITORY_NAME": "South Region 73",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 274,
+    "TERRITORY_NAME": "Plains Region 74",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 275,
+    "TERRITORY_NAME": "Central Region 75",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 276,
+    "TERRITORY_NAME": "West Region 76",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 277,
+    "TERRITORY_NAME": "Mountain Region 77",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 278,
+    "TERRITORY_NAME": "North Region 78",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 279,
+    "TERRITORY_NAME": "Central Region 79",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 280,
+    "TERRITORY_NAME": "Coastal Region 80",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 281,
+    "TERRITORY_NAME": "Coastal Region 81",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 282,
+    "TERRITORY_NAME": "South Region 82",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 283,
+    "TERRITORY_NAME": "Plains Region 83",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 284,
+    "TERRITORY_NAME": "South Region 84",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 285,
+    "TERRITORY_NAME": "East Region 85",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 286,
+    "TERRITORY_NAME": "East Region 86",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 287,
+    "TERRITORY_NAME": "North Region 87",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 288,
+    "TERRITORY_NAME": "North Region 88",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 289,
+    "TERRITORY_NAME": "Coastal Region 89",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 290,
+    "TERRITORY_NAME": "South Region 90",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 291,
+    "TERRITORY_NAME": "Central Region 91",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 292,
+    "TERRITORY_NAME": "East Region 92",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 293,
+    "TERRITORY_NAME": "North Region 93",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 294,
+    "TERRITORY_NAME": "Central Region 94",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 295,
+    "TERRITORY_NAME": "Central Region 95",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 296,
+    "TERRITORY_NAME": "Coastal Region 96",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 297,
+    "TERRITORY_NAME": "West Region 97",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 298,
+    "TERRITORY_NAME": "Central Region 98",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 299,
+    "TERRITORY_NAME": "East Region 99",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 300,
+    "TERRITORY_NAME": "Central Region 0",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 301,
+    "TERRITORY_NAME": "Central Region 1",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 302,
+    "TERRITORY_NAME": "Plains Region 2",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 303,
+    "TERRITORY_NAME": "Coastal Region 3",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 304,
+    "TERRITORY_NAME": "Plains Region 4",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 305,
+    "TERRITORY_NAME": "North Region 5",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 306,
+    "TERRITORY_NAME": "Mountain Region 6",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 307,
+    "TERRITORY_NAME": "West Region 7",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 308,
+    "TERRITORY_NAME": "Coastal Region 8",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 309,
+    "TERRITORY_NAME": "West Region 9",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 310,
+    "TERRITORY_NAME": "Central Region 10",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 311,
+    "TERRITORY_NAME": "West Region 11",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 312,
+    "TERRITORY_NAME": "West Region 12",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 313,
+    "TERRITORY_NAME": "Central Region 13",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 314,
+    "TERRITORY_NAME": "South Region 14",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 315,
+    "TERRITORY_NAME": "East Region 15",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 316,
+    "TERRITORY_NAME": "East Region 16",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 317,
+    "TERRITORY_NAME": "Coastal Region 17",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 318,
+    "TERRITORY_NAME": "Mountain Region 18",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 319,
+    "TERRITORY_NAME": "North Region 19",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 320,
+    "TERRITORY_NAME": "South Region 20",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 321,
+    "TERRITORY_NAME": "North Region 21",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 322,
+    "TERRITORY_NAME": "Mountain Region 22",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 323,
+    "TERRITORY_NAME": "Coastal Region 23",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 324,
+    "TERRITORY_NAME": "South Region 24",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 325,
+    "TERRITORY_NAME": "Coastal Region 25",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 326,
+    "TERRITORY_NAME": "East Region 26",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 327,
+    "TERRITORY_NAME": "East Region 27",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 328,
+    "TERRITORY_NAME": "Plains Region 28",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 329,
+    "TERRITORY_NAME": "Plains Region 29",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 330,
+    "TERRITORY_NAME": "Mountain Region 30",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 331,
+    "TERRITORY_NAME": "Plains Region 31",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 332,
+    "TERRITORY_NAME": "Central Region 32",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 333,
+    "TERRITORY_NAME": "Coastal Region 33",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 334,
+    "TERRITORY_NAME": "Mountain Region 34",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 335,
+    "TERRITORY_NAME": "North Region 35",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 336,
+    "TERRITORY_NAME": "South Region 36",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 337,
+    "TERRITORY_NAME": "Mountain Region 37",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 338,
+    "TERRITORY_NAME": "Mountain Region 38",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 339,
+    "TERRITORY_NAME": "North Region 39",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 340,
+    "TERRITORY_NAME": "East Region 40",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 341,
+    "TERRITORY_NAME": "West Region 41",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 342,
+    "TERRITORY_NAME": "East Region 42",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 343,
+    "TERRITORY_NAME": "Coastal Region 43",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 344,
+    "TERRITORY_NAME": "South Region 44",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 345,
+    "TERRITORY_NAME": "East Region 45",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 346,
+    "TERRITORY_NAME": "Plains Region 46",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 347,
+    "TERRITORY_NAME": "East Region 47",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 348,
+    "TERRITORY_NAME": "North Region 48",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 349,
+    "TERRITORY_NAME": "West Region 49",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 350,
+    "TERRITORY_NAME": "Central Region 50",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 351,
+    "TERRITORY_NAME": "South Region 51",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 352,
+    "TERRITORY_NAME": "West Region 52",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 353,
+    "TERRITORY_NAME": "Mountain Region 53",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 354,
+    "TERRITORY_NAME": "West Region 54",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 355,
+    "TERRITORY_NAME": "Coastal Region 55",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 356,
+    "TERRITORY_NAME": "Plains Region 56",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 357,
+    "TERRITORY_NAME": "Coastal Region 57",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 358,
+    "TERRITORY_NAME": "Plains Region 58",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 359,
+    "TERRITORY_NAME": "Mountain Region 59",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 360,
+    "TERRITORY_NAME": "Plains Region 60",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 361,
+    "TERRITORY_NAME": "Plains Region 61",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 362,
+    "TERRITORY_NAME": "South Region 62",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 363,
+    "TERRITORY_NAME": "East Region 63",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 364,
+    "TERRITORY_NAME": "East Region 64",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 365,
+    "TERRITORY_NAME": "Coastal Region 65",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 366,
+    "TERRITORY_NAME": "Mountain Region 66",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 367,
+    "TERRITORY_NAME": "Mountain Region 67",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 368,
+    "TERRITORY_NAME": "South Region 68",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 369,
+    "TERRITORY_NAME": "Plains Region 69",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 370,
+    "TERRITORY_NAME": "North Region 70",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 371,
+    "TERRITORY_NAME": "East Region 71",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 372,
+    "TERRITORY_NAME": "Coastal Region 72",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 373,
+    "TERRITORY_NAME": "Coastal Region 73",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 374,
+    "TERRITORY_NAME": "North Region 74",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 375,
+    "TERRITORY_NAME": "Mountain Region 75",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 376,
+    "TERRITORY_NAME": "West Region 76",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 377,
+    "TERRITORY_NAME": "Plains Region 77",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 378,
+    "TERRITORY_NAME": "North Region 78",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 379,
+    "TERRITORY_NAME": "Central Region 79",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 380,
+    "TERRITORY_NAME": "South Region 80",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 381,
+    "TERRITORY_NAME": "Mountain Region 81",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 382,
+    "TERRITORY_NAME": "Mountain Region 82",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 383,
+    "TERRITORY_NAME": "Central Region 83",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 384,
+    "TERRITORY_NAME": "Mountain Region 84",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 385,
+    "TERRITORY_NAME": "North Region 85",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 386,
+    "TERRITORY_NAME": "Mountain Region 86",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 387,
+    "TERRITORY_NAME": "East Region 87",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 388,
+    "TERRITORY_NAME": "South Region 88",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 389,
+    "TERRITORY_NAME": "South Region 89",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 390,
+    "TERRITORY_NAME": "South Region 90",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 391,
+    "TERRITORY_NAME": "North Region 91",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 392,
+    "TERRITORY_NAME": "Coastal Region 92",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 393,
+    "TERRITORY_NAME": "Mountain Region 93",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 394,
+    "TERRITORY_NAME": "North Region 94",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 395,
+    "TERRITORY_NAME": "Mountain Region 95",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 396,
+    "TERRITORY_NAME": "North Region 96",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 397,
+    "TERRITORY_NAME": "Mountain Region 97",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 398,
+    "TERRITORY_NAME": "South Region 98",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 399,
+    "TERRITORY_NAME": "Plains Region 99",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 400,
+    "TERRITORY_NAME": "Coastal Region 0",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 401,
+    "TERRITORY_NAME": "Coastal Region 1",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 402,
+    "TERRITORY_NAME": "Coastal Region 2",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 403,
+    "TERRITORY_NAME": "East Region 3",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 404,
+    "TERRITORY_NAME": "Mountain Region 4",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 405,
+    "TERRITORY_NAME": "East Region 5",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 406,
+    "TERRITORY_NAME": "Coastal Region 6",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 407,
+    "TERRITORY_NAME": "Central Region 7",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 408,
+    "TERRITORY_NAME": "Plains Region 8",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 409,
+    "TERRITORY_NAME": "North Region 9",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 410,
+    "TERRITORY_NAME": "Central Region 10",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 411,
+    "TERRITORY_NAME": "South Region 11",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 412,
+    "TERRITORY_NAME": "Plains Region 12",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 413,
+    "TERRITORY_NAME": "North Region 13",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 414,
+    "TERRITORY_NAME": "Coastal Region 14",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 415,
+    "TERRITORY_NAME": "Mountain Region 15",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 416,
+    "TERRITORY_NAME": "Central Region 16",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 417,
+    "TERRITORY_NAME": "Central Region 17",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 418,
+    "TERRITORY_NAME": "Central Region 18",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 419,
+    "TERRITORY_NAME": "Mountain Region 19",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 420,
+    "TERRITORY_NAME": "Plains Region 20",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 421,
+    "TERRITORY_NAME": "Central Region 21",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 422,
+    "TERRITORY_NAME": "South Region 22",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 423,
+    "TERRITORY_NAME": "North Region 23",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 424,
+    "TERRITORY_NAME": "Mountain Region 24",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 425,
+    "TERRITORY_NAME": "East Region 25",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 426,
+    "TERRITORY_NAME": "South Region 26",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 427,
+    "TERRITORY_NAME": "East Region 27",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 428,
+    "TERRITORY_NAME": "Mountain Region 28",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 429,
+    "TERRITORY_NAME": "Coastal Region 29",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 430,
+    "TERRITORY_NAME": "West Region 30",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 431,
+    "TERRITORY_NAME": "Plains Region 31",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 432,
+    "TERRITORY_NAME": "South Region 32",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 433,
+    "TERRITORY_NAME": "Coastal Region 33",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 434,
+    "TERRITORY_NAME": "East Region 34",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 435,
+    "TERRITORY_NAME": "South Region 35",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 436,
+    "TERRITORY_NAME": "South Region 36",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 437,
+    "TERRITORY_NAME": "Central Region 37",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 438,
+    "TERRITORY_NAME": "Mountain Region 38",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 439,
+    "TERRITORY_NAME": "East Region 39",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 440,
+    "TERRITORY_NAME": "South Region 40",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 441,
+    "TERRITORY_NAME": "South Region 41",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 442,
+    "TERRITORY_NAME": "Central Region 42",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 443,
+    "TERRITORY_NAME": "West Region 43",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 444,
+    "TERRITORY_NAME": "Coastal Region 44",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 445,
+    "TERRITORY_NAME": "Plains Region 45",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 446,
+    "TERRITORY_NAME": "Mountain Region 46",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 447,
+    "TERRITORY_NAME": "East Region 47",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 448,
+    "TERRITORY_NAME": "North Region 48",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 449,
+    "TERRITORY_NAME": "Mountain Region 49",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 450,
+    "TERRITORY_NAME": "Central Region 50",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 451,
+    "TERRITORY_NAME": "North Region 51",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 452,
+    "TERRITORY_NAME": "West Region 52",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 453,
+    "TERRITORY_NAME": "Mountain Region 53",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 454,
+    "TERRITORY_NAME": "Central Region 54",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 455,
+    "TERRITORY_NAME": "Plains Region 55",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 456,
+    "TERRITORY_NAME": "Coastal Region 56",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 457,
+    "TERRITORY_NAME": "West Region 57",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 458,
+    "TERRITORY_NAME": "North Region 58",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 459,
+    "TERRITORY_NAME": "West Region 59",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 460,
+    "TERRITORY_NAME": "Central Region 60",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 461,
+    "TERRITORY_NAME": "Plains Region 61",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 462,
+    "TERRITORY_NAME": "Mountain Region 62",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 463,
+    "TERRITORY_NAME": "Coastal Region 63",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 464,
+    "TERRITORY_NAME": "Mountain Region 64",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 465,
+    "TERRITORY_NAME": "North Region 65",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 466,
+    "TERRITORY_NAME": "Coastal Region 66",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 467,
+    "TERRITORY_NAME": "Coastal Region 67",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 468,
+    "TERRITORY_NAME": "East Region 68",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 469,
+    "TERRITORY_NAME": "Plains Region 69",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 470,
+    "TERRITORY_NAME": "East Region 70",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 471,
+    "TERRITORY_NAME": "Central Region 71",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 472,
+    "TERRITORY_NAME": "North Region 72",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 473,
+    "TERRITORY_NAME": "South Region 73",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 474,
+    "TERRITORY_NAME": "Coastal Region 74",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 475,
+    "TERRITORY_NAME": "West Region 75",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 476,
+    "TERRITORY_NAME": "Coastal Region 76",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 477,
+    "TERRITORY_NAME": "Central Region 77",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 478,
+    "TERRITORY_NAME": "Plains Region 78",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 479,
+    "TERRITORY_NAME": "North Region 79",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 480,
+    "TERRITORY_NAME": "East Region 80",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 481,
+    "TERRITORY_NAME": "Coastal Region 81",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 482,
+    "TERRITORY_NAME": "Mountain Region 82",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 483,
+    "TERRITORY_NAME": "North Region 83",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 484,
+    "TERRITORY_NAME": "Plains Region 84",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 485,
+    "TERRITORY_NAME": "Mountain Region 85",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 486,
+    "TERRITORY_NAME": "East Region 86",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 487,
+    "TERRITORY_NAME": "South Region 87",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 488,
+    "TERRITORY_NAME": "Mountain Region 88",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 489,
+    "TERRITORY_NAME": "West Region 89",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 490,
+    "TERRITORY_NAME": "Central Region 90",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 491,
+    "TERRITORY_NAME": "East Region 91",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 492,
+    "TERRITORY_NAME": "Mountain Region 92",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 493,
+    "TERRITORY_NAME": "West Region 93",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 494,
+    "TERRITORY_NAME": "Central Region 94",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 495,
+    "TERRITORY_NAME": "Coastal Region 95",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 496,
+    "TERRITORY_NAME": "Coastal Region 96",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 497,
+    "TERRITORY_NAME": "Mountain Region 97",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 498,
+    "TERRITORY_NAME": "Mountain Region 98",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 499,
+    "TERRITORY_NAME": "Plains Region 99",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 500,
+    "TERRITORY_NAME": "Plains Region 0",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 501,
+    "TERRITORY_NAME": "East Region 1",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 502,
+    "TERRITORY_NAME": "Central Region 2",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 503,
+    "TERRITORY_NAME": "Coastal Region 3",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 504,
+    "TERRITORY_NAME": "East Region 4",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 505,
+    "TERRITORY_NAME": "Mountain Region 5",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 506,
+    "TERRITORY_NAME": "Mountain Region 6",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 507,
+    "TERRITORY_NAME": "Mountain Region 7",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 508,
+    "TERRITORY_NAME": "North Region 8",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 509,
+    "TERRITORY_NAME": "West Region 9",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 510,
+    "TERRITORY_NAME": "South Region 10",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 511,
+    "TERRITORY_NAME": "Mountain Region 11",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 512,
+    "TERRITORY_NAME": "Coastal Region 12",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 513,
+    "TERRITORY_NAME": "West Region 13",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 514,
+    "TERRITORY_NAME": "Plains Region 14",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 515,
+    "TERRITORY_NAME": "Coastal Region 15",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 516,
+    "TERRITORY_NAME": "Mountain Region 16",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 517,
+    "TERRITORY_NAME": "West Region 17",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 518,
+    "TERRITORY_NAME": "Plains Region 18",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 519,
+    "TERRITORY_NAME": "West Region 19",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 520,
+    "TERRITORY_NAME": "Plains Region 20",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 521,
+    "TERRITORY_NAME": "Coastal Region 21",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 522,
+    "TERRITORY_NAME": "Central Region 22",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 523,
+    "TERRITORY_NAME": "North Region 23",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 524,
+    "TERRITORY_NAME": "Plains Region 24",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 525,
+    "TERRITORY_NAME": "West Region 25",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 526,
+    "TERRITORY_NAME": "Plains Region 26",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 527,
+    "TERRITORY_NAME": "East Region 27",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 528,
+    "TERRITORY_NAME": "South Region 28",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 529,
+    "TERRITORY_NAME": "Coastal Region 29",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 530,
+    "TERRITORY_NAME": "West Region 30",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 531,
+    "TERRITORY_NAME": "South Region 31",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 532,
+    "TERRITORY_NAME": "North Region 32",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 533,
+    "TERRITORY_NAME": "Plains Region 33",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 534,
+    "TERRITORY_NAME": "South Region 34",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 535,
+    "TERRITORY_NAME": "Central Region 35",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 536,
+    "TERRITORY_NAME": "South Region 36",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 537,
+    "TERRITORY_NAME": "North Region 37",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 538,
+    "TERRITORY_NAME": "Plains Region 38",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 539,
+    "TERRITORY_NAME": "Central Region 39",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 540,
+    "TERRITORY_NAME": "North Region 40",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 541,
+    "TERRITORY_NAME": "Mountain Region 41",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 542,
+    "TERRITORY_NAME": "Plains Region 42",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 543,
+    "TERRITORY_NAME": "South Region 43",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 544,
+    "TERRITORY_NAME": "East Region 44",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 545,
+    "TERRITORY_NAME": "South Region 45",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 546,
+    "TERRITORY_NAME": "Coastal Region 46",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 547,
+    "TERRITORY_NAME": "Coastal Region 47",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 548,
+    "TERRITORY_NAME": "West Region 48",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 549,
+    "TERRITORY_NAME": "West Region 49",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 550,
+    "TERRITORY_NAME": "South Region 50",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 551,
+    "TERRITORY_NAME": "South Region 51",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 552,
+    "TERRITORY_NAME": "Plains Region 52",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 553,
+    "TERRITORY_NAME": "Central Region 53",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 554,
+    "TERRITORY_NAME": "Central Region 54",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 555,
+    "TERRITORY_NAME": "Coastal Region 55",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 556,
+    "TERRITORY_NAME": "Central Region 56",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 557,
+    "TERRITORY_NAME": "Central Region 57",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 558,
+    "TERRITORY_NAME": "North Region 58",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 559,
+    "TERRITORY_NAME": "East Region 59",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 560,
+    "TERRITORY_NAME": "Central Region 60",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 561,
+    "TERRITORY_NAME": "West Region 61",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 562,
+    "TERRITORY_NAME": "Coastal Region 62",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 563,
+    "TERRITORY_NAME": "Central Region 63",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 564,
+    "TERRITORY_NAME": "Central Region 64",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 565,
+    "TERRITORY_NAME": "Plains Region 65",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 566,
+    "TERRITORY_NAME": "East Region 66",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 567,
+    "TERRITORY_NAME": "East Region 67",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 568,
+    "TERRITORY_NAME": "Central Region 68",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 569,
+    "TERRITORY_NAME": "Central Region 69",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 570,
+    "TERRITORY_NAME": "North Region 70",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 571,
+    "TERRITORY_NAME": "Central Region 71",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 572,
+    "TERRITORY_NAME": "North Region 72",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 573,
+    "TERRITORY_NAME": "Coastal Region 73",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 574,
+    "TERRITORY_NAME": "Mountain Region 74",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 575,
+    "TERRITORY_NAME": "East Region 75",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 576,
+    "TERRITORY_NAME": "East Region 76",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 577,
+    "TERRITORY_NAME": "Coastal Region 77",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 578,
+    "TERRITORY_NAME": "Coastal Region 78",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 579,
+    "TERRITORY_NAME": "Plains Region 79",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 580,
+    "TERRITORY_NAME": "Plains Region 80",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 581,
+    "TERRITORY_NAME": "Plains Region 81",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 582,
+    "TERRITORY_NAME": "North Region 82",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 583,
+    "TERRITORY_NAME": "Coastal Region 83",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 584,
+    "TERRITORY_NAME": "Central Region 84",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 585,
+    "TERRITORY_NAME": "West Region 85",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 586,
+    "TERRITORY_NAME": "Central Region 86",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 587,
+    "TERRITORY_NAME": "South Region 87",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 588,
+    "TERRITORY_NAME": "Coastal Region 88",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 589,
+    "TERRITORY_NAME": "Plains Region 89",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 590,
+    "TERRITORY_NAME": "North Region 90",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 591,
+    "TERRITORY_NAME": "West Region 91",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 592,
+    "TERRITORY_NAME": "Coastal Region 92",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 593,
+    "TERRITORY_NAME": "Mountain Region 93",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 594,
+    "TERRITORY_NAME": "Coastal Region 94",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 595,
+    "TERRITORY_NAME": "South Region 95",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 596,
+    "TERRITORY_NAME": "South Region 96",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 597,
+    "TERRITORY_NAME": "Plains Region 97",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 598,
+    "TERRITORY_NAME": "West Region 98",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 599,
+    "TERRITORY_NAME": "Central Region 99",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 600,
+    "TERRITORY_NAME": "West Region 0",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 601,
+    "TERRITORY_NAME": "Plains Region 1",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 602,
+    "TERRITORY_NAME": "North Region 2",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 603,
+    "TERRITORY_NAME": "Central Region 3",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 604,
+    "TERRITORY_NAME": "Central Region 4",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 605,
+    "TERRITORY_NAME": "West Region 5",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 606,
+    "TERRITORY_NAME": "East Region 6",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 607,
+    "TERRITORY_NAME": "Central Region 7",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 608,
+    "TERRITORY_NAME": "West Region 8",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 609,
+    "TERRITORY_NAME": "West Region 9",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 610,
+    "TERRITORY_NAME": "Plains Region 10",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 611,
+    "TERRITORY_NAME": "South Region 11",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 612,
+    "TERRITORY_NAME": "North Region 12",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 613,
+    "TERRITORY_NAME": "South Region 13",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 614,
+    "TERRITORY_NAME": "Plains Region 14",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 615,
+    "TERRITORY_NAME": "Plains Region 15",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 616,
+    "TERRITORY_NAME": "Plains Region 16",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 617,
+    "TERRITORY_NAME": "South Region 17",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 618,
+    "TERRITORY_NAME": "West Region 18",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 619,
+    "TERRITORY_NAME": "Plains Region 19",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 620,
+    "TERRITORY_NAME": "North Region 20",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 621,
+    "TERRITORY_NAME": "Mountain Region 21",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 622,
+    "TERRITORY_NAME": "Plains Region 22",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 623,
+    "TERRITORY_NAME": "Plains Region 23",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 624,
+    "TERRITORY_NAME": "Central Region 24",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 625,
+    "TERRITORY_NAME": "Central Region 25",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 626,
+    "TERRITORY_NAME": "East Region 26",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 627,
+    "TERRITORY_NAME": "Plains Region 27",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 628,
+    "TERRITORY_NAME": "Central Region 28",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 629,
+    "TERRITORY_NAME": "Central Region 29",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 630,
+    "TERRITORY_NAME": "West Region 30",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 631,
+    "TERRITORY_NAME": "Central Region 31",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 632,
+    "TERRITORY_NAME": "Central Region 32",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 633,
+    "TERRITORY_NAME": "South Region 33",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 634,
+    "TERRITORY_NAME": "Plains Region 34",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 635,
+    "TERRITORY_NAME": "Coastal Region 35",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 636,
+    "TERRITORY_NAME": "Plains Region 36",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 637,
+    "TERRITORY_NAME": "East Region 37",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 638,
+    "TERRITORY_NAME": "South Region 38",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 639,
+    "TERRITORY_NAME": "Central Region 39",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 640,
+    "TERRITORY_NAME": "Plains Region 40",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 641,
+    "TERRITORY_NAME": "East Region 41",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 642,
+    "TERRITORY_NAME": "South Region 42",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 643,
+    "TERRITORY_NAME": "West Region 43",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 644,
+    "TERRITORY_NAME": "Central Region 44",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 645,
+    "TERRITORY_NAME": "Plains Region 45",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 646,
+    "TERRITORY_NAME": "Central Region 46",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 647,
+    "TERRITORY_NAME": "West Region 47",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 648,
+    "TERRITORY_NAME": "East Region 48",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 649,
+    "TERRITORY_NAME": "East Region 49",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 650,
+    "TERRITORY_NAME": "Mountain Region 50",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 651,
+    "TERRITORY_NAME": "East Region 51",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 652,
+    "TERRITORY_NAME": "East Region 52",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 653,
+    "TERRITORY_NAME": "Plains Region 53",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 654,
+    "TERRITORY_NAME": "Mountain Region 54",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 655,
+    "TERRITORY_NAME": "West Region 55",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 656,
+    "TERRITORY_NAME": "Plains Region 56",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 657,
+    "TERRITORY_NAME": "Coastal Region 57",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 658,
+    "TERRITORY_NAME": "Central Region 58",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 659,
+    "TERRITORY_NAME": "Coastal Region 59",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 660,
+    "TERRITORY_NAME": "Plains Region 60",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 661,
+    "TERRITORY_NAME": "Mountain Region 61",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 662,
+    "TERRITORY_NAME": "Mountain Region 62",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 663,
+    "TERRITORY_NAME": "North Region 63",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 664,
+    "TERRITORY_NAME": "North Region 64",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 665,
+    "TERRITORY_NAME": "Coastal Region 65",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 666,
+    "TERRITORY_NAME": "Plains Region 66",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 667,
+    "TERRITORY_NAME": "North Region 67",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 668,
+    "TERRITORY_NAME": "West Region 68",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 669,
+    "TERRITORY_NAME": "Central Region 69",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 670,
+    "TERRITORY_NAME": "North Region 70",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 671,
+    "TERRITORY_NAME": "Mountain Region 71",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 672,
+    "TERRITORY_NAME": "Coastal Region 72",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 673,
+    "TERRITORY_NAME": "West Region 73",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 674,
+    "TERRITORY_NAME": "Plains Region 74",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 675,
+    "TERRITORY_NAME": "South Region 75",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 676,
+    "TERRITORY_NAME": "West Region 76",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 677,
+    "TERRITORY_NAME": "Coastal Region 77",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 678,
+    "TERRITORY_NAME": "Plains Region 78",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 679,
+    "TERRITORY_NAME": "Mountain Region 79",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 680,
+    "TERRITORY_NAME": "West Region 80",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 681,
+    "TERRITORY_NAME": "Mountain Region 81",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 682,
+    "TERRITORY_NAME": "South Region 82",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 683,
+    "TERRITORY_NAME": "Coastal Region 83",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 684,
+    "TERRITORY_NAME": "Coastal Region 84",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 685,
+    "TERRITORY_NAME": "Central Region 85",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 686,
+    "TERRITORY_NAME": "Plains Region 86",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 687,
+    "TERRITORY_NAME": "South Region 87",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 688,
+    "TERRITORY_NAME": "Mountain Region 88",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 689,
+    "TERRITORY_NAME": "East Region 89",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 690,
+    "TERRITORY_NAME": "Central Region 90",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 691,
+    "TERRITORY_NAME": "West Region 91",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 692,
+    "TERRITORY_NAME": "South Region 92",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 693,
+    "TERRITORY_NAME": "West Region 93",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 694,
+    "TERRITORY_NAME": "Central Region 94",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 695,
+    "TERRITORY_NAME": "Central Region 95",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 696,
+    "TERRITORY_NAME": "East Region 96",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 697,
+    "TERRITORY_NAME": "Coastal Region 97",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 698,
+    "TERRITORY_NAME": "Plains Region 98",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 699,
+    "TERRITORY_NAME": "East Region 99",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 700,
+    "TERRITORY_NAME": "Plains Region 0",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 701,
+    "TERRITORY_NAME": "Plains Region 1",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 702,
+    "TERRITORY_NAME": "Coastal Region 2",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 703,
+    "TERRITORY_NAME": "Central Region 3",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 704,
+    "TERRITORY_NAME": "North Region 4",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 705,
+    "TERRITORY_NAME": "South Region 5",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 706,
+    "TERRITORY_NAME": "Mountain Region 6",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 707,
+    "TERRITORY_NAME": "Plains Region 7",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 708,
+    "TERRITORY_NAME": "North Region 8",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 709,
+    "TERRITORY_NAME": "Coastal Region 9",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 710,
+    "TERRITORY_NAME": "Mountain Region 10",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 711,
+    "TERRITORY_NAME": "Coastal Region 11",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 712,
+    "TERRITORY_NAME": "Plains Region 12",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 713,
+    "TERRITORY_NAME": "Coastal Region 13",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 714,
+    "TERRITORY_NAME": "South Region 14",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 715,
+    "TERRITORY_NAME": "South Region 15",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 716,
+    "TERRITORY_NAME": "South Region 16",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 717,
+    "TERRITORY_NAME": "East Region 17",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 718,
+    "TERRITORY_NAME": "South Region 18",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 719,
+    "TERRITORY_NAME": "Plains Region 19",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 720,
+    "TERRITORY_NAME": "West Region 20",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 721,
+    "TERRITORY_NAME": "Mountain Region 21",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 722,
+    "TERRITORY_NAME": "Plains Region 22",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 723,
+    "TERRITORY_NAME": "East Region 23",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 724,
+    "TERRITORY_NAME": "South Region 24",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 725,
+    "TERRITORY_NAME": "Coastal Region 25",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 726,
+    "TERRITORY_NAME": "Mountain Region 26",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 727,
+    "TERRITORY_NAME": "Mountain Region 27",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 728,
+    "TERRITORY_NAME": "Central Region 28",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 729,
+    "TERRITORY_NAME": "Mountain Region 29",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 730,
+    "TERRITORY_NAME": "North Region 30",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 731,
+    "TERRITORY_NAME": "Coastal Region 31",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 732,
+    "TERRITORY_NAME": "East Region 32",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 733,
+    "TERRITORY_NAME": "West Region 33",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 734,
+    "TERRITORY_NAME": "Coastal Region 34",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 735,
+    "TERRITORY_NAME": "Plains Region 35",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 736,
+    "TERRITORY_NAME": "Coastal Region 36",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 737,
+    "TERRITORY_NAME": "East Region 37",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 738,
+    "TERRITORY_NAME": "East Region 38",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 739,
+    "TERRITORY_NAME": "Central Region 39",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 740,
+    "TERRITORY_NAME": "South Region 40",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 741,
+    "TERRITORY_NAME": "North Region 41",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 742,
+    "TERRITORY_NAME": "Coastal Region 42",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 743,
+    "TERRITORY_NAME": "Coastal Region 43",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 744,
+    "TERRITORY_NAME": "West Region 44",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 745,
+    "TERRITORY_NAME": "West Region 45",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 746,
+    "TERRITORY_NAME": "East Region 46",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 747,
+    "TERRITORY_NAME": "Central Region 47",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 748,
+    "TERRITORY_NAME": "West Region 48",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 749,
+    "TERRITORY_NAME": "North Region 49",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 750,
+    "TERRITORY_NAME": "Plains Region 50",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 751,
+    "TERRITORY_NAME": "Mountain Region 51",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 752,
+    "TERRITORY_NAME": "Plains Region 52",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 753,
+    "TERRITORY_NAME": "Mountain Region 53",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 754,
+    "TERRITORY_NAME": "Plains Region 54",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 755,
+    "TERRITORY_NAME": "Mountain Region 55",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 756,
+    "TERRITORY_NAME": "West Region 56",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 757,
+    "TERRITORY_NAME": "South Region 57",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 758,
+    "TERRITORY_NAME": "East Region 58",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 759,
+    "TERRITORY_NAME": "South Region 59",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 760,
+    "TERRITORY_NAME": "West Region 60",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 761,
+    "TERRITORY_NAME": "Plains Region 61",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 762,
+    "TERRITORY_NAME": "Coastal Region 62",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 763,
+    "TERRITORY_NAME": "Mountain Region 63",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 764,
+    "TERRITORY_NAME": "West Region 64",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 765,
+    "TERRITORY_NAME": "Coastal Region 65",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 766,
+    "TERRITORY_NAME": "Central Region 66",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 767,
+    "TERRITORY_NAME": "South Region 67",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 768,
+    "TERRITORY_NAME": "North Region 68",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 769,
+    "TERRITORY_NAME": "Mountain Region 69",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 770,
+    "TERRITORY_NAME": "Mountain Region 70",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 771,
+    "TERRITORY_NAME": "Coastal Region 71",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 772,
+    "TERRITORY_NAME": "Central Region 72",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 773,
+    "TERRITORY_NAME": "Mountain Region 73",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 774,
+    "TERRITORY_NAME": "West Region 74",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 775,
+    "TERRITORY_NAME": "Mountain Region 75",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 776,
+    "TERRITORY_NAME": "North Region 76",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 777,
+    "TERRITORY_NAME": "Coastal Region 77",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 778,
+    "TERRITORY_NAME": "East Region 78",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 779,
+    "TERRITORY_NAME": "East Region 79",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 780,
+    "TERRITORY_NAME": "North Region 80",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 781,
+    "TERRITORY_NAME": "East Region 81",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 782,
+    "TERRITORY_NAME": "Plains Region 82",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 783,
+    "TERRITORY_NAME": "North Region 83",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 784,
+    "TERRITORY_NAME": "West Region 84",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 785,
+    "TERRITORY_NAME": "Coastal Region 85",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 786,
+    "TERRITORY_NAME": "Mountain Region 86",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 787,
+    "TERRITORY_NAME": "Mountain Region 87",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 788,
+    "TERRITORY_NAME": "East Region 88",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 789,
+    "TERRITORY_NAME": "East Region 89",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 790,
+    "TERRITORY_NAME": "Coastal Region 90",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 791,
+    "TERRITORY_NAME": "East Region 91",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 792,
+    "TERRITORY_NAME": "Plains Region 92",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 793,
+    "TERRITORY_NAME": "Central Region 93",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 794,
+    "TERRITORY_NAME": "Coastal Region 94",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 795,
+    "TERRITORY_NAME": "Coastal Region 95",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 796,
+    "TERRITORY_NAME": "North Region 96",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 797,
+    "TERRITORY_NAME": "North Region 97",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 798,
+    "TERRITORY_NAME": "North Region 98",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 799,
+    "TERRITORY_NAME": "Mountain Region 99",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 800,
+    "TERRITORY_NAME": "Mountain Region 0",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 801,
+    "TERRITORY_NAME": "East Region 1",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 802,
+    "TERRITORY_NAME": "South Region 2",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 803,
+    "TERRITORY_NAME": "Coastal Region 3",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 804,
+    "TERRITORY_NAME": "South Region 4",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 805,
+    "TERRITORY_NAME": "South Region 5",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 806,
+    "TERRITORY_NAME": "Plains Region 6",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 807,
+    "TERRITORY_NAME": "Mountain Region 7",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 808,
+    "TERRITORY_NAME": "Plains Region 8",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 809,
+    "TERRITORY_NAME": "North Region 9",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 810,
+    "TERRITORY_NAME": "Plains Region 10",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 811,
+    "TERRITORY_NAME": "Central Region 11",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 812,
+    "TERRITORY_NAME": "Coastal Region 12",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 813,
+    "TERRITORY_NAME": "Coastal Region 13",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 814,
+    "TERRITORY_NAME": "South Region 14",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 815,
+    "TERRITORY_NAME": "Plains Region 15",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 816,
+    "TERRITORY_NAME": "West Region 16",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 817,
+    "TERRITORY_NAME": "West Region 17",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 818,
+    "TERRITORY_NAME": "East Region 18",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 819,
+    "TERRITORY_NAME": "West Region 19",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 820,
+    "TERRITORY_NAME": "South Region 20",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 821,
+    "TERRITORY_NAME": "Central Region 21",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 822,
+    "TERRITORY_NAME": "South Region 22",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 823,
+    "TERRITORY_NAME": "West Region 23",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 824,
+    "TERRITORY_NAME": "East Region 24",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 825,
+    "TERRITORY_NAME": "Coastal Region 25",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 826,
+    "TERRITORY_NAME": "Central Region 26",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 827,
+    "TERRITORY_NAME": "Coastal Region 27",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 828,
+    "TERRITORY_NAME": "Coastal Region 28",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 829,
+    "TERRITORY_NAME": "North Region 29",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 830,
+    "TERRITORY_NAME": "North Region 30",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 831,
+    "TERRITORY_NAME": "East Region 31",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 832,
+    "TERRITORY_NAME": "East Region 32",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 833,
+    "TERRITORY_NAME": "West Region 33",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 834,
+    "TERRITORY_NAME": "Mountain Region 34",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 835,
+    "TERRITORY_NAME": "North Region 35",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 836,
+    "TERRITORY_NAME": "Plains Region 36",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 837,
+    "TERRITORY_NAME": "Coastal Region 37",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 838,
+    "TERRITORY_NAME": "Mountain Region 38",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 839,
+    "TERRITORY_NAME": "West Region 39",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 840,
+    "TERRITORY_NAME": "Central Region 40",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 841,
+    "TERRITORY_NAME": "Plains Region 41",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 842,
+    "TERRITORY_NAME": "Central Region 42",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 843,
+    "TERRITORY_NAME": "Coastal Region 43",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 844,
+    "TERRITORY_NAME": "East Region 44",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 845,
+    "TERRITORY_NAME": "Coastal Region 45",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 846,
+    "TERRITORY_NAME": "Plains Region 46",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 847,
+    "TERRITORY_NAME": "Coastal Region 47",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 848,
+    "TERRITORY_NAME": "Central Region 48",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 849,
+    "TERRITORY_NAME": "Coastal Region 49",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 850,
+    "TERRITORY_NAME": "North Region 50",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 851,
+    "TERRITORY_NAME": "East Region 51",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 852,
+    "TERRITORY_NAME": "West Region 52",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 853,
+    "TERRITORY_NAME": "South Region 53",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 854,
+    "TERRITORY_NAME": "Central Region 54",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 855,
+    "TERRITORY_NAME": "Coastal Region 55",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 856,
+    "TERRITORY_NAME": "Plains Region 56",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 857,
+    "TERRITORY_NAME": "South Region 57",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 858,
+    "TERRITORY_NAME": "East Region 58",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 859,
+    "TERRITORY_NAME": "West Region 59",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 860,
+    "TERRITORY_NAME": "West Region 60",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 861,
+    "TERRITORY_NAME": "West Region 61",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 862,
+    "TERRITORY_NAME": "East Region 62",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 863,
+    "TERRITORY_NAME": "North Region 63",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 864,
+    "TERRITORY_NAME": "Coastal Region 64",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 865,
+    "TERRITORY_NAME": "West Region 65",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 866,
+    "TERRITORY_NAME": "East Region 66",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 867,
+    "TERRITORY_NAME": "East Region 67",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 868,
+    "TERRITORY_NAME": "East Region 68",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 869,
+    "TERRITORY_NAME": "West Region 69",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 870,
+    "TERRITORY_NAME": "Mountain Region 70",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 871,
+    "TERRITORY_NAME": "Central Region 71",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 872,
+    "TERRITORY_NAME": "Mountain Region 72",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 873,
+    "TERRITORY_NAME": "Mountain Region 73",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 874,
+    "TERRITORY_NAME": "Mountain Region 74",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 875,
+    "TERRITORY_NAME": "Plains Region 75",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 876,
+    "TERRITORY_NAME": "East Region 76",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 877,
+    "TERRITORY_NAME": "North Region 77",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 878,
+    "TERRITORY_NAME": "Central Region 78",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 879,
+    "TERRITORY_NAME": "Central Region 79",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 880,
+    "TERRITORY_NAME": "South Region 80",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 881,
+    "TERRITORY_NAME": "Mountain Region 81",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 882,
+    "TERRITORY_NAME": "East Region 82",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 883,
+    "TERRITORY_NAME": "East Region 83",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 884,
+    "TERRITORY_NAME": "Mountain Region 84",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 885,
+    "TERRITORY_NAME": "Mountain Region 85",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 886,
+    "TERRITORY_NAME": "West Region 86",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 887,
+    "TERRITORY_NAME": "Coastal Region 87",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 888,
+    "TERRITORY_NAME": "West Region 88",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 889,
+    "TERRITORY_NAME": "East Region 89",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 890,
+    "TERRITORY_NAME": "South Region 90",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 891,
+    "TERRITORY_NAME": "East Region 91",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 892,
+    "TERRITORY_NAME": "Plains Region 92",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 893,
+    "TERRITORY_NAME": "Central Region 93",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 894,
+    "TERRITORY_NAME": "North Region 94",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 895,
+    "TERRITORY_NAME": "Central Region 95",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 896,
+    "TERRITORY_NAME": "South Region 96",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 897,
+    "TERRITORY_NAME": "Plains Region 97",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 898,
+    "TERRITORY_NAME": "Plains Region 98",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 899,
+    "TERRITORY_NAME": "South Region 99",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 900,
+    "TERRITORY_NAME": "Plains Region 0",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 901,
+    "TERRITORY_NAME": "South Region 1",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 902,
+    "TERRITORY_NAME": "Central Region 2",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 903,
+    "TERRITORY_NAME": "Mountain Region 3",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 904,
+    "TERRITORY_NAME": "South Region 4",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 905,
+    "TERRITORY_NAME": "Mountain Region 5",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 906,
+    "TERRITORY_NAME": "East Region 6",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 907,
+    "TERRITORY_NAME": "Central Region 7",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 908,
+    "TERRITORY_NAME": "South Region 8",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 909,
+    "TERRITORY_NAME": "Coastal Region 9",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 910,
+    "TERRITORY_NAME": "Plains Region 10",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 911,
+    "TERRITORY_NAME": "Mountain Region 11",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 912,
+    "TERRITORY_NAME": "South Region 12",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 913,
+    "TERRITORY_NAME": "Central Region 13",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 914,
+    "TERRITORY_NAME": "Coastal Region 14",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 915,
+    "TERRITORY_NAME": "Central Region 15",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 916,
+    "TERRITORY_NAME": "South Region 16",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 917,
+    "TERRITORY_NAME": "South Region 17",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 918,
+    "TERRITORY_NAME": "West Region 18",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 919,
+    "TERRITORY_NAME": "Plains Region 19",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 920,
+    "TERRITORY_NAME": "Mountain Region 20",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 921,
+    "TERRITORY_NAME": "South Region 21",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 922,
+    "TERRITORY_NAME": "Mountain Region 22",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 923,
+    "TERRITORY_NAME": "Mountain Region 23",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 924,
+    "TERRITORY_NAME": "South Region 24",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 925,
+    "TERRITORY_NAME": "South Region 25",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 926,
+    "TERRITORY_NAME": "South Region 26",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 927,
+    "TERRITORY_NAME": "West Region 27",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 928,
+    "TERRITORY_NAME": "Mountain Region 28",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 929,
+    "TERRITORY_NAME": "North Region 29",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 930,
+    "TERRITORY_NAME": "Plains Region 30",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 931,
+    "TERRITORY_NAME": "North Region 31",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 932,
+    "TERRITORY_NAME": "Mountain Region 32",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 933,
+    "TERRITORY_NAME": "West Region 33",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 934,
+    "TERRITORY_NAME": "East Region 34",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 935,
+    "TERRITORY_NAME": "Coastal Region 35",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 936,
+    "TERRITORY_NAME": "Central Region 36",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 937,
+    "TERRITORY_NAME": "North Region 37",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 938,
+    "TERRITORY_NAME": "Central Region 38",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 939,
+    "TERRITORY_NAME": "Coastal Region 39",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 940,
+    "TERRITORY_NAME": "West Region 40",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 941,
+    "TERRITORY_NAME": "Plains Region 41",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 942,
+    "TERRITORY_NAME": "Coastal Region 42",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 943,
+    "TERRITORY_NAME": "Central Region 43",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 944,
+    "TERRITORY_NAME": "West Region 44",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 945,
+    "TERRITORY_NAME": "Coastal Region 45",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 946,
+    "TERRITORY_NAME": "Coastal Region 46",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 947,
+    "TERRITORY_NAME": "Plains Region 47",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 948,
+    "TERRITORY_NAME": "Coastal Region 48",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 949,
+    "TERRITORY_NAME": "West Region 49",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 950,
+    "TERRITORY_NAME": "Central Region 50",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 951,
+    "TERRITORY_NAME": "South Region 51",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 952,
+    "TERRITORY_NAME": "Coastal Region 52",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 953,
+    "TERRITORY_NAME": "Plains Region 53",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 954,
+    "TERRITORY_NAME": "Mountain Region 54",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 955,
+    "TERRITORY_NAME": "Central Region 55",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 956,
+    "TERRITORY_NAME": "Coastal Region 56",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 957,
+    "TERRITORY_NAME": "Plains Region 57",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 958,
+    "TERRITORY_NAME": "East Region 58",
+    "REGION_ID": 3
+  },
+  {
+    "TERRITORY_ID": 959,
+    "TERRITORY_NAME": "Coastal Region 59",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 960,
+    "TERRITORY_NAME": "South Region 60",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 961,
+    "TERRITORY_NAME": "Central Region 61",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 962,
+    "TERRITORY_NAME": "Central Region 62",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 963,
+    "TERRITORY_NAME": "East Region 63",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 964,
+    "TERRITORY_NAME": "South Region 64",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 965,
+    "TERRITORY_NAME": "South Region 65",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 966,
+    "TERRITORY_NAME": "Mountain Region 66",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 967,
+    "TERRITORY_NAME": "East Region 67",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 968,
+    "TERRITORY_NAME": "Coastal Region 68",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 969,
+    "TERRITORY_NAME": "East Region 69",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 970,
+    "TERRITORY_NAME": "South Region 70",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 971,
+    "TERRITORY_NAME": "South Region 71",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 972,
+    "TERRITORY_NAME": "West Region 72",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 973,
+    "TERRITORY_NAME": "North Region 73",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 974,
+    "TERRITORY_NAME": "East Region 74",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 975,
+    "TERRITORY_NAME": "North Region 75",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 976,
+    "TERRITORY_NAME": "West Region 76",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 977,
+    "TERRITORY_NAME": "West Region 77",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 978,
+    "TERRITORY_NAME": "Plains Region 78",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 979,
+    "TERRITORY_NAME": "East Region 79",
+    "REGION_ID": 1
+  },
+  {
+    "TERRITORY_ID": 980,
+    "TERRITORY_NAME": "Central Region 80",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 981,
+    "TERRITORY_NAME": "North Region 81",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 982,
+    "TERRITORY_NAME": "Plains Region 82",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 983,
+    "TERRITORY_NAME": "Mountain Region 83",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 984,
+    "TERRITORY_NAME": "West Region 84",
+    "REGION_ID": 7
+  },
+  {
+    "TERRITORY_ID": 985,
+    "TERRITORY_NAME": "East Region 85",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 986,
+    "TERRITORY_NAME": "Mountain Region 86",
+    "REGION_ID": 10
+  },
+  {
+    "TERRITORY_ID": 987,
+    "TERRITORY_NAME": "Mountain Region 87",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 988,
+    "TERRITORY_NAME": "Coastal Region 88",
+    "REGION_ID": 5
+  },
+  {
+    "TERRITORY_ID": 989,
+    "TERRITORY_NAME": "Mountain Region 89",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 990,
+    "TERRITORY_NAME": "Coastal Region 90",
+    "REGION_ID": 4
+  },
+  {
+    "TERRITORY_ID": 991,
+    "TERRITORY_NAME": "Coastal Region 91",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 992,
+    "TERRITORY_NAME": "Coastal Region 92",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 993,
+    "TERRITORY_NAME": "East Region 93",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 994,
+    "TERRITORY_NAME": "West Region 94",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 995,
+    "TERRITORY_NAME": "East Region 95",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 996,
+    "TERRITORY_NAME": "Plains Region 96",
+    "REGION_ID": 9
+  },
+  {
+    "TERRITORY_ID": 997,
+    "TERRITORY_NAME": "Coastal Region 97",
+    "REGION_ID": 2
+  },
+  {
+    "TERRITORY_ID": 998,
+    "TERRITORY_NAME": "West Region 98",
+    "REGION_ID": 6
+  },
+  {
+    "TERRITORY_ID": 999,
+    "TERRITORY_NAME": "West Region 99",
+    "REGION_ID": 8
+  },
+  {
+    "TERRITORY_ID": 1000,
+    "TERRITORY_NAME": "Central Region 0",
+    "REGION_ID": 10
+  }
+]

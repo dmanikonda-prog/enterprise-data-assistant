@@ -1,0 +1,6002 @@
+[
+  {
+    "CHECK_ID": 1,
+    "RULE_NAME": "DQ_RULE_1",
+    "CHECK_DATE": "2022-05-01",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 2,
+    "RULE_NAME": "DQ_RULE_2",
+    "CHECK_DATE": "2022-01-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 3,
+    "RULE_NAME": "DQ_RULE_3",
+    "CHECK_DATE": "2022-07-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 4,
+    "RULE_NAME": "DQ_RULE_4",
+    "CHECK_DATE": "2023-10-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 5,
+    "RULE_NAME": "DQ_RULE_5",
+    "CHECK_DATE": "2022-03-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 6,
+    "RULE_NAME": "DQ_RULE_6",
+    "CHECK_DATE": "2022-01-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 7,
+    "RULE_NAME": "DQ_RULE_7",
+    "CHECK_DATE": "2023-10-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 8,
+    "RULE_NAME": "DQ_RULE_8",
+    "CHECK_DATE": "2023-02-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 9,
+    "RULE_NAME": "DQ_RULE_9",
+    "CHECK_DATE": "2023-07-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 10,
+    "RULE_NAME": "DQ_RULE_10",
+    "CHECK_DATE": "2023-03-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 11,
+    "RULE_NAME": "DQ_RULE_11",
+    "CHECK_DATE": "2023-01-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 12,
+    "RULE_NAME": "DQ_RULE_12",
+    "CHECK_DATE": "2022-04-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 13,
+    "RULE_NAME": "DQ_RULE_13",
+    "CHECK_DATE": "2023-08-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 14,
+    "RULE_NAME": "DQ_RULE_14",
+    "CHECK_DATE": "2023-07-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 15,
+    "RULE_NAME": "DQ_RULE_15",
+    "CHECK_DATE": "2023-10-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 16,
+    "RULE_NAME": "DQ_RULE_16",
+    "CHECK_DATE": "2022-03-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 17,
+    "RULE_NAME": "DQ_RULE_17",
+    "CHECK_DATE": "2022-12-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 18,
+    "RULE_NAME": "DQ_RULE_18",
+    "CHECK_DATE": "2022-02-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 19,
+    "RULE_NAME": "DQ_RULE_19",
+    "CHECK_DATE": "2023-02-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 20,
+    "RULE_NAME": "DQ_RULE_20",
+    "CHECK_DATE": "2023-12-01",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 21,
+    "RULE_NAME": "DQ_RULE_21",
+    "CHECK_DATE": "2023-09-14",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 22,
+    "RULE_NAME": "DQ_RULE_22",
+    "CHECK_DATE": "2022-03-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 23,
+    "RULE_NAME": "DQ_RULE_23",
+    "CHECK_DATE": "2023-09-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 24,
+    "RULE_NAME": "DQ_RULE_24",
+    "CHECK_DATE": "2023-11-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 25,
+    "RULE_NAME": "DQ_RULE_25",
+    "CHECK_DATE": "2023-07-23",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 26,
+    "RULE_NAME": "DQ_RULE_26",
+    "CHECK_DATE": "2023-08-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 27,
+    "RULE_NAME": "DQ_RULE_27",
+    "CHECK_DATE": "2023-01-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 28,
+    "RULE_NAME": "DQ_RULE_28",
+    "CHECK_DATE": "2023-12-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 29,
+    "RULE_NAME": "DQ_RULE_29",
+    "CHECK_DATE": "2022-12-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 30,
+    "RULE_NAME": "DQ_RULE_30",
+    "CHECK_DATE": "2022-05-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 31,
+    "RULE_NAME": "DQ_RULE_31",
+    "CHECK_DATE": "2022-11-13",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 32,
+    "RULE_NAME": "DQ_RULE_32",
+    "CHECK_DATE": "2023-04-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 33,
+    "RULE_NAME": "DQ_RULE_33",
+    "CHECK_DATE": "2022-06-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 34,
+    "RULE_NAME": "DQ_RULE_34",
+    "CHECK_DATE": "2023-03-31",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 35,
+    "RULE_NAME": "DQ_RULE_35",
+    "CHECK_DATE": "2023-03-02",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 36,
+    "RULE_NAME": "DQ_RULE_36",
+    "CHECK_DATE": "2023-01-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 37,
+    "RULE_NAME": "DQ_RULE_37",
+    "CHECK_DATE": "2023-08-01",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 38,
+    "RULE_NAME": "DQ_RULE_38",
+    "CHECK_DATE": "2022-03-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 39,
+    "RULE_NAME": "DQ_RULE_39",
+    "CHECK_DATE": "2022-05-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 40,
+    "RULE_NAME": "DQ_RULE_40",
+    "CHECK_DATE": "2023-05-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 41,
+    "RULE_NAME": "DQ_RULE_41",
+    "CHECK_DATE": "2023-05-21",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 42,
+    "RULE_NAME": "DQ_RULE_42",
+    "CHECK_DATE": "2022-04-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 43,
+    "RULE_NAME": "DQ_RULE_43",
+    "CHECK_DATE": "2023-08-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 44,
+    "RULE_NAME": "DQ_RULE_44",
+    "CHECK_DATE": "2022-06-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 45,
+    "RULE_NAME": "DQ_RULE_45",
+    "CHECK_DATE": "2023-09-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 46,
+    "RULE_NAME": "DQ_RULE_46",
+    "CHECK_DATE": "2023-04-01",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 47,
+    "RULE_NAME": "DQ_RULE_47",
+    "CHECK_DATE": "2023-04-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 48,
+    "RULE_NAME": "DQ_RULE_48",
+    "CHECK_DATE": "2022-03-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 49,
+    "RULE_NAME": "DQ_RULE_49",
+    "CHECK_DATE": "2023-10-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 50,
+    "RULE_NAME": "DQ_RULE_50",
+    "CHECK_DATE": "2023-05-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 51,
+    "RULE_NAME": "DQ_RULE_51",
+    "CHECK_DATE": "2023-05-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 52,
+    "RULE_NAME": "DQ_RULE_52",
+    "CHECK_DATE": "2023-05-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 53,
+    "RULE_NAME": "DQ_RULE_53",
+    "CHECK_DATE": "2022-10-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 54,
+    "RULE_NAME": "DQ_RULE_54",
+    "CHECK_DATE": "2023-10-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 55,
+    "RULE_NAME": "DQ_RULE_55",
+    "CHECK_DATE": "2022-04-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 56,
+    "RULE_NAME": "DQ_RULE_56",
+    "CHECK_DATE": "2023-02-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 57,
+    "RULE_NAME": "DQ_RULE_57",
+    "CHECK_DATE": "2022-02-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 58,
+    "RULE_NAME": "DQ_RULE_58",
+    "CHECK_DATE": "2023-03-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 59,
+    "RULE_NAME": "DQ_RULE_59",
+    "CHECK_DATE": "2022-04-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 60,
+    "RULE_NAME": "DQ_RULE_60",
+    "CHECK_DATE": "2022-09-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 61,
+    "RULE_NAME": "DQ_RULE_61",
+    "CHECK_DATE": "2023-01-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 62,
+    "RULE_NAME": "DQ_RULE_62",
+    "CHECK_DATE": "2022-05-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 63,
+    "RULE_NAME": "DQ_RULE_63",
+    "CHECK_DATE": "2023-02-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 64,
+    "RULE_NAME": "DQ_RULE_64",
+    "CHECK_DATE": "2022-09-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 65,
+    "RULE_NAME": "DQ_RULE_65",
+    "CHECK_DATE": "2022-06-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 66,
+    "RULE_NAME": "DQ_RULE_66",
+    "CHECK_DATE": "2022-04-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 67,
+    "RULE_NAME": "DQ_RULE_67",
+    "CHECK_DATE": "2022-04-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 68,
+    "RULE_NAME": "DQ_RULE_68",
+    "CHECK_DATE": "2022-07-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 69,
+    "RULE_NAME": "DQ_RULE_69",
+    "CHECK_DATE": "2022-05-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 70,
+    "RULE_NAME": "DQ_RULE_70",
+    "CHECK_DATE": "2023-06-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 71,
+    "RULE_NAME": "DQ_RULE_71",
+    "CHECK_DATE": "2022-01-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 72,
+    "RULE_NAME": "DQ_RULE_72",
+    "CHECK_DATE": "2022-01-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 73,
+    "RULE_NAME": "DQ_RULE_73",
+    "CHECK_DATE": "2023-12-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 74,
+    "RULE_NAME": "DQ_RULE_74",
+    "CHECK_DATE": "2023-01-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 75,
+    "RULE_NAME": "DQ_RULE_75",
+    "CHECK_DATE": "2023-08-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 76,
+    "RULE_NAME": "DQ_RULE_76",
+    "CHECK_DATE": "2022-03-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 77,
+    "RULE_NAME": "DQ_RULE_77",
+    "CHECK_DATE": "2022-05-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 78,
+    "RULE_NAME": "DQ_RULE_78",
+    "CHECK_DATE": "2022-06-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 79,
+    "RULE_NAME": "DQ_RULE_79",
+    "CHECK_DATE": "2023-10-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 80,
+    "RULE_NAME": "DQ_RULE_80",
+    "CHECK_DATE": "2022-09-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 81,
+    "RULE_NAME": "DQ_RULE_81",
+    "CHECK_DATE": "2022-11-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 82,
+    "RULE_NAME": "DQ_RULE_82",
+    "CHECK_DATE": "2022-11-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 83,
+    "RULE_NAME": "DQ_RULE_83",
+    "CHECK_DATE": "2023-01-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 84,
+    "RULE_NAME": "DQ_RULE_84",
+    "CHECK_DATE": "2022-02-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 85,
+    "RULE_NAME": "DQ_RULE_85",
+    "CHECK_DATE": "2022-06-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 86,
+    "RULE_NAME": "DQ_RULE_86",
+    "CHECK_DATE": "2022-01-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 87,
+    "RULE_NAME": "DQ_RULE_87",
+    "CHECK_DATE": "2023-10-29",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 88,
+    "RULE_NAME": "DQ_RULE_88",
+    "CHECK_DATE": "2022-02-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 89,
+    "RULE_NAME": "DQ_RULE_89",
+    "CHECK_DATE": "2022-07-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 90,
+    "RULE_NAME": "DQ_RULE_90",
+    "CHECK_DATE": "2022-08-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 91,
+    "RULE_NAME": "DQ_RULE_91",
+    "CHECK_DATE": "2022-05-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 92,
+    "RULE_NAME": "DQ_RULE_92",
+    "CHECK_DATE": "2022-06-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 93,
+    "RULE_NAME": "DQ_RULE_93",
+    "CHECK_DATE": "2022-05-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 94,
+    "RULE_NAME": "DQ_RULE_94",
+    "CHECK_DATE": "2022-10-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 95,
+    "RULE_NAME": "DQ_RULE_95",
+    "CHECK_DATE": "2022-06-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 96,
+    "RULE_NAME": "DQ_RULE_96",
+    "CHECK_DATE": "2022-01-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 97,
+    "RULE_NAME": "DQ_RULE_97",
+    "CHECK_DATE": "2022-03-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 98,
+    "RULE_NAME": "DQ_RULE_98",
+    "CHECK_DATE": "2023-07-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 99,
+    "RULE_NAME": "DQ_RULE_99",
+    "CHECK_DATE": "2022-11-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 100,
+    "RULE_NAME": "DQ_RULE_100",
+    "CHECK_DATE": "2022-09-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 101,
+    "RULE_NAME": "DQ_RULE_101",
+    "CHECK_DATE": "2023-09-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 102,
+    "RULE_NAME": "DQ_RULE_102",
+    "CHECK_DATE": "2023-04-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 103,
+    "RULE_NAME": "DQ_RULE_103",
+    "CHECK_DATE": "2022-02-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 104,
+    "RULE_NAME": "DQ_RULE_104",
+    "CHECK_DATE": "2023-05-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 105,
+    "RULE_NAME": "DQ_RULE_105",
+    "CHECK_DATE": "2022-09-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 106,
+    "RULE_NAME": "DQ_RULE_106",
+    "CHECK_DATE": "2023-10-31",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 107,
+    "RULE_NAME": "DQ_RULE_107",
+    "CHECK_DATE": "2023-06-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 108,
+    "RULE_NAME": "DQ_RULE_108",
+    "CHECK_DATE": "2022-02-08",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 109,
+    "RULE_NAME": "DQ_RULE_109",
+    "CHECK_DATE": "2023-07-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 110,
+    "RULE_NAME": "DQ_RULE_110",
+    "CHECK_DATE": "2022-04-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 111,
+    "RULE_NAME": "DQ_RULE_111",
+    "CHECK_DATE": "2023-09-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 112,
+    "RULE_NAME": "DQ_RULE_112",
+    "CHECK_DATE": "2023-06-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 113,
+    "RULE_NAME": "DQ_RULE_113",
+    "CHECK_DATE": "2023-11-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 114,
+    "RULE_NAME": "DQ_RULE_114",
+    "CHECK_DATE": "2022-09-29",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 115,
+    "RULE_NAME": "DQ_RULE_115",
+    "CHECK_DATE": "2022-05-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 116,
+    "RULE_NAME": "DQ_RULE_116",
+    "CHECK_DATE": "2023-09-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 117,
+    "RULE_NAME": "DQ_RULE_117",
+    "CHECK_DATE": "2022-09-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 118,
+    "RULE_NAME": "DQ_RULE_118",
+    "CHECK_DATE": "2023-02-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 119,
+    "RULE_NAME": "DQ_RULE_119",
+    "CHECK_DATE": "2023-04-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 120,
+    "RULE_NAME": "DQ_RULE_120",
+    "CHECK_DATE": "2023-08-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 121,
+    "RULE_NAME": "DQ_RULE_121",
+    "CHECK_DATE": "2022-03-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 122,
+    "RULE_NAME": "DQ_RULE_122",
+    "CHECK_DATE": "2023-12-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 123,
+    "RULE_NAME": "DQ_RULE_123",
+    "CHECK_DATE": "2022-10-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 124,
+    "RULE_NAME": "DQ_RULE_124",
+    "CHECK_DATE": "2022-12-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 125,
+    "RULE_NAME": "DQ_RULE_125",
+    "CHECK_DATE": "2023-04-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 126,
+    "RULE_NAME": "DQ_RULE_126",
+    "CHECK_DATE": "2023-11-13",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 127,
+    "RULE_NAME": "DQ_RULE_127",
+    "CHECK_DATE": "2022-06-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 128,
+    "RULE_NAME": "DQ_RULE_128",
+    "CHECK_DATE": "2022-05-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 129,
+    "RULE_NAME": "DQ_RULE_129",
+    "CHECK_DATE": "2022-07-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 130,
+    "RULE_NAME": "DQ_RULE_130",
+    "CHECK_DATE": "2023-03-29",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 131,
+    "RULE_NAME": "DQ_RULE_131",
+    "CHECK_DATE": "2022-08-13",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 132,
+    "RULE_NAME": "DQ_RULE_132",
+    "CHECK_DATE": "2022-12-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 133,
+    "RULE_NAME": "DQ_RULE_133",
+    "CHECK_DATE": "2023-06-07",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 134,
+    "RULE_NAME": "DQ_RULE_134",
+    "CHECK_DATE": "2022-02-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 135,
+    "RULE_NAME": "DQ_RULE_135",
+    "CHECK_DATE": "2023-10-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 136,
+    "RULE_NAME": "DQ_RULE_136",
+    "CHECK_DATE": "2022-05-08",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 137,
+    "RULE_NAME": "DQ_RULE_137",
+    "CHECK_DATE": "2022-10-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 138,
+    "RULE_NAME": "DQ_RULE_138",
+    "CHECK_DATE": "2022-08-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 139,
+    "RULE_NAME": "DQ_RULE_139",
+    "CHECK_DATE": "2023-01-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 140,
+    "RULE_NAME": "DQ_RULE_140",
+    "CHECK_DATE": "2022-12-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 141,
+    "RULE_NAME": "DQ_RULE_141",
+    "CHECK_DATE": "2023-07-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 142,
+    "RULE_NAME": "DQ_RULE_142",
+    "CHECK_DATE": "2022-10-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 143,
+    "RULE_NAME": "DQ_RULE_143",
+    "CHECK_DATE": "2023-10-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 144,
+    "RULE_NAME": "DQ_RULE_144",
+    "CHECK_DATE": "2023-02-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 145,
+    "RULE_NAME": "DQ_RULE_145",
+    "CHECK_DATE": "2023-09-08",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 146,
+    "RULE_NAME": "DQ_RULE_146",
+    "CHECK_DATE": "2023-01-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 147,
+    "RULE_NAME": "DQ_RULE_147",
+    "CHECK_DATE": "2023-01-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 148,
+    "RULE_NAME": "DQ_RULE_148",
+    "CHECK_DATE": "2023-07-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 149,
+    "RULE_NAME": "DQ_RULE_149",
+    "CHECK_DATE": "2022-10-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 150,
+    "RULE_NAME": "DQ_RULE_150",
+    "CHECK_DATE": "2023-10-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 151,
+    "RULE_NAME": "DQ_RULE_151",
+    "CHECK_DATE": "2022-01-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 152,
+    "RULE_NAME": "DQ_RULE_152",
+    "CHECK_DATE": "2023-10-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 153,
+    "RULE_NAME": "DQ_RULE_153",
+    "CHECK_DATE": "2023-01-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 154,
+    "RULE_NAME": "DQ_RULE_154",
+    "CHECK_DATE": "2022-01-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 155,
+    "RULE_NAME": "DQ_RULE_155",
+    "CHECK_DATE": "2022-04-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 156,
+    "RULE_NAME": "DQ_RULE_156",
+    "CHECK_DATE": "2023-05-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 157,
+    "RULE_NAME": "DQ_RULE_157",
+    "CHECK_DATE": "2022-12-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 158,
+    "RULE_NAME": "DQ_RULE_158",
+    "CHECK_DATE": "2023-10-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 159,
+    "RULE_NAME": "DQ_RULE_159",
+    "CHECK_DATE": "2022-11-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 160,
+    "RULE_NAME": "DQ_RULE_160",
+    "CHECK_DATE": "2022-02-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 161,
+    "RULE_NAME": "DQ_RULE_161",
+    "CHECK_DATE": "2022-04-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 162,
+    "RULE_NAME": "DQ_RULE_162",
+    "CHECK_DATE": "2022-11-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 163,
+    "RULE_NAME": "DQ_RULE_163",
+    "CHECK_DATE": "2022-08-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 164,
+    "RULE_NAME": "DQ_RULE_164",
+    "CHECK_DATE": "2022-12-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 165,
+    "RULE_NAME": "DQ_RULE_165",
+    "CHECK_DATE": "2023-06-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 166,
+    "RULE_NAME": "DQ_RULE_166",
+    "CHECK_DATE": "2022-08-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 167,
+    "RULE_NAME": "DQ_RULE_167",
+    "CHECK_DATE": "2023-03-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 168,
+    "RULE_NAME": "DQ_RULE_168",
+    "CHECK_DATE": "2022-04-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 169,
+    "RULE_NAME": "DQ_RULE_169",
+    "CHECK_DATE": "2023-12-31",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 170,
+    "RULE_NAME": "DQ_RULE_170",
+    "CHECK_DATE": "2023-06-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 171,
+    "RULE_NAME": "DQ_RULE_171",
+    "CHECK_DATE": "2023-06-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 172,
+    "RULE_NAME": "DQ_RULE_172",
+    "CHECK_DATE": "2023-03-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 173,
+    "RULE_NAME": "DQ_RULE_173",
+    "CHECK_DATE": "2022-04-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 174,
+    "RULE_NAME": "DQ_RULE_174",
+    "CHECK_DATE": "2022-07-08",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 175,
+    "RULE_NAME": "DQ_RULE_175",
+    "CHECK_DATE": "2023-06-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 176,
+    "RULE_NAME": "DQ_RULE_176",
+    "CHECK_DATE": "2023-09-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 177,
+    "RULE_NAME": "DQ_RULE_177",
+    "CHECK_DATE": "2022-06-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 178,
+    "RULE_NAME": "DQ_RULE_178",
+    "CHECK_DATE": "2022-01-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 179,
+    "RULE_NAME": "DQ_RULE_179",
+    "CHECK_DATE": "2023-08-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 180,
+    "RULE_NAME": "DQ_RULE_180",
+    "CHECK_DATE": "2022-10-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 181,
+    "RULE_NAME": "DQ_RULE_181",
+    "CHECK_DATE": "2022-05-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 182,
+    "RULE_NAME": "DQ_RULE_182",
+    "CHECK_DATE": "2022-06-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 183,
+    "RULE_NAME": "DQ_RULE_183",
+    "CHECK_DATE": "2022-07-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 184,
+    "RULE_NAME": "DQ_RULE_184",
+    "CHECK_DATE": "2022-11-23",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 185,
+    "RULE_NAME": "DQ_RULE_185",
+    "CHECK_DATE": "2023-03-29",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 186,
+    "RULE_NAME": "DQ_RULE_186",
+    "CHECK_DATE": "2022-03-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 187,
+    "RULE_NAME": "DQ_RULE_187",
+    "CHECK_DATE": "2023-11-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 188,
+    "RULE_NAME": "DQ_RULE_188",
+    "CHECK_DATE": "2023-04-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 189,
+    "RULE_NAME": "DQ_RULE_189",
+    "CHECK_DATE": "2022-08-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 190,
+    "RULE_NAME": "DQ_RULE_190",
+    "CHECK_DATE": "2023-01-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 191,
+    "RULE_NAME": "DQ_RULE_191",
+    "CHECK_DATE": "2023-07-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 192,
+    "RULE_NAME": "DQ_RULE_192",
+    "CHECK_DATE": "2022-02-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 193,
+    "RULE_NAME": "DQ_RULE_193",
+    "CHECK_DATE": "2023-10-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 194,
+    "RULE_NAME": "DQ_RULE_194",
+    "CHECK_DATE": "2022-10-20",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 195,
+    "RULE_NAME": "DQ_RULE_195",
+    "CHECK_DATE": "2022-06-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 196,
+    "RULE_NAME": "DQ_RULE_196",
+    "CHECK_DATE": "2023-02-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 197,
+    "RULE_NAME": "DQ_RULE_197",
+    "CHECK_DATE": "2023-06-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 198,
+    "RULE_NAME": "DQ_RULE_198",
+    "CHECK_DATE": "2023-10-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 199,
+    "RULE_NAME": "DQ_RULE_199",
+    "CHECK_DATE": "2023-09-13",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 200,
+    "RULE_NAME": "DQ_RULE_200",
+    "CHECK_DATE": "2023-04-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 201,
+    "RULE_NAME": "DQ_RULE_201",
+    "CHECK_DATE": "2023-04-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 202,
+    "RULE_NAME": "DQ_RULE_202",
+    "CHECK_DATE": "2023-11-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 203,
+    "RULE_NAME": "DQ_RULE_203",
+    "CHECK_DATE": "2023-04-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 204,
+    "RULE_NAME": "DQ_RULE_204",
+    "CHECK_DATE": "2022-04-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 205,
+    "RULE_NAME": "DQ_RULE_205",
+    "CHECK_DATE": "2022-12-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 206,
+    "RULE_NAME": "DQ_RULE_206",
+    "CHECK_DATE": "2022-11-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 207,
+    "RULE_NAME": "DQ_RULE_207",
+    "CHECK_DATE": "2023-10-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 208,
+    "RULE_NAME": "DQ_RULE_208",
+    "CHECK_DATE": "2022-11-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 209,
+    "RULE_NAME": "DQ_RULE_209",
+    "CHECK_DATE": "2022-07-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 210,
+    "RULE_NAME": "DQ_RULE_210",
+    "CHECK_DATE": "2023-04-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 211,
+    "RULE_NAME": "DQ_RULE_211",
+    "CHECK_DATE": "2022-10-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 212,
+    "RULE_NAME": "DQ_RULE_212",
+    "CHECK_DATE": "2023-10-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 213,
+    "RULE_NAME": "DQ_RULE_213",
+    "CHECK_DATE": "2023-11-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 214,
+    "RULE_NAME": "DQ_RULE_214",
+    "CHECK_DATE": "2022-02-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 215,
+    "RULE_NAME": "DQ_RULE_215",
+    "CHECK_DATE": "2022-11-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 216,
+    "RULE_NAME": "DQ_RULE_216",
+    "CHECK_DATE": "2022-09-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 217,
+    "RULE_NAME": "DQ_RULE_217",
+    "CHECK_DATE": "2023-03-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 218,
+    "RULE_NAME": "DQ_RULE_218",
+    "CHECK_DATE": "2023-03-01",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 219,
+    "RULE_NAME": "DQ_RULE_219",
+    "CHECK_DATE": "2022-08-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 220,
+    "RULE_NAME": "DQ_RULE_220",
+    "CHECK_DATE": "2023-01-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 221,
+    "RULE_NAME": "DQ_RULE_221",
+    "CHECK_DATE": "2023-01-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 222,
+    "RULE_NAME": "DQ_RULE_222",
+    "CHECK_DATE": "2022-05-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 223,
+    "RULE_NAME": "DQ_RULE_223",
+    "CHECK_DATE": "2022-05-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 224,
+    "RULE_NAME": "DQ_RULE_224",
+    "CHECK_DATE": "2023-12-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 225,
+    "RULE_NAME": "DQ_RULE_225",
+    "CHECK_DATE": "2023-04-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 226,
+    "RULE_NAME": "DQ_RULE_226",
+    "CHECK_DATE": "2022-08-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 227,
+    "RULE_NAME": "DQ_RULE_227",
+    "CHECK_DATE": "2023-03-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 228,
+    "RULE_NAME": "DQ_RULE_228",
+    "CHECK_DATE": "2023-03-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 229,
+    "RULE_NAME": "DQ_RULE_229",
+    "CHECK_DATE": "2022-02-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 230,
+    "RULE_NAME": "DQ_RULE_230",
+    "CHECK_DATE": "2022-09-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 231,
+    "RULE_NAME": "DQ_RULE_231",
+    "CHECK_DATE": "2022-10-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 232,
+    "RULE_NAME": "DQ_RULE_232",
+    "CHECK_DATE": "2022-06-23",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 233,
+    "RULE_NAME": "DQ_RULE_233",
+    "CHECK_DATE": "2022-05-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 234,
+    "RULE_NAME": "DQ_RULE_234",
+    "CHECK_DATE": "2022-11-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 235,
+    "RULE_NAME": "DQ_RULE_235",
+    "CHECK_DATE": "2022-09-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 236,
+    "RULE_NAME": "DQ_RULE_236",
+    "CHECK_DATE": "2023-11-29",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 237,
+    "RULE_NAME": "DQ_RULE_237",
+    "CHECK_DATE": "2022-11-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 238,
+    "RULE_NAME": "DQ_RULE_238",
+    "CHECK_DATE": "2022-01-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 239,
+    "RULE_NAME": "DQ_RULE_239",
+    "CHECK_DATE": "2023-06-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 240,
+    "RULE_NAME": "DQ_RULE_240",
+    "CHECK_DATE": "2023-09-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 241,
+    "RULE_NAME": "DQ_RULE_241",
+    "CHECK_DATE": "2022-08-21",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 242,
+    "RULE_NAME": "DQ_RULE_242",
+    "CHECK_DATE": "2023-08-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 243,
+    "RULE_NAME": "DQ_RULE_243",
+    "CHECK_DATE": "2023-09-21",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 244,
+    "RULE_NAME": "DQ_RULE_244",
+    "CHECK_DATE": "2023-03-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 245,
+    "RULE_NAME": "DQ_RULE_245",
+    "CHECK_DATE": "2023-10-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 246,
+    "RULE_NAME": "DQ_RULE_246",
+    "CHECK_DATE": "2023-07-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 247,
+    "RULE_NAME": "DQ_RULE_247",
+    "CHECK_DATE": "2022-06-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 248,
+    "RULE_NAME": "DQ_RULE_248",
+    "CHECK_DATE": "2022-04-01",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 249,
+    "RULE_NAME": "DQ_RULE_249",
+    "CHECK_DATE": "2023-04-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 250,
+    "RULE_NAME": "DQ_RULE_250",
+    "CHECK_DATE": "2022-04-14",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 251,
+    "RULE_NAME": "DQ_RULE_251",
+    "CHECK_DATE": "2022-10-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 252,
+    "RULE_NAME": "DQ_RULE_252",
+    "CHECK_DATE": "2023-09-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 253,
+    "RULE_NAME": "DQ_RULE_253",
+    "CHECK_DATE": "2023-09-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 254,
+    "RULE_NAME": "DQ_RULE_254",
+    "CHECK_DATE": "2022-06-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 255,
+    "RULE_NAME": "DQ_RULE_255",
+    "CHECK_DATE": "2022-07-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 256,
+    "RULE_NAME": "DQ_RULE_256",
+    "CHECK_DATE": "2023-04-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 257,
+    "RULE_NAME": "DQ_RULE_257",
+    "CHECK_DATE": "2023-02-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 258,
+    "RULE_NAME": "DQ_RULE_258",
+    "CHECK_DATE": "2022-06-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 259,
+    "RULE_NAME": "DQ_RULE_259",
+    "CHECK_DATE": "2022-08-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 260,
+    "RULE_NAME": "DQ_RULE_260",
+    "CHECK_DATE": "2023-10-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 261,
+    "RULE_NAME": "DQ_RULE_261",
+    "CHECK_DATE": "2023-05-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 262,
+    "RULE_NAME": "DQ_RULE_262",
+    "CHECK_DATE": "2023-11-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 263,
+    "RULE_NAME": "DQ_RULE_263",
+    "CHECK_DATE": "2023-01-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 264,
+    "RULE_NAME": "DQ_RULE_264",
+    "CHECK_DATE": "2022-06-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 265,
+    "RULE_NAME": "DQ_RULE_265",
+    "CHECK_DATE": "2023-08-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 266,
+    "RULE_NAME": "DQ_RULE_266",
+    "CHECK_DATE": "2023-05-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 267,
+    "RULE_NAME": "DQ_RULE_267",
+    "CHECK_DATE": "2022-11-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 268,
+    "RULE_NAME": "DQ_RULE_268",
+    "CHECK_DATE": "2022-06-01",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 269,
+    "RULE_NAME": "DQ_RULE_269",
+    "CHECK_DATE": "2023-03-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 270,
+    "RULE_NAME": "DQ_RULE_270",
+    "CHECK_DATE": "2023-09-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 271,
+    "RULE_NAME": "DQ_RULE_271",
+    "CHECK_DATE": "2022-06-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 272,
+    "RULE_NAME": "DQ_RULE_272",
+    "CHECK_DATE": "2022-09-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 273,
+    "RULE_NAME": "DQ_RULE_273",
+    "CHECK_DATE": "2023-10-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 274,
+    "RULE_NAME": "DQ_RULE_274",
+    "CHECK_DATE": "2023-07-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 275,
+    "RULE_NAME": "DQ_RULE_275",
+    "CHECK_DATE": "2022-09-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 276,
+    "RULE_NAME": "DQ_RULE_276",
+    "CHECK_DATE": "2022-01-21",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 277,
+    "RULE_NAME": "DQ_RULE_277",
+    "CHECK_DATE": "2022-03-21",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 278,
+    "RULE_NAME": "DQ_RULE_278",
+    "CHECK_DATE": "2022-03-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 279,
+    "RULE_NAME": "DQ_RULE_279",
+    "CHECK_DATE": "2023-07-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 280,
+    "RULE_NAME": "DQ_RULE_280",
+    "CHECK_DATE": "2023-08-29",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 281,
+    "RULE_NAME": "DQ_RULE_281",
+    "CHECK_DATE": "2023-05-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 282,
+    "RULE_NAME": "DQ_RULE_282",
+    "CHECK_DATE": "2023-09-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 283,
+    "RULE_NAME": "DQ_RULE_283",
+    "CHECK_DATE": "2023-09-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 284,
+    "RULE_NAME": "DQ_RULE_284",
+    "CHECK_DATE": "2022-08-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 285,
+    "RULE_NAME": "DQ_RULE_285",
+    "CHECK_DATE": "2022-01-17",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 286,
+    "RULE_NAME": "DQ_RULE_286",
+    "CHECK_DATE": "2022-04-23",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 287,
+    "RULE_NAME": "DQ_RULE_287",
+    "CHECK_DATE": "2023-03-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 288,
+    "RULE_NAME": "DQ_RULE_288",
+    "CHECK_DATE": "2023-09-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 289,
+    "RULE_NAME": "DQ_RULE_289",
+    "CHECK_DATE": "2022-11-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 290,
+    "RULE_NAME": "DQ_RULE_290",
+    "CHECK_DATE": "2023-07-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 291,
+    "RULE_NAME": "DQ_RULE_291",
+    "CHECK_DATE": "2023-09-17",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 292,
+    "RULE_NAME": "DQ_RULE_292",
+    "CHECK_DATE": "2022-06-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 293,
+    "RULE_NAME": "DQ_RULE_293",
+    "CHECK_DATE": "2023-09-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 294,
+    "RULE_NAME": "DQ_RULE_294",
+    "CHECK_DATE": "2022-08-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 295,
+    "RULE_NAME": "DQ_RULE_295",
+    "CHECK_DATE": "2022-06-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 296,
+    "RULE_NAME": "DQ_RULE_296",
+    "CHECK_DATE": "2023-10-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 297,
+    "RULE_NAME": "DQ_RULE_297",
+    "CHECK_DATE": "2023-04-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 298,
+    "RULE_NAME": "DQ_RULE_298",
+    "CHECK_DATE": "2023-07-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 299,
+    "RULE_NAME": "DQ_RULE_299",
+    "CHECK_DATE": "2022-08-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 300,
+    "RULE_NAME": "DQ_RULE_300",
+    "CHECK_DATE": "2023-02-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 301,
+    "RULE_NAME": "DQ_RULE_301",
+    "CHECK_DATE": "2022-04-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 302,
+    "RULE_NAME": "DQ_RULE_302",
+    "CHECK_DATE": "2022-03-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 303,
+    "RULE_NAME": "DQ_RULE_303",
+    "CHECK_DATE": "2022-08-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 304,
+    "RULE_NAME": "DQ_RULE_304",
+    "CHECK_DATE": "2022-03-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 305,
+    "RULE_NAME": "DQ_RULE_305",
+    "CHECK_DATE": "2023-11-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 306,
+    "RULE_NAME": "DQ_RULE_306",
+    "CHECK_DATE": "2022-10-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 307,
+    "RULE_NAME": "DQ_RULE_307",
+    "CHECK_DATE": "2022-03-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 308,
+    "RULE_NAME": "DQ_RULE_308",
+    "CHECK_DATE": "2023-01-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 309,
+    "RULE_NAME": "DQ_RULE_309",
+    "CHECK_DATE": "2023-12-01",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 310,
+    "RULE_NAME": "DQ_RULE_310",
+    "CHECK_DATE": "2022-02-02",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 311,
+    "RULE_NAME": "DQ_RULE_311",
+    "CHECK_DATE": "2023-09-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 312,
+    "RULE_NAME": "DQ_RULE_312",
+    "CHECK_DATE": "2023-10-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 313,
+    "RULE_NAME": "DQ_RULE_313",
+    "CHECK_DATE": "2023-07-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 314,
+    "RULE_NAME": "DQ_RULE_314",
+    "CHECK_DATE": "2022-07-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 315,
+    "RULE_NAME": "DQ_RULE_315",
+    "CHECK_DATE": "2022-06-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 316,
+    "RULE_NAME": "DQ_RULE_316",
+    "CHECK_DATE": "2023-02-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 317,
+    "RULE_NAME": "DQ_RULE_317",
+    "CHECK_DATE": "2022-11-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 318,
+    "RULE_NAME": "DQ_RULE_318",
+    "CHECK_DATE": "2022-07-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 319,
+    "RULE_NAME": "DQ_RULE_319",
+    "CHECK_DATE": "2023-10-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 320,
+    "RULE_NAME": "DQ_RULE_320",
+    "CHECK_DATE": "2023-02-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 321,
+    "RULE_NAME": "DQ_RULE_321",
+    "CHECK_DATE": "2023-12-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 322,
+    "RULE_NAME": "DQ_RULE_322",
+    "CHECK_DATE": "2023-10-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 323,
+    "RULE_NAME": "DQ_RULE_323",
+    "CHECK_DATE": "2022-11-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 324,
+    "RULE_NAME": "DQ_RULE_324",
+    "CHECK_DATE": "2023-01-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 325,
+    "RULE_NAME": "DQ_RULE_325",
+    "CHECK_DATE": "2023-04-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 326,
+    "RULE_NAME": "DQ_RULE_326",
+    "CHECK_DATE": "2022-01-14",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 327,
+    "RULE_NAME": "DQ_RULE_327",
+    "CHECK_DATE": "2022-05-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 328,
+    "RULE_NAME": "DQ_RULE_328",
+    "CHECK_DATE": "2023-02-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 329,
+    "RULE_NAME": "DQ_RULE_329",
+    "CHECK_DATE": "2022-10-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 330,
+    "RULE_NAME": "DQ_RULE_330",
+    "CHECK_DATE": "2023-11-02",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 331,
+    "RULE_NAME": "DQ_RULE_331",
+    "CHECK_DATE": "2022-12-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 332,
+    "RULE_NAME": "DQ_RULE_332",
+    "CHECK_DATE": "2022-08-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 333,
+    "RULE_NAME": "DQ_RULE_333",
+    "CHECK_DATE": "2023-01-14",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 334,
+    "RULE_NAME": "DQ_RULE_334",
+    "CHECK_DATE": "2022-09-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 335,
+    "RULE_NAME": "DQ_RULE_335",
+    "CHECK_DATE": "2022-10-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 336,
+    "RULE_NAME": "DQ_RULE_336",
+    "CHECK_DATE": "2022-05-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 337,
+    "RULE_NAME": "DQ_RULE_337",
+    "CHECK_DATE": "2022-08-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 338,
+    "RULE_NAME": "DQ_RULE_338",
+    "CHECK_DATE": "2022-04-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 339,
+    "RULE_NAME": "DQ_RULE_339",
+    "CHECK_DATE": "2023-10-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 340,
+    "RULE_NAME": "DQ_RULE_340",
+    "CHECK_DATE": "2023-11-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 341,
+    "RULE_NAME": "DQ_RULE_341",
+    "CHECK_DATE": "2023-01-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 342,
+    "RULE_NAME": "DQ_RULE_342",
+    "CHECK_DATE": "2022-12-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 343,
+    "RULE_NAME": "DQ_RULE_343",
+    "CHECK_DATE": "2023-09-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 344,
+    "RULE_NAME": "DQ_RULE_344",
+    "CHECK_DATE": "2022-08-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 345,
+    "RULE_NAME": "DQ_RULE_345",
+    "CHECK_DATE": "2022-12-01",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 346,
+    "RULE_NAME": "DQ_RULE_346",
+    "CHECK_DATE": "2023-08-29",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 347,
+    "RULE_NAME": "DQ_RULE_347",
+    "CHECK_DATE": "2022-01-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 348,
+    "RULE_NAME": "DQ_RULE_348",
+    "CHECK_DATE": "2023-08-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 349,
+    "RULE_NAME": "DQ_RULE_349",
+    "CHECK_DATE": "2022-11-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 350,
+    "RULE_NAME": "DQ_RULE_350",
+    "CHECK_DATE": "2022-08-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 351,
+    "RULE_NAME": "DQ_RULE_351",
+    "CHECK_DATE": "2022-12-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 352,
+    "RULE_NAME": "DQ_RULE_352",
+    "CHECK_DATE": "2023-02-07",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 353,
+    "RULE_NAME": "DQ_RULE_353",
+    "CHECK_DATE": "2022-06-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 354,
+    "RULE_NAME": "DQ_RULE_354",
+    "CHECK_DATE": "2023-08-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 355,
+    "RULE_NAME": "DQ_RULE_355",
+    "CHECK_DATE": "2023-06-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 356,
+    "RULE_NAME": "DQ_RULE_356",
+    "CHECK_DATE": "2023-03-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 357,
+    "RULE_NAME": "DQ_RULE_357",
+    "CHECK_DATE": "2022-12-08",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 358,
+    "RULE_NAME": "DQ_RULE_358",
+    "CHECK_DATE": "2022-07-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 359,
+    "RULE_NAME": "DQ_RULE_359",
+    "CHECK_DATE": "2022-04-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 360,
+    "RULE_NAME": "DQ_RULE_360",
+    "CHECK_DATE": "2023-10-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 361,
+    "RULE_NAME": "DQ_RULE_361",
+    "CHECK_DATE": "2023-07-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 362,
+    "RULE_NAME": "DQ_RULE_362",
+    "CHECK_DATE": "2022-03-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 363,
+    "RULE_NAME": "DQ_RULE_363",
+    "CHECK_DATE": "2023-07-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 364,
+    "RULE_NAME": "DQ_RULE_364",
+    "CHECK_DATE": "2022-10-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 365,
+    "RULE_NAME": "DQ_RULE_365",
+    "CHECK_DATE": "2022-05-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 366,
+    "RULE_NAME": "DQ_RULE_366",
+    "CHECK_DATE": "2022-09-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 367,
+    "RULE_NAME": "DQ_RULE_367",
+    "CHECK_DATE": "2023-04-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 368,
+    "RULE_NAME": "DQ_RULE_368",
+    "CHECK_DATE": "2022-12-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 369,
+    "RULE_NAME": "DQ_RULE_369",
+    "CHECK_DATE": "2022-05-07",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 370,
+    "RULE_NAME": "DQ_RULE_370",
+    "CHECK_DATE": "2023-10-31",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 371,
+    "RULE_NAME": "DQ_RULE_371",
+    "CHECK_DATE": "2023-07-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 372,
+    "RULE_NAME": "DQ_RULE_372",
+    "CHECK_DATE": "2023-11-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 373,
+    "RULE_NAME": "DQ_RULE_373",
+    "CHECK_DATE": "2023-09-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 374,
+    "RULE_NAME": "DQ_RULE_374",
+    "CHECK_DATE": "2022-07-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 375,
+    "RULE_NAME": "DQ_RULE_375",
+    "CHECK_DATE": "2022-07-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 376,
+    "RULE_NAME": "DQ_RULE_376",
+    "CHECK_DATE": "2023-10-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 377,
+    "RULE_NAME": "DQ_RULE_377",
+    "CHECK_DATE": "2023-11-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 378,
+    "RULE_NAME": "DQ_RULE_378",
+    "CHECK_DATE": "2022-11-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 379,
+    "RULE_NAME": "DQ_RULE_379",
+    "CHECK_DATE": "2023-06-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 380,
+    "RULE_NAME": "DQ_RULE_380",
+    "CHECK_DATE": "2023-05-17",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 381,
+    "RULE_NAME": "DQ_RULE_381",
+    "CHECK_DATE": "2022-12-07",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 382,
+    "RULE_NAME": "DQ_RULE_382",
+    "CHECK_DATE": "2022-02-20",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 383,
+    "RULE_NAME": "DQ_RULE_383",
+    "CHECK_DATE": "2022-03-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 384,
+    "RULE_NAME": "DQ_RULE_384",
+    "CHECK_DATE": "2023-01-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 385,
+    "RULE_NAME": "DQ_RULE_385",
+    "CHECK_DATE": "2023-06-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 386,
+    "RULE_NAME": "DQ_RULE_386",
+    "CHECK_DATE": "2023-08-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 387,
+    "RULE_NAME": "DQ_RULE_387",
+    "CHECK_DATE": "2022-09-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 388,
+    "RULE_NAME": "DQ_RULE_388",
+    "CHECK_DATE": "2022-11-20",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 389,
+    "RULE_NAME": "DQ_RULE_389",
+    "CHECK_DATE": "2022-02-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 390,
+    "RULE_NAME": "DQ_RULE_390",
+    "CHECK_DATE": "2022-09-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 391,
+    "RULE_NAME": "DQ_RULE_391",
+    "CHECK_DATE": "2022-09-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 392,
+    "RULE_NAME": "DQ_RULE_392",
+    "CHECK_DATE": "2022-09-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 393,
+    "RULE_NAME": "DQ_RULE_393",
+    "CHECK_DATE": "2023-03-01",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 394,
+    "RULE_NAME": "DQ_RULE_394",
+    "CHECK_DATE": "2023-08-20",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 395,
+    "RULE_NAME": "DQ_RULE_395",
+    "CHECK_DATE": "2022-03-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 396,
+    "RULE_NAME": "DQ_RULE_396",
+    "CHECK_DATE": "2022-12-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 397,
+    "RULE_NAME": "DQ_RULE_397",
+    "CHECK_DATE": "2023-08-21",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 398,
+    "RULE_NAME": "DQ_RULE_398",
+    "CHECK_DATE": "2023-05-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 399,
+    "RULE_NAME": "DQ_RULE_399",
+    "CHECK_DATE": "2023-06-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 400,
+    "RULE_NAME": "DQ_RULE_400",
+    "CHECK_DATE": "2022-04-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 401,
+    "RULE_NAME": "DQ_RULE_401",
+    "CHECK_DATE": "2022-12-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 402,
+    "RULE_NAME": "DQ_RULE_402",
+    "CHECK_DATE": "2023-02-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 403,
+    "RULE_NAME": "DQ_RULE_403",
+    "CHECK_DATE": "2022-02-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 404,
+    "RULE_NAME": "DQ_RULE_404",
+    "CHECK_DATE": "2023-11-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 405,
+    "RULE_NAME": "DQ_RULE_405",
+    "CHECK_DATE": "2023-08-01",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 406,
+    "RULE_NAME": "DQ_RULE_406",
+    "CHECK_DATE": "2022-04-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 407,
+    "RULE_NAME": "DQ_RULE_407",
+    "CHECK_DATE": "2022-10-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 408,
+    "RULE_NAME": "DQ_RULE_408",
+    "CHECK_DATE": "2023-07-17",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 409,
+    "RULE_NAME": "DQ_RULE_409",
+    "CHECK_DATE": "2023-12-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 410,
+    "RULE_NAME": "DQ_RULE_410",
+    "CHECK_DATE": "2023-08-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 411,
+    "RULE_NAME": "DQ_RULE_411",
+    "CHECK_DATE": "2023-10-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 412,
+    "RULE_NAME": "DQ_RULE_412",
+    "CHECK_DATE": "2022-11-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 413,
+    "RULE_NAME": "DQ_RULE_413",
+    "CHECK_DATE": "2022-07-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 414,
+    "RULE_NAME": "DQ_RULE_414",
+    "CHECK_DATE": "2022-01-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 415,
+    "RULE_NAME": "DQ_RULE_415",
+    "CHECK_DATE": "2023-10-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 416,
+    "RULE_NAME": "DQ_RULE_416",
+    "CHECK_DATE": "2023-02-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 417,
+    "RULE_NAME": "DQ_RULE_417",
+    "CHECK_DATE": "2022-07-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 418,
+    "RULE_NAME": "DQ_RULE_418",
+    "CHECK_DATE": "2023-06-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 419,
+    "RULE_NAME": "DQ_RULE_419",
+    "CHECK_DATE": "2022-07-01",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 420,
+    "RULE_NAME": "DQ_RULE_420",
+    "CHECK_DATE": "2023-02-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 421,
+    "RULE_NAME": "DQ_RULE_421",
+    "CHECK_DATE": "2022-02-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 422,
+    "RULE_NAME": "DQ_RULE_422",
+    "CHECK_DATE": "2022-02-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 423,
+    "RULE_NAME": "DQ_RULE_423",
+    "CHECK_DATE": "2023-07-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 424,
+    "RULE_NAME": "DQ_RULE_424",
+    "CHECK_DATE": "2023-04-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 425,
+    "RULE_NAME": "DQ_RULE_425",
+    "CHECK_DATE": "2023-07-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 426,
+    "RULE_NAME": "DQ_RULE_426",
+    "CHECK_DATE": "2022-06-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 427,
+    "RULE_NAME": "DQ_RULE_427",
+    "CHECK_DATE": "2023-08-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 428,
+    "RULE_NAME": "DQ_RULE_428",
+    "CHECK_DATE": "2023-11-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 429,
+    "RULE_NAME": "DQ_RULE_429",
+    "CHECK_DATE": "2022-07-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 430,
+    "RULE_NAME": "DQ_RULE_430",
+    "CHECK_DATE": "2023-06-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 431,
+    "RULE_NAME": "DQ_RULE_431",
+    "CHECK_DATE": "2023-02-01",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 432,
+    "RULE_NAME": "DQ_RULE_432",
+    "CHECK_DATE": "2023-05-17",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 433,
+    "RULE_NAME": "DQ_RULE_433",
+    "CHECK_DATE": "2023-10-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 434,
+    "RULE_NAME": "DQ_RULE_434",
+    "CHECK_DATE": "2022-11-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 435,
+    "RULE_NAME": "DQ_RULE_435",
+    "CHECK_DATE": "2022-05-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 436,
+    "RULE_NAME": "DQ_RULE_436",
+    "CHECK_DATE": "2022-11-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 437,
+    "RULE_NAME": "DQ_RULE_437",
+    "CHECK_DATE": "2022-12-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 438,
+    "RULE_NAME": "DQ_RULE_438",
+    "CHECK_DATE": "2023-04-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 439,
+    "RULE_NAME": "DQ_RULE_439",
+    "CHECK_DATE": "2023-02-23",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 440,
+    "RULE_NAME": "DQ_RULE_440",
+    "CHECK_DATE": "2022-05-29",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 441,
+    "RULE_NAME": "DQ_RULE_441",
+    "CHECK_DATE": "2023-04-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 442,
+    "RULE_NAME": "DQ_RULE_442",
+    "CHECK_DATE": "2022-04-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 443,
+    "RULE_NAME": "DQ_RULE_443",
+    "CHECK_DATE": "2023-04-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 444,
+    "RULE_NAME": "DQ_RULE_444",
+    "CHECK_DATE": "2022-08-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 445,
+    "RULE_NAME": "DQ_RULE_445",
+    "CHECK_DATE": "2022-03-29",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 446,
+    "RULE_NAME": "DQ_RULE_446",
+    "CHECK_DATE": "2022-06-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 447,
+    "RULE_NAME": "DQ_RULE_447",
+    "CHECK_DATE": "2022-01-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 448,
+    "RULE_NAME": "DQ_RULE_448",
+    "CHECK_DATE": "2023-02-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 449,
+    "RULE_NAME": "DQ_RULE_449",
+    "CHECK_DATE": "2022-10-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 450,
+    "RULE_NAME": "DQ_RULE_450",
+    "CHECK_DATE": "2022-07-13",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 451,
+    "RULE_NAME": "DQ_RULE_451",
+    "CHECK_DATE": "2022-02-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 452,
+    "RULE_NAME": "DQ_RULE_452",
+    "CHECK_DATE": "2022-09-13",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 453,
+    "RULE_NAME": "DQ_RULE_453",
+    "CHECK_DATE": "2022-09-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 454,
+    "RULE_NAME": "DQ_RULE_454",
+    "CHECK_DATE": "2022-04-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 455,
+    "RULE_NAME": "DQ_RULE_455",
+    "CHECK_DATE": "2022-01-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 456,
+    "RULE_NAME": "DQ_RULE_456",
+    "CHECK_DATE": "2023-10-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 457,
+    "RULE_NAME": "DQ_RULE_457",
+    "CHECK_DATE": "2022-12-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 458,
+    "RULE_NAME": "DQ_RULE_458",
+    "CHECK_DATE": "2022-09-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 459,
+    "RULE_NAME": "DQ_RULE_459",
+    "CHECK_DATE": "2022-09-23",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 460,
+    "RULE_NAME": "DQ_RULE_460",
+    "CHECK_DATE": "2022-05-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 461,
+    "RULE_NAME": "DQ_RULE_461",
+    "CHECK_DATE": "2022-04-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 462,
+    "RULE_NAME": "DQ_RULE_462",
+    "CHECK_DATE": "2022-12-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 463,
+    "RULE_NAME": "DQ_RULE_463",
+    "CHECK_DATE": "2023-02-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 464,
+    "RULE_NAME": "DQ_RULE_464",
+    "CHECK_DATE": "2022-02-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 465,
+    "RULE_NAME": "DQ_RULE_465",
+    "CHECK_DATE": "2023-09-01",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 466,
+    "RULE_NAME": "DQ_RULE_466",
+    "CHECK_DATE": "2022-10-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 467,
+    "RULE_NAME": "DQ_RULE_467",
+    "CHECK_DATE": "2022-02-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 468,
+    "RULE_NAME": "DQ_RULE_468",
+    "CHECK_DATE": "2022-06-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 469,
+    "RULE_NAME": "DQ_RULE_469",
+    "CHECK_DATE": "2022-05-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 470,
+    "RULE_NAME": "DQ_RULE_470",
+    "CHECK_DATE": "2023-07-01",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 471,
+    "RULE_NAME": "DQ_RULE_471",
+    "CHECK_DATE": "2023-12-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 472,
+    "RULE_NAME": "DQ_RULE_472",
+    "CHECK_DATE": "2022-10-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 473,
+    "RULE_NAME": "DQ_RULE_473",
+    "CHECK_DATE": "2022-02-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 474,
+    "RULE_NAME": "DQ_RULE_474",
+    "CHECK_DATE": "2023-01-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 475,
+    "RULE_NAME": "DQ_RULE_475",
+    "CHECK_DATE": "2023-01-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 476,
+    "RULE_NAME": "DQ_RULE_476",
+    "CHECK_DATE": "2023-05-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 477,
+    "RULE_NAME": "DQ_RULE_477",
+    "CHECK_DATE": "2023-01-31",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 478,
+    "RULE_NAME": "DQ_RULE_478",
+    "CHECK_DATE": "2023-04-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 479,
+    "RULE_NAME": "DQ_RULE_479",
+    "CHECK_DATE": "2022-08-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 480,
+    "RULE_NAME": "DQ_RULE_480",
+    "CHECK_DATE": "2022-02-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 481,
+    "RULE_NAME": "DQ_RULE_481",
+    "CHECK_DATE": "2022-03-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 482,
+    "RULE_NAME": "DQ_RULE_482",
+    "CHECK_DATE": "2022-01-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 483,
+    "RULE_NAME": "DQ_RULE_483",
+    "CHECK_DATE": "2022-05-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 484,
+    "RULE_NAME": "DQ_RULE_484",
+    "CHECK_DATE": "2023-03-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 485,
+    "RULE_NAME": "DQ_RULE_485",
+    "CHECK_DATE": "2023-05-01",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 486,
+    "RULE_NAME": "DQ_RULE_486",
+    "CHECK_DATE": "2023-06-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 487,
+    "RULE_NAME": "DQ_RULE_487",
+    "CHECK_DATE": "2023-10-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 488,
+    "RULE_NAME": "DQ_RULE_488",
+    "CHECK_DATE": "2022-12-29",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 489,
+    "RULE_NAME": "DQ_RULE_489",
+    "CHECK_DATE": "2022-10-31",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 490,
+    "RULE_NAME": "DQ_RULE_490",
+    "CHECK_DATE": "2023-09-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 491,
+    "RULE_NAME": "DQ_RULE_491",
+    "CHECK_DATE": "2023-02-01",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 492,
+    "RULE_NAME": "DQ_RULE_492",
+    "CHECK_DATE": "2023-09-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 493,
+    "RULE_NAME": "DQ_RULE_493",
+    "CHECK_DATE": "2023-09-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 494,
+    "RULE_NAME": "DQ_RULE_494",
+    "CHECK_DATE": "2022-03-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 495,
+    "RULE_NAME": "DQ_RULE_495",
+    "CHECK_DATE": "2023-06-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 496,
+    "RULE_NAME": "DQ_RULE_496",
+    "CHECK_DATE": "2022-09-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 497,
+    "RULE_NAME": "DQ_RULE_497",
+    "CHECK_DATE": "2023-08-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 498,
+    "RULE_NAME": "DQ_RULE_498",
+    "CHECK_DATE": "2022-01-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 499,
+    "RULE_NAME": "DQ_RULE_499",
+    "CHECK_DATE": "2022-11-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 500,
+    "RULE_NAME": "DQ_RULE_500",
+    "CHECK_DATE": "2023-02-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 501,
+    "RULE_NAME": "DQ_RULE_501",
+    "CHECK_DATE": "2023-12-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 502,
+    "RULE_NAME": "DQ_RULE_502",
+    "CHECK_DATE": "2022-12-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 503,
+    "RULE_NAME": "DQ_RULE_503",
+    "CHECK_DATE": "2022-03-08",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 504,
+    "RULE_NAME": "DQ_RULE_504",
+    "CHECK_DATE": "2023-08-08",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 505,
+    "RULE_NAME": "DQ_RULE_505",
+    "CHECK_DATE": "2022-06-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 506,
+    "RULE_NAME": "DQ_RULE_506",
+    "CHECK_DATE": "2023-11-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 507,
+    "RULE_NAME": "DQ_RULE_507",
+    "CHECK_DATE": "2022-05-20",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 508,
+    "RULE_NAME": "DQ_RULE_508",
+    "CHECK_DATE": "2023-08-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 509,
+    "RULE_NAME": "DQ_RULE_509",
+    "CHECK_DATE": "2023-01-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 510,
+    "RULE_NAME": "DQ_RULE_510",
+    "CHECK_DATE": "2023-07-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 511,
+    "RULE_NAME": "DQ_RULE_511",
+    "CHECK_DATE": "2023-09-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 512,
+    "RULE_NAME": "DQ_RULE_512",
+    "CHECK_DATE": "2022-11-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 513,
+    "RULE_NAME": "DQ_RULE_513",
+    "CHECK_DATE": "2023-03-01",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 514,
+    "RULE_NAME": "DQ_RULE_514",
+    "CHECK_DATE": "2023-01-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 515,
+    "RULE_NAME": "DQ_RULE_515",
+    "CHECK_DATE": "2023-12-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 516,
+    "RULE_NAME": "DQ_RULE_516",
+    "CHECK_DATE": "2023-01-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 517,
+    "RULE_NAME": "DQ_RULE_517",
+    "CHECK_DATE": "2022-06-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 518,
+    "RULE_NAME": "DQ_RULE_518",
+    "CHECK_DATE": "2022-01-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 519,
+    "RULE_NAME": "DQ_RULE_519",
+    "CHECK_DATE": "2022-12-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 520,
+    "RULE_NAME": "DQ_RULE_520",
+    "CHECK_DATE": "2022-05-08",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 521,
+    "RULE_NAME": "DQ_RULE_521",
+    "CHECK_DATE": "2022-04-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 522,
+    "RULE_NAME": "DQ_RULE_522",
+    "CHECK_DATE": "2023-05-01",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 523,
+    "RULE_NAME": "DQ_RULE_523",
+    "CHECK_DATE": "2022-07-23",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 524,
+    "RULE_NAME": "DQ_RULE_524",
+    "CHECK_DATE": "2022-02-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 525,
+    "RULE_NAME": "DQ_RULE_525",
+    "CHECK_DATE": "2023-10-02",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 526,
+    "RULE_NAME": "DQ_RULE_526",
+    "CHECK_DATE": "2022-12-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 527,
+    "RULE_NAME": "DQ_RULE_527",
+    "CHECK_DATE": "2023-07-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 528,
+    "RULE_NAME": "DQ_RULE_528",
+    "CHECK_DATE": "2022-08-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 529,
+    "RULE_NAME": "DQ_RULE_529",
+    "CHECK_DATE": "2023-09-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 530,
+    "RULE_NAME": "DQ_RULE_530",
+    "CHECK_DATE": "2023-02-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 531,
+    "RULE_NAME": "DQ_RULE_531",
+    "CHECK_DATE": "2022-09-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 532,
+    "RULE_NAME": "DQ_RULE_532",
+    "CHECK_DATE": "2022-04-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 533,
+    "RULE_NAME": "DQ_RULE_533",
+    "CHECK_DATE": "2022-07-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 534,
+    "RULE_NAME": "DQ_RULE_534",
+    "CHECK_DATE": "2023-05-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 535,
+    "RULE_NAME": "DQ_RULE_535",
+    "CHECK_DATE": "2023-11-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 536,
+    "RULE_NAME": "DQ_RULE_536",
+    "CHECK_DATE": "2023-10-07",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 537,
+    "RULE_NAME": "DQ_RULE_537",
+    "CHECK_DATE": "2022-09-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 538,
+    "RULE_NAME": "DQ_RULE_538",
+    "CHECK_DATE": "2022-06-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 539,
+    "RULE_NAME": "DQ_RULE_539",
+    "CHECK_DATE": "2022-08-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 540,
+    "RULE_NAME": "DQ_RULE_540",
+    "CHECK_DATE": "2023-02-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 541,
+    "RULE_NAME": "DQ_RULE_541",
+    "CHECK_DATE": "2023-10-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 542,
+    "RULE_NAME": "DQ_RULE_542",
+    "CHECK_DATE": "2022-12-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 543,
+    "RULE_NAME": "DQ_RULE_543",
+    "CHECK_DATE": "2022-09-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 544,
+    "RULE_NAME": "DQ_RULE_544",
+    "CHECK_DATE": "2023-12-08",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 545,
+    "RULE_NAME": "DQ_RULE_545",
+    "CHECK_DATE": "2023-06-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 546,
+    "RULE_NAME": "DQ_RULE_546",
+    "CHECK_DATE": "2023-02-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 547,
+    "RULE_NAME": "DQ_RULE_547",
+    "CHECK_DATE": "2023-04-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 548,
+    "RULE_NAME": "DQ_RULE_548",
+    "CHECK_DATE": "2022-03-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 549,
+    "RULE_NAME": "DQ_RULE_549",
+    "CHECK_DATE": "2022-06-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 550,
+    "RULE_NAME": "DQ_RULE_550",
+    "CHECK_DATE": "2022-12-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 551,
+    "RULE_NAME": "DQ_RULE_551",
+    "CHECK_DATE": "2022-09-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 552,
+    "RULE_NAME": "DQ_RULE_552",
+    "CHECK_DATE": "2023-01-14",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 553,
+    "RULE_NAME": "DQ_RULE_553",
+    "CHECK_DATE": "2022-07-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 554,
+    "RULE_NAME": "DQ_RULE_554",
+    "CHECK_DATE": "2023-12-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 555,
+    "RULE_NAME": "DQ_RULE_555",
+    "CHECK_DATE": "2023-09-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 556,
+    "RULE_NAME": "DQ_RULE_556",
+    "CHECK_DATE": "2022-10-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 557,
+    "RULE_NAME": "DQ_RULE_557",
+    "CHECK_DATE": "2023-10-20",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 558,
+    "RULE_NAME": "DQ_RULE_558",
+    "CHECK_DATE": "2022-09-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 559,
+    "RULE_NAME": "DQ_RULE_559",
+    "CHECK_DATE": "2022-08-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 560,
+    "RULE_NAME": "DQ_RULE_560",
+    "CHECK_DATE": "2022-08-20",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 561,
+    "RULE_NAME": "DQ_RULE_561",
+    "CHECK_DATE": "2022-07-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 562,
+    "RULE_NAME": "DQ_RULE_562",
+    "CHECK_DATE": "2023-09-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 563,
+    "RULE_NAME": "DQ_RULE_563",
+    "CHECK_DATE": "2023-08-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 564,
+    "RULE_NAME": "DQ_RULE_564",
+    "CHECK_DATE": "2022-04-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 565,
+    "RULE_NAME": "DQ_RULE_565",
+    "CHECK_DATE": "2022-10-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 566,
+    "RULE_NAME": "DQ_RULE_566",
+    "CHECK_DATE": "2022-07-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 567,
+    "RULE_NAME": "DQ_RULE_567",
+    "CHECK_DATE": "2022-02-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 568,
+    "RULE_NAME": "DQ_RULE_568",
+    "CHECK_DATE": "2022-01-08",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 569,
+    "RULE_NAME": "DQ_RULE_569",
+    "CHECK_DATE": "2023-02-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 570,
+    "RULE_NAME": "DQ_RULE_570",
+    "CHECK_DATE": "2023-05-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 571,
+    "RULE_NAME": "DQ_RULE_571",
+    "CHECK_DATE": "2023-03-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 572,
+    "RULE_NAME": "DQ_RULE_572",
+    "CHECK_DATE": "2023-08-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 573,
+    "RULE_NAME": "DQ_RULE_573",
+    "CHECK_DATE": "2023-02-07",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 574,
+    "RULE_NAME": "DQ_RULE_574",
+    "CHECK_DATE": "2023-05-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 575,
+    "RULE_NAME": "DQ_RULE_575",
+    "CHECK_DATE": "2022-02-17",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 576,
+    "RULE_NAME": "DQ_RULE_576",
+    "CHECK_DATE": "2023-12-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 577,
+    "RULE_NAME": "DQ_RULE_577",
+    "CHECK_DATE": "2023-11-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 578,
+    "RULE_NAME": "DQ_RULE_578",
+    "CHECK_DATE": "2023-09-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 579,
+    "RULE_NAME": "DQ_RULE_579",
+    "CHECK_DATE": "2023-08-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 580,
+    "RULE_NAME": "DQ_RULE_580",
+    "CHECK_DATE": "2022-10-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 581,
+    "RULE_NAME": "DQ_RULE_581",
+    "CHECK_DATE": "2023-10-29",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 582,
+    "RULE_NAME": "DQ_RULE_582",
+    "CHECK_DATE": "2023-11-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 583,
+    "RULE_NAME": "DQ_RULE_583",
+    "CHECK_DATE": "2022-10-13",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 584,
+    "RULE_NAME": "DQ_RULE_584",
+    "CHECK_DATE": "2023-02-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 585,
+    "RULE_NAME": "DQ_RULE_585",
+    "CHECK_DATE": "2022-05-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 586,
+    "RULE_NAME": "DQ_RULE_586",
+    "CHECK_DATE": "2023-06-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 587,
+    "RULE_NAME": "DQ_RULE_587",
+    "CHECK_DATE": "2022-06-21",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 588,
+    "RULE_NAME": "DQ_RULE_588",
+    "CHECK_DATE": "2022-08-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 589,
+    "RULE_NAME": "DQ_RULE_589",
+    "CHECK_DATE": "2023-12-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 590,
+    "RULE_NAME": "DQ_RULE_590",
+    "CHECK_DATE": "2023-03-31",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 591,
+    "RULE_NAME": "DQ_RULE_591",
+    "CHECK_DATE": "2022-10-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 592,
+    "RULE_NAME": "DQ_RULE_592",
+    "CHECK_DATE": "2022-08-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 593,
+    "RULE_NAME": "DQ_RULE_593",
+    "CHECK_DATE": "2023-01-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 594,
+    "RULE_NAME": "DQ_RULE_594",
+    "CHECK_DATE": "2023-05-02",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 595,
+    "RULE_NAME": "DQ_RULE_595",
+    "CHECK_DATE": "2022-11-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 596,
+    "RULE_NAME": "DQ_RULE_596",
+    "CHECK_DATE": "2022-03-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 597,
+    "RULE_NAME": "DQ_RULE_597",
+    "CHECK_DATE": "2022-07-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 598,
+    "RULE_NAME": "DQ_RULE_598",
+    "CHECK_DATE": "2022-04-13",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 599,
+    "RULE_NAME": "DQ_RULE_599",
+    "CHECK_DATE": "2022-10-23",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 600,
+    "RULE_NAME": "DQ_RULE_600",
+    "CHECK_DATE": "2022-03-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 601,
+    "RULE_NAME": "DQ_RULE_601",
+    "CHECK_DATE": "2023-06-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 602,
+    "RULE_NAME": "DQ_RULE_602",
+    "CHECK_DATE": "2023-08-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 603,
+    "RULE_NAME": "DQ_RULE_603",
+    "CHECK_DATE": "2022-06-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 604,
+    "RULE_NAME": "DQ_RULE_604",
+    "CHECK_DATE": "2022-10-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 605,
+    "RULE_NAME": "DQ_RULE_605",
+    "CHECK_DATE": "2023-04-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 606,
+    "RULE_NAME": "DQ_RULE_606",
+    "CHECK_DATE": "2022-08-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 607,
+    "RULE_NAME": "DQ_RULE_607",
+    "CHECK_DATE": "2023-05-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 608,
+    "RULE_NAME": "DQ_RULE_608",
+    "CHECK_DATE": "2022-09-08",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 609,
+    "RULE_NAME": "DQ_RULE_609",
+    "CHECK_DATE": "2022-08-17",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 610,
+    "RULE_NAME": "DQ_RULE_610",
+    "CHECK_DATE": "2023-12-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 611,
+    "RULE_NAME": "DQ_RULE_611",
+    "CHECK_DATE": "2022-07-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 612,
+    "RULE_NAME": "DQ_RULE_612",
+    "CHECK_DATE": "2023-08-13",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 613,
+    "RULE_NAME": "DQ_RULE_613",
+    "CHECK_DATE": "2022-11-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 614,
+    "RULE_NAME": "DQ_RULE_614",
+    "CHECK_DATE": "2022-02-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 615,
+    "RULE_NAME": "DQ_RULE_615",
+    "CHECK_DATE": "2023-03-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 616,
+    "RULE_NAME": "DQ_RULE_616",
+    "CHECK_DATE": "2022-08-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 617,
+    "RULE_NAME": "DQ_RULE_617",
+    "CHECK_DATE": "2022-06-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 618,
+    "RULE_NAME": "DQ_RULE_618",
+    "CHECK_DATE": "2023-07-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 619,
+    "RULE_NAME": "DQ_RULE_619",
+    "CHECK_DATE": "2022-04-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 620,
+    "RULE_NAME": "DQ_RULE_620",
+    "CHECK_DATE": "2022-02-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 621,
+    "RULE_NAME": "DQ_RULE_621",
+    "CHECK_DATE": "2022-03-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 622,
+    "RULE_NAME": "DQ_RULE_622",
+    "CHECK_DATE": "2022-03-23",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 623,
+    "RULE_NAME": "DQ_RULE_623",
+    "CHECK_DATE": "2022-02-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 624,
+    "RULE_NAME": "DQ_RULE_624",
+    "CHECK_DATE": "2023-08-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 625,
+    "RULE_NAME": "DQ_RULE_625",
+    "CHECK_DATE": "2023-03-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 626,
+    "RULE_NAME": "DQ_RULE_626",
+    "CHECK_DATE": "2023-04-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 627,
+    "RULE_NAME": "DQ_RULE_627",
+    "CHECK_DATE": "2022-03-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 628,
+    "RULE_NAME": "DQ_RULE_628",
+    "CHECK_DATE": "2023-03-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 629,
+    "RULE_NAME": "DQ_RULE_629",
+    "CHECK_DATE": "2023-07-29",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 630,
+    "RULE_NAME": "DQ_RULE_630",
+    "CHECK_DATE": "2022-08-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 631,
+    "RULE_NAME": "DQ_RULE_631",
+    "CHECK_DATE": "2022-05-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 632,
+    "RULE_NAME": "DQ_RULE_632",
+    "CHECK_DATE": "2023-09-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 633,
+    "RULE_NAME": "DQ_RULE_633",
+    "CHECK_DATE": "2023-07-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 634,
+    "RULE_NAME": "DQ_RULE_634",
+    "CHECK_DATE": "2022-08-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 635,
+    "RULE_NAME": "DQ_RULE_635",
+    "CHECK_DATE": "2023-02-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 636,
+    "RULE_NAME": "DQ_RULE_636",
+    "CHECK_DATE": "2022-07-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 637,
+    "RULE_NAME": "DQ_RULE_637",
+    "CHECK_DATE": "2022-09-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 638,
+    "RULE_NAME": "DQ_RULE_638",
+    "CHECK_DATE": "2022-10-20",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 639,
+    "RULE_NAME": "DQ_RULE_639",
+    "CHECK_DATE": "2023-11-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 640,
+    "RULE_NAME": "DQ_RULE_640",
+    "CHECK_DATE": "2022-03-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 641,
+    "RULE_NAME": "DQ_RULE_641",
+    "CHECK_DATE": "2022-11-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 642,
+    "RULE_NAME": "DQ_RULE_642",
+    "CHECK_DATE": "2023-10-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 643,
+    "RULE_NAME": "DQ_RULE_643",
+    "CHECK_DATE": "2022-04-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 644,
+    "RULE_NAME": "DQ_RULE_644",
+    "CHECK_DATE": "2022-02-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 645,
+    "RULE_NAME": "DQ_RULE_645",
+    "CHECK_DATE": "2022-12-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 646,
+    "RULE_NAME": "DQ_RULE_646",
+    "CHECK_DATE": "2022-05-29",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 647,
+    "RULE_NAME": "DQ_RULE_647",
+    "CHECK_DATE": "2023-06-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 648,
+    "RULE_NAME": "DQ_RULE_648",
+    "CHECK_DATE": "2022-06-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 649,
+    "RULE_NAME": "DQ_RULE_649",
+    "CHECK_DATE": "2022-04-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 650,
+    "RULE_NAME": "DQ_RULE_650",
+    "CHECK_DATE": "2022-10-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 651,
+    "RULE_NAME": "DQ_RULE_651",
+    "CHECK_DATE": "2023-01-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 652,
+    "RULE_NAME": "DQ_RULE_652",
+    "CHECK_DATE": "2023-05-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 653,
+    "RULE_NAME": "DQ_RULE_653",
+    "CHECK_DATE": "2023-10-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 654,
+    "RULE_NAME": "DQ_RULE_654",
+    "CHECK_DATE": "2023-09-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 655,
+    "RULE_NAME": "DQ_RULE_655",
+    "CHECK_DATE": "2023-05-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 656,
+    "RULE_NAME": "DQ_RULE_656",
+    "CHECK_DATE": "2022-08-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 657,
+    "RULE_NAME": "DQ_RULE_657",
+    "CHECK_DATE": "2022-10-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 658,
+    "RULE_NAME": "DQ_RULE_658",
+    "CHECK_DATE": "2022-07-20",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 659,
+    "RULE_NAME": "DQ_RULE_659",
+    "CHECK_DATE": "2022-04-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 660,
+    "RULE_NAME": "DQ_RULE_660",
+    "CHECK_DATE": "2022-06-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 661,
+    "RULE_NAME": "DQ_RULE_661",
+    "CHECK_DATE": "2023-09-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 662,
+    "RULE_NAME": "DQ_RULE_662",
+    "CHECK_DATE": "2023-03-07",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 663,
+    "RULE_NAME": "DQ_RULE_663",
+    "CHECK_DATE": "2023-01-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 664,
+    "RULE_NAME": "DQ_RULE_664",
+    "CHECK_DATE": "2023-02-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 665,
+    "RULE_NAME": "DQ_RULE_665",
+    "CHECK_DATE": "2023-11-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 666,
+    "RULE_NAME": "DQ_RULE_666",
+    "CHECK_DATE": "2022-08-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 667,
+    "RULE_NAME": "DQ_RULE_667",
+    "CHECK_DATE": "2023-03-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 668,
+    "RULE_NAME": "DQ_RULE_668",
+    "CHECK_DATE": "2023-02-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 669,
+    "RULE_NAME": "DQ_RULE_669",
+    "CHECK_DATE": "2022-02-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 670,
+    "RULE_NAME": "DQ_RULE_670",
+    "CHECK_DATE": "2022-06-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 671,
+    "RULE_NAME": "DQ_RULE_671",
+    "CHECK_DATE": "2023-09-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 672,
+    "RULE_NAME": "DQ_RULE_672",
+    "CHECK_DATE": "2022-12-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 673,
+    "RULE_NAME": "DQ_RULE_673",
+    "CHECK_DATE": "2022-01-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 674,
+    "RULE_NAME": "DQ_RULE_674",
+    "CHECK_DATE": "2022-04-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 675,
+    "RULE_NAME": "DQ_RULE_675",
+    "CHECK_DATE": "2023-03-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 676,
+    "RULE_NAME": "DQ_RULE_676",
+    "CHECK_DATE": "2022-04-21",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 677,
+    "RULE_NAME": "DQ_RULE_677",
+    "CHECK_DATE": "2023-03-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 678,
+    "RULE_NAME": "DQ_RULE_678",
+    "CHECK_DATE": "2023-08-07",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 679,
+    "RULE_NAME": "DQ_RULE_679",
+    "CHECK_DATE": "2022-12-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 680,
+    "RULE_NAME": "DQ_RULE_680",
+    "CHECK_DATE": "2022-06-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 681,
+    "RULE_NAME": "DQ_RULE_681",
+    "CHECK_DATE": "2023-03-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 682,
+    "RULE_NAME": "DQ_RULE_682",
+    "CHECK_DATE": "2023-03-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 683,
+    "RULE_NAME": "DQ_RULE_683",
+    "CHECK_DATE": "2023-02-23",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 684,
+    "RULE_NAME": "DQ_RULE_684",
+    "CHECK_DATE": "2022-10-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 685,
+    "RULE_NAME": "DQ_RULE_685",
+    "CHECK_DATE": "2022-07-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 686,
+    "RULE_NAME": "DQ_RULE_686",
+    "CHECK_DATE": "2022-03-31",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 687,
+    "RULE_NAME": "DQ_RULE_687",
+    "CHECK_DATE": "2023-07-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 688,
+    "RULE_NAME": "DQ_RULE_688",
+    "CHECK_DATE": "2022-08-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 689,
+    "RULE_NAME": "DQ_RULE_689",
+    "CHECK_DATE": "2022-02-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 690,
+    "RULE_NAME": "DQ_RULE_690",
+    "CHECK_DATE": "2022-02-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 691,
+    "RULE_NAME": "DQ_RULE_691",
+    "CHECK_DATE": "2023-05-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 692,
+    "RULE_NAME": "DQ_RULE_692",
+    "CHECK_DATE": "2022-04-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 693,
+    "RULE_NAME": "DQ_RULE_693",
+    "CHECK_DATE": "2022-12-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 694,
+    "RULE_NAME": "DQ_RULE_694",
+    "CHECK_DATE": "2023-01-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 695,
+    "RULE_NAME": "DQ_RULE_695",
+    "CHECK_DATE": "2023-03-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 696,
+    "RULE_NAME": "DQ_RULE_696",
+    "CHECK_DATE": "2022-06-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 697,
+    "RULE_NAME": "DQ_RULE_697",
+    "CHECK_DATE": "2022-05-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 698,
+    "RULE_NAME": "DQ_RULE_698",
+    "CHECK_DATE": "2022-06-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 699,
+    "RULE_NAME": "DQ_RULE_699",
+    "CHECK_DATE": "2023-11-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 700,
+    "RULE_NAME": "DQ_RULE_700",
+    "CHECK_DATE": "2023-12-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 701,
+    "RULE_NAME": "DQ_RULE_701",
+    "CHECK_DATE": "2023-01-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 702,
+    "RULE_NAME": "DQ_RULE_702",
+    "CHECK_DATE": "2022-12-31",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 703,
+    "RULE_NAME": "DQ_RULE_703",
+    "CHECK_DATE": "2022-05-01",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 704,
+    "RULE_NAME": "DQ_RULE_704",
+    "CHECK_DATE": "2023-08-14",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 705,
+    "RULE_NAME": "DQ_RULE_705",
+    "CHECK_DATE": "2023-03-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 706,
+    "RULE_NAME": "DQ_RULE_706",
+    "CHECK_DATE": "2022-10-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 707,
+    "RULE_NAME": "DQ_RULE_707",
+    "CHECK_DATE": "2022-10-01",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 708,
+    "RULE_NAME": "DQ_RULE_708",
+    "CHECK_DATE": "2022-12-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 709,
+    "RULE_NAME": "DQ_RULE_709",
+    "CHECK_DATE": "2022-04-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 710,
+    "RULE_NAME": "DQ_RULE_710",
+    "CHECK_DATE": "2023-01-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 711,
+    "RULE_NAME": "DQ_RULE_711",
+    "CHECK_DATE": "2023-11-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 712,
+    "RULE_NAME": "DQ_RULE_712",
+    "CHECK_DATE": "2022-09-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 713,
+    "RULE_NAME": "DQ_RULE_713",
+    "CHECK_DATE": "2023-08-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 714,
+    "RULE_NAME": "DQ_RULE_714",
+    "CHECK_DATE": "2022-09-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 715,
+    "RULE_NAME": "DQ_RULE_715",
+    "CHECK_DATE": "2022-06-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 716,
+    "RULE_NAME": "DQ_RULE_716",
+    "CHECK_DATE": "2022-01-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 717,
+    "RULE_NAME": "DQ_RULE_717",
+    "CHECK_DATE": "2023-11-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 718,
+    "RULE_NAME": "DQ_RULE_718",
+    "CHECK_DATE": "2022-05-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 719,
+    "RULE_NAME": "DQ_RULE_719",
+    "CHECK_DATE": "2023-03-07",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 720,
+    "RULE_NAME": "DQ_RULE_720",
+    "CHECK_DATE": "2022-01-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 721,
+    "RULE_NAME": "DQ_RULE_721",
+    "CHECK_DATE": "2023-04-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 722,
+    "RULE_NAME": "DQ_RULE_722",
+    "CHECK_DATE": "2022-05-21",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 723,
+    "RULE_NAME": "DQ_RULE_723",
+    "CHECK_DATE": "2022-11-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 724,
+    "RULE_NAME": "DQ_RULE_724",
+    "CHECK_DATE": "2023-06-21",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 725,
+    "RULE_NAME": "DQ_RULE_725",
+    "CHECK_DATE": "2023-04-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 726,
+    "RULE_NAME": "DQ_RULE_726",
+    "CHECK_DATE": "2022-12-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 727,
+    "RULE_NAME": "DQ_RULE_727",
+    "CHECK_DATE": "2022-04-21",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 728,
+    "RULE_NAME": "DQ_RULE_728",
+    "CHECK_DATE": "2023-02-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 729,
+    "RULE_NAME": "DQ_RULE_729",
+    "CHECK_DATE": "2022-01-01",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 730,
+    "RULE_NAME": "DQ_RULE_730",
+    "CHECK_DATE": "2023-03-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 731,
+    "RULE_NAME": "DQ_RULE_731",
+    "CHECK_DATE": "2022-09-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 732,
+    "RULE_NAME": "DQ_RULE_732",
+    "CHECK_DATE": "2022-05-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 733,
+    "RULE_NAME": "DQ_RULE_733",
+    "CHECK_DATE": "2023-01-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 734,
+    "RULE_NAME": "DQ_RULE_734",
+    "CHECK_DATE": "2022-02-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 735,
+    "RULE_NAME": "DQ_RULE_735",
+    "CHECK_DATE": "2022-04-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 736,
+    "RULE_NAME": "DQ_RULE_736",
+    "CHECK_DATE": "2022-02-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 737,
+    "RULE_NAME": "DQ_RULE_737",
+    "CHECK_DATE": "2023-01-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 738,
+    "RULE_NAME": "DQ_RULE_738",
+    "CHECK_DATE": "2022-10-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 739,
+    "RULE_NAME": "DQ_RULE_739",
+    "CHECK_DATE": "2022-10-20",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 740,
+    "RULE_NAME": "DQ_RULE_740",
+    "CHECK_DATE": "2023-09-01",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 741,
+    "RULE_NAME": "DQ_RULE_741",
+    "CHECK_DATE": "2023-01-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 742,
+    "RULE_NAME": "DQ_RULE_742",
+    "CHECK_DATE": "2022-06-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 743,
+    "RULE_NAME": "DQ_RULE_743",
+    "CHECK_DATE": "2022-06-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 744,
+    "RULE_NAME": "DQ_RULE_744",
+    "CHECK_DATE": "2023-02-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 745,
+    "RULE_NAME": "DQ_RULE_745",
+    "CHECK_DATE": "2022-02-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 746,
+    "RULE_NAME": "DQ_RULE_746",
+    "CHECK_DATE": "2022-09-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 747,
+    "RULE_NAME": "DQ_RULE_747",
+    "CHECK_DATE": "2022-05-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 748,
+    "RULE_NAME": "DQ_RULE_748",
+    "CHECK_DATE": "2023-08-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 749,
+    "RULE_NAME": "DQ_RULE_749",
+    "CHECK_DATE": "2022-04-07",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 750,
+    "RULE_NAME": "DQ_RULE_750",
+    "CHECK_DATE": "2023-07-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 751,
+    "RULE_NAME": "DQ_RULE_751",
+    "CHECK_DATE": "2022-10-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 752,
+    "RULE_NAME": "DQ_RULE_752",
+    "CHECK_DATE": "2023-11-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 753,
+    "RULE_NAME": "DQ_RULE_753",
+    "CHECK_DATE": "2022-03-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 754,
+    "RULE_NAME": "DQ_RULE_754",
+    "CHECK_DATE": "2023-02-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 755,
+    "RULE_NAME": "DQ_RULE_755",
+    "CHECK_DATE": "2022-07-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 756,
+    "RULE_NAME": "DQ_RULE_756",
+    "CHECK_DATE": "2022-05-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 757,
+    "RULE_NAME": "DQ_RULE_757",
+    "CHECK_DATE": "2022-10-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 758,
+    "RULE_NAME": "DQ_RULE_758",
+    "CHECK_DATE": "2023-01-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 759,
+    "RULE_NAME": "DQ_RULE_759",
+    "CHECK_DATE": "2023-07-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 760,
+    "RULE_NAME": "DQ_RULE_760",
+    "CHECK_DATE": "2023-07-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 761,
+    "RULE_NAME": "DQ_RULE_761",
+    "CHECK_DATE": "2023-04-20",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 762,
+    "RULE_NAME": "DQ_RULE_762",
+    "CHECK_DATE": "2022-04-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 763,
+    "RULE_NAME": "DQ_RULE_763",
+    "CHECK_DATE": "2023-02-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 764,
+    "RULE_NAME": "DQ_RULE_764",
+    "CHECK_DATE": "2022-07-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 765,
+    "RULE_NAME": "DQ_RULE_765",
+    "CHECK_DATE": "2022-05-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 766,
+    "RULE_NAME": "DQ_RULE_766",
+    "CHECK_DATE": "2023-10-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 767,
+    "RULE_NAME": "DQ_RULE_767",
+    "CHECK_DATE": "2022-03-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 768,
+    "RULE_NAME": "DQ_RULE_768",
+    "CHECK_DATE": "2023-11-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 769,
+    "RULE_NAME": "DQ_RULE_769",
+    "CHECK_DATE": "2022-09-20",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 770,
+    "RULE_NAME": "DQ_RULE_770",
+    "CHECK_DATE": "2023-07-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 771,
+    "RULE_NAME": "DQ_RULE_771",
+    "CHECK_DATE": "2022-02-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 772,
+    "RULE_NAME": "DQ_RULE_772",
+    "CHECK_DATE": "2023-03-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 773,
+    "RULE_NAME": "DQ_RULE_773",
+    "CHECK_DATE": "2022-11-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 774,
+    "RULE_NAME": "DQ_RULE_774",
+    "CHECK_DATE": "2022-04-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 775,
+    "RULE_NAME": "DQ_RULE_775",
+    "CHECK_DATE": "2022-12-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 776,
+    "RULE_NAME": "DQ_RULE_776",
+    "CHECK_DATE": "2022-11-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 777,
+    "RULE_NAME": "DQ_RULE_777",
+    "CHECK_DATE": "2022-05-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 778,
+    "RULE_NAME": "DQ_RULE_778",
+    "CHECK_DATE": "2022-03-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 779,
+    "RULE_NAME": "DQ_RULE_779",
+    "CHECK_DATE": "2023-02-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 780,
+    "RULE_NAME": "DQ_RULE_780",
+    "CHECK_DATE": "2023-07-02",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 781,
+    "RULE_NAME": "DQ_RULE_781",
+    "CHECK_DATE": "2023-06-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 782,
+    "RULE_NAME": "DQ_RULE_782",
+    "CHECK_DATE": "2022-05-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 783,
+    "RULE_NAME": "DQ_RULE_783",
+    "CHECK_DATE": "2023-06-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 784,
+    "RULE_NAME": "DQ_RULE_784",
+    "CHECK_DATE": "2023-10-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 785,
+    "RULE_NAME": "DQ_RULE_785",
+    "CHECK_DATE": "2023-06-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 786,
+    "RULE_NAME": "DQ_RULE_786",
+    "CHECK_DATE": "2022-11-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 787,
+    "RULE_NAME": "DQ_RULE_787",
+    "CHECK_DATE": "2022-12-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 788,
+    "RULE_NAME": "DQ_RULE_788",
+    "CHECK_DATE": "2023-08-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 789,
+    "RULE_NAME": "DQ_RULE_789",
+    "CHECK_DATE": "2023-05-20",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 790,
+    "RULE_NAME": "DQ_RULE_790",
+    "CHECK_DATE": "2022-12-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 791,
+    "RULE_NAME": "DQ_RULE_791",
+    "CHECK_DATE": "2022-01-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 792,
+    "RULE_NAME": "DQ_RULE_792",
+    "CHECK_DATE": "2023-02-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 793,
+    "RULE_NAME": "DQ_RULE_793",
+    "CHECK_DATE": "2022-11-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 794,
+    "RULE_NAME": "DQ_RULE_794",
+    "CHECK_DATE": "2023-05-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 795,
+    "RULE_NAME": "DQ_RULE_795",
+    "CHECK_DATE": "2023-06-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 796,
+    "RULE_NAME": "DQ_RULE_796",
+    "CHECK_DATE": "2022-04-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 797,
+    "RULE_NAME": "DQ_RULE_797",
+    "CHECK_DATE": "2023-09-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 798,
+    "RULE_NAME": "DQ_RULE_798",
+    "CHECK_DATE": "2022-01-23",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 799,
+    "RULE_NAME": "DQ_RULE_799",
+    "CHECK_DATE": "2022-06-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 800,
+    "RULE_NAME": "DQ_RULE_800",
+    "CHECK_DATE": "2022-04-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 801,
+    "RULE_NAME": "DQ_RULE_801",
+    "CHECK_DATE": "2023-07-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 802,
+    "RULE_NAME": "DQ_RULE_802",
+    "CHECK_DATE": "2023-08-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 803,
+    "RULE_NAME": "DQ_RULE_803",
+    "CHECK_DATE": "2022-11-07",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 804,
+    "RULE_NAME": "DQ_RULE_804",
+    "CHECK_DATE": "2022-12-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 805,
+    "RULE_NAME": "DQ_RULE_805",
+    "CHECK_DATE": "2023-10-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 806,
+    "RULE_NAME": "DQ_RULE_806",
+    "CHECK_DATE": "2022-06-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 807,
+    "RULE_NAME": "DQ_RULE_807",
+    "CHECK_DATE": "2022-11-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 808,
+    "RULE_NAME": "DQ_RULE_808",
+    "CHECK_DATE": "2022-11-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 809,
+    "RULE_NAME": "DQ_RULE_809",
+    "CHECK_DATE": "2023-02-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 810,
+    "RULE_NAME": "DQ_RULE_810",
+    "CHECK_DATE": "2022-05-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 811,
+    "RULE_NAME": "DQ_RULE_811",
+    "CHECK_DATE": "2022-11-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 812,
+    "RULE_NAME": "DQ_RULE_812",
+    "CHECK_DATE": "2023-08-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 813,
+    "RULE_NAME": "DQ_RULE_813",
+    "CHECK_DATE": "2023-09-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 814,
+    "RULE_NAME": "DQ_RULE_814",
+    "CHECK_DATE": "2023-05-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 815,
+    "RULE_NAME": "DQ_RULE_815",
+    "CHECK_DATE": "2022-03-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 816,
+    "RULE_NAME": "DQ_RULE_816",
+    "CHECK_DATE": "2022-03-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 817,
+    "RULE_NAME": "DQ_RULE_817",
+    "CHECK_DATE": "2023-05-17",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 818,
+    "RULE_NAME": "DQ_RULE_818",
+    "CHECK_DATE": "2023-07-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 819,
+    "RULE_NAME": "DQ_RULE_819",
+    "CHECK_DATE": "2023-01-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 820,
+    "RULE_NAME": "DQ_RULE_820",
+    "CHECK_DATE": "2023-12-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 821,
+    "RULE_NAME": "DQ_RULE_821",
+    "CHECK_DATE": "2022-01-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 822,
+    "RULE_NAME": "DQ_RULE_822",
+    "CHECK_DATE": "2022-10-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 823,
+    "RULE_NAME": "DQ_RULE_823",
+    "CHECK_DATE": "2023-03-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 824,
+    "RULE_NAME": "DQ_RULE_824",
+    "CHECK_DATE": "2023-03-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 825,
+    "RULE_NAME": "DQ_RULE_825",
+    "CHECK_DATE": "2022-05-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 826,
+    "RULE_NAME": "DQ_RULE_826",
+    "CHECK_DATE": "2022-10-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 827,
+    "RULE_NAME": "DQ_RULE_827",
+    "CHECK_DATE": "2023-08-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 828,
+    "RULE_NAME": "DQ_RULE_828",
+    "CHECK_DATE": "2022-09-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 829,
+    "RULE_NAME": "DQ_RULE_829",
+    "CHECK_DATE": "2022-02-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 830,
+    "RULE_NAME": "DQ_RULE_830",
+    "CHECK_DATE": "2022-12-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 831,
+    "RULE_NAME": "DQ_RULE_831",
+    "CHECK_DATE": "2022-09-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 832,
+    "RULE_NAME": "DQ_RULE_832",
+    "CHECK_DATE": "2023-12-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 833,
+    "RULE_NAME": "DQ_RULE_833",
+    "CHECK_DATE": "2023-10-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 834,
+    "RULE_NAME": "DQ_RULE_834",
+    "CHECK_DATE": "2022-03-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 835,
+    "RULE_NAME": "DQ_RULE_835",
+    "CHECK_DATE": "2023-11-13",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 836,
+    "RULE_NAME": "DQ_RULE_836",
+    "CHECK_DATE": "2023-06-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 837,
+    "RULE_NAME": "DQ_RULE_837",
+    "CHECK_DATE": "2023-05-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 838,
+    "RULE_NAME": "DQ_RULE_838",
+    "CHECK_DATE": "2023-02-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 839,
+    "RULE_NAME": "DQ_RULE_839",
+    "CHECK_DATE": "2022-11-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 840,
+    "RULE_NAME": "DQ_RULE_840",
+    "CHECK_DATE": "2023-06-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 841,
+    "RULE_NAME": "DQ_RULE_841",
+    "CHECK_DATE": "2023-02-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 842,
+    "RULE_NAME": "DQ_RULE_842",
+    "CHECK_DATE": "2023-05-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 843,
+    "RULE_NAME": "DQ_RULE_843",
+    "CHECK_DATE": "2023-01-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 844,
+    "RULE_NAME": "DQ_RULE_844",
+    "CHECK_DATE": "2022-02-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 845,
+    "RULE_NAME": "DQ_RULE_845",
+    "CHECK_DATE": "2022-01-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 846,
+    "RULE_NAME": "DQ_RULE_846",
+    "CHECK_DATE": "2023-09-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 847,
+    "RULE_NAME": "DQ_RULE_847",
+    "CHECK_DATE": "2023-05-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 848,
+    "RULE_NAME": "DQ_RULE_848",
+    "CHECK_DATE": "2023-02-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 849,
+    "RULE_NAME": "DQ_RULE_849",
+    "CHECK_DATE": "2022-02-12",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 850,
+    "RULE_NAME": "DQ_RULE_850",
+    "CHECK_DATE": "2023-12-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 851,
+    "RULE_NAME": "DQ_RULE_851",
+    "CHECK_DATE": "2022-01-02",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 852,
+    "RULE_NAME": "DQ_RULE_852",
+    "CHECK_DATE": "2022-10-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 853,
+    "RULE_NAME": "DQ_RULE_853",
+    "CHECK_DATE": "2023-06-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 854,
+    "RULE_NAME": "DQ_RULE_854",
+    "CHECK_DATE": "2023-12-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 855,
+    "RULE_NAME": "DQ_RULE_855",
+    "CHECK_DATE": "2022-11-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 856,
+    "RULE_NAME": "DQ_RULE_856",
+    "CHECK_DATE": "2022-10-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 857,
+    "RULE_NAME": "DQ_RULE_857",
+    "CHECK_DATE": "2022-02-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 858,
+    "RULE_NAME": "DQ_RULE_858",
+    "CHECK_DATE": "2022-09-01",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 859,
+    "RULE_NAME": "DQ_RULE_859",
+    "CHECK_DATE": "2022-03-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 860,
+    "RULE_NAME": "DQ_RULE_860",
+    "CHECK_DATE": "2022-04-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 861,
+    "RULE_NAME": "DQ_RULE_861",
+    "CHECK_DATE": "2023-08-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 862,
+    "RULE_NAME": "DQ_RULE_862",
+    "CHECK_DATE": "2022-01-15",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 863,
+    "RULE_NAME": "DQ_RULE_863",
+    "CHECK_DATE": "2023-06-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 864,
+    "RULE_NAME": "DQ_RULE_864",
+    "CHECK_DATE": "2022-09-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 865,
+    "RULE_NAME": "DQ_RULE_865",
+    "CHECK_DATE": "2023-06-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 866,
+    "RULE_NAME": "DQ_RULE_866",
+    "CHECK_DATE": "2022-04-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 867,
+    "RULE_NAME": "DQ_RULE_867",
+    "CHECK_DATE": "2023-02-01",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 868,
+    "RULE_NAME": "DQ_RULE_868",
+    "CHECK_DATE": "2022-09-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 869,
+    "RULE_NAME": "DQ_RULE_869",
+    "CHECK_DATE": "2023-02-08",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 870,
+    "RULE_NAME": "DQ_RULE_870",
+    "CHECK_DATE": "2023-05-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 871,
+    "RULE_NAME": "DQ_RULE_871",
+    "CHECK_DATE": "2022-03-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 872,
+    "RULE_NAME": "DQ_RULE_872",
+    "CHECK_DATE": "2023-09-22",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 873,
+    "RULE_NAME": "DQ_RULE_873",
+    "CHECK_DATE": "2022-03-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 874,
+    "RULE_NAME": "DQ_RULE_874",
+    "CHECK_DATE": "2023-03-10",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 875,
+    "RULE_NAME": "DQ_RULE_875",
+    "CHECK_DATE": "2022-03-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 876,
+    "RULE_NAME": "DQ_RULE_876",
+    "CHECK_DATE": "2023-01-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 877,
+    "RULE_NAME": "DQ_RULE_877",
+    "CHECK_DATE": "2023-04-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 878,
+    "RULE_NAME": "DQ_RULE_878",
+    "CHECK_DATE": "2022-11-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 879,
+    "RULE_NAME": "DQ_RULE_879",
+    "CHECK_DATE": "2022-08-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 880,
+    "RULE_NAME": "DQ_RULE_880",
+    "CHECK_DATE": "2022-11-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 881,
+    "RULE_NAME": "DQ_RULE_881",
+    "CHECK_DATE": "2022-11-07",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 882,
+    "RULE_NAME": "DQ_RULE_882",
+    "CHECK_DATE": "2022-03-26",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 883,
+    "RULE_NAME": "DQ_RULE_883",
+    "CHECK_DATE": "2022-09-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 884,
+    "RULE_NAME": "DQ_RULE_884",
+    "CHECK_DATE": "2022-04-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 885,
+    "RULE_NAME": "DQ_RULE_885",
+    "CHECK_DATE": "2022-05-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 886,
+    "RULE_NAME": "DQ_RULE_886",
+    "CHECK_DATE": "2022-03-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 887,
+    "RULE_NAME": "DQ_RULE_887",
+    "CHECK_DATE": "2022-03-02",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 888,
+    "RULE_NAME": "DQ_RULE_888",
+    "CHECK_DATE": "2022-05-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 889,
+    "RULE_NAME": "DQ_RULE_889",
+    "CHECK_DATE": "2023-02-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 890,
+    "RULE_NAME": "DQ_RULE_890",
+    "CHECK_DATE": "2022-07-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 891,
+    "RULE_NAME": "DQ_RULE_891",
+    "CHECK_DATE": "2023-09-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 892,
+    "RULE_NAME": "DQ_RULE_892",
+    "CHECK_DATE": "2022-09-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 893,
+    "RULE_NAME": "DQ_RULE_893",
+    "CHECK_DATE": "2023-10-12",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 894,
+    "RULE_NAME": "DQ_RULE_894",
+    "CHECK_DATE": "2023-11-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 895,
+    "RULE_NAME": "DQ_RULE_895",
+    "CHECK_DATE": "2022-01-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 896,
+    "RULE_NAME": "DQ_RULE_896",
+    "CHECK_DATE": "2022-12-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 897,
+    "RULE_NAME": "DQ_RULE_897",
+    "CHECK_DATE": "2023-06-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 898,
+    "RULE_NAME": "DQ_RULE_898",
+    "CHECK_DATE": "2022-05-17",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 899,
+    "RULE_NAME": "DQ_RULE_899",
+    "CHECK_DATE": "2022-04-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 900,
+    "RULE_NAME": "DQ_RULE_900",
+    "CHECK_DATE": "2023-08-09",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 901,
+    "RULE_NAME": "DQ_RULE_901",
+    "CHECK_DATE": "2022-02-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 902,
+    "RULE_NAME": "DQ_RULE_902",
+    "CHECK_DATE": "2022-04-29",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 903,
+    "RULE_NAME": "DQ_RULE_903",
+    "CHECK_DATE": "2022-04-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 904,
+    "RULE_NAME": "DQ_RULE_904",
+    "CHECK_DATE": "2023-02-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 905,
+    "RULE_NAME": "DQ_RULE_905",
+    "CHECK_DATE": "2022-05-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 906,
+    "RULE_NAME": "DQ_RULE_906",
+    "CHECK_DATE": "2023-11-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 907,
+    "RULE_NAME": "DQ_RULE_907",
+    "CHECK_DATE": "2022-01-19",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 908,
+    "RULE_NAME": "DQ_RULE_908",
+    "CHECK_DATE": "2022-08-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 909,
+    "RULE_NAME": "DQ_RULE_909",
+    "CHECK_DATE": "2022-06-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 910,
+    "RULE_NAME": "DQ_RULE_910",
+    "CHECK_DATE": "2022-04-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 911,
+    "RULE_NAME": "DQ_RULE_911",
+    "CHECK_DATE": "2023-10-17",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 912,
+    "RULE_NAME": "DQ_RULE_912",
+    "CHECK_DATE": "2023-04-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 913,
+    "RULE_NAME": "DQ_RULE_913",
+    "CHECK_DATE": "2022-09-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 914,
+    "RULE_NAME": "DQ_RULE_914",
+    "CHECK_DATE": "2023-05-26",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 915,
+    "RULE_NAME": "DQ_RULE_915",
+    "CHECK_DATE": "2023-07-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 916,
+    "RULE_NAME": "DQ_RULE_916",
+    "CHECK_DATE": "2023-09-24",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 917,
+    "RULE_NAME": "DQ_RULE_917",
+    "CHECK_DATE": "2022-01-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 918,
+    "RULE_NAME": "DQ_RULE_918",
+    "CHECK_DATE": "2022-05-23",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 919,
+    "RULE_NAME": "DQ_RULE_919",
+    "CHECK_DATE": "2023-06-21",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 920,
+    "RULE_NAME": "DQ_RULE_920",
+    "CHECK_DATE": "2022-06-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 921,
+    "RULE_NAME": "DQ_RULE_921",
+    "CHECK_DATE": "2022-06-04",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 922,
+    "RULE_NAME": "DQ_RULE_922",
+    "CHECK_DATE": "2023-02-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 923,
+    "RULE_NAME": "DQ_RULE_923",
+    "CHECK_DATE": "2023-02-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 924,
+    "RULE_NAME": "DQ_RULE_924",
+    "CHECK_DATE": "2022-09-05",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 925,
+    "RULE_NAME": "DQ_RULE_925",
+    "CHECK_DATE": "2023-12-27",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 926,
+    "RULE_NAME": "DQ_RULE_926",
+    "CHECK_DATE": "2023-11-25",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 927,
+    "RULE_NAME": "DQ_RULE_927",
+    "CHECK_DATE": "2022-11-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 928,
+    "RULE_NAME": "DQ_RULE_928",
+    "CHECK_DATE": "2022-10-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 929,
+    "RULE_NAME": "DQ_RULE_929",
+    "CHECK_DATE": "2022-08-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 930,
+    "RULE_NAME": "DQ_RULE_930",
+    "CHECK_DATE": "2023-04-20",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 931,
+    "RULE_NAME": "DQ_RULE_931",
+    "CHECK_DATE": "2022-05-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 932,
+    "RULE_NAME": "DQ_RULE_932",
+    "CHECK_DATE": "2023-05-10",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 933,
+    "RULE_NAME": "DQ_RULE_933",
+    "CHECK_DATE": "2022-04-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 934,
+    "RULE_NAME": "DQ_RULE_934",
+    "CHECK_DATE": "2023-11-22",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 935,
+    "RULE_NAME": "DQ_RULE_935",
+    "CHECK_DATE": "2022-09-06",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 936,
+    "RULE_NAME": "DQ_RULE_936",
+    "CHECK_DATE": "2022-11-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 937,
+    "RULE_NAME": "DQ_RULE_937",
+    "CHECK_DATE": "2023-10-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 938,
+    "RULE_NAME": "DQ_RULE_938",
+    "CHECK_DATE": "2022-01-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 939,
+    "RULE_NAME": "DQ_RULE_939",
+    "CHECK_DATE": "2023-11-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 940,
+    "RULE_NAME": "DQ_RULE_940",
+    "CHECK_DATE": "2023-06-03",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 941,
+    "RULE_NAME": "DQ_RULE_941",
+    "CHECK_DATE": "2023-10-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 942,
+    "RULE_NAME": "DQ_RULE_942",
+    "CHECK_DATE": "2023-02-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 943,
+    "RULE_NAME": "DQ_RULE_943",
+    "CHECK_DATE": "2023-11-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 944,
+    "RULE_NAME": "DQ_RULE_944",
+    "CHECK_DATE": "2022-02-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 945,
+    "RULE_NAME": "DQ_RULE_945",
+    "CHECK_DATE": "2023-12-16",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 946,
+    "RULE_NAME": "DQ_RULE_946",
+    "CHECK_DATE": "2022-06-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 947,
+    "RULE_NAME": "DQ_RULE_947",
+    "CHECK_DATE": "2022-10-17",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 948,
+    "RULE_NAME": "DQ_RULE_948",
+    "CHECK_DATE": "2023-07-28",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 949,
+    "RULE_NAME": "DQ_RULE_949",
+    "CHECK_DATE": "2022-07-21",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 950,
+    "RULE_NAME": "DQ_RULE_950",
+    "CHECK_DATE": "2023-01-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 951,
+    "RULE_NAME": "DQ_RULE_951",
+    "CHECK_DATE": "2023-02-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 952,
+    "RULE_NAME": "DQ_RULE_952",
+    "CHECK_DATE": "2022-06-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 953,
+    "RULE_NAME": "DQ_RULE_953",
+    "CHECK_DATE": "2023-10-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 954,
+    "RULE_NAME": "DQ_RULE_954",
+    "CHECK_DATE": "2022-07-16",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 955,
+    "RULE_NAME": "DQ_RULE_955",
+    "CHECK_DATE": "2023-03-27",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 956,
+    "RULE_NAME": "DQ_RULE_956",
+    "CHECK_DATE": "2022-04-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 957,
+    "RULE_NAME": "DQ_RULE_957",
+    "CHECK_DATE": "2023-10-23",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 958,
+    "RULE_NAME": "DQ_RULE_958",
+    "CHECK_DATE": "2022-02-02",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 959,
+    "RULE_NAME": "DQ_RULE_959",
+    "CHECK_DATE": "2023-01-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 960,
+    "RULE_NAME": "DQ_RULE_960",
+    "CHECK_DATE": "2023-09-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 961,
+    "RULE_NAME": "DQ_RULE_961",
+    "CHECK_DATE": "2022-10-24",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 962,
+    "RULE_NAME": "DQ_RULE_962",
+    "CHECK_DATE": "2022-02-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 963,
+    "RULE_NAME": "DQ_RULE_963",
+    "CHECK_DATE": "2023-05-19",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 964,
+    "RULE_NAME": "DQ_RULE_964",
+    "CHECK_DATE": "2023-01-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 965,
+    "RULE_NAME": "DQ_RULE_965",
+    "CHECK_DATE": "2023-02-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 966,
+    "RULE_NAME": "DQ_RULE_966",
+    "CHECK_DATE": "2022-09-08",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 967,
+    "RULE_NAME": "DQ_RULE_967",
+    "CHECK_DATE": "2023-09-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 968,
+    "RULE_NAME": "DQ_RULE_968",
+    "CHECK_DATE": "2022-10-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 969,
+    "RULE_NAME": "DQ_RULE_969",
+    "CHECK_DATE": "2023-03-31",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 970,
+    "RULE_NAME": "DQ_RULE_970",
+    "CHECK_DATE": "2023-03-09",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 971,
+    "RULE_NAME": "DQ_RULE_971",
+    "CHECK_DATE": "2023-06-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 972,
+    "RULE_NAME": "DQ_RULE_972",
+    "CHECK_DATE": "2022-11-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 973,
+    "RULE_NAME": "DQ_RULE_973",
+    "CHECK_DATE": "2023-09-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 974,
+    "RULE_NAME": "DQ_RULE_974",
+    "CHECK_DATE": "2022-07-02",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 975,
+    "RULE_NAME": "DQ_RULE_975",
+    "CHECK_DATE": "2022-10-23",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 976,
+    "RULE_NAME": "DQ_RULE_976",
+    "CHECK_DATE": "2023-02-05",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 977,
+    "RULE_NAME": "DQ_RULE_977",
+    "CHECK_DATE": "2023-10-13",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 978,
+    "RULE_NAME": "DQ_RULE_978",
+    "CHECK_DATE": "2023-03-06",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 979,
+    "RULE_NAME": "DQ_RULE_979",
+    "CHECK_DATE": "2022-05-08",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 980,
+    "RULE_NAME": "DQ_RULE_980",
+    "CHECK_DATE": "2022-12-25",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 981,
+    "RULE_NAME": "DQ_RULE_981",
+    "CHECK_DATE": "2022-09-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 982,
+    "RULE_NAME": "DQ_RULE_982",
+    "CHECK_DATE": "2022-09-18",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 983,
+    "RULE_NAME": "DQ_RULE_983",
+    "CHECK_DATE": "2022-04-30",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 984,
+    "RULE_NAME": "DQ_RULE_984",
+    "CHECK_DATE": "2023-12-28",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 985,
+    "RULE_NAME": "DQ_RULE_985",
+    "CHECK_DATE": "2022-02-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 986,
+    "RULE_NAME": "DQ_RULE_986",
+    "CHECK_DATE": "2022-01-02",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 987,
+    "RULE_NAME": "DQ_RULE_987",
+    "CHECK_DATE": "2022-03-11",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 988,
+    "RULE_NAME": "DQ_RULE_988",
+    "CHECK_DATE": "2023-07-11",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 989,
+    "RULE_NAME": "DQ_RULE_989",
+    "CHECK_DATE": "2023-01-02",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 990,
+    "RULE_NAME": "DQ_RULE_990",
+    "CHECK_DATE": "2023-12-13",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 991,
+    "RULE_NAME": "DQ_RULE_991",
+    "CHECK_DATE": "2022-09-18",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 992,
+    "RULE_NAME": "DQ_RULE_992",
+    "CHECK_DATE": "2022-07-04",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 993,
+    "RULE_NAME": "DQ_RULE_993",
+    "CHECK_DATE": "2023-04-07",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 994,
+    "RULE_NAME": "DQ_RULE_994",
+    "CHECK_DATE": "2022-06-03",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 995,
+    "RULE_NAME": "DQ_RULE_995",
+    "CHECK_DATE": "2022-03-21",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 996,
+    "RULE_NAME": "DQ_RULE_996",
+    "CHECK_DATE": "2023-06-30",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 997,
+    "RULE_NAME": "DQ_RULE_997",
+    "CHECK_DATE": "2023-04-14",
+    "PASS_FAIL": "FAIL"
+  },
+  {
+    "CHECK_ID": 998,
+    "RULE_NAME": "DQ_RULE_998",
+    "CHECK_DATE": "2022-11-15",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 999,
+    "RULE_NAME": "DQ_RULE_999",
+    "CHECK_DATE": "2023-07-31",
+    "PASS_FAIL": "PASS"
+  },
+  {
+    "CHECK_ID": 1000,
+    "RULE_NAME": "DQ_RULE_1000",
+    "CHECK_DATE": "2023-08-25",
+    "PASS_FAIL": "FAIL"
+  }
+]

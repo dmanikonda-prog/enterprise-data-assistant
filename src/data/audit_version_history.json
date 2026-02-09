@@ -1,0 +1,5002 @@
+[
+  {
+    "VERSION_ID": 1,
+    "SCHEMA_VERSION": "v1.3.0",
+    "RELEASE_DATE": "2022-04-01"
+  },
+  {
+    "VERSION_ID": 2,
+    "SCHEMA_VERSION": "v2.2.9",
+    "RELEASE_DATE": "2022-04-24"
+  },
+  {
+    "VERSION_ID": 3,
+    "SCHEMA_VERSION": "v3.8.9",
+    "RELEASE_DATE": "2022-01-21"
+  },
+  {
+    "VERSION_ID": 4,
+    "SCHEMA_VERSION": "v4.5.0",
+    "RELEASE_DATE": "2022-02-06"
+  },
+  {
+    "VERSION_ID": 5,
+    "SCHEMA_VERSION": "v5.6.0",
+    "RELEASE_DATE": "2023-07-01"
+  },
+  {
+    "VERSION_ID": 6,
+    "SCHEMA_VERSION": "v6.6.8",
+    "RELEASE_DATE": "2022-12-05"
+  },
+  {
+    "VERSION_ID": 7,
+    "SCHEMA_VERSION": "v7.0.5",
+    "RELEASE_DATE": "2022-08-13"
+  },
+  {
+    "VERSION_ID": 8,
+    "SCHEMA_VERSION": "v8.9.4",
+    "RELEASE_DATE": "2022-12-06"
+  },
+  {
+    "VERSION_ID": 9,
+    "SCHEMA_VERSION": "v9.8.0",
+    "RELEASE_DATE": "2023-12-17"
+  },
+  {
+    "VERSION_ID": 10,
+    "SCHEMA_VERSION": "v10.5.5",
+    "RELEASE_DATE": "2022-06-17"
+  },
+  {
+    "VERSION_ID": 11,
+    "SCHEMA_VERSION": "v11.7.5",
+    "RELEASE_DATE": "2022-09-06"
+  },
+  {
+    "VERSION_ID": 12,
+    "SCHEMA_VERSION": "v12.0.1",
+    "RELEASE_DATE": "2023-12-01"
+  },
+  {
+    "VERSION_ID": 13,
+    "SCHEMA_VERSION": "v13.9.6",
+    "RELEASE_DATE": "2023-01-20"
+  },
+  {
+    "VERSION_ID": 14,
+    "SCHEMA_VERSION": "v14.0.2",
+    "RELEASE_DATE": "2022-06-16"
+  },
+  {
+    "VERSION_ID": 15,
+    "SCHEMA_VERSION": "v15.3.9",
+    "RELEASE_DATE": "2023-08-19"
+  },
+  {
+    "VERSION_ID": 16,
+    "SCHEMA_VERSION": "v16.9.9",
+    "RELEASE_DATE": "2022-12-11"
+  },
+  {
+    "VERSION_ID": 17,
+    "SCHEMA_VERSION": "v17.3.2",
+    "RELEASE_DATE": "2023-06-25"
+  },
+  {
+    "VERSION_ID": 18,
+    "SCHEMA_VERSION": "v18.7.0",
+    "RELEASE_DATE": "2022-06-17"
+  },
+  {
+    "VERSION_ID": 19,
+    "SCHEMA_VERSION": "v19.1.0",
+    "RELEASE_DATE": "2023-05-01"
+  },
+  {
+    "VERSION_ID": 20,
+    "SCHEMA_VERSION": "v20.9.2",
+    "RELEASE_DATE": "2022-08-29"
+  },
+  {
+    "VERSION_ID": 21,
+    "SCHEMA_VERSION": "v21.8.5",
+    "RELEASE_DATE": "2023-06-03"
+  },
+  {
+    "VERSION_ID": 22,
+    "SCHEMA_VERSION": "v22.4.8",
+    "RELEASE_DATE": "2023-05-07"
+  },
+  {
+    "VERSION_ID": 23,
+    "SCHEMA_VERSION": "v23.1.3",
+    "RELEASE_DATE": "2022-03-28"
+  },
+  {
+    "VERSION_ID": 24,
+    "SCHEMA_VERSION": "v24.4.6",
+    "RELEASE_DATE": "2022-03-05"
+  },
+  {
+    "VERSION_ID": 25,
+    "SCHEMA_VERSION": "v25.9.3",
+    "RELEASE_DATE": "2023-02-01"
+  },
+  {
+    "VERSION_ID": 26,
+    "SCHEMA_VERSION": "v26.6.6",
+    "RELEASE_DATE": "2023-04-25"
+  },
+  {
+    "VERSION_ID": 27,
+    "SCHEMA_VERSION": "v27.7.8",
+    "RELEASE_DATE": "2023-08-09"
+  },
+  {
+    "VERSION_ID": 28,
+    "SCHEMA_VERSION": "v28.2.9",
+    "RELEASE_DATE": "2023-08-17"
+  },
+  {
+    "VERSION_ID": 29,
+    "SCHEMA_VERSION": "v29.2.9",
+    "RELEASE_DATE": "2023-01-29"
+  },
+  {
+    "VERSION_ID": 30,
+    "SCHEMA_VERSION": "v30.7.8",
+    "RELEASE_DATE": "2023-01-24"
+  },
+  {
+    "VERSION_ID": 31,
+    "SCHEMA_VERSION": "v31.8.1",
+    "RELEASE_DATE": "2022-03-23"
+  },
+  {
+    "VERSION_ID": 32,
+    "SCHEMA_VERSION": "v32.8.6",
+    "RELEASE_DATE": "2023-06-15"
+  },
+  {
+    "VERSION_ID": 33,
+    "SCHEMA_VERSION": "v33.9.7",
+    "RELEASE_DATE": "2022-03-09"
+  },
+  {
+    "VERSION_ID": 34,
+    "SCHEMA_VERSION": "v34.9.7",
+    "RELEASE_DATE": "2022-10-02"
+  },
+  {
+    "VERSION_ID": 35,
+    "SCHEMA_VERSION": "v35.8.6",
+    "RELEASE_DATE": "2022-01-17"
+  },
+  {
+    "VERSION_ID": 36,
+    "SCHEMA_VERSION": "v36.3.2",
+    "RELEASE_DATE": "2022-08-03"
+  },
+  {
+    "VERSION_ID": 37,
+    "SCHEMA_VERSION": "v37.8.2",
+    "RELEASE_DATE": "2022-02-16"
+  },
+  {
+    "VERSION_ID": 38,
+    "SCHEMA_VERSION": "v38.4.4",
+    "RELEASE_DATE": "2023-08-19"
+  },
+  {
+    "VERSION_ID": 39,
+    "SCHEMA_VERSION": "v39.9.0",
+    "RELEASE_DATE": "2022-05-02"
+  },
+  {
+    "VERSION_ID": 40,
+    "SCHEMA_VERSION": "v40.1.4",
+    "RELEASE_DATE": "2022-01-22"
+  },
+  {
+    "VERSION_ID": 41,
+    "SCHEMA_VERSION": "v41.4.9",
+    "RELEASE_DATE": "2022-03-23"
+  },
+  {
+    "VERSION_ID": 42,
+    "SCHEMA_VERSION": "v42.6.6",
+    "RELEASE_DATE": "2022-08-01"
+  },
+  {
+    "VERSION_ID": 43,
+    "SCHEMA_VERSION": "v43.4.0",
+    "RELEASE_DATE": "2023-11-19"
+  },
+  {
+    "VERSION_ID": 44,
+    "SCHEMA_VERSION": "v44.3.7",
+    "RELEASE_DATE": "2023-07-02"
+  },
+  {
+    "VERSION_ID": 45,
+    "SCHEMA_VERSION": "v45.1.9",
+    "RELEASE_DATE": "2023-01-19"
+  },
+  {
+    "VERSION_ID": 46,
+    "SCHEMA_VERSION": "v46.5.4",
+    "RELEASE_DATE": "2022-03-06"
+  },
+  {
+    "VERSION_ID": 47,
+    "SCHEMA_VERSION": "v47.6.6",
+    "RELEASE_DATE": "2022-03-10"
+  },
+  {
+    "VERSION_ID": 48,
+    "SCHEMA_VERSION": "v48.3.9",
+    "RELEASE_DATE": "2022-11-14"
+  },
+  {
+    "VERSION_ID": 49,
+    "SCHEMA_VERSION": "v49.0.5",
+    "RELEASE_DATE": "2024-01-01"
+  },
+  {
+    "VERSION_ID": 50,
+    "SCHEMA_VERSION": "v50.9.0",
+    "RELEASE_DATE": "2022-01-17"
+  },
+  {
+    "VERSION_ID": 51,
+    "SCHEMA_VERSION": "v51.2.5",
+    "RELEASE_DATE": "2022-04-09"
+  },
+  {
+    "VERSION_ID": 52,
+    "SCHEMA_VERSION": "v52.3.2",
+    "RELEASE_DATE": "2023-07-17"
+  },
+  {
+    "VERSION_ID": 53,
+    "SCHEMA_VERSION": "v53.2.1",
+    "RELEASE_DATE": "2023-07-16"
+  },
+  {
+    "VERSION_ID": 54,
+    "SCHEMA_VERSION": "v54.7.1",
+    "RELEASE_DATE": "2023-07-01"
+  },
+  {
+    "VERSION_ID": 55,
+    "SCHEMA_VERSION": "v55.3.0",
+    "RELEASE_DATE": "2023-06-02"
+  },
+  {
+    "VERSION_ID": 56,
+    "SCHEMA_VERSION": "v56.3.6",
+    "RELEASE_DATE": "2022-12-24"
+  },
+  {
+    "VERSION_ID": 57,
+    "SCHEMA_VERSION": "v57.6.2",
+    "RELEASE_DATE": "2023-11-17"
+  },
+  {
+    "VERSION_ID": 58,
+    "SCHEMA_VERSION": "v58.6.9",
+    "RELEASE_DATE": "2023-02-24"
+  },
+  {
+    "VERSION_ID": 59,
+    "SCHEMA_VERSION": "v59.3.8",
+    "RELEASE_DATE": "2023-08-05"
+  },
+  {
+    "VERSION_ID": 60,
+    "SCHEMA_VERSION": "v60.5.7",
+    "RELEASE_DATE": "2023-03-17"
+  },
+  {
+    "VERSION_ID": 61,
+    "SCHEMA_VERSION": "v61.0.4",
+    "RELEASE_DATE": "2023-03-01"
+  },
+  {
+    "VERSION_ID": 62,
+    "SCHEMA_VERSION": "v62.9.4",
+    "RELEASE_DATE": "2022-12-22"
+  },
+  {
+    "VERSION_ID": 63,
+    "SCHEMA_VERSION": "v63.8.3",
+    "RELEASE_DATE": "2022-12-19"
+  },
+  {
+    "VERSION_ID": 64,
+    "SCHEMA_VERSION": "v64.6.7",
+    "RELEASE_DATE": "2023-05-26"
+  },
+  {
+    "VERSION_ID": 65,
+    "SCHEMA_VERSION": "v65.8.4",
+    "RELEASE_DATE": "2023-06-26"
+  },
+  {
+    "VERSION_ID": 66,
+    "SCHEMA_VERSION": "v66.1.4",
+    "RELEASE_DATE": "2022-09-21"
+  },
+  {
+    "VERSION_ID": 67,
+    "SCHEMA_VERSION": "v67.9.2",
+    "RELEASE_DATE": "2022-09-26"
+  },
+  {
+    "VERSION_ID": 68,
+    "SCHEMA_VERSION": "v68.1.5",
+    "RELEASE_DATE": "2023-05-02"
+  },
+  {
+    "VERSION_ID": 69,
+    "SCHEMA_VERSION": "v69.3.5",
+    "RELEASE_DATE": "2022-06-01"
+  },
+  {
+    "VERSION_ID": 70,
+    "SCHEMA_VERSION": "v70.5.4",
+    "RELEASE_DATE": "2022-09-24"
+  },
+  {
+    "VERSION_ID": 71,
+    "SCHEMA_VERSION": "v71.9.9",
+    "RELEASE_DATE": "2022-06-03"
+  },
+  {
+    "VERSION_ID": 72,
+    "SCHEMA_VERSION": "v72.8.2",
+    "RELEASE_DATE": "2023-04-29"
+  },
+  {
+    "VERSION_ID": 73,
+    "SCHEMA_VERSION": "v73.2.9",
+    "RELEASE_DATE": "2023-08-13"
+  },
+  {
+    "VERSION_ID": 74,
+    "SCHEMA_VERSION": "v74.1.0",
+    "RELEASE_DATE": "2023-11-14"
+  },
+  {
+    "VERSION_ID": 75,
+    "SCHEMA_VERSION": "v75.0.5",
+    "RELEASE_DATE": "2023-11-08"
+  },
+  {
+    "VERSION_ID": 76,
+    "SCHEMA_VERSION": "v76.2.6",
+    "RELEASE_DATE": "2022-05-11"
+  },
+  {
+    "VERSION_ID": 77,
+    "SCHEMA_VERSION": "v77.1.2",
+    "RELEASE_DATE": "2022-01-20"
+  },
+  {
+    "VERSION_ID": 78,
+    "SCHEMA_VERSION": "v78.7.3",
+    "RELEASE_DATE": "2023-08-09"
+  },
+  {
+    "VERSION_ID": 79,
+    "SCHEMA_VERSION": "v79.0.9",
+    "RELEASE_DATE": "2023-04-20"
+  },
+  {
+    "VERSION_ID": 80,
+    "SCHEMA_VERSION": "v80.6.7",
+    "RELEASE_DATE": "2023-08-14"
+  },
+  {
+    "VERSION_ID": 81,
+    "SCHEMA_VERSION": "v81.2.7",
+    "RELEASE_DATE": "2022-11-30"
+  },
+  {
+    "VERSION_ID": 82,
+    "SCHEMA_VERSION": "v82.5.5",
+    "RELEASE_DATE": "2022-08-22"
+  },
+  {
+    "VERSION_ID": 83,
+    "SCHEMA_VERSION": "v83.9.1",
+    "RELEASE_DATE": "2023-12-25"
+  },
+  {
+    "VERSION_ID": 84,
+    "SCHEMA_VERSION": "v84.4.3",
+    "RELEASE_DATE": "2023-11-14"
+  },
+  {
+    "VERSION_ID": 85,
+    "SCHEMA_VERSION": "v85.1.7",
+    "RELEASE_DATE": "2023-05-01"
+  },
+  {
+    "VERSION_ID": 86,
+    "SCHEMA_VERSION": "v86.0.8",
+    "RELEASE_DATE": "2023-12-06"
+  },
+  {
+    "VERSION_ID": 87,
+    "SCHEMA_VERSION": "v87.8.8",
+    "RELEASE_DATE": "2022-05-14"
+  },
+  {
+    "VERSION_ID": 88,
+    "SCHEMA_VERSION": "v88.4.6",
+    "RELEASE_DATE": "2022-04-22"
+  },
+  {
+    "VERSION_ID": 89,
+    "SCHEMA_VERSION": "v89.1.3",
+    "RELEASE_DATE": "2022-04-18"
+  },
+  {
+    "VERSION_ID": 90,
+    "SCHEMA_VERSION": "v90.1.6",
+    "RELEASE_DATE": "2023-12-26"
+  },
+  {
+    "VERSION_ID": 91,
+    "SCHEMA_VERSION": "v91.5.0",
+    "RELEASE_DATE": "2022-05-10"
+  },
+  {
+    "VERSION_ID": 92,
+    "SCHEMA_VERSION": "v92.8.8",
+    "RELEASE_DATE": "2023-08-14"
+  },
+  {
+    "VERSION_ID": 93,
+    "SCHEMA_VERSION": "v93.4.1",
+    "RELEASE_DATE": "2022-12-07"
+  },
+  {
+    "VERSION_ID": 94,
+    "SCHEMA_VERSION": "v94.8.3",
+    "RELEASE_DATE": "2022-10-15"
+  },
+  {
+    "VERSION_ID": 95,
+    "SCHEMA_VERSION": "v95.7.5",
+    "RELEASE_DATE": "2023-06-03"
+  },
+  {
+    "VERSION_ID": 96,
+    "SCHEMA_VERSION": "v96.0.6",
+    "RELEASE_DATE": "2022-04-15"
+  },
+  {
+    "VERSION_ID": 97,
+    "SCHEMA_VERSION": "v97.5.6",
+    "RELEASE_DATE": "2023-04-24"
+  },
+  {
+    "VERSION_ID": 98,
+    "SCHEMA_VERSION": "v98.1.7",
+    "RELEASE_DATE": "2023-06-05"
+  },
+  {
+    "VERSION_ID": 99,
+    "SCHEMA_VERSION": "v99.4.9",
+    "RELEASE_DATE": "2023-11-23"
+  },
+  {
+    "VERSION_ID": 100,
+    "SCHEMA_VERSION": "v100.9.6",
+    "RELEASE_DATE": "2023-12-26"
+  },
+  {
+    "VERSION_ID": 101,
+    "SCHEMA_VERSION": "v101.8.6",
+    "RELEASE_DATE": "2023-09-26"
+  },
+  {
+    "VERSION_ID": 102,
+    "SCHEMA_VERSION": "v102.1.7",
+    "RELEASE_DATE": "2023-07-27"
+  },
+  {
+    "VERSION_ID": 103,
+    "SCHEMA_VERSION": "v103.0.0",
+    "RELEASE_DATE": "2023-12-23"
+  },
+  {
+    "VERSION_ID": 104,
+    "SCHEMA_VERSION": "v104.9.4",
+    "RELEASE_DATE": "2023-06-04"
+  },
+  {
+    "VERSION_ID": 105,
+    "SCHEMA_VERSION": "v105.5.6",
+    "RELEASE_DATE": "2022-07-09"
+  },
+  {
+    "VERSION_ID": 106,
+    "SCHEMA_VERSION": "v106.9.3",
+    "RELEASE_DATE": "2023-08-27"
+  },
+  {
+    "VERSION_ID": 107,
+    "SCHEMA_VERSION": "v107.3.6",
+    "RELEASE_DATE": "2023-02-10"
+  },
+  {
+    "VERSION_ID": 108,
+    "SCHEMA_VERSION": "v108.4.9",
+    "RELEASE_DATE": "2022-09-11"
+  },
+  {
+    "VERSION_ID": 109,
+    "SCHEMA_VERSION": "v109.7.5",
+    "RELEASE_DATE": "2022-06-05"
+  },
+  {
+    "VERSION_ID": 110,
+    "SCHEMA_VERSION": "v110.7.6",
+    "RELEASE_DATE": "2022-07-05"
+  },
+  {
+    "VERSION_ID": 111,
+    "SCHEMA_VERSION": "v111.2.9",
+    "RELEASE_DATE": "2023-10-29"
+  },
+  {
+    "VERSION_ID": 112,
+    "SCHEMA_VERSION": "v112.2.6",
+    "RELEASE_DATE": "2022-05-16"
+  },
+  {
+    "VERSION_ID": 113,
+    "SCHEMA_VERSION": "v113.2.2",
+    "RELEASE_DATE": "2023-05-15"
+  },
+  {
+    "VERSION_ID": 114,
+    "SCHEMA_VERSION": "v114.7.1",
+    "RELEASE_DATE": "2022-12-05"
+  },
+  {
+    "VERSION_ID": 115,
+    "SCHEMA_VERSION": "v115.8.5",
+    "RELEASE_DATE": "2023-10-14"
+  },
+  {
+    "VERSION_ID": 116,
+    "SCHEMA_VERSION": "v116.1.6",
+    "RELEASE_DATE": "2022-11-30"
+  },
+  {
+    "VERSION_ID": 117,
+    "SCHEMA_VERSION": "v117.9.8",
+    "RELEASE_DATE": "2023-01-07"
+  },
+  {
+    "VERSION_ID": 118,
+    "SCHEMA_VERSION": "v118.9.3",
+    "RELEASE_DATE": "2022-11-19"
+  },
+  {
+    "VERSION_ID": 119,
+    "SCHEMA_VERSION": "v119.9.7",
+    "RELEASE_DATE": "2022-08-21"
+  },
+  {
+    "VERSION_ID": 120,
+    "SCHEMA_VERSION": "v120.0.7",
+    "RELEASE_DATE": "2023-07-10"
+  },
+  {
+    "VERSION_ID": 121,
+    "SCHEMA_VERSION": "v121.1.3",
+    "RELEASE_DATE": "2022-03-09"
+  },
+  {
+    "VERSION_ID": 122,
+    "SCHEMA_VERSION": "v122.4.8",
+    "RELEASE_DATE": "2023-11-10"
+  },
+  {
+    "VERSION_ID": 123,
+    "SCHEMA_VERSION": "v123.9.7",
+    "RELEASE_DATE": "2022-08-21"
+  },
+  {
+    "VERSION_ID": 124,
+    "SCHEMA_VERSION": "v124.4.1",
+    "RELEASE_DATE": "2022-12-01"
+  },
+  {
+    "VERSION_ID": 125,
+    "SCHEMA_VERSION": "v125.4.0",
+    "RELEASE_DATE": "2023-06-03"
+  },
+  {
+    "VERSION_ID": 126,
+    "SCHEMA_VERSION": "v126.0.4",
+    "RELEASE_DATE": "2022-08-10"
+  },
+  {
+    "VERSION_ID": 127,
+    "SCHEMA_VERSION": "v127.0.8",
+    "RELEASE_DATE": "2023-05-02"
+  },
+  {
+    "VERSION_ID": 128,
+    "SCHEMA_VERSION": "v128.9.0",
+    "RELEASE_DATE": "2023-06-03"
+  },
+  {
+    "VERSION_ID": 129,
+    "SCHEMA_VERSION": "v129.6.8",
+    "RELEASE_DATE": "2023-11-23"
+  },
+  {
+    "VERSION_ID": 130,
+    "SCHEMA_VERSION": "v130.4.0",
+    "RELEASE_DATE": "2023-09-20"
+  },
+  {
+    "VERSION_ID": 131,
+    "SCHEMA_VERSION": "v131.0.1",
+    "RELEASE_DATE": "2023-04-06"
+  },
+  {
+    "VERSION_ID": 132,
+    "SCHEMA_VERSION": "v132.2.7",
+    "RELEASE_DATE": "2022-08-11"
+  },
+  {
+    "VERSION_ID": 133,
+    "SCHEMA_VERSION": "v133.9.4",
+    "RELEASE_DATE": "2022-11-17"
+  },
+  {
+    "VERSION_ID": 134,
+    "SCHEMA_VERSION": "v134.8.5",
+    "RELEASE_DATE": "2023-08-12"
+  },
+  {
+    "VERSION_ID": 135,
+    "SCHEMA_VERSION": "v135.4.9",
+    "RELEASE_DATE": "2022-07-27"
+  },
+  {
+    "VERSION_ID": 136,
+    "SCHEMA_VERSION": "v136.7.6",
+    "RELEASE_DATE": "2022-07-15"
+  },
+  {
+    "VERSION_ID": 137,
+    "SCHEMA_VERSION": "v137.6.4",
+    "RELEASE_DATE": "2023-03-03"
+  },
+  {
+    "VERSION_ID": 138,
+    "SCHEMA_VERSION": "v138.9.8",
+    "RELEASE_DATE": "2022-09-05"
+  },
+  {
+    "VERSION_ID": 139,
+    "SCHEMA_VERSION": "v139.6.7",
+    "RELEASE_DATE": "2022-10-13"
+  },
+  {
+    "VERSION_ID": 140,
+    "SCHEMA_VERSION": "v140.9.3",
+    "RELEASE_DATE": "2022-08-13"
+  },
+  {
+    "VERSION_ID": 141,
+    "SCHEMA_VERSION": "v141.4.0",
+    "RELEASE_DATE": "2023-01-31"
+  },
+  {
+    "VERSION_ID": 142,
+    "SCHEMA_VERSION": "v142.1.3",
+    "RELEASE_DATE": "2023-01-22"
+  },
+  {
+    "VERSION_ID": 143,
+    "SCHEMA_VERSION": "v143.3.4",
+    "RELEASE_DATE": "2023-11-09"
+  },
+  {
+    "VERSION_ID": 144,
+    "SCHEMA_VERSION": "v144.2.5",
+    "RELEASE_DATE": "2023-06-27"
+  },
+  {
+    "VERSION_ID": 145,
+    "SCHEMA_VERSION": "v145.1.1",
+    "RELEASE_DATE": "2023-07-03"
+  },
+  {
+    "VERSION_ID": 146,
+    "SCHEMA_VERSION": "v146.4.4",
+    "RELEASE_DATE": "2022-11-22"
+  },
+  {
+    "VERSION_ID": 147,
+    "SCHEMA_VERSION": "v147.6.8",
+    "RELEASE_DATE": "2023-04-08"
+  },
+  {
+    "VERSION_ID": 148,
+    "SCHEMA_VERSION": "v148.9.1",
+    "RELEASE_DATE": "2022-12-07"
+  },
+  {
+    "VERSION_ID": 149,
+    "SCHEMA_VERSION": "v149.8.3",
+    "RELEASE_DATE": "2022-07-30"
+  },
+  {
+    "VERSION_ID": 150,
+    "SCHEMA_VERSION": "v150.1.5",
+    "RELEASE_DATE": "2022-05-19"
+  },
+  {
+    "VERSION_ID": 151,
+    "SCHEMA_VERSION": "v151.8.1",
+    "RELEASE_DATE": "2023-03-03"
+  },
+  {
+    "VERSION_ID": 152,
+    "SCHEMA_VERSION": "v152.8.3",
+    "RELEASE_DATE": "2023-01-21"
+  },
+  {
+    "VERSION_ID": 153,
+    "SCHEMA_VERSION": "v153.1.5",
+    "RELEASE_DATE": "2023-10-11"
+  },
+  {
+    "VERSION_ID": 154,
+    "SCHEMA_VERSION": "v154.4.8",
+    "RELEASE_DATE": "2023-10-10"
+  },
+  {
+    "VERSION_ID": 155,
+    "SCHEMA_VERSION": "v155.9.2",
+    "RELEASE_DATE": "2023-09-23"
+  },
+  {
+    "VERSION_ID": 156,
+    "SCHEMA_VERSION": "v156.9.9",
+    "RELEASE_DATE": "2023-01-31"
+  },
+  {
+    "VERSION_ID": 157,
+    "SCHEMA_VERSION": "v157.8.6",
+    "RELEASE_DATE": "2023-10-09"
+  },
+  {
+    "VERSION_ID": 158,
+    "SCHEMA_VERSION": "v158.0.1",
+    "RELEASE_DATE": "2023-01-17"
+  },
+  {
+    "VERSION_ID": 159,
+    "SCHEMA_VERSION": "v159.0.0",
+    "RELEASE_DATE": "2022-10-21"
+  },
+  {
+    "VERSION_ID": 160,
+    "SCHEMA_VERSION": "v160.6.0",
+    "RELEASE_DATE": "2022-01-22"
+  },
+  {
+    "VERSION_ID": 161,
+    "SCHEMA_VERSION": "v161.5.2",
+    "RELEASE_DATE": "2022-02-25"
+  },
+  {
+    "VERSION_ID": 162,
+    "SCHEMA_VERSION": "v162.1.9",
+    "RELEASE_DATE": "2023-09-13"
+  },
+  {
+    "VERSION_ID": 163,
+    "SCHEMA_VERSION": "v163.5.1",
+    "RELEASE_DATE": "2022-02-17"
+  },
+  {
+    "VERSION_ID": 164,
+    "SCHEMA_VERSION": "v164.5.0",
+    "RELEASE_DATE": "2023-06-02"
+  },
+  {
+    "VERSION_ID": 165,
+    "SCHEMA_VERSION": "v165.8.0",
+    "RELEASE_DATE": "2023-09-04"
+  },
+  {
+    "VERSION_ID": 166,
+    "SCHEMA_VERSION": "v166.3.4",
+    "RELEASE_DATE": "2022-12-03"
+  },
+  {
+    "VERSION_ID": 167,
+    "SCHEMA_VERSION": "v167.4.8",
+    "RELEASE_DATE": "2022-06-11"
+  },
+  {
+    "VERSION_ID": 168,
+    "SCHEMA_VERSION": "v168.7.1",
+    "RELEASE_DATE": "2023-05-02"
+  },
+  {
+    "VERSION_ID": 169,
+    "SCHEMA_VERSION": "v169.4.9",
+    "RELEASE_DATE": "2022-03-15"
+  },
+  {
+    "VERSION_ID": 170,
+    "SCHEMA_VERSION": "v170.5.8",
+    "RELEASE_DATE": "2022-07-13"
+  },
+  {
+    "VERSION_ID": 171,
+    "SCHEMA_VERSION": "v171.2.8",
+    "RELEASE_DATE": "2022-07-15"
+  },
+  {
+    "VERSION_ID": 172,
+    "SCHEMA_VERSION": "v172.0.2",
+    "RELEASE_DATE": "2022-06-14"
+  },
+  {
+    "VERSION_ID": 173,
+    "SCHEMA_VERSION": "v173.2.8",
+    "RELEASE_DATE": "2023-01-15"
+  },
+  {
+    "VERSION_ID": 174,
+    "SCHEMA_VERSION": "v174.5.9",
+    "RELEASE_DATE": "2023-12-04"
+  },
+  {
+    "VERSION_ID": 175,
+    "SCHEMA_VERSION": "v175.7.5",
+    "RELEASE_DATE": "2023-07-14"
+  },
+  {
+    "VERSION_ID": 176,
+    "SCHEMA_VERSION": "v176.8.1",
+    "RELEASE_DATE": "2023-08-18"
+  },
+  {
+    "VERSION_ID": 177,
+    "SCHEMA_VERSION": "v177.3.0",
+    "RELEASE_DATE": "2023-02-28"
+  },
+  {
+    "VERSION_ID": 178,
+    "SCHEMA_VERSION": "v178.4.5",
+    "RELEASE_DATE": "2022-08-07"
+  },
+  {
+    "VERSION_ID": 179,
+    "SCHEMA_VERSION": "v179.5.1",
+    "RELEASE_DATE": "2022-02-04"
+  },
+  {
+    "VERSION_ID": 180,
+    "SCHEMA_VERSION": "v180.3.0",
+    "RELEASE_DATE": "2023-02-22"
+  },
+  {
+    "VERSION_ID": 181,
+    "SCHEMA_VERSION": "v181.9.8",
+    "RELEASE_DATE": "2023-06-17"
+  },
+  {
+    "VERSION_ID": 182,
+    "SCHEMA_VERSION": "v182.1.9",
+    "RELEASE_DATE": "2022-01-03"
+  },
+  {
+    "VERSION_ID": 183,
+    "SCHEMA_VERSION": "v183.2.1",
+    "RELEASE_DATE": "2022-11-25"
+  },
+  {
+    "VERSION_ID": 184,
+    "SCHEMA_VERSION": "v184.4.4",
+    "RELEASE_DATE": "2023-04-14"
+  },
+  {
+    "VERSION_ID": 185,
+    "SCHEMA_VERSION": "v185.8.8",
+    "RELEASE_DATE": "2022-07-07"
+  },
+  {
+    "VERSION_ID": 186,
+    "SCHEMA_VERSION": "v186.8.2",
+    "RELEASE_DATE": "2023-01-08"
+  },
+  {
+    "VERSION_ID": 187,
+    "SCHEMA_VERSION": "v187.0.4",
+    "RELEASE_DATE": "2022-10-23"
+  },
+  {
+    "VERSION_ID": 188,
+    "SCHEMA_VERSION": "v188.0.9",
+    "RELEASE_DATE": "2022-08-27"
+  },
+  {
+    "VERSION_ID": 189,
+    "SCHEMA_VERSION": "v189.6.8",
+    "RELEASE_DATE": "2023-05-01"
+  },
+  {
+    "VERSION_ID": 190,
+    "SCHEMA_VERSION": "v190.6.9",
+    "RELEASE_DATE": "2023-09-09"
+  },
+  {
+    "VERSION_ID": 191,
+    "SCHEMA_VERSION": "v191.5.4",
+    "RELEASE_DATE": "2022-01-05"
+  },
+  {
+    "VERSION_ID": 192,
+    "SCHEMA_VERSION": "v192.3.1",
+    "RELEASE_DATE": "2022-08-27"
+  },
+  {
+    "VERSION_ID": 193,
+    "SCHEMA_VERSION": "v193.3.8",
+    "RELEASE_DATE": "2023-08-13"
+  },
+  {
+    "VERSION_ID": 194,
+    "SCHEMA_VERSION": "v194.9.2",
+    "RELEASE_DATE": "2022-12-13"
+  },
+  {
+    "VERSION_ID": 195,
+    "SCHEMA_VERSION": "v195.6.0",
+    "RELEASE_DATE": "2023-09-30"
+  },
+  {
+    "VERSION_ID": 196,
+    "SCHEMA_VERSION": "v196.1.1",
+    "RELEASE_DATE": "2022-10-19"
+  },
+  {
+    "VERSION_ID": 197,
+    "SCHEMA_VERSION": "v197.0.0",
+    "RELEASE_DATE": "2023-09-28"
+  },
+  {
+    "VERSION_ID": 198,
+    "SCHEMA_VERSION": "v198.3.0",
+    "RELEASE_DATE": "2022-09-19"
+  },
+  {
+    "VERSION_ID": 199,
+    "SCHEMA_VERSION": "v199.0.8",
+    "RELEASE_DATE": "2023-02-27"
+  },
+  {
+    "VERSION_ID": 200,
+    "SCHEMA_VERSION": "v200.1.0",
+    "RELEASE_DATE": "2023-08-29"
+  },
+  {
+    "VERSION_ID": 201,
+    "SCHEMA_VERSION": "v201.4.0",
+    "RELEASE_DATE": "2022-05-05"
+  },
+  {
+    "VERSION_ID": 202,
+    "SCHEMA_VERSION": "v202.2.8",
+    "RELEASE_DATE": "2022-12-13"
+  },
+  {
+    "VERSION_ID": 203,
+    "SCHEMA_VERSION": "v203.8.1",
+    "RELEASE_DATE": "2022-02-16"
+  },
+  {
+    "VERSION_ID": 204,
+    "SCHEMA_VERSION": "v204.4.5",
+    "RELEASE_DATE": "2022-07-11"
+  },
+  {
+    "VERSION_ID": 205,
+    "SCHEMA_VERSION": "v205.1.4",
+    "RELEASE_DATE": "2023-11-05"
+  },
+  {
+    "VERSION_ID": 206,
+    "SCHEMA_VERSION": "v206.7.8",
+    "RELEASE_DATE": "2022-05-28"
+  },
+  {
+    "VERSION_ID": 207,
+    "SCHEMA_VERSION": "v207.8.4",
+    "RELEASE_DATE": "2022-01-16"
+  },
+  {
+    "VERSION_ID": 208,
+    "SCHEMA_VERSION": "v208.8.3",
+    "RELEASE_DATE": "2023-09-13"
+  },
+  {
+    "VERSION_ID": 209,
+    "SCHEMA_VERSION": "v209.1.7",
+    "RELEASE_DATE": "2022-09-29"
+  },
+  {
+    "VERSION_ID": 210,
+    "SCHEMA_VERSION": "v210.9.8",
+    "RELEASE_DATE": "2022-10-14"
+  },
+  {
+    "VERSION_ID": 211,
+    "SCHEMA_VERSION": "v211.5.7",
+    "RELEASE_DATE": "2023-12-31"
+  },
+  {
+    "VERSION_ID": 212,
+    "SCHEMA_VERSION": "v212.6.1",
+    "RELEASE_DATE": "2022-04-18"
+  },
+  {
+    "VERSION_ID": 213,
+    "SCHEMA_VERSION": "v213.0.9",
+    "RELEASE_DATE": "2022-10-05"
+  },
+  {
+    "VERSION_ID": 214,
+    "SCHEMA_VERSION": "v214.5.0",
+    "RELEASE_DATE": "2023-12-14"
+  },
+  {
+    "VERSION_ID": 215,
+    "SCHEMA_VERSION": "v215.5.1",
+    "RELEASE_DATE": "2023-12-05"
+  },
+  {
+    "VERSION_ID": 216,
+    "SCHEMA_VERSION": "v216.2.7",
+    "RELEASE_DATE": "2023-07-25"
+  },
+  {
+    "VERSION_ID": 217,
+    "SCHEMA_VERSION": "v217.7.0",
+    "RELEASE_DATE": "2023-01-23"
+  },
+  {
+    "VERSION_ID": 218,
+    "SCHEMA_VERSION": "v218.7.1",
+    "RELEASE_DATE": "2022-02-06"
+  },
+  {
+    "VERSION_ID": 219,
+    "SCHEMA_VERSION": "v219.0.0",
+    "RELEASE_DATE": "2023-06-13"
+  },
+  {
+    "VERSION_ID": 220,
+    "SCHEMA_VERSION": "v220.4.6",
+    "RELEASE_DATE": "2022-11-19"
+  },
+  {
+    "VERSION_ID": 221,
+    "SCHEMA_VERSION": "v221.0.9",
+    "RELEASE_DATE": "2023-09-17"
+  },
+  {
+    "VERSION_ID": 222,
+    "SCHEMA_VERSION": "v222.1.9",
+    "RELEASE_DATE": "2022-02-11"
+  },
+  {
+    "VERSION_ID": 223,
+    "SCHEMA_VERSION": "v223.7.0",
+    "RELEASE_DATE": "2022-01-13"
+  },
+  {
+    "VERSION_ID": 224,
+    "SCHEMA_VERSION": "v224.6.1",
+    "RELEASE_DATE": "2022-02-08"
+  },
+  {
+    "VERSION_ID": 225,
+    "SCHEMA_VERSION": "v225.2.0",
+    "RELEASE_DATE": "2023-10-31"
+  },
+  {
+    "VERSION_ID": 226,
+    "SCHEMA_VERSION": "v226.2.8",
+    "RELEASE_DATE": "2023-06-28"
+  },
+  {
+    "VERSION_ID": 227,
+    "SCHEMA_VERSION": "v227.3.6",
+    "RELEASE_DATE": "2023-06-12"
+  },
+  {
+    "VERSION_ID": 228,
+    "SCHEMA_VERSION": "v228.6.4",
+    "RELEASE_DATE": "2022-04-05"
+  },
+  {
+    "VERSION_ID": 229,
+    "SCHEMA_VERSION": "v229.3.7",
+    "RELEASE_DATE": "2022-05-22"
+  },
+  {
+    "VERSION_ID": 230,
+    "SCHEMA_VERSION": "v230.5.7",
+    "RELEASE_DATE": "2022-01-15"
+  },
+  {
+    "VERSION_ID": 231,
+    "SCHEMA_VERSION": "v231.2.4",
+    "RELEASE_DATE": "2022-09-25"
+  },
+  {
+    "VERSION_ID": 232,
+    "SCHEMA_VERSION": "v232.6.5",
+    "RELEASE_DATE": "2023-08-14"
+  },
+  {
+    "VERSION_ID": 233,
+    "SCHEMA_VERSION": "v233.4.3",
+    "RELEASE_DATE": "2022-07-28"
+  },
+  {
+    "VERSION_ID": 234,
+    "SCHEMA_VERSION": "v234.4.3",
+    "RELEASE_DATE": "2023-01-10"
+  },
+  {
+    "VERSION_ID": 235,
+    "SCHEMA_VERSION": "v235.8.6",
+    "RELEASE_DATE": "2022-04-25"
+  },
+  {
+    "VERSION_ID": 236,
+    "SCHEMA_VERSION": "v236.2.1",
+    "RELEASE_DATE": "2023-11-06"
+  },
+  {
+    "VERSION_ID": 237,
+    "SCHEMA_VERSION": "v237.5.9",
+    "RELEASE_DATE": "2023-11-24"
+  },
+  {
+    "VERSION_ID": 238,
+    "SCHEMA_VERSION": "v238.5.7",
+    "RELEASE_DATE": "2023-09-14"
+  },
+  {
+    "VERSION_ID": 239,
+    "SCHEMA_VERSION": "v239.5.9",
+    "RELEASE_DATE": "2022-10-07"
+  },
+  {
+    "VERSION_ID": 240,
+    "SCHEMA_VERSION": "v240.8.6",
+    "RELEASE_DATE": "2022-03-02"
+  },
+  {
+    "VERSION_ID": 241,
+    "SCHEMA_VERSION": "v241.7.1",
+    "RELEASE_DATE": "2022-09-04"
+  },
+  {
+    "VERSION_ID": 242,
+    "SCHEMA_VERSION": "v242.9.4",
+    "RELEASE_DATE": "2023-03-31"
+  },
+  {
+    "VERSION_ID": 243,
+    "SCHEMA_VERSION": "v243.0.8",
+    "RELEASE_DATE": "2022-11-11"
+  },
+  {
+    "VERSION_ID": 244,
+    "SCHEMA_VERSION": "v244.9.5",
+    "RELEASE_DATE": "2023-06-26"
+  },
+  {
+    "VERSION_ID": 245,
+    "SCHEMA_VERSION": "v245.9.1",
+    "RELEASE_DATE": "2022-10-19"
+  },
+  {
+    "VERSION_ID": 246,
+    "SCHEMA_VERSION": "v246.2.4",
+    "RELEASE_DATE": "2023-11-11"
+  },
+  {
+    "VERSION_ID": 247,
+    "SCHEMA_VERSION": "v247.4.4",
+    "RELEASE_DATE": "2023-04-17"
+  },
+  {
+    "VERSION_ID": 248,
+    "SCHEMA_VERSION": "v248.1.1",
+    "RELEASE_DATE": "2022-12-04"
+  },
+  {
+    "VERSION_ID": 249,
+    "SCHEMA_VERSION": "v249.2.5",
+    "RELEASE_DATE": "2022-09-24"
+  },
+  {
+    "VERSION_ID": 250,
+    "SCHEMA_VERSION": "v250.3.7",
+    "RELEASE_DATE": "2022-12-28"
+  },
+  {
+    "VERSION_ID": 251,
+    "SCHEMA_VERSION": "v251.8.7",
+    "RELEASE_DATE": "2022-04-05"
+  },
+  {
+    "VERSION_ID": 252,
+    "SCHEMA_VERSION": "v252.7.1",
+    "RELEASE_DATE": "2023-10-18"
+  },
+  {
+    "VERSION_ID": 253,
+    "SCHEMA_VERSION": "v253.6.0",
+    "RELEASE_DATE": "2023-11-21"
+  },
+  {
+    "VERSION_ID": 254,
+    "SCHEMA_VERSION": "v254.0.9",
+    "RELEASE_DATE": "2023-02-08"
+  },
+  {
+    "VERSION_ID": 255,
+    "SCHEMA_VERSION": "v255.4.8",
+    "RELEASE_DATE": "2023-10-08"
+  },
+  {
+    "VERSION_ID": 256,
+    "SCHEMA_VERSION": "v256.8.3",
+    "RELEASE_DATE": "2023-01-13"
+  },
+  {
+    "VERSION_ID": 257,
+    "SCHEMA_VERSION": "v257.8.9",
+    "RELEASE_DATE": "2023-08-03"
+  },
+  {
+    "VERSION_ID": 258,
+    "SCHEMA_VERSION": "v258.8.2",
+    "RELEASE_DATE": "2023-05-15"
+  },
+  {
+    "VERSION_ID": 259,
+    "SCHEMA_VERSION": "v259.7.4",
+    "RELEASE_DATE": "2022-10-14"
+  },
+  {
+    "VERSION_ID": 260,
+    "SCHEMA_VERSION": "v260.4.9",
+    "RELEASE_DATE": "2022-08-20"
+  },
+  {
+    "VERSION_ID": 261,
+    "SCHEMA_VERSION": "v261.6.1",
+    "RELEASE_DATE": "2022-09-24"
+  },
+  {
+    "VERSION_ID": 262,
+    "SCHEMA_VERSION": "v262.0.0",
+    "RELEASE_DATE": "2022-09-30"
+  },
+  {
+    "VERSION_ID": 263,
+    "SCHEMA_VERSION": "v263.3.2",
+    "RELEASE_DATE": "2022-06-30"
+  },
+  {
+    "VERSION_ID": 264,
+    "SCHEMA_VERSION": "v264.0.7",
+    "RELEASE_DATE": "2022-03-21"
+  },
+  {
+    "VERSION_ID": 265,
+    "SCHEMA_VERSION": "v265.4.4",
+    "RELEASE_DATE": "2022-03-30"
+  },
+  {
+    "VERSION_ID": 266,
+    "SCHEMA_VERSION": "v266.4.1",
+    "RELEASE_DATE": "2022-03-26"
+  },
+  {
+    "VERSION_ID": 267,
+    "SCHEMA_VERSION": "v267.5.0",
+    "RELEASE_DATE": "2022-06-11"
+  },
+  {
+    "VERSION_ID": 268,
+    "SCHEMA_VERSION": "v268.9.9",
+    "RELEASE_DATE": "2023-06-08"
+  },
+  {
+    "VERSION_ID": 269,
+    "SCHEMA_VERSION": "v269.7.5",
+    "RELEASE_DATE": "2023-10-20"
+  },
+  {
+    "VERSION_ID": 270,
+    "SCHEMA_VERSION": "v270.9.2",
+    "RELEASE_DATE": "2022-10-01"
+  },
+  {
+    "VERSION_ID": 271,
+    "SCHEMA_VERSION": "v271.5.3",
+    "RELEASE_DATE": "2023-06-05"
+  },
+  {
+    "VERSION_ID": 272,
+    "SCHEMA_VERSION": "v272.3.9",
+    "RELEASE_DATE": "2023-02-03"
+  },
+  {
+    "VERSION_ID": 273,
+    "SCHEMA_VERSION": "v273.6.5",
+    "RELEASE_DATE": "2022-10-29"
+  },
+  {
+    "VERSION_ID": 274,
+    "SCHEMA_VERSION": "v274.5.9",
+    "RELEASE_DATE": "2023-11-21"
+  },
+  {
+    "VERSION_ID": 275,
+    "SCHEMA_VERSION": "v275.5.9",
+    "RELEASE_DATE": "2022-01-21"
+  },
+  {
+    "VERSION_ID": 276,
+    "SCHEMA_VERSION": "v276.3.1",
+    "RELEASE_DATE": "2022-04-27"
+  },
+  {
+    "VERSION_ID": 277,
+    "SCHEMA_VERSION": "v277.9.9",
+    "RELEASE_DATE": "2023-09-12"
+  },
+  {
+    "VERSION_ID": 278,
+    "SCHEMA_VERSION": "v278.9.1",
+    "RELEASE_DATE": "2023-09-21"
+  },
+  {
+    "VERSION_ID": 279,
+    "SCHEMA_VERSION": "v279.8.1",
+    "RELEASE_DATE": "2022-09-06"
+  },
+  {
+    "VERSION_ID": 280,
+    "SCHEMA_VERSION": "v280.7.2",
+    "RELEASE_DATE": "2023-06-05"
+  },
+  {
+    "VERSION_ID": 281,
+    "SCHEMA_VERSION": "v281.4.7",
+    "RELEASE_DATE": "2022-07-19"
+  },
+  {
+    "VERSION_ID": 282,
+    "SCHEMA_VERSION": "v282.7.4",
+    "RELEASE_DATE": "2023-11-01"
+  },
+  {
+    "VERSION_ID": 283,
+    "SCHEMA_VERSION": "v283.0.6",
+    "RELEASE_DATE": "2023-12-24"
+  },
+  {
+    "VERSION_ID": 284,
+    "SCHEMA_VERSION": "v284.8.1",
+    "RELEASE_DATE": "2022-02-23"
+  },
+  {
+    "VERSION_ID": 285,
+    "SCHEMA_VERSION": "v285.4.1",
+    "RELEASE_DATE": "2022-03-05"
+  },
+  {
+    "VERSION_ID": 286,
+    "SCHEMA_VERSION": "v286.0.1",
+    "RELEASE_DATE": "2022-06-28"
+  },
+  {
+    "VERSION_ID": 287,
+    "SCHEMA_VERSION": "v287.3.7",
+    "RELEASE_DATE": "2023-05-02"
+  },
+  {
+    "VERSION_ID": 288,
+    "SCHEMA_VERSION": "v288.8.4",
+    "RELEASE_DATE": "2023-03-22"
+  },
+  {
+    "VERSION_ID": 289,
+    "SCHEMA_VERSION": "v289.3.5",
+    "RELEASE_DATE": "2023-02-09"
+  },
+  {
+    "VERSION_ID": 290,
+    "SCHEMA_VERSION": "v290.9.7",
+    "RELEASE_DATE": "2023-08-20"
+  },
+  {
+    "VERSION_ID": 291,
+    "SCHEMA_VERSION": "v291.0.1",
+    "RELEASE_DATE": "2022-02-12"
+  },
+  {
+    "VERSION_ID": 292,
+    "SCHEMA_VERSION": "v292.8.0",
+    "RELEASE_DATE": "2023-06-07"
+  },
+  {
+    "VERSION_ID": 293,
+    "SCHEMA_VERSION": "v293.4.5",
+    "RELEASE_DATE": "2022-11-27"
+  },
+  {
+    "VERSION_ID": 294,
+    "SCHEMA_VERSION": "v294.7.9",
+    "RELEASE_DATE": "2023-11-03"
+  },
+  {
+    "VERSION_ID": 295,
+    "SCHEMA_VERSION": "v295.1.8",
+    "RELEASE_DATE": "2023-07-24"
+  },
+  {
+    "VERSION_ID": 296,
+    "SCHEMA_VERSION": "v296.3.3",
+    "RELEASE_DATE": "2022-01-10"
+  },
+  {
+    "VERSION_ID": 297,
+    "SCHEMA_VERSION": "v297.2.4",
+    "RELEASE_DATE": "2023-04-12"
+  },
+  {
+    "VERSION_ID": 298,
+    "SCHEMA_VERSION": "v298.9.3",
+    "RELEASE_DATE": "2023-02-26"
+  },
+  {
+    "VERSION_ID": 299,
+    "SCHEMA_VERSION": "v299.9.6",
+    "RELEASE_DATE": "2023-04-18"
+  },
+  {
+    "VERSION_ID": 300,
+    "SCHEMA_VERSION": "v300.0.6",
+    "RELEASE_DATE": "2023-08-17"
+  },
+  {
+    "VERSION_ID": 301,
+    "SCHEMA_VERSION": "v301.5.5",
+    "RELEASE_DATE": "2022-07-19"
+  },
+  {
+    "VERSION_ID": 302,
+    "SCHEMA_VERSION": "v302.3.7",
+    "RELEASE_DATE": "2022-08-26"
+  },
+  {
+    "VERSION_ID": 303,
+    "SCHEMA_VERSION": "v303.5.1",
+    "RELEASE_DATE": "2023-02-04"
+  },
+  {
+    "VERSION_ID": 304,
+    "SCHEMA_VERSION": "v304.2.1",
+    "RELEASE_DATE": "2022-08-10"
+  },
+  {
+    "VERSION_ID": 305,
+    "SCHEMA_VERSION": "v305.2.0",
+    "RELEASE_DATE": "2022-03-06"
+  },
+  {
+    "VERSION_ID": 306,
+    "SCHEMA_VERSION": "v306.4.7",
+    "RELEASE_DATE": "2023-01-01"
+  },
+  {
+    "VERSION_ID": 307,
+    "SCHEMA_VERSION": "v307.7.0",
+    "RELEASE_DATE": "2022-01-26"
+  },
+  {
+    "VERSION_ID": 308,
+    "SCHEMA_VERSION": "v308.8.7",
+    "RELEASE_DATE": "2022-07-30"
+  },
+  {
+    "VERSION_ID": 309,
+    "SCHEMA_VERSION": "v309.7.1",
+    "RELEASE_DATE": "2023-03-17"
+  },
+  {
+    "VERSION_ID": 310,
+    "SCHEMA_VERSION": "v310.8.8",
+    "RELEASE_DATE": "2022-04-01"
+  },
+  {
+    "VERSION_ID": 311,
+    "SCHEMA_VERSION": "v311.1.8",
+    "RELEASE_DATE": "2022-01-30"
+  },
+  {
+    "VERSION_ID": 312,
+    "SCHEMA_VERSION": "v312.3.7",
+    "RELEASE_DATE": "2023-08-02"
+  },
+  {
+    "VERSION_ID": 313,
+    "SCHEMA_VERSION": "v313.6.0",
+    "RELEASE_DATE": "2023-07-24"
+  },
+  {
+    "VERSION_ID": 314,
+    "SCHEMA_VERSION": "v314.5.3",
+    "RELEASE_DATE": "2022-10-29"
+  },
+  {
+    "VERSION_ID": 315,
+    "SCHEMA_VERSION": "v315.7.0",
+    "RELEASE_DATE": "2022-03-03"
+  },
+  {
+    "VERSION_ID": 316,
+    "SCHEMA_VERSION": "v316.5.8",
+    "RELEASE_DATE": "2022-08-15"
+  },
+  {
+    "VERSION_ID": 317,
+    "SCHEMA_VERSION": "v317.4.9",
+    "RELEASE_DATE": "2022-08-19"
+  },
+  {
+    "VERSION_ID": 318,
+    "SCHEMA_VERSION": "v318.8.1",
+    "RELEASE_DATE": "2022-01-19"
+  },
+  {
+    "VERSION_ID": 319,
+    "SCHEMA_VERSION": "v319.0.5",
+    "RELEASE_DATE": "2022-11-02"
+  },
+  {
+    "VERSION_ID": 320,
+    "SCHEMA_VERSION": "v320.4.3",
+    "RELEASE_DATE": "2023-02-18"
+  },
+  {
+    "VERSION_ID": 321,
+    "SCHEMA_VERSION": "v321.6.0",
+    "RELEASE_DATE": "2023-08-03"
+  },
+  {
+    "VERSION_ID": 322,
+    "SCHEMA_VERSION": "v322.6.8",
+    "RELEASE_DATE": "2023-10-01"
+  },
+  {
+    "VERSION_ID": 323,
+    "SCHEMA_VERSION": "v323.2.7",
+    "RELEASE_DATE": "2022-03-27"
+  },
+  {
+    "VERSION_ID": 324,
+    "SCHEMA_VERSION": "v324.9.6",
+    "RELEASE_DATE": "2023-01-22"
+  },
+  {
+    "VERSION_ID": 325,
+    "SCHEMA_VERSION": "v325.3.2",
+    "RELEASE_DATE": "2022-06-20"
+  },
+  {
+    "VERSION_ID": 326,
+    "SCHEMA_VERSION": "v326.7.0",
+    "RELEASE_DATE": "2022-07-09"
+  },
+  {
+    "VERSION_ID": 327,
+    "SCHEMA_VERSION": "v327.6.4",
+    "RELEASE_DATE": "2023-09-28"
+  },
+  {
+    "VERSION_ID": 328,
+    "SCHEMA_VERSION": "v328.0.6",
+    "RELEASE_DATE": "2023-09-21"
+  },
+  {
+    "VERSION_ID": 329,
+    "SCHEMA_VERSION": "v329.3.5",
+    "RELEASE_DATE": "2022-02-06"
+  },
+  {
+    "VERSION_ID": 330,
+    "SCHEMA_VERSION": "v330.0.2",
+    "RELEASE_DATE": "2022-03-07"
+  },
+  {
+    "VERSION_ID": 331,
+    "SCHEMA_VERSION": "v331.0.7",
+    "RELEASE_DATE": "2023-08-30"
+  },
+  {
+    "VERSION_ID": 332,
+    "SCHEMA_VERSION": "v332.8.0",
+    "RELEASE_DATE": "2022-05-14"
+  },
+  {
+    "VERSION_ID": 333,
+    "SCHEMA_VERSION": "v333.6.7",
+    "RELEASE_DATE": "2022-03-18"
+  },
+  {
+    "VERSION_ID": 334,
+    "SCHEMA_VERSION": "v334.9.8",
+    "RELEASE_DATE": "2022-11-23"
+  },
+  {
+    "VERSION_ID": 335,
+    "SCHEMA_VERSION": "v335.4.4",
+    "RELEASE_DATE": "2023-05-23"
+  },
+  {
+    "VERSION_ID": 336,
+    "SCHEMA_VERSION": "v336.2.8",
+    "RELEASE_DATE": "2023-11-27"
+  },
+  {
+    "VERSION_ID": 337,
+    "SCHEMA_VERSION": "v337.4.9",
+    "RELEASE_DATE": "2022-07-10"
+  },
+  {
+    "VERSION_ID": 338,
+    "SCHEMA_VERSION": "v338.6.5",
+    "RELEASE_DATE": "2022-07-31"
+  },
+  {
+    "VERSION_ID": 339,
+    "SCHEMA_VERSION": "v339.5.3",
+    "RELEASE_DATE": "2022-05-15"
+  },
+  {
+    "VERSION_ID": 340,
+    "SCHEMA_VERSION": "v340.0.8",
+    "RELEASE_DATE": "2022-06-22"
+  },
+  {
+    "VERSION_ID": 341,
+    "SCHEMA_VERSION": "v341.5.0",
+    "RELEASE_DATE": "2023-03-02"
+  },
+  {
+    "VERSION_ID": 342,
+    "SCHEMA_VERSION": "v342.1.0",
+    "RELEASE_DATE": "2023-11-13"
+  },
+  {
+    "VERSION_ID": 343,
+    "SCHEMA_VERSION": "v343.5.5",
+    "RELEASE_DATE": "2023-04-17"
+  },
+  {
+    "VERSION_ID": 344,
+    "SCHEMA_VERSION": "v344.6.9",
+    "RELEASE_DATE": "2022-03-04"
+  },
+  {
+    "VERSION_ID": 345,
+    "SCHEMA_VERSION": "v345.5.4",
+    "RELEASE_DATE": "2023-06-16"
+  },
+  {
+    "VERSION_ID": 346,
+    "SCHEMA_VERSION": "v346.6.7",
+    "RELEASE_DATE": "2023-11-23"
+  },
+  {
+    "VERSION_ID": 347,
+    "SCHEMA_VERSION": "v347.4.6",
+    "RELEASE_DATE": "2022-12-13"
+  },
+  {
+    "VERSION_ID": 348,
+    "SCHEMA_VERSION": "v348.7.4",
+    "RELEASE_DATE": "2022-03-27"
+  },
+  {
+    "VERSION_ID": 349,
+    "SCHEMA_VERSION": "v349.4.3",
+    "RELEASE_DATE": "2022-04-19"
+  },
+  {
+    "VERSION_ID": 350,
+    "SCHEMA_VERSION": "v350.7.0",
+    "RELEASE_DATE": "2022-12-18"
+  },
+  {
+    "VERSION_ID": 351,
+    "SCHEMA_VERSION": "v351.4.7",
+    "RELEASE_DATE": "2023-02-19"
+  },
+  {
+    "VERSION_ID": 352,
+    "SCHEMA_VERSION": "v352.7.3",
+    "RELEASE_DATE": "2023-10-24"
+  },
+  {
+    "VERSION_ID": 353,
+    "SCHEMA_VERSION": "v353.5.3",
+    "RELEASE_DATE": "2022-04-01"
+  },
+  {
+    "VERSION_ID": 354,
+    "SCHEMA_VERSION": "v354.0.4",
+    "RELEASE_DATE": "2023-06-15"
+  },
+  {
+    "VERSION_ID": 355,
+    "SCHEMA_VERSION": "v355.1.3",
+    "RELEASE_DATE": "2022-05-15"
+  },
+  {
+    "VERSION_ID": 356,
+    "SCHEMA_VERSION": "v356.8.8",
+    "RELEASE_DATE": "2023-11-29"
+  },
+  {
+    "VERSION_ID": 357,
+    "SCHEMA_VERSION": "v357.7.0",
+    "RELEASE_DATE": "2022-07-06"
+  },
+  {
+    "VERSION_ID": 358,
+    "SCHEMA_VERSION": "v358.9.0",
+    "RELEASE_DATE": "2023-08-17"
+  },
+  {
+    "VERSION_ID": 359,
+    "SCHEMA_VERSION": "v359.6.8",
+    "RELEASE_DATE": "2022-05-14"
+  },
+  {
+    "VERSION_ID": 360,
+    "SCHEMA_VERSION": "v360.4.6",
+    "RELEASE_DATE": "2022-04-03"
+  },
+  {
+    "VERSION_ID": 361,
+    "SCHEMA_VERSION": "v361.1.1",
+    "RELEASE_DATE": "2022-12-03"
+  },
+  {
+    "VERSION_ID": 362,
+    "SCHEMA_VERSION": "v362.0.5",
+    "RELEASE_DATE": "2022-09-16"
+  },
+  {
+    "VERSION_ID": 363,
+    "SCHEMA_VERSION": "v363.2.6",
+    "RELEASE_DATE": "2023-12-14"
+  },
+  {
+    "VERSION_ID": 364,
+    "SCHEMA_VERSION": "v364.0.9",
+    "RELEASE_DATE": "2023-02-11"
+  },
+  {
+    "VERSION_ID": 365,
+    "SCHEMA_VERSION": "v365.8.2",
+    "RELEASE_DATE": "2023-05-01"
+  },
+  {
+    "VERSION_ID": 366,
+    "SCHEMA_VERSION": "v366.6.7",
+    "RELEASE_DATE": "2023-05-17"
+  },
+  {
+    "VERSION_ID": 367,
+    "SCHEMA_VERSION": "v367.0.0",
+    "RELEASE_DATE": "2023-07-22"
+  },
+  {
+    "VERSION_ID": 368,
+    "SCHEMA_VERSION": "v368.6.1",
+    "RELEASE_DATE": "2023-05-27"
+  },
+  {
+    "VERSION_ID": 369,
+    "SCHEMA_VERSION": "v369.1.7",
+    "RELEASE_DATE": "2023-08-03"
+  },
+  {
+    "VERSION_ID": 370,
+    "SCHEMA_VERSION": "v370.5.2",
+    "RELEASE_DATE": "2023-03-07"
+  },
+  {
+    "VERSION_ID": 371,
+    "SCHEMA_VERSION": "v371.3.3",
+    "RELEASE_DATE": "2023-07-17"
+  },
+  {
+    "VERSION_ID": 372,
+    "SCHEMA_VERSION": "v372.6.6",
+    "RELEASE_DATE": "2023-11-11"
+  },
+  {
+    "VERSION_ID": 373,
+    "SCHEMA_VERSION": "v373.0.4",
+    "RELEASE_DATE": "2022-05-04"
+  },
+  {
+    "VERSION_ID": 374,
+    "SCHEMA_VERSION": "v374.7.6",
+    "RELEASE_DATE": "2023-04-28"
+  },
+  {
+    "VERSION_ID": 375,
+    "SCHEMA_VERSION": "v375.5.3",
+    "RELEASE_DATE": "2023-01-02"
+  },
+  {
+    "VERSION_ID": 376,
+    "SCHEMA_VERSION": "v376.6.4",
+    "RELEASE_DATE": "2022-09-03"
+  },
+  {
+    "VERSION_ID": 377,
+    "SCHEMA_VERSION": "v377.6.8",
+    "RELEASE_DATE": "2022-07-20"
+  },
+  {
+    "VERSION_ID": 378,
+    "SCHEMA_VERSION": "v378.7.4",
+    "RELEASE_DATE": "2023-06-23"
+  },
+  {
+    "VERSION_ID": 379,
+    "SCHEMA_VERSION": "v379.5.1",
+    "RELEASE_DATE": "2022-07-02"
+  },
+  {
+    "VERSION_ID": 380,
+    "SCHEMA_VERSION": "v380.7.5",
+    "RELEASE_DATE": "2023-10-04"
+  },
+  {
+    "VERSION_ID": 381,
+    "SCHEMA_VERSION": "v381.2.2",
+    "RELEASE_DATE": "2023-05-07"
+  },
+  {
+    "VERSION_ID": 382,
+    "SCHEMA_VERSION": "v382.2.5",
+    "RELEASE_DATE": "2023-11-07"
+  },
+  {
+    "VERSION_ID": 383,
+    "SCHEMA_VERSION": "v383.9.5",
+    "RELEASE_DATE": "2022-02-11"
+  },
+  {
+    "VERSION_ID": 384,
+    "SCHEMA_VERSION": "v384.4.7",
+    "RELEASE_DATE": "2022-08-24"
+  },
+  {
+    "VERSION_ID": 385,
+    "SCHEMA_VERSION": "v385.9.8",
+    "RELEASE_DATE": "2023-12-05"
+  },
+  {
+    "VERSION_ID": 386,
+    "SCHEMA_VERSION": "v386.9.8",
+    "RELEASE_DATE": "2023-04-02"
+  },
+  {
+    "VERSION_ID": 387,
+    "SCHEMA_VERSION": "v387.0.5",
+    "RELEASE_DATE": "2022-10-30"
+  },
+  {
+    "VERSION_ID": 388,
+    "SCHEMA_VERSION": "v388.2.6",
+    "RELEASE_DATE": "2022-10-20"
+  },
+  {
+    "VERSION_ID": 389,
+    "SCHEMA_VERSION": "v389.7.1",
+    "RELEASE_DATE": "2023-06-28"
+  },
+  {
+    "VERSION_ID": 390,
+    "SCHEMA_VERSION": "v390.6.1",
+    "RELEASE_DATE": "2022-05-30"
+  },
+  {
+    "VERSION_ID": 391,
+    "SCHEMA_VERSION": "v391.2.6",
+    "RELEASE_DATE": "2023-03-30"
+  },
+  {
+    "VERSION_ID": 392,
+    "SCHEMA_VERSION": "v392.9.3",
+    "RELEASE_DATE": "2023-07-06"
+  },
+  {
+    "VERSION_ID": 393,
+    "SCHEMA_VERSION": "v393.1.2",
+    "RELEASE_DATE": "2022-11-01"
+  },
+  {
+    "VERSION_ID": 394,
+    "SCHEMA_VERSION": "v394.3.8",
+    "RELEASE_DATE": "2023-08-23"
+  },
+  {
+    "VERSION_ID": 395,
+    "SCHEMA_VERSION": "v395.9.6",
+    "RELEASE_DATE": "2022-10-14"
+  },
+  {
+    "VERSION_ID": 396,
+    "SCHEMA_VERSION": "v396.4.8",
+    "RELEASE_DATE": "2023-03-15"
+  },
+  {
+    "VERSION_ID": 397,
+    "SCHEMA_VERSION": "v397.9.4",
+    "RELEASE_DATE": "2023-10-08"
+  },
+  {
+    "VERSION_ID": 398,
+    "SCHEMA_VERSION": "v398.9.1",
+    "RELEASE_DATE": "2023-05-26"
+  },
+  {
+    "VERSION_ID": 399,
+    "SCHEMA_VERSION": "v399.4.2",
+    "RELEASE_DATE": "2023-05-05"
+  },
+  {
+    "VERSION_ID": 400,
+    "SCHEMA_VERSION": "v400.3.7",
+    "RELEASE_DATE": "2023-07-23"
+  },
+  {
+    "VERSION_ID": 401,
+    "SCHEMA_VERSION": "v401.3.6",
+    "RELEASE_DATE": "2022-06-04"
+  },
+  {
+    "VERSION_ID": 402,
+    "SCHEMA_VERSION": "v402.6.4",
+    "RELEASE_DATE": "2022-11-23"
+  },
+  {
+    "VERSION_ID": 403,
+    "SCHEMA_VERSION": "v403.6.5",
+    "RELEASE_DATE": "2022-10-07"
+  },
+  {
+    "VERSION_ID": 404,
+    "SCHEMA_VERSION": "v404.1.4",
+    "RELEASE_DATE": "2023-04-26"
+  },
+  {
+    "VERSION_ID": 405,
+    "SCHEMA_VERSION": "v405.7.1",
+    "RELEASE_DATE": "2022-12-16"
+  },
+  {
+    "VERSION_ID": 406,
+    "SCHEMA_VERSION": "v406.5.6",
+    "RELEASE_DATE": "2023-04-04"
+  },
+  {
+    "VERSION_ID": 407,
+    "SCHEMA_VERSION": "v407.0.0",
+    "RELEASE_DATE": "2022-07-22"
+  },
+  {
+    "VERSION_ID": 408,
+    "SCHEMA_VERSION": "v408.2.6",
+    "RELEASE_DATE": "2022-10-28"
+  },
+  {
+    "VERSION_ID": 409,
+    "SCHEMA_VERSION": "v409.5.8",
+    "RELEASE_DATE": "2022-01-06"
+  },
+  {
+    "VERSION_ID": 410,
+    "SCHEMA_VERSION": "v410.4.6",
+    "RELEASE_DATE": "2023-12-06"
+  },
+  {
+    "VERSION_ID": 411,
+    "SCHEMA_VERSION": "v411.7.5",
+    "RELEASE_DATE": "2023-06-28"
+  },
+  {
+    "VERSION_ID": 412,
+    "SCHEMA_VERSION": "v412.4.7",
+    "RELEASE_DATE": "2023-08-16"
+  },
+  {
+    "VERSION_ID": 413,
+    "SCHEMA_VERSION": "v413.5.7",
+    "RELEASE_DATE": "2023-07-22"
+  },
+  {
+    "VERSION_ID": 414,
+    "SCHEMA_VERSION": "v414.0.1",
+    "RELEASE_DATE": "2022-02-27"
+  },
+  {
+    "VERSION_ID": 415,
+    "SCHEMA_VERSION": "v415.6.3",
+    "RELEASE_DATE": "2023-12-05"
+  },
+  {
+    "VERSION_ID": 416,
+    "SCHEMA_VERSION": "v416.6.1",
+    "RELEASE_DATE": "2022-05-08"
+  },
+  {
+    "VERSION_ID": 417,
+    "SCHEMA_VERSION": "v417.1.7",
+    "RELEASE_DATE": "2022-02-12"
+  },
+  {
+    "VERSION_ID": 418,
+    "SCHEMA_VERSION": "v418.4.6",
+    "RELEASE_DATE": "2022-01-20"
+  },
+  {
+    "VERSION_ID": 419,
+    "SCHEMA_VERSION": "v419.3.9",
+    "RELEASE_DATE": "2022-05-18"
+  },
+  {
+    "VERSION_ID": 420,
+    "SCHEMA_VERSION": "v420.5.4",
+    "RELEASE_DATE": "2023-07-05"
+  },
+  {
+    "VERSION_ID": 421,
+    "SCHEMA_VERSION": "v421.7.1",
+    "RELEASE_DATE": "2023-10-22"
+  },
+  {
+    "VERSION_ID": 422,
+    "SCHEMA_VERSION": "v422.7.8",
+    "RELEASE_DATE": "2022-10-28"
+  },
+  {
+    "VERSION_ID": 423,
+    "SCHEMA_VERSION": "v423.2.2",
+    "RELEASE_DATE": "2022-05-25"
+  },
+  {
+    "VERSION_ID": 424,
+    "SCHEMA_VERSION": "v424.4.2",
+    "RELEASE_DATE": "2023-06-20"
+  },
+  {
+    "VERSION_ID": 425,
+    "SCHEMA_VERSION": "v425.3.7",
+    "RELEASE_DATE": "2022-01-22"
+  },
+  {
+    "VERSION_ID": 426,
+    "SCHEMA_VERSION": "v426.7.9",
+    "RELEASE_DATE": "2023-07-07"
+  },
+  {
+    "VERSION_ID": 427,
+    "SCHEMA_VERSION": "v427.1.7",
+    "RELEASE_DATE": "2022-06-12"
+  },
+  {
+    "VERSION_ID": 428,
+    "SCHEMA_VERSION": "v428.5.8",
+    "RELEASE_DATE": "2022-01-23"
+  },
+  {
+    "VERSION_ID": 429,
+    "SCHEMA_VERSION": "v429.7.7",
+    "RELEASE_DATE": "2022-04-03"
+  },
+  {
+    "VERSION_ID": 430,
+    "SCHEMA_VERSION": "v430.2.1",
+    "RELEASE_DATE": "2023-03-30"
+  },
+  {
+    "VERSION_ID": 431,
+    "SCHEMA_VERSION": "v431.0.7",
+    "RELEASE_DATE": "2023-05-27"
+  },
+  {
+    "VERSION_ID": 432,
+    "SCHEMA_VERSION": "v432.4.9",
+    "RELEASE_DATE": "2022-02-09"
+  },
+  {
+    "VERSION_ID": 433,
+    "SCHEMA_VERSION": "v433.3.9",
+    "RELEASE_DATE": "2022-07-05"
+  },
+  {
+    "VERSION_ID": 434,
+    "SCHEMA_VERSION": "v434.7.5",
+    "RELEASE_DATE": "2023-04-28"
+  },
+  {
+    "VERSION_ID": 435,
+    "SCHEMA_VERSION": "v435.6.1",
+    "RELEASE_DATE": "2023-09-25"
+  },
+  {
+    "VERSION_ID": 436,
+    "SCHEMA_VERSION": "v436.2.4",
+    "RELEASE_DATE": "2022-04-06"
+  },
+  {
+    "VERSION_ID": 437,
+    "SCHEMA_VERSION": "v437.7.1",
+    "RELEASE_DATE": "2022-07-28"
+  },
+  {
+    "VERSION_ID": 438,
+    "SCHEMA_VERSION": "v438.7.7",
+    "RELEASE_DATE": "2022-11-27"
+  },
+  {
+    "VERSION_ID": 439,
+    "SCHEMA_VERSION": "v439.5.7",
+    "RELEASE_DATE": "2022-11-07"
+  },
+  {
+    "VERSION_ID": 440,
+    "SCHEMA_VERSION": "v440.1.9",
+    "RELEASE_DATE": "2023-07-08"
+  },
+  {
+    "VERSION_ID": 441,
+    "SCHEMA_VERSION": "v441.4.2",
+    "RELEASE_DATE": "2022-08-29"
+  },
+  {
+    "VERSION_ID": 442,
+    "SCHEMA_VERSION": "v442.9.0",
+    "RELEASE_DATE": "2023-06-28"
+  },
+  {
+    "VERSION_ID": 443,
+    "SCHEMA_VERSION": "v443.8.1",
+    "RELEASE_DATE": "2022-12-23"
+  },
+  {
+    "VERSION_ID": 444,
+    "SCHEMA_VERSION": "v444.5.3",
+    "RELEASE_DATE": "2023-08-19"
+  },
+  {
+    "VERSION_ID": 445,
+    "SCHEMA_VERSION": "v445.1.9",
+    "RELEASE_DATE": "2022-02-12"
+  },
+  {
+    "VERSION_ID": 446,
+    "SCHEMA_VERSION": "v446.1.6",
+    "RELEASE_DATE": "2023-10-18"
+  },
+  {
+    "VERSION_ID": 447,
+    "SCHEMA_VERSION": "v447.9.4",
+    "RELEASE_DATE": "2022-06-03"
+  },
+  {
+    "VERSION_ID": 448,
+    "SCHEMA_VERSION": "v448.1.4",
+    "RELEASE_DATE": "2023-09-21"
+  },
+  {
+    "VERSION_ID": 449,
+    "SCHEMA_VERSION": "v449.3.3",
+    "RELEASE_DATE": "2023-05-18"
+  },
+  {
+    "VERSION_ID": 450,
+    "SCHEMA_VERSION": "v450.5.3",
+    "RELEASE_DATE": "2023-08-11"
+  },
+  {
+    "VERSION_ID": 451,
+    "SCHEMA_VERSION": "v451.1.3",
+    "RELEASE_DATE": "2023-05-07"
+  },
+  {
+    "VERSION_ID": 452,
+    "SCHEMA_VERSION": "v452.2.3",
+    "RELEASE_DATE": "2023-01-10"
+  },
+  {
+    "VERSION_ID": 453,
+    "SCHEMA_VERSION": "v453.6.1",
+    "RELEASE_DATE": "2023-03-19"
+  },
+  {
+    "VERSION_ID": 454,
+    "SCHEMA_VERSION": "v454.9.2",
+    "RELEASE_DATE": "2023-08-02"
+  },
+  {
+    "VERSION_ID": 455,
+    "SCHEMA_VERSION": "v455.3.4",
+    "RELEASE_DATE": "2023-04-08"
+  },
+  {
+    "VERSION_ID": 456,
+    "SCHEMA_VERSION": "v456.3.2",
+    "RELEASE_DATE": "2022-11-13"
+  },
+  {
+    "VERSION_ID": 457,
+    "SCHEMA_VERSION": "v457.0.1",
+    "RELEASE_DATE": "2023-03-26"
+  },
+  {
+    "VERSION_ID": 458,
+    "SCHEMA_VERSION": "v458.4.6",
+    "RELEASE_DATE": "2022-04-17"
+  },
+  {
+    "VERSION_ID": 459,
+    "SCHEMA_VERSION": "v459.7.3",
+    "RELEASE_DATE": "2023-10-08"
+  },
+  {
+    "VERSION_ID": 460,
+    "SCHEMA_VERSION": "v460.3.2",
+    "RELEASE_DATE": "2023-01-28"
+  },
+  {
+    "VERSION_ID": 461,
+    "SCHEMA_VERSION": "v461.7.2",
+    "RELEASE_DATE": "2022-07-28"
+  },
+  {
+    "VERSION_ID": 462,
+    "SCHEMA_VERSION": "v462.2.0",
+    "RELEASE_DATE": "2022-05-26"
+  },
+  {
+    "VERSION_ID": 463,
+    "SCHEMA_VERSION": "v463.8.6",
+    "RELEASE_DATE": "2023-08-22"
+  },
+  {
+    "VERSION_ID": 464,
+    "SCHEMA_VERSION": "v464.3.7",
+    "RELEASE_DATE": "2023-07-02"
+  },
+  {
+    "VERSION_ID": 465,
+    "SCHEMA_VERSION": "v465.6.7",
+    "RELEASE_DATE": "2022-07-21"
+  },
+  {
+    "VERSION_ID": 466,
+    "SCHEMA_VERSION": "v466.7.2",
+    "RELEASE_DATE": "2022-09-11"
+  },
+  {
+    "VERSION_ID": 467,
+    "SCHEMA_VERSION": "v467.0.6",
+    "RELEASE_DATE": "2022-05-09"
+  },
+  {
+    "VERSION_ID": 468,
+    "SCHEMA_VERSION": "v468.4.1",
+    "RELEASE_DATE": "2022-07-12"
+  },
+  {
+    "VERSION_ID": 469,
+    "SCHEMA_VERSION": "v469.7.0",
+    "RELEASE_DATE": "2023-04-29"
+  },
+  {
+    "VERSION_ID": 470,
+    "SCHEMA_VERSION": "v470.4.0",
+    "RELEASE_DATE": "2022-12-21"
+  },
+  {
+    "VERSION_ID": 471,
+    "SCHEMA_VERSION": "v471.4.9",
+    "RELEASE_DATE": "2023-09-13"
+  },
+  {
+    "VERSION_ID": 472,
+    "SCHEMA_VERSION": "v472.5.3",
+    "RELEASE_DATE": "2023-10-19"
+  },
+  {
+    "VERSION_ID": 473,
+    "SCHEMA_VERSION": "v473.5.4",
+    "RELEASE_DATE": "2023-01-07"
+  },
+  {
+    "VERSION_ID": 474,
+    "SCHEMA_VERSION": "v474.1.5",
+    "RELEASE_DATE": "2022-11-30"
+  },
+  {
+    "VERSION_ID": 475,
+    "SCHEMA_VERSION": "v475.4.3",
+    "RELEASE_DATE": "2022-06-11"
+  },
+  {
+    "VERSION_ID": 476,
+    "SCHEMA_VERSION": "v476.8.8",
+    "RELEASE_DATE": "2022-10-12"
+  },
+  {
+    "VERSION_ID": 477,
+    "SCHEMA_VERSION": "v477.0.6",
+    "RELEASE_DATE": "2023-09-21"
+  },
+  {
+    "VERSION_ID": 478,
+    "SCHEMA_VERSION": "v478.2.4",
+    "RELEASE_DATE": "2023-01-30"
+  },
+  {
+    "VERSION_ID": 479,
+    "SCHEMA_VERSION": "v479.7.8",
+    "RELEASE_DATE": "2023-10-22"
+  },
+  {
+    "VERSION_ID": 480,
+    "SCHEMA_VERSION": "v480.5.0",
+    "RELEASE_DATE": "2023-05-21"
+  },
+  {
+    "VERSION_ID": 481,
+    "SCHEMA_VERSION": "v481.0.2",
+    "RELEASE_DATE": "2023-03-10"
+  },
+  {
+    "VERSION_ID": 482,
+    "SCHEMA_VERSION": "v482.0.6",
+    "RELEASE_DATE": "2022-07-22"
+  },
+  {
+    "VERSION_ID": 483,
+    "SCHEMA_VERSION": "v483.5.3",
+    "RELEASE_DATE": "2022-08-21"
+  },
+  {
+    "VERSION_ID": 484,
+    "SCHEMA_VERSION": "v484.4.1",
+    "RELEASE_DATE": "2023-01-09"
+  },
+  {
+    "VERSION_ID": 485,
+    "SCHEMA_VERSION": "v485.6.1",
+    "RELEASE_DATE": "2022-11-27"
+  },
+  {
+    "VERSION_ID": 486,
+    "SCHEMA_VERSION": "v486.5.1",
+    "RELEASE_DATE": "2023-06-08"
+  },
+  {
+    "VERSION_ID": 487,
+    "SCHEMA_VERSION": "v487.4.1",
+    "RELEASE_DATE": "2022-10-19"
+  },
+  {
+    "VERSION_ID": 488,
+    "SCHEMA_VERSION": "v488.9.6",
+    "RELEASE_DATE": "2023-05-24"
+  },
+  {
+    "VERSION_ID": 489,
+    "SCHEMA_VERSION": "v489.8.5",
+    "RELEASE_DATE": "2022-06-17"
+  },
+  {
+    "VERSION_ID": 490,
+    "SCHEMA_VERSION": "v490.6.5",
+    "RELEASE_DATE": "2023-05-07"
+  },
+  {
+    "VERSION_ID": 491,
+    "SCHEMA_VERSION": "v491.2.0",
+    "RELEASE_DATE": "2022-04-08"
+  },
+  {
+    "VERSION_ID": 492,
+    "SCHEMA_VERSION": "v492.2.2",
+    "RELEASE_DATE": "2022-07-25"
+  },
+  {
+    "VERSION_ID": 493,
+    "SCHEMA_VERSION": "v493.1.7",
+    "RELEASE_DATE": "2023-07-06"
+  },
+  {
+    "VERSION_ID": 494,
+    "SCHEMA_VERSION": "v494.5.3",
+    "RELEASE_DATE": "2022-11-17"
+  },
+  {
+    "VERSION_ID": 495,
+    "SCHEMA_VERSION": "v495.4.6",
+    "RELEASE_DATE": "2022-03-04"
+  },
+  {
+    "VERSION_ID": 496,
+    "SCHEMA_VERSION": "v496.8.1",
+    "RELEASE_DATE": "2022-11-28"
+  },
+  {
+    "VERSION_ID": 497,
+    "SCHEMA_VERSION": "v497.6.2",
+    "RELEASE_DATE": "2023-09-23"
+  },
+  {
+    "VERSION_ID": 498,
+    "SCHEMA_VERSION": "v498.1.7",
+    "RELEASE_DATE": "2022-07-11"
+  },
+  {
+    "VERSION_ID": 499,
+    "SCHEMA_VERSION": "v499.2.8",
+    "RELEASE_DATE": "2023-03-28"
+  },
+  {
+    "VERSION_ID": 500,
+    "SCHEMA_VERSION": "v500.5.3",
+    "RELEASE_DATE": "2022-09-25"
+  },
+  {
+    "VERSION_ID": 501,
+    "SCHEMA_VERSION": "v501.3.4",
+    "RELEASE_DATE": "2022-06-07"
+  },
+  {
+    "VERSION_ID": 502,
+    "SCHEMA_VERSION": "v502.4.2",
+    "RELEASE_DATE": "2022-07-08"
+  },
+  {
+    "VERSION_ID": 503,
+    "SCHEMA_VERSION": "v503.7.0",
+    "RELEASE_DATE": "2022-08-18"
+  },
+  {
+    "VERSION_ID": 504,
+    "SCHEMA_VERSION": "v504.7.6",
+    "RELEASE_DATE": "2023-02-20"
+  },
+  {
+    "VERSION_ID": 505,
+    "SCHEMA_VERSION": "v505.2.1",
+    "RELEASE_DATE": "2022-03-06"
+  },
+  {
+    "VERSION_ID": 506,
+    "SCHEMA_VERSION": "v506.5.0",
+    "RELEASE_DATE": "2022-12-10"
+  },
+  {
+    "VERSION_ID": 507,
+    "SCHEMA_VERSION": "v507.9.4",
+    "RELEASE_DATE": "2023-09-23"
+  },
+  {
+    "VERSION_ID": 508,
+    "SCHEMA_VERSION": "v508.1.1",
+    "RELEASE_DATE": "2022-09-06"
+  },
+  {
+    "VERSION_ID": 509,
+    "SCHEMA_VERSION": "v509.4.6",
+    "RELEASE_DATE": "2023-03-28"
+  },
+  {
+    "VERSION_ID": 510,
+    "SCHEMA_VERSION": "v510.7.0",
+    "RELEASE_DATE": "2023-05-12"
+  },
+  {
+    "VERSION_ID": 511,
+    "SCHEMA_VERSION": "v511.3.2",
+    "RELEASE_DATE": "2022-03-20"
+  },
+  {
+    "VERSION_ID": 512,
+    "SCHEMA_VERSION": "v512.3.2",
+    "RELEASE_DATE": "2023-08-16"
+  },
+  {
+    "VERSION_ID": 513,
+    "SCHEMA_VERSION": "v513.3.8",
+    "RELEASE_DATE": "2023-11-03"
+  },
+  {
+    "VERSION_ID": 514,
+    "SCHEMA_VERSION": "v514.7.8",
+    "RELEASE_DATE": "2023-09-01"
+  },
+  {
+    "VERSION_ID": 515,
+    "SCHEMA_VERSION": "v515.6.5",
+    "RELEASE_DATE": "2023-07-09"
+  },
+  {
+    "VERSION_ID": 516,
+    "SCHEMA_VERSION": "v516.9.2",
+    "RELEASE_DATE": "2023-03-21"
+  },
+  {
+    "VERSION_ID": 517,
+    "SCHEMA_VERSION": "v517.4.6",
+    "RELEASE_DATE": "2022-10-12"
+  },
+  {
+    "VERSION_ID": 518,
+    "SCHEMA_VERSION": "v518.0.9",
+    "RELEASE_DATE": "2022-03-17"
+  },
+  {
+    "VERSION_ID": 519,
+    "SCHEMA_VERSION": "v519.6.3",
+    "RELEASE_DATE": "2022-05-13"
+  },
+  {
+    "VERSION_ID": 520,
+    "SCHEMA_VERSION": "v520.3.4",
+    "RELEASE_DATE": "2022-04-24"
+  },
+  {
+    "VERSION_ID": 521,
+    "SCHEMA_VERSION": "v521.7.4",
+    "RELEASE_DATE": "2023-05-11"
+  },
+  {
+    "VERSION_ID": 522,
+    "SCHEMA_VERSION": "v522.0.6",
+    "RELEASE_DATE": "2023-12-07"
+  },
+  {
+    "VERSION_ID": 523,
+    "SCHEMA_VERSION": "v523.3.1",
+    "RELEASE_DATE": "2022-01-16"
+  },
+  {
+    "VERSION_ID": 524,
+    "SCHEMA_VERSION": "v524.3.3",
+    "RELEASE_DATE": "2022-01-11"
+  },
+  {
+    "VERSION_ID": 525,
+    "SCHEMA_VERSION": "v525.4.9",
+    "RELEASE_DATE": "2023-08-31"
+  },
+  {
+    "VERSION_ID": 526,
+    "SCHEMA_VERSION": "v526.0.7",
+    "RELEASE_DATE": "2023-12-27"
+  },
+  {
+    "VERSION_ID": 527,
+    "SCHEMA_VERSION": "v527.4.8",
+    "RELEASE_DATE": "2022-06-09"
+  },
+  {
+    "VERSION_ID": 528,
+    "SCHEMA_VERSION": "v528.7.0",
+    "RELEASE_DATE": "2023-09-04"
+  },
+  {
+    "VERSION_ID": 529,
+    "SCHEMA_VERSION": "v529.2.7",
+    "RELEASE_DATE": "2022-06-24"
+  },
+  {
+    "VERSION_ID": 530,
+    "SCHEMA_VERSION": "v530.3.5",
+    "RELEASE_DATE": "2023-11-14"
+  },
+  {
+    "VERSION_ID": 531,
+    "SCHEMA_VERSION": "v531.8.1",
+    "RELEASE_DATE": "2023-07-02"
+  },
+  {
+    "VERSION_ID": 532,
+    "SCHEMA_VERSION": "v532.0.3",
+    "RELEASE_DATE": "2023-09-05"
+  },
+  {
+    "VERSION_ID": 533,
+    "SCHEMA_VERSION": "v533.5.2",
+    "RELEASE_DATE": "2023-02-20"
+  },
+  {
+    "VERSION_ID": 534,
+    "SCHEMA_VERSION": "v534.3.9",
+    "RELEASE_DATE": "2023-06-14"
+  },
+  {
+    "VERSION_ID": 535,
+    "SCHEMA_VERSION": "v535.0.3",
+    "RELEASE_DATE": "2022-01-15"
+  },
+  {
+    "VERSION_ID": 536,
+    "SCHEMA_VERSION": "v536.8.7",
+    "RELEASE_DATE": "2023-03-25"
+  },
+  {
+    "VERSION_ID": 537,
+    "SCHEMA_VERSION": "v537.0.4",
+    "RELEASE_DATE": "2023-09-21"
+  },
+  {
+    "VERSION_ID": 538,
+    "SCHEMA_VERSION": "v538.7.1",
+    "RELEASE_DATE": "2022-03-02"
+  },
+  {
+    "VERSION_ID": 539,
+    "SCHEMA_VERSION": "v539.3.2",
+    "RELEASE_DATE": "2023-11-04"
+  },
+  {
+    "VERSION_ID": 540,
+    "SCHEMA_VERSION": "v540.3.2",
+    "RELEASE_DATE": "2022-03-15"
+  },
+  {
+    "VERSION_ID": 541,
+    "SCHEMA_VERSION": "v541.7.3",
+    "RELEASE_DATE": "2022-08-18"
+  },
+  {
+    "VERSION_ID": 542,
+    "SCHEMA_VERSION": "v542.0.1",
+    "RELEASE_DATE": "2023-05-15"
+  },
+  {
+    "VERSION_ID": 543,
+    "SCHEMA_VERSION": "v543.1.7",
+    "RELEASE_DATE": "2022-09-03"
+  },
+  {
+    "VERSION_ID": 544,
+    "SCHEMA_VERSION": "v544.7.9",
+    "RELEASE_DATE": "2023-05-28"
+  },
+  {
+    "VERSION_ID": 545,
+    "SCHEMA_VERSION": "v545.3.8",
+    "RELEASE_DATE": "2023-05-21"
+  },
+  {
+    "VERSION_ID": 546,
+    "SCHEMA_VERSION": "v546.3.4",
+    "RELEASE_DATE": "2022-12-27"
+  },
+  {
+    "VERSION_ID": 547,
+    "SCHEMA_VERSION": "v547.2.1",
+    "RELEASE_DATE": "2022-07-26"
+  },
+  {
+    "VERSION_ID": 548,
+    "SCHEMA_VERSION": "v548.7.1",
+    "RELEASE_DATE": "2022-01-12"
+  },
+  {
+    "VERSION_ID": 549,
+    "SCHEMA_VERSION": "v549.6.9",
+    "RELEASE_DATE": "2023-10-14"
+  },
+  {
+    "VERSION_ID": 550,
+    "SCHEMA_VERSION": "v550.8.2",
+    "RELEASE_DATE": "2022-05-07"
+  },
+  {
+    "VERSION_ID": 551,
+    "SCHEMA_VERSION": "v551.6.9",
+    "RELEASE_DATE": "2022-10-15"
+  },
+  {
+    "VERSION_ID": 552,
+    "SCHEMA_VERSION": "v552.7.4",
+    "RELEASE_DATE": "2023-05-24"
+  },
+  {
+    "VERSION_ID": 553,
+    "SCHEMA_VERSION": "v553.6.6",
+    "RELEASE_DATE": "2023-07-19"
+  },
+  {
+    "VERSION_ID": 554,
+    "SCHEMA_VERSION": "v554.2.2",
+    "RELEASE_DATE": "2023-09-06"
+  },
+  {
+    "VERSION_ID": 555,
+    "SCHEMA_VERSION": "v555.1.0",
+    "RELEASE_DATE": "2023-09-06"
+  },
+  {
+    "VERSION_ID": 556,
+    "SCHEMA_VERSION": "v556.3.9",
+    "RELEASE_DATE": "2022-08-09"
+  },
+  {
+    "VERSION_ID": 557,
+    "SCHEMA_VERSION": "v557.1.9",
+    "RELEASE_DATE": "2022-12-27"
+  },
+  {
+    "VERSION_ID": 558,
+    "SCHEMA_VERSION": "v558.5.3",
+    "RELEASE_DATE": "2023-02-02"
+  },
+  {
+    "VERSION_ID": 559,
+    "SCHEMA_VERSION": "v559.4.8",
+    "RELEASE_DATE": "2023-11-10"
+  },
+  {
+    "VERSION_ID": 560,
+    "SCHEMA_VERSION": "v560.3.0",
+    "RELEASE_DATE": "2023-09-09"
+  },
+  {
+    "VERSION_ID": 561,
+    "SCHEMA_VERSION": "v561.0.5",
+    "RELEASE_DATE": "2022-09-05"
+  },
+  {
+    "VERSION_ID": 562,
+    "SCHEMA_VERSION": "v562.2.7",
+    "RELEASE_DATE": "2023-02-13"
+  },
+  {
+    "VERSION_ID": 563,
+    "SCHEMA_VERSION": "v563.5.4",
+    "RELEASE_DATE": "2023-05-15"
+  },
+  {
+    "VERSION_ID": 564,
+    "SCHEMA_VERSION": "v564.2.9",
+    "RELEASE_DATE": "2023-01-08"
+  },
+  {
+    "VERSION_ID": 565,
+    "SCHEMA_VERSION": "v565.1.0",
+    "RELEASE_DATE": "2023-03-18"
+  },
+  {
+    "VERSION_ID": 566,
+    "SCHEMA_VERSION": "v566.6.7",
+    "RELEASE_DATE": "2023-02-05"
+  },
+  {
+    "VERSION_ID": 567,
+    "SCHEMA_VERSION": "v567.4.4",
+    "RELEASE_DATE": "2022-10-24"
+  },
+  {
+    "VERSION_ID": 568,
+    "SCHEMA_VERSION": "v568.9.6",
+    "RELEASE_DATE": "2022-01-03"
+  },
+  {
+    "VERSION_ID": 569,
+    "SCHEMA_VERSION": "v569.7.9",
+    "RELEASE_DATE": "2023-12-07"
+  },
+  {
+    "VERSION_ID": 570,
+    "SCHEMA_VERSION": "v570.5.9",
+    "RELEASE_DATE": "2022-02-15"
+  },
+  {
+    "VERSION_ID": 571,
+    "SCHEMA_VERSION": "v571.9.4",
+    "RELEASE_DATE": "2022-08-22"
+  },
+  {
+    "VERSION_ID": 572,
+    "SCHEMA_VERSION": "v572.0.0",
+    "RELEASE_DATE": "2023-04-02"
+  },
+  {
+    "VERSION_ID": 573,
+    "SCHEMA_VERSION": "v573.1.2",
+    "RELEASE_DATE": "2022-08-29"
+  },
+  {
+    "VERSION_ID": 574,
+    "SCHEMA_VERSION": "v574.1.4",
+    "RELEASE_DATE": "2022-07-24"
+  },
+  {
+    "VERSION_ID": 575,
+    "SCHEMA_VERSION": "v575.5.3",
+    "RELEASE_DATE": "2023-07-25"
+  },
+  {
+    "VERSION_ID": 576,
+    "SCHEMA_VERSION": "v576.1.8",
+    "RELEASE_DATE": "2022-07-30"
+  },
+  {
+    "VERSION_ID": 577,
+    "SCHEMA_VERSION": "v577.0.2",
+    "RELEASE_DATE": "2022-05-15"
+  },
+  {
+    "VERSION_ID": 578,
+    "SCHEMA_VERSION": "v578.9.7",
+    "RELEASE_DATE": "2023-12-10"
+  },
+  {
+    "VERSION_ID": 579,
+    "SCHEMA_VERSION": "v579.9.2",
+    "RELEASE_DATE": "2023-12-03"
+  },
+  {
+    "VERSION_ID": 580,
+    "SCHEMA_VERSION": "v580.1.5",
+    "RELEASE_DATE": "2023-03-01"
+  },
+  {
+    "VERSION_ID": 581,
+    "SCHEMA_VERSION": "v581.6.8",
+    "RELEASE_DATE": "2022-10-07"
+  },
+  {
+    "VERSION_ID": 582,
+    "SCHEMA_VERSION": "v582.5.8",
+    "RELEASE_DATE": "2023-11-20"
+  },
+  {
+    "VERSION_ID": 583,
+    "SCHEMA_VERSION": "v583.6.1",
+    "RELEASE_DATE": "2022-03-11"
+  },
+  {
+    "VERSION_ID": 584,
+    "SCHEMA_VERSION": "v584.8.0",
+    "RELEASE_DATE": "2022-11-14"
+  },
+  {
+    "VERSION_ID": 585,
+    "SCHEMA_VERSION": "v585.2.8",
+    "RELEASE_DATE": "2022-10-17"
+  },
+  {
+    "VERSION_ID": 586,
+    "SCHEMA_VERSION": "v586.6.1",
+    "RELEASE_DATE": "2022-12-27"
+  },
+  {
+    "VERSION_ID": 587,
+    "SCHEMA_VERSION": "v587.4.5",
+    "RELEASE_DATE": "2023-01-27"
+  },
+  {
+    "VERSION_ID": 588,
+    "SCHEMA_VERSION": "v588.8.9",
+    "RELEASE_DATE": "2022-05-24"
+  },
+  {
+    "VERSION_ID": 589,
+    "SCHEMA_VERSION": "v589.4.6",
+    "RELEASE_DATE": "2022-03-15"
+  },
+  {
+    "VERSION_ID": 590,
+    "SCHEMA_VERSION": "v590.7.3",
+    "RELEASE_DATE": "2023-09-05"
+  },
+  {
+    "VERSION_ID": 591,
+    "SCHEMA_VERSION": "v591.7.1",
+    "RELEASE_DATE": "2022-03-15"
+  },
+  {
+    "VERSION_ID": 592,
+    "SCHEMA_VERSION": "v592.8.6",
+    "RELEASE_DATE": "2023-06-27"
+  },
+  {
+    "VERSION_ID": 593,
+    "SCHEMA_VERSION": "v593.0.5",
+    "RELEASE_DATE": "2022-04-11"
+  },
+  {
+    "VERSION_ID": 594,
+    "SCHEMA_VERSION": "v594.3.4",
+    "RELEASE_DATE": "2022-06-09"
+  },
+  {
+    "VERSION_ID": 595,
+    "SCHEMA_VERSION": "v595.8.6",
+    "RELEASE_DATE": "2022-07-07"
+  },
+  {
+    "VERSION_ID": 596,
+    "SCHEMA_VERSION": "v596.0.3",
+    "RELEASE_DATE": "2022-08-18"
+  },
+  {
+    "VERSION_ID": 597,
+    "SCHEMA_VERSION": "v597.5.3",
+    "RELEASE_DATE": "2022-08-27"
+  },
+  {
+    "VERSION_ID": 598,
+    "SCHEMA_VERSION": "v598.2.5",
+    "RELEASE_DATE": "2022-04-10"
+  },
+  {
+    "VERSION_ID": 599,
+    "SCHEMA_VERSION": "v599.8.5",
+    "RELEASE_DATE": "2023-02-17"
+  },
+  {
+    "VERSION_ID": 600,
+    "SCHEMA_VERSION": "v600.2.4",
+    "RELEASE_DATE": "2023-07-02"
+  },
+  {
+    "VERSION_ID": 601,
+    "SCHEMA_VERSION": "v601.2.2",
+    "RELEASE_DATE": "2023-04-15"
+  },
+  {
+    "VERSION_ID": 602,
+    "SCHEMA_VERSION": "v602.5.2",
+    "RELEASE_DATE": "2022-09-12"
+  },
+  {
+    "VERSION_ID": 603,
+    "SCHEMA_VERSION": "v603.3.0",
+    "RELEASE_DATE": "2023-02-03"
+  },
+  {
+    "VERSION_ID": 604,
+    "SCHEMA_VERSION": "v604.2.7",
+    "RELEASE_DATE": "2022-04-01"
+  },
+  {
+    "VERSION_ID": 605,
+    "SCHEMA_VERSION": "v605.6.3",
+    "RELEASE_DATE": "2023-08-20"
+  },
+  {
+    "VERSION_ID": 606,
+    "SCHEMA_VERSION": "v606.5.4",
+    "RELEASE_DATE": "2022-05-21"
+  },
+  {
+    "VERSION_ID": 607,
+    "SCHEMA_VERSION": "v607.3.5",
+    "RELEASE_DATE": "2023-06-05"
+  },
+  {
+    "VERSION_ID": 608,
+    "SCHEMA_VERSION": "v608.2.0",
+    "RELEASE_DATE": "2022-07-11"
+  },
+  {
+    "VERSION_ID": 609,
+    "SCHEMA_VERSION": "v609.4.8",
+    "RELEASE_DATE": "2022-01-16"
+  },
+  {
+    "VERSION_ID": 610,
+    "SCHEMA_VERSION": "v610.0.8",
+    "RELEASE_DATE": "2022-03-18"
+  },
+  {
+    "VERSION_ID": 611,
+    "SCHEMA_VERSION": "v611.2.5",
+    "RELEASE_DATE": "2022-11-24"
+  },
+  {
+    "VERSION_ID": 612,
+    "SCHEMA_VERSION": "v612.1.1",
+    "RELEASE_DATE": "2023-08-16"
+  },
+  {
+    "VERSION_ID": 613,
+    "SCHEMA_VERSION": "v613.9.8",
+    "RELEASE_DATE": "2023-12-31"
+  },
+  {
+    "VERSION_ID": 614,
+    "SCHEMA_VERSION": "v614.5.2",
+    "RELEASE_DATE": "2022-03-10"
+  },
+  {
+    "VERSION_ID": 615,
+    "SCHEMA_VERSION": "v615.2.4",
+    "RELEASE_DATE": "2023-08-08"
+  },
+  {
+    "VERSION_ID": 616,
+    "SCHEMA_VERSION": "v616.8.3",
+    "RELEASE_DATE": "2022-05-19"
+  },
+  {
+    "VERSION_ID": 617,
+    "SCHEMA_VERSION": "v617.8.4",
+    "RELEASE_DATE": "2023-07-07"
+  },
+  {
+    "VERSION_ID": 618,
+    "SCHEMA_VERSION": "v618.5.5",
+    "RELEASE_DATE": "2022-07-03"
+  },
+  {
+    "VERSION_ID": 619,
+    "SCHEMA_VERSION": "v619.3.8",
+    "RELEASE_DATE": "2022-08-27"
+  },
+  {
+    "VERSION_ID": 620,
+    "SCHEMA_VERSION": "v620.6.7",
+    "RELEASE_DATE": "2022-06-05"
+  },
+  {
+    "VERSION_ID": 621,
+    "SCHEMA_VERSION": "v621.7.7",
+    "RELEASE_DATE": "2022-04-07"
+  },
+  {
+    "VERSION_ID": 622,
+    "SCHEMA_VERSION": "v622.0.0",
+    "RELEASE_DATE": "2022-10-10"
+  },
+  {
+    "VERSION_ID": 623,
+    "SCHEMA_VERSION": "v623.5.5",
+    "RELEASE_DATE": "2022-09-19"
+  },
+  {
+    "VERSION_ID": 624,
+    "SCHEMA_VERSION": "v624.7.8",
+    "RELEASE_DATE": "2023-02-08"
+  },
+  {
+    "VERSION_ID": 625,
+    "SCHEMA_VERSION": "v625.0.6",
+    "RELEASE_DATE": "2023-05-20"
+  },
+  {
+    "VERSION_ID": 626,
+    "SCHEMA_VERSION": "v626.3.0",
+    "RELEASE_DATE": "2023-01-25"
+  },
+  {
+    "VERSION_ID": 627,
+    "SCHEMA_VERSION": "v627.1.2",
+    "RELEASE_DATE": "2023-09-16"
+  },
+  {
+    "VERSION_ID": 628,
+    "SCHEMA_VERSION": "v628.4.2",
+    "RELEASE_DATE": "2023-07-04"
+  },
+  {
+    "VERSION_ID": 629,
+    "SCHEMA_VERSION": "v629.6.5",
+    "RELEASE_DATE": "2023-12-07"
+  },
+  {
+    "VERSION_ID": 630,
+    "SCHEMA_VERSION": "v630.4.6",
+    "RELEASE_DATE": "2023-05-21"
+  },
+  {
+    "VERSION_ID": 631,
+    "SCHEMA_VERSION": "v631.3.5",
+    "RELEASE_DATE": "2023-08-21"
+  },
+  {
+    "VERSION_ID": 632,
+    "SCHEMA_VERSION": "v632.2.1",
+    "RELEASE_DATE": "2023-02-21"
+  },
+  {
+    "VERSION_ID": 633,
+    "SCHEMA_VERSION": "v633.7.2",
+    "RELEASE_DATE": "2022-11-19"
+  },
+  {
+    "VERSION_ID": 634,
+    "SCHEMA_VERSION": "v634.5.1",
+    "RELEASE_DATE": "2022-01-09"
+  },
+  {
+    "VERSION_ID": 635,
+    "SCHEMA_VERSION": "v635.3.2",
+    "RELEASE_DATE": "2022-09-02"
+  },
+  {
+    "VERSION_ID": 636,
+    "SCHEMA_VERSION": "v636.4.6",
+    "RELEASE_DATE": "2023-05-08"
+  },
+  {
+    "VERSION_ID": 637,
+    "SCHEMA_VERSION": "v637.6.8",
+    "RELEASE_DATE": "2023-03-05"
+  },
+  {
+    "VERSION_ID": 638,
+    "SCHEMA_VERSION": "v638.0.2",
+    "RELEASE_DATE": "2022-02-22"
+  },
+  {
+    "VERSION_ID": 639,
+    "SCHEMA_VERSION": "v639.5.3",
+    "RELEASE_DATE": "2023-10-20"
+  },
+  {
+    "VERSION_ID": 640,
+    "SCHEMA_VERSION": "v640.9.1",
+    "RELEASE_DATE": "2023-10-17"
+  },
+  {
+    "VERSION_ID": 641,
+    "SCHEMA_VERSION": "v641.9.1",
+    "RELEASE_DATE": "2022-03-22"
+  },
+  {
+    "VERSION_ID": 642,
+    "SCHEMA_VERSION": "v642.0.0",
+    "RELEASE_DATE": "2022-08-30"
+  },
+  {
+    "VERSION_ID": 643,
+    "SCHEMA_VERSION": "v643.4.0",
+    "RELEASE_DATE": "2022-02-01"
+  },
+  {
+    "VERSION_ID": 644,
+    "SCHEMA_VERSION": "v644.0.3",
+    "RELEASE_DATE": "2022-03-20"
+  },
+  {
+    "VERSION_ID": 645,
+    "SCHEMA_VERSION": "v645.7.6",
+    "RELEASE_DATE": "2023-12-27"
+  },
+  {
+    "VERSION_ID": 646,
+    "SCHEMA_VERSION": "v646.0.6",
+    "RELEASE_DATE": "2023-04-30"
+  },
+  {
+    "VERSION_ID": 647,
+    "SCHEMA_VERSION": "v647.2.9",
+    "RELEASE_DATE": "2023-01-06"
+  },
+  {
+    "VERSION_ID": 648,
+    "SCHEMA_VERSION": "v648.3.7",
+    "RELEASE_DATE": "2022-11-01"
+  },
+  {
+    "VERSION_ID": 649,
+    "SCHEMA_VERSION": "v649.2.0",
+    "RELEASE_DATE": "2022-10-13"
+  },
+  {
+    "VERSION_ID": 650,
+    "SCHEMA_VERSION": "v650.9.6",
+    "RELEASE_DATE": "2023-12-14"
+  },
+  {
+    "VERSION_ID": 651,
+    "SCHEMA_VERSION": "v651.8.8",
+    "RELEASE_DATE": "2022-09-04"
+  },
+  {
+    "VERSION_ID": 652,
+    "SCHEMA_VERSION": "v652.4.5",
+    "RELEASE_DATE": "2022-03-19"
+  },
+  {
+    "VERSION_ID": 653,
+    "SCHEMA_VERSION": "v653.4.8",
+    "RELEASE_DATE": "2022-11-20"
+  },
+  {
+    "VERSION_ID": 654,
+    "SCHEMA_VERSION": "v654.0.9",
+    "RELEASE_DATE": "2022-10-21"
+  },
+  {
+    "VERSION_ID": 655,
+    "SCHEMA_VERSION": "v655.8.6",
+    "RELEASE_DATE": "2023-10-27"
+  },
+  {
+    "VERSION_ID": 656,
+    "SCHEMA_VERSION": "v656.0.9",
+    "RELEASE_DATE": "2023-10-04"
+  },
+  {
+    "VERSION_ID": 657,
+    "SCHEMA_VERSION": "v657.8.2",
+    "RELEASE_DATE": "2022-05-29"
+  },
+  {
+    "VERSION_ID": 658,
+    "SCHEMA_VERSION": "v658.0.1",
+    "RELEASE_DATE": "2022-01-05"
+  },
+  {
+    "VERSION_ID": 659,
+    "SCHEMA_VERSION": "v659.1.8",
+    "RELEASE_DATE": "2022-07-11"
+  },
+  {
+    "VERSION_ID": 660,
+    "SCHEMA_VERSION": "v660.7.1",
+    "RELEASE_DATE": "2022-06-05"
+  },
+  {
+    "VERSION_ID": 661,
+    "SCHEMA_VERSION": "v661.5.2",
+    "RELEASE_DATE": "2023-05-09"
+  },
+  {
+    "VERSION_ID": 662,
+    "SCHEMA_VERSION": "v662.0.5",
+    "RELEASE_DATE": "2022-12-30"
+  },
+  {
+    "VERSION_ID": 663,
+    "SCHEMA_VERSION": "v663.8.3",
+    "RELEASE_DATE": "2022-02-14"
+  },
+  {
+    "VERSION_ID": 664,
+    "SCHEMA_VERSION": "v664.0.2",
+    "RELEASE_DATE": "2023-04-25"
+  },
+  {
+    "VERSION_ID": 665,
+    "SCHEMA_VERSION": "v665.5.5",
+    "RELEASE_DATE": "2022-11-16"
+  },
+  {
+    "VERSION_ID": 666,
+    "SCHEMA_VERSION": "v666.9.0",
+    "RELEASE_DATE": "2022-12-15"
+  },
+  {
+    "VERSION_ID": 667,
+    "SCHEMA_VERSION": "v667.6.8",
+    "RELEASE_DATE": "2023-09-13"
+  },
+  {
+    "VERSION_ID": 668,
+    "SCHEMA_VERSION": "v668.2.4",
+    "RELEASE_DATE": "2022-07-01"
+  },
+  {
+    "VERSION_ID": 669,
+    "SCHEMA_VERSION": "v669.9.3",
+    "RELEASE_DATE": "2023-11-17"
+  },
+  {
+    "VERSION_ID": 670,
+    "SCHEMA_VERSION": "v670.6.0",
+    "RELEASE_DATE": "2022-02-01"
+  },
+  {
+    "VERSION_ID": 671,
+    "SCHEMA_VERSION": "v671.3.7",
+    "RELEASE_DATE": "2023-04-27"
+  },
+  {
+    "VERSION_ID": 672,
+    "SCHEMA_VERSION": "v672.7.6",
+    "RELEASE_DATE": "2022-03-27"
+  },
+  {
+    "VERSION_ID": 673,
+    "SCHEMA_VERSION": "v673.8.4",
+    "RELEASE_DATE": "2022-02-11"
+  },
+  {
+    "VERSION_ID": 674,
+    "SCHEMA_VERSION": "v674.4.7",
+    "RELEASE_DATE": "2023-01-09"
+  },
+  {
+    "VERSION_ID": 675,
+    "SCHEMA_VERSION": "v675.6.8",
+    "RELEASE_DATE": "2022-05-18"
+  },
+  {
+    "VERSION_ID": 676,
+    "SCHEMA_VERSION": "v676.0.5",
+    "RELEASE_DATE": "2022-03-12"
+  },
+  {
+    "VERSION_ID": 677,
+    "SCHEMA_VERSION": "v677.9.3",
+    "RELEASE_DATE": "2023-07-17"
+  },
+  {
+    "VERSION_ID": 678,
+    "SCHEMA_VERSION": "v678.4.7",
+    "RELEASE_DATE": "2023-12-22"
+  },
+  {
+    "VERSION_ID": 679,
+    "SCHEMA_VERSION": "v679.9.6",
+    "RELEASE_DATE": "2022-01-08"
+  },
+  {
+    "VERSION_ID": 680,
+    "SCHEMA_VERSION": "v680.8.4",
+    "RELEASE_DATE": "2022-09-16"
+  },
+  {
+    "VERSION_ID": 681,
+    "SCHEMA_VERSION": "v681.2.0",
+    "RELEASE_DATE": "2022-12-14"
+  },
+  {
+    "VERSION_ID": 682,
+    "SCHEMA_VERSION": "v682.2.2",
+    "RELEASE_DATE": "2022-11-24"
+  },
+  {
+    "VERSION_ID": 683,
+    "SCHEMA_VERSION": "v683.8.5",
+    "RELEASE_DATE": "2022-06-06"
+  },
+  {
+    "VERSION_ID": 684,
+    "SCHEMA_VERSION": "v684.3.2",
+    "RELEASE_DATE": "2022-09-10"
+  },
+  {
+    "VERSION_ID": 685,
+    "SCHEMA_VERSION": "v685.6.4",
+    "RELEASE_DATE": "2023-05-17"
+  },
+  {
+    "VERSION_ID": 686,
+    "SCHEMA_VERSION": "v686.9.3",
+    "RELEASE_DATE": "2022-08-29"
+  },
+  {
+    "VERSION_ID": 687,
+    "SCHEMA_VERSION": "v687.0.4",
+    "RELEASE_DATE": "2022-12-29"
+  },
+  {
+    "VERSION_ID": 688,
+    "SCHEMA_VERSION": "v688.4.2",
+    "RELEASE_DATE": "2022-10-29"
+  },
+  {
+    "VERSION_ID": 689,
+    "SCHEMA_VERSION": "v689.4.8",
+    "RELEASE_DATE": "2022-11-18"
+  },
+  {
+    "VERSION_ID": 690,
+    "SCHEMA_VERSION": "v690.4.2",
+    "RELEASE_DATE": "2023-02-21"
+  },
+  {
+    "VERSION_ID": 691,
+    "SCHEMA_VERSION": "v691.8.1",
+    "RELEASE_DATE": "2023-03-26"
+  },
+  {
+    "VERSION_ID": 692,
+    "SCHEMA_VERSION": "v692.9.9",
+    "RELEASE_DATE": "2022-12-23"
+  },
+  {
+    "VERSION_ID": 693,
+    "SCHEMA_VERSION": "v693.2.6",
+    "RELEASE_DATE": "2023-02-07"
+  },
+  {
+    "VERSION_ID": 694,
+    "SCHEMA_VERSION": "v694.3.0",
+    "RELEASE_DATE": "2022-05-09"
+  },
+  {
+    "VERSION_ID": 695,
+    "SCHEMA_VERSION": "v695.8.2",
+    "RELEASE_DATE": "2022-12-15"
+  },
+  {
+    "VERSION_ID": 696,
+    "SCHEMA_VERSION": "v696.4.2",
+    "RELEASE_DATE": "2022-08-19"
+  },
+  {
+    "VERSION_ID": 697,
+    "SCHEMA_VERSION": "v697.6.3",
+    "RELEASE_DATE": "2022-12-23"
+  },
+  {
+    "VERSION_ID": 698,
+    "SCHEMA_VERSION": "v698.1.6",
+    "RELEASE_DATE": "2023-10-04"
+  },
+  {
+    "VERSION_ID": 699,
+    "SCHEMA_VERSION": "v699.4.9",
+    "RELEASE_DATE": "2022-04-13"
+  },
+  {
+    "VERSION_ID": 700,
+    "SCHEMA_VERSION": "v700.6.8",
+    "RELEASE_DATE": "2023-07-09"
+  },
+  {
+    "VERSION_ID": 701,
+    "SCHEMA_VERSION": "v701.7.8",
+    "RELEASE_DATE": "2023-10-21"
+  },
+  {
+    "VERSION_ID": 702,
+    "SCHEMA_VERSION": "v702.0.2",
+    "RELEASE_DATE": "2023-10-12"
+  },
+  {
+    "VERSION_ID": 703,
+    "SCHEMA_VERSION": "v703.0.4",
+    "RELEASE_DATE": "2022-01-05"
+  },
+  {
+    "VERSION_ID": 704,
+    "SCHEMA_VERSION": "v704.7.7",
+    "RELEASE_DATE": "2022-11-23"
+  },
+  {
+    "VERSION_ID": 705,
+    "SCHEMA_VERSION": "v705.4.6",
+    "RELEASE_DATE": "2022-05-29"
+  },
+  {
+    "VERSION_ID": 706,
+    "SCHEMA_VERSION": "v706.2.9",
+    "RELEASE_DATE": "2022-04-06"
+  },
+  {
+    "VERSION_ID": 707,
+    "SCHEMA_VERSION": "v707.9.4",
+    "RELEASE_DATE": "2022-10-12"
+  },
+  {
+    "VERSION_ID": 708,
+    "SCHEMA_VERSION": "v708.1.8",
+    "RELEASE_DATE": "2023-11-25"
+  },
+  {
+    "VERSION_ID": 709,
+    "SCHEMA_VERSION": "v709.5.2",
+    "RELEASE_DATE": "2023-01-22"
+  },
+  {
+    "VERSION_ID": 710,
+    "SCHEMA_VERSION": "v710.7.9",
+    "RELEASE_DATE": "2023-05-06"
+  },
+  {
+    "VERSION_ID": 711,
+    "SCHEMA_VERSION": "v711.4.8",
+    "RELEASE_DATE": "2023-12-10"
+  },
+  {
+    "VERSION_ID": 712,
+    "SCHEMA_VERSION": "v712.2.7",
+    "RELEASE_DATE": "2023-01-05"
+  },
+  {
+    "VERSION_ID": 713,
+    "SCHEMA_VERSION": "v713.9.1",
+    "RELEASE_DATE": "2023-06-04"
+  },
+  {
+    "VERSION_ID": 714,
+    "SCHEMA_VERSION": "v714.3.2",
+    "RELEASE_DATE": "2022-12-16"
+  },
+  {
+    "VERSION_ID": 715,
+    "SCHEMA_VERSION": "v715.5.1",
+    "RELEASE_DATE": "2023-11-27"
+  },
+  {
+    "VERSION_ID": 716,
+    "SCHEMA_VERSION": "v716.1.0",
+    "RELEASE_DATE": "2023-08-09"
+  },
+  {
+    "VERSION_ID": 717,
+    "SCHEMA_VERSION": "v717.1.1",
+    "RELEASE_DATE": "2022-11-14"
+  },
+  {
+    "VERSION_ID": 718,
+    "SCHEMA_VERSION": "v718.3.8",
+    "RELEASE_DATE": "2023-09-25"
+  },
+  {
+    "VERSION_ID": 719,
+    "SCHEMA_VERSION": "v719.4.4",
+    "RELEASE_DATE": "2022-07-06"
+  },
+  {
+    "VERSION_ID": 720,
+    "SCHEMA_VERSION": "v720.2.7",
+    "RELEASE_DATE": "2023-12-02"
+  },
+  {
+    "VERSION_ID": 721,
+    "SCHEMA_VERSION": "v721.7.5",
+    "RELEASE_DATE": "2022-03-16"
+  },
+  {
+    "VERSION_ID": 722,
+    "SCHEMA_VERSION": "v722.6.3",
+    "RELEASE_DATE": "2023-09-27"
+  },
+  {
+    "VERSION_ID": 723,
+    "SCHEMA_VERSION": "v723.8.6",
+    "RELEASE_DATE": "2023-08-30"
+  },
+  {
+    "VERSION_ID": 724,
+    "SCHEMA_VERSION": "v724.2.1",
+    "RELEASE_DATE": "2023-03-12"
+  },
+  {
+    "VERSION_ID": 725,
+    "SCHEMA_VERSION": "v725.9.6",
+    "RELEASE_DATE": "2023-02-06"
+  },
+  {
+    "VERSION_ID": 726,
+    "SCHEMA_VERSION": "v726.2.6",
+    "RELEASE_DATE": "2023-07-31"
+  },
+  {
+    "VERSION_ID": 727,
+    "SCHEMA_VERSION": "v727.2.9",
+    "RELEASE_DATE": "2023-09-22"
+  },
+  {
+    "VERSION_ID": 728,
+    "SCHEMA_VERSION": "v728.1.3",
+    "RELEASE_DATE": "2023-09-29"
+  },
+  {
+    "VERSION_ID": 729,
+    "SCHEMA_VERSION": "v729.3.1",
+    "RELEASE_DATE": "2023-07-14"
+  },
+  {
+    "VERSION_ID": 730,
+    "SCHEMA_VERSION": "v730.2.0",
+    "RELEASE_DATE": "2022-03-06"
+  },
+  {
+    "VERSION_ID": 731,
+    "SCHEMA_VERSION": "v731.0.4",
+    "RELEASE_DATE": "2022-09-14"
+  },
+  {
+    "VERSION_ID": 732,
+    "SCHEMA_VERSION": "v732.3.4",
+    "RELEASE_DATE": "2022-12-30"
+  },
+  {
+    "VERSION_ID": 733,
+    "SCHEMA_VERSION": "v733.0.7",
+    "RELEASE_DATE": "2022-12-31"
+  },
+  {
+    "VERSION_ID": 734,
+    "SCHEMA_VERSION": "v734.2.8",
+    "RELEASE_DATE": "2022-09-08"
+  },
+  {
+    "VERSION_ID": 735,
+    "SCHEMA_VERSION": "v735.6.9",
+    "RELEASE_DATE": "2022-02-17"
+  },
+  {
+    "VERSION_ID": 736,
+    "SCHEMA_VERSION": "v736.4.0",
+    "RELEASE_DATE": "2023-05-12"
+  },
+  {
+    "VERSION_ID": 737,
+    "SCHEMA_VERSION": "v737.7.7",
+    "RELEASE_DATE": "2022-11-20"
+  },
+  {
+    "VERSION_ID": 738,
+    "SCHEMA_VERSION": "v738.5.9",
+    "RELEASE_DATE": "2022-02-07"
+  },
+  {
+    "VERSION_ID": 739,
+    "SCHEMA_VERSION": "v739.3.5",
+    "RELEASE_DATE": "2022-03-02"
+  },
+  {
+    "VERSION_ID": 740,
+    "SCHEMA_VERSION": "v740.0.2",
+    "RELEASE_DATE": "2023-11-11"
+  },
+  {
+    "VERSION_ID": 741,
+    "SCHEMA_VERSION": "v741.5.0",
+    "RELEASE_DATE": "2023-05-18"
+  },
+  {
+    "VERSION_ID": 742,
+    "SCHEMA_VERSION": "v742.2.9",
+    "RELEASE_DATE": "2022-07-02"
+  },
+  {
+    "VERSION_ID": 743,
+    "SCHEMA_VERSION": "v743.0.5",
+    "RELEASE_DATE": "2023-03-09"
+  },
+  {
+    "VERSION_ID": 744,
+    "SCHEMA_VERSION": "v744.0.2",
+    "RELEASE_DATE": "2022-05-22"
+  },
+  {
+    "VERSION_ID": 745,
+    "SCHEMA_VERSION": "v745.3.0",
+    "RELEASE_DATE": "2022-01-02"
+  },
+  {
+    "VERSION_ID": 746,
+    "SCHEMA_VERSION": "v746.9.8",
+    "RELEASE_DATE": "2023-12-16"
+  },
+  {
+    "VERSION_ID": 747,
+    "SCHEMA_VERSION": "v747.7.8",
+    "RELEASE_DATE": "2022-01-16"
+  },
+  {
+    "VERSION_ID": 748,
+    "SCHEMA_VERSION": "v748.3.4",
+    "RELEASE_DATE": "2022-11-12"
+  },
+  {
+    "VERSION_ID": 749,
+    "SCHEMA_VERSION": "v749.8.5",
+    "RELEASE_DATE": "2022-10-10"
+  },
+  {
+    "VERSION_ID": 750,
+    "SCHEMA_VERSION": "v750.6.2",
+    "RELEASE_DATE": "2023-11-05"
+  },
+  {
+    "VERSION_ID": 751,
+    "SCHEMA_VERSION": "v751.5.5",
+    "RELEASE_DATE": "2023-12-29"
+  },
+  {
+    "VERSION_ID": 752,
+    "SCHEMA_VERSION": "v752.9.6",
+    "RELEASE_DATE": "2023-11-12"
+  },
+  {
+    "VERSION_ID": 753,
+    "SCHEMA_VERSION": "v753.8.5",
+    "RELEASE_DATE": "2023-12-19"
+  },
+  {
+    "VERSION_ID": 754,
+    "SCHEMA_VERSION": "v754.7.3",
+    "RELEASE_DATE": "2023-11-23"
+  },
+  {
+    "VERSION_ID": 755,
+    "SCHEMA_VERSION": "v755.6.4",
+    "RELEASE_DATE": "2023-05-23"
+  },
+  {
+    "VERSION_ID": 756,
+    "SCHEMA_VERSION": "v756.0.8",
+    "RELEASE_DATE": "2023-04-12"
+  },
+  {
+    "VERSION_ID": 757,
+    "SCHEMA_VERSION": "v757.2.3",
+    "RELEASE_DATE": "2023-10-04"
+  },
+  {
+    "VERSION_ID": 758,
+    "SCHEMA_VERSION": "v758.7.7",
+    "RELEASE_DATE": "2022-12-02"
+  },
+  {
+    "VERSION_ID": 759,
+    "SCHEMA_VERSION": "v759.6.5",
+    "RELEASE_DATE": "2022-11-03"
+  },
+  {
+    "VERSION_ID": 760,
+    "SCHEMA_VERSION": "v760.7.3",
+    "RELEASE_DATE": "2023-07-31"
+  },
+  {
+    "VERSION_ID": 761,
+    "SCHEMA_VERSION": "v761.7.8",
+    "RELEASE_DATE": "2023-12-05"
+  },
+  {
+    "VERSION_ID": 762,
+    "SCHEMA_VERSION": "v762.1.0",
+    "RELEASE_DATE": "2023-08-02"
+  },
+  {
+    "VERSION_ID": 763,
+    "SCHEMA_VERSION": "v763.6.2",
+    "RELEASE_DATE": "2022-05-22"
+  },
+  {
+    "VERSION_ID": 764,
+    "SCHEMA_VERSION": "v764.0.5",
+    "RELEASE_DATE": "2023-01-14"
+  },
+  {
+    "VERSION_ID": 765,
+    "SCHEMA_VERSION": "v765.1.1",
+    "RELEASE_DATE": "2022-11-15"
+  },
+  {
+    "VERSION_ID": 766,
+    "SCHEMA_VERSION": "v766.8.4",
+    "RELEASE_DATE": "2023-06-04"
+  },
+  {
+    "VERSION_ID": 767,
+    "SCHEMA_VERSION": "v767.3.2",
+    "RELEASE_DATE": "2023-12-24"
+  },
+  {
+    "VERSION_ID": 768,
+    "SCHEMA_VERSION": "v768.8.6",
+    "RELEASE_DATE": "2023-04-16"
+  },
+  {
+    "VERSION_ID": 769,
+    "SCHEMA_VERSION": "v769.2.4",
+    "RELEASE_DATE": "2023-01-30"
+  },
+  {
+    "VERSION_ID": 770,
+    "SCHEMA_VERSION": "v770.9.4",
+    "RELEASE_DATE": "2023-09-28"
+  },
+  {
+    "VERSION_ID": 771,
+    "SCHEMA_VERSION": "v771.8.3",
+    "RELEASE_DATE": "2022-05-10"
+  },
+  {
+    "VERSION_ID": 772,
+    "SCHEMA_VERSION": "v772.0.5",
+    "RELEASE_DATE": "2023-10-09"
+  },
+  {
+    "VERSION_ID": 773,
+    "SCHEMA_VERSION": "v773.5.5",
+    "RELEASE_DATE": "2022-05-26"
+  },
+  {
+    "VERSION_ID": 774,
+    "SCHEMA_VERSION": "v774.7.1",
+    "RELEASE_DATE": "2022-12-11"
+  },
+  {
+    "VERSION_ID": 775,
+    "SCHEMA_VERSION": "v775.2.7",
+    "RELEASE_DATE": "2023-06-21"
+  },
+  {
+    "VERSION_ID": 776,
+    "SCHEMA_VERSION": "v776.4.1",
+    "RELEASE_DATE": "2023-04-14"
+  },
+  {
+    "VERSION_ID": 777,
+    "SCHEMA_VERSION": "v777.0.2",
+    "RELEASE_DATE": "2023-04-26"
+  },
+  {
+    "VERSION_ID": 778,
+    "SCHEMA_VERSION": "v778.3.7",
+    "RELEASE_DATE": "2023-08-26"
+  },
+  {
+    "VERSION_ID": 779,
+    "SCHEMA_VERSION": "v779.7.6",
+    "RELEASE_DATE": "2023-12-08"
+  },
+  {
+    "VERSION_ID": 780,
+    "SCHEMA_VERSION": "v780.9.6",
+    "RELEASE_DATE": "2023-08-08"
+  },
+  {
+    "VERSION_ID": 781,
+    "SCHEMA_VERSION": "v781.2.1",
+    "RELEASE_DATE": "2023-05-29"
+  },
+  {
+    "VERSION_ID": 782,
+    "SCHEMA_VERSION": "v782.0.1",
+    "RELEASE_DATE": "2022-02-25"
+  },
+  {
+    "VERSION_ID": 783,
+    "SCHEMA_VERSION": "v783.7.3",
+    "RELEASE_DATE": "2023-12-08"
+  },
+  {
+    "VERSION_ID": 784,
+    "SCHEMA_VERSION": "v784.6.3",
+    "RELEASE_DATE": "2023-01-29"
+  },
+  {
+    "VERSION_ID": 785,
+    "SCHEMA_VERSION": "v785.7.1",
+    "RELEASE_DATE": "2022-01-08"
+  },
+  {
+    "VERSION_ID": 786,
+    "SCHEMA_VERSION": "v786.6.5",
+    "RELEASE_DATE": "2022-12-21"
+  },
+  {
+    "VERSION_ID": 787,
+    "SCHEMA_VERSION": "v787.4.3",
+    "RELEASE_DATE": "2022-10-23"
+  },
+  {
+    "VERSION_ID": 788,
+    "SCHEMA_VERSION": "v788.2.2",
+    "RELEASE_DATE": "2022-04-22"
+  },
+  {
+    "VERSION_ID": 789,
+    "SCHEMA_VERSION": "v789.7.7",
+    "RELEASE_DATE": "2022-01-17"
+  },
+  {
+    "VERSION_ID": 790,
+    "SCHEMA_VERSION": "v790.7.2",
+    "RELEASE_DATE": "2022-05-28"
+  },
+  {
+    "VERSION_ID": 791,
+    "SCHEMA_VERSION": "v791.5.2",
+    "RELEASE_DATE": "2023-07-31"
+  },
+  {
+    "VERSION_ID": 792,
+    "SCHEMA_VERSION": "v792.4.7",
+    "RELEASE_DATE": "2023-11-22"
+  },
+  {
+    "VERSION_ID": 793,
+    "SCHEMA_VERSION": "v793.5.7",
+    "RELEASE_DATE": "2023-07-29"
+  },
+  {
+    "VERSION_ID": 794,
+    "SCHEMA_VERSION": "v794.8.5",
+    "RELEASE_DATE": "2022-05-24"
+  },
+  {
+    "VERSION_ID": 795,
+    "SCHEMA_VERSION": "v795.5.4",
+    "RELEASE_DATE": "2022-08-31"
+  },
+  {
+    "VERSION_ID": 796,
+    "SCHEMA_VERSION": "v796.1.3",
+    "RELEASE_DATE": "2022-01-23"
+  },
+  {
+    "VERSION_ID": 797,
+    "SCHEMA_VERSION": "v797.1.4",
+    "RELEASE_DATE": "2023-09-28"
+  },
+  {
+    "VERSION_ID": 798,
+    "SCHEMA_VERSION": "v798.8.8",
+    "RELEASE_DATE": "2022-01-08"
+  },
+  {
+    "VERSION_ID": 799,
+    "SCHEMA_VERSION": "v799.2.7",
+    "RELEASE_DATE": "2022-09-03"
+  },
+  {
+    "VERSION_ID": 800,
+    "SCHEMA_VERSION": "v800.8.9",
+    "RELEASE_DATE": "2022-12-18"
+  },
+  {
+    "VERSION_ID": 801,
+    "SCHEMA_VERSION": "v801.4.1",
+    "RELEASE_DATE": "2023-05-17"
+  },
+  {
+    "VERSION_ID": 802,
+    "SCHEMA_VERSION": "v802.8.6",
+    "RELEASE_DATE": "2022-08-17"
+  },
+  {
+    "VERSION_ID": 803,
+    "SCHEMA_VERSION": "v803.1.0",
+    "RELEASE_DATE": "2022-09-27"
+  },
+  {
+    "VERSION_ID": 804,
+    "SCHEMA_VERSION": "v804.3.7",
+    "RELEASE_DATE": "2023-03-20"
+  },
+  {
+    "VERSION_ID": 805,
+    "SCHEMA_VERSION": "v805.6.2",
+    "RELEASE_DATE": "2022-02-26"
+  },
+  {
+    "VERSION_ID": 806,
+    "SCHEMA_VERSION": "v806.3.1",
+    "RELEASE_DATE": "2022-08-21"
+  },
+  {
+    "VERSION_ID": 807,
+    "SCHEMA_VERSION": "v807.9.1",
+    "RELEASE_DATE": "2023-11-12"
+  },
+  {
+    "VERSION_ID": 808,
+    "SCHEMA_VERSION": "v808.6.8",
+    "RELEASE_DATE": "2022-03-31"
+  },
+  {
+    "VERSION_ID": 809,
+    "SCHEMA_VERSION": "v809.7.9",
+    "RELEASE_DATE": "2022-09-19"
+  },
+  {
+    "VERSION_ID": 810,
+    "SCHEMA_VERSION": "v810.5.8",
+    "RELEASE_DATE": "2022-07-19"
+  },
+  {
+    "VERSION_ID": 811,
+    "SCHEMA_VERSION": "v811.0.6",
+    "RELEASE_DATE": "2022-12-07"
+  },
+  {
+    "VERSION_ID": 812,
+    "SCHEMA_VERSION": "v812.1.4",
+    "RELEASE_DATE": "2022-11-05"
+  },
+  {
+    "VERSION_ID": 813,
+    "SCHEMA_VERSION": "v813.8.0",
+    "RELEASE_DATE": "2022-03-31"
+  },
+  {
+    "VERSION_ID": 814,
+    "SCHEMA_VERSION": "v814.7.4",
+    "RELEASE_DATE": "2023-08-27"
+  },
+  {
+    "VERSION_ID": 815,
+    "SCHEMA_VERSION": "v815.0.7",
+    "RELEASE_DATE": "2022-10-29"
+  },
+  {
+    "VERSION_ID": 816,
+    "SCHEMA_VERSION": "v816.5.3",
+    "RELEASE_DATE": "2024-01-01"
+  },
+  {
+    "VERSION_ID": 817,
+    "SCHEMA_VERSION": "v817.0.4",
+    "RELEASE_DATE": "2023-08-01"
+  },
+  {
+    "VERSION_ID": 818,
+    "SCHEMA_VERSION": "v818.5.4",
+    "RELEASE_DATE": "2023-06-21"
+  },
+  {
+    "VERSION_ID": 819,
+    "SCHEMA_VERSION": "v819.6.6",
+    "RELEASE_DATE": "2023-02-09"
+  },
+  {
+    "VERSION_ID": 820,
+    "SCHEMA_VERSION": "v820.9.9",
+    "RELEASE_DATE": "2022-04-26"
+  },
+  {
+    "VERSION_ID": 821,
+    "SCHEMA_VERSION": "v821.7.8",
+    "RELEASE_DATE": "2022-02-14"
+  },
+  {
+    "VERSION_ID": 822,
+    "SCHEMA_VERSION": "v822.9.4",
+    "RELEASE_DATE": "2023-08-17"
+  },
+  {
+    "VERSION_ID": 823,
+    "SCHEMA_VERSION": "v823.7.7",
+    "RELEASE_DATE": "2023-07-02"
+  },
+  {
+    "VERSION_ID": 824,
+    "SCHEMA_VERSION": "v824.7.8",
+    "RELEASE_DATE": "2022-08-27"
+  },
+  {
+    "VERSION_ID": 825,
+    "SCHEMA_VERSION": "v825.5.8",
+    "RELEASE_DATE": "2022-12-06"
+  },
+  {
+    "VERSION_ID": 826,
+    "SCHEMA_VERSION": "v826.8.5",
+    "RELEASE_DATE": "2023-09-09"
+  },
+  {
+    "VERSION_ID": 827,
+    "SCHEMA_VERSION": "v827.9.0",
+    "RELEASE_DATE": "2022-07-06"
+  },
+  {
+    "VERSION_ID": 828,
+    "SCHEMA_VERSION": "v828.2.2",
+    "RELEASE_DATE": "2022-03-03"
+  },
+  {
+    "VERSION_ID": 829,
+    "SCHEMA_VERSION": "v829.3.0",
+    "RELEASE_DATE": "2023-07-28"
+  },
+  {
+    "VERSION_ID": 830,
+    "SCHEMA_VERSION": "v830.4.1",
+    "RELEASE_DATE": "2022-11-04"
+  },
+  {
+    "VERSION_ID": 831,
+    "SCHEMA_VERSION": "v831.0.0",
+    "RELEASE_DATE": "2023-11-12"
+  },
+  {
+    "VERSION_ID": 832,
+    "SCHEMA_VERSION": "v832.4.9",
+    "RELEASE_DATE": "2023-09-03"
+  },
+  {
+    "VERSION_ID": 833,
+    "SCHEMA_VERSION": "v833.2.3",
+    "RELEASE_DATE": "2023-10-30"
+  },
+  {
+    "VERSION_ID": 834,
+    "SCHEMA_VERSION": "v834.0.6",
+    "RELEASE_DATE": "2022-03-31"
+  },
+  {
+    "VERSION_ID": 835,
+    "SCHEMA_VERSION": "v835.9.1",
+    "RELEASE_DATE": "2023-04-08"
+  },
+  {
+    "VERSION_ID": 836,
+    "SCHEMA_VERSION": "v836.6.2",
+    "RELEASE_DATE": "2023-01-25"
+  },
+  {
+    "VERSION_ID": 837,
+    "SCHEMA_VERSION": "v837.0.1",
+    "RELEASE_DATE": "2023-10-19"
+  },
+  {
+    "VERSION_ID": 838,
+    "SCHEMA_VERSION": "v838.1.0",
+    "RELEASE_DATE": "2022-10-10"
+  },
+  {
+    "VERSION_ID": 839,
+    "SCHEMA_VERSION": "v839.3.9",
+    "RELEASE_DATE": "2022-05-20"
+  },
+  {
+    "VERSION_ID": 840,
+    "SCHEMA_VERSION": "v840.5.6",
+    "RELEASE_DATE": "2023-06-06"
+  },
+  {
+    "VERSION_ID": 841,
+    "SCHEMA_VERSION": "v841.5.6",
+    "RELEASE_DATE": "2022-05-14"
+  },
+  {
+    "VERSION_ID": 842,
+    "SCHEMA_VERSION": "v842.0.8",
+    "RELEASE_DATE": "2023-01-26"
+  },
+  {
+    "VERSION_ID": 843,
+    "SCHEMA_VERSION": "v843.1.3",
+    "RELEASE_DATE": "2022-07-08"
+  },
+  {
+    "VERSION_ID": 844,
+    "SCHEMA_VERSION": "v844.8.4",
+    "RELEASE_DATE": "2022-04-11"
+  },
+  {
+    "VERSION_ID": 845,
+    "SCHEMA_VERSION": "v845.3.2",
+    "RELEASE_DATE": "2022-11-01"
+  },
+  {
+    "VERSION_ID": 846,
+    "SCHEMA_VERSION": "v846.1.3",
+    "RELEASE_DATE": "2022-03-06"
+  },
+  {
+    "VERSION_ID": 847,
+    "SCHEMA_VERSION": "v847.6.4",
+    "RELEASE_DATE": "2022-03-18"
+  },
+  {
+    "VERSION_ID": 848,
+    "SCHEMA_VERSION": "v848.9.7",
+    "RELEASE_DATE": "2022-01-17"
+  },
+  {
+    "VERSION_ID": 849,
+    "SCHEMA_VERSION": "v849.9.6",
+    "RELEASE_DATE": "2023-12-16"
+  },
+  {
+    "VERSION_ID": 850,
+    "SCHEMA_VERSION": "v850.1.9",
+    "RELEASE_DATE": "2023-01-09"
+  },
+  {
+    "VERSION_ID": 851,
+    "SCHEMA_VERSION": "v851.6.5",
+    "RELEASE_DATE": "2023-12-19"
+  },
+  {
+    "VERSION_ID": 852,
+    "SCHEMA_VERSION": "v852.9.9",
+    "RELEASE_DATE": "2022-09-30"
+  },
+  {
+    "VERSION_ID": 853,
+    "SCHEMA_VERSION": "v853.8.3",
+    "RELEASE_DATE": "2023-12-17"
+  },
+  {
+    "VERSION_ID": 854,
+    "SCHEMA_VERSION": "v854.1.7",
+    "RELEASE_DATE": "2023-07-19"
+  },
+  {
+    "VERSION_ID": 855,
+    "SCHEMA_VERSION": "v855.1.0",
+    "RELEASE_DATE": "2023-12-04"
+  },
+  {
+    "VERSION_ID": 856,
+    "SCHEMA_VERSION": "v856.3.7",
+    "RELEASE_DATE": "2023-06-26"
+  },
+  {
+    "VERSION_ID": 857,
+    "SCHEMA_VERSION": "v857.5.4",
+    "RELEASE_DATE": "2023-11-11"
+  },
+  {
+    "VERSION_ID": 858,
+    "SCHEMA_VERSION": "v858.3.5",
+    "RELEASE_DATE": "2022-03-07"
+  },
+  {
+    "VERSION_ID": 859,
+    "SCHEMA_VERSION": "v859.7.1",
+    "RELEASE_DATE": "2023-10-02"
+  },
+  {
+    "VERSION_ID": 860,
+    "SCHEMA_VERSION": "v860.0.0",
+    "RELEASE_DATE": "2023-03-29"
+  },
+  {
+    "VERSION_ID": 861,
+    "SCHEMA_VERSION": "v861.0.2",
+    "RELEASE_DATE": "2023-03-01"
+  },
+  {
+    "VERSION_ID": 862,
+    "SCHEMA_VERSION": "v862.3.2",
+    "RELEASE_DATE": "2022-04-28"
+  },
+  {
+    "VERSION_ID": 863,
+    "SCHEMA_VERSION": "v863.9.0",
+    "RELEASE_DATE": "2022-03-24"
+  },
+  {
+    "VERSION_ID": 864,
+    "SCHEMA_VERSION": "v864.4.8",
+    "RELEASE_DATE": "2023-09-14"
+  },
+  {
+    "VERSION_ID": 865,
+    "SCHEMA_VERSION": "v865.9.9",
+    "RELEASE_DATE": "2022-03-29"
+  },
+  {
+    "VERSION_ID": 866,
+    "SCHEMA_VERSION": "v866.0.6",
+    "RELEASE_DATE": "2023-08-18"
+  },
+  {
+    "VERSION_ID": 867,
+    "SCHEMA_VERSION": "v867.3.2",
+    "RELEASE_DATE": "2023-03-20"
+  },
+  {
+    "VERSION_ID": 868,
+    "SCHEMA_VERSION": "v868.5.1",
+    "RELEASE_DATE": "2022-07-20"
+  },
+  {
+    "VERSION_ID": 869,
+    "SCHEMA_VERSION": "v869.9.5",
+    "RELEASE_DATE": "2023-07-02"
+  },
+  {
+    "VERSION_ID": 870,
+    "SCHEMA_VERSION": "v870.2.5",
+    "RELEASE_DATE": "2023-10-08"
+  },
+  {
+    "VERSION_ID": 871,
+    "SCHEMA_VERSION": "v871.2.2",
+    "RELEASE_DATE": "2022-07-29"
+  },
+  {
+    "VERSION_ID": 872,
+    "SCHEMA_VERSION": "v872.4.2",
+    "RELEASE_DATE": "2022-09-26"
+  },
+  {
+    "VERSION_ID": 873,
+    "SCHEMA_VERSION": "v873.4.5",
+    "RELEASE_DATE": "2022-06-28"
+  },
+  {
+    "VERSION_ID": 874,
+    "SCHEMA_VERSION": "v874.8.1",
+    "RELEASE_DATE": "2023-01-25"
+  },
+  {
+    "VERSION_ID": 875,
+    "SCHEMA_VERSION": "v875.8.5",
+    "RELEASE_DATE": "2023-08-27"
+  },
+  {
+    "VERSION_ID": 876,
+    "SCHEMA_VERSION": "v876.4.7",
+    "RELEASE_DATE": "2022-11-28"
+  },
+  {
+    "VERSION_ID": 877,
+    "SCHEMA_VERSION": "v877.8.2",
+    "RELEASE_DATE": "2022-10-22"
+  },
+  {
+    "VERSION_ID": 878,
+    "SCHEMA_VERSION": "v878.3.7",
+    "RELEASE_DATE": "2023-09-14"
+  },
+  {
+    "VERSION_ID": 879,
+    "SCHEMA_VERSION": "v879.2.7",
+    "RELEASE_DATE": "2023-05-16"
+  },
+  {
+    "VERSION_ID": 880,
+    "SCHEMA_VERSION": "v880.8.9",
+    "RELEASE_DATE": "2022-05-26"
+  },
+  {
+    "VERSION_ID": 881,
+    "SCHEMA_VERSION": "v881.8.3",
+    "RELEASE_DATE": "2022-04-21"
+  },
+  {
+    "VERSION_ID": 882,
+    "SCHEMA_VERSION": "v882.2.1",
+    "RELEASE_DATE": "2022-08-02"
+  },
+  {
+    "VERSION_ID": 883,
+    "SCHEMA_VERSION": "v883.9.6",
+    "RELEASE_DATE": "2022-05-22"
+  },
+  {
+    "VERSION_ID": 884,
+    "SCHEMA_VERSION": "v884.6.5",
+    "RELEASE_DATE": "2022-03-27"
+  },
+  {
+    "VERSION_ID": 885,
+    "SCHEMA_VERSION": "v885.1.6",
+    "RELEASE_DATE": "2023-07-04"
+  },
+  {
+    "VERSION_ID": 886,
+    "SCHEMA_VERSION": "v886.7.7",
+    "RELEASE_DATE": "2022-11-12"
+  },
+  {
+    "VERSION_ID": 887,
+    "SCHEMA_VERSION": "v887.8.0",
+    "RELEASE_DATE": "2022-10-02"
+  },
+  {
+    "VERSION_ID": 888,
+    "SCHEMA_VERSION": "v888.7.8",
+    "RELEASE_DATE": "2022-07-05"
+  },
+  {
+    "VERSION_ID": 889,
+    "SCHEMA_VERSION": "v889.3.9",
+    "RELEASE_DATE": "2023-07-03"
+  },
+  {
+    "VERSION_ID": 890,
+    "SCHEMA_VERSION": "v890.0.2",
+    "RELEASE_DATE": "2022-02-09"
+  },
+  {
+    "VERSION_ID": 891,
+    "SCHEMA_VERSION": "v891.9.5",
+    "RELEASE_DATE": "2022-12-23"
+  },
+  {
+    "VERSION_ID": 892,
+    "SCHEMA_VERSION": "v892.3.0",
+    "RELEASE_DATE": "2022-05-29"
+  },
+  {
+    "VERSION_ID": 893,
+    "SCHEMA_VERSION": "v893.6.9",
+    "RELEASE_DATE": "2022-11-15"
+  },
+  {
+    "VERSION_ID": 894,
+    "SCHEMA_VERSION": "v894.2.5",
+    "RELEASE_DATE": "2023-02-09"
+  },
+  {
+    "VERSION_ID": 895,
+    "SCHEMA_VERSION": "v895.9.2",
+    "RELEASE_DATE": "2022-05-27"
+  },
+  {
+    "VERSION_ID": 896,
+    "SCHEMA_VERSION": "v896.0.4",
+    "RELEASE_DATE": "2022-11-22"
+  },
+  {
+    "VERSION_ID": 897,
+    "SCHEMA_VERSION": "v897.6.1",
+    "RELEASE_DATE": "2023-09-23"
+  },
+  {
+    "VERSION_ID": 898,
+    "SCHEMA_VERSION": "v898.3.7",
+    "RELEASE_DATE": "2023-09-20"
+  },
+  {
+    "VERSION_ID": 899,
+    "SCHEMA_VERSION": "v899.6.5",
+    "RELEASE_DATE": "2022-09-03"
+  },
+  {
+    "VERSION_ID": 900,
+    "SCHEMA_VERSION": "v900.8.8",
+    "RELEASE_DATE": "2023-01-21"
+  },
+  {
+    "VERSION_ID": 901,
+    "SCHEMA_VERSION": "v901.0.3",
+    "RELEASE_DATE": "2023-12-26"
+  },
+  {
+    "VERSION_ID": 902,
+    "SCHEMA_VERSION": "v902.6.2",
+    "RELEASE_DATE": "2023-10-26"
+  },
+  {
+    "VERSION_ID": 903,
+    "SCHEMA_VERSION": "v903.2.5",
+    "RELEASE_DATE": "2022-09-26"
+  },
+  {
+    "VERSION_ID": 904,
+    "SCHEMA_VERSION": "v904.6.5",
+    "RELEASE_DATE": "2022-12-23"
+  },
+  {
+    "VERSION_ID": 905,
+    "SCHEMA_VERSION": "v905.6.8",
+    "RELEASE_DATE": "2023-04-25"
+  },
+  {
+    "VERSION_ID": 906,
+    "SCHEMA_VERSION": "v906.8.3",
+    "RELEASE_DATE": "2022-09-28"
+  },
+  {
+    "VERSION_ID": 907,
+    "SCHEMA_VERSION": "v907.8.3",
+    "RELEASE_DATE": "2022-12-03"
+  },
+  {
+    "VERSION_ID": 908,
+    "SCHEMA_VERSION": "v908.1.7",
+    "RELEASE_DATE": "2022-04-20"
+  },
+  {
+    "VERSION_ID": 909,
+    "SCHEMA_VERSION": "v909.8.2",
+    "RELEASE_DATE": "2023-06-29"
+  },
+  {
+    "VERSION_ID": 910,
+    "SCHEMA_VERSION": "v910.2.9",
+    "RELEASE_DATE": "2023-09-12"
+  },
+  {
+    "VERSION_ID": 911,
+    "SCHEMA_VERSION": "v911.2.0",
+    "RELEASE_DATE": "2023-11-05"
+  },
+  {
+    "VERSION_ID": 912,
+    "SCHEMA_VERSION": "v912.1.7",
+    "RELEASE_DATE": "2023-03-31"
+  },
+  {
+    "VERSION_ID": 913,
+    "SCHEMA_VERSION": "v913.3.5",
+    "RELEASE_DATE": "2022-02-19"
+  },
+  {
+    "VERSION_ID": 914,
+    "SCHEMA_VERSION": "v914.3.1",
+    "RELEASE_DATE": "2022-02-01"
+  },
+  {
+    "VERSION_ID": 915,
+    "SCHEMA_VERSION": "v915.2.1",
+    "RELEASE_DATE": "2023-02-24"
+  },
+  {
+    "VERSION_ID": 916,
+    "SCHEMA_VERSION": "v916.7.7",
+    "RELEASE_DATE": "2022-09-02"
+  },
+  {
+    "VERSION_ID": 917,
+    "SCHEMA_VERSION": "v917.7.0",
+    "RELEASE_DATE": "2022-10-16"
+  },
+  {
+    "VERSION_ID": 918,
+    "SCHEMA_VERSION": "v918.9.1",
+    "RELEASE_DATE": "2023-10-06"
+  },
+  {
+    "VERSION_ID": 919,
+    "SCHEMA_VERSION": "v919.8.2",
+    "RELEASE_DATE": "2022-07-03"
+  },
+  {
+    "VERSION_ID": 920,
+    "SCHEMA_VERSION": "v920.4.1",
+    "RELEASE_DATE": "2023-12-31"
+  },
+  {
+    "VERSION_ID": 921,
+    "SCHEMA_VERSION": "v921.4.0",
+    "RELEASE_DATE": "2022-07-27"
+  },
+  {
+    "VERSION_ID": 922,
+    "SCHEMA_VERSION": "v922.7.2",
+    "RELEASE_DATE": "2022-12-11"
+  },
+  {
+    "VERSION_ID": 923,
+    "SCHEMA_VERSION": "v923.2.5",
+    "RELEASE_DATE": "2023-11-27"
+  },
+  {
+    "VERSION_ID": 924,
+    "SCHEMA_VERSION": "v924.7.7",
+    "RELEASE_DATE": "2022-12-05"
+  },
+  {
+    "VERSION_ID": 925,
+    "SCHEMA_VERSION": "v925.4.0",
+    "RELEASE_DATE": "2022-02-19"
+  },
+  {
+    "VERSION_ID": 926,
+    "SCHEMA_VERSION": "v926.1.4",
+    "RELEASE_DATE": "2022-11-18"
+  },
+  {
+    "VERSION_ID": 927,
+    "SCHEMA_VERSION": "v927.8.2",
+    "RELEASE_DATE": "2023-04-28"
+  },
+  {
+    "VERSION_ID": 928,
+    "SCHEMA_VERSION": "v928.0.9",
+    "RELEASE_DATE": "2023-11-28"
+  },
+  {
+    "VERSION_ID": 929,
+    "SCHEMA_VERSION": "v929.0.0",
+    "RELEASE_DATE": "2023-01-25"
+  },
+  {
+    "VERSION_ID": 930,
+    "SCHEMA_VERSION": "v930.6.7",
+    "RELEASE_DATE": "2023-02-27"
+  },
+  {
+    "VERSION_ID": 931,
+    "SCHEMA_VERSION": "v931.0.1",
+    "RELEASE_DATE": "2023-09-25"
+  },
+  {
+    "VERSION_ID": 932,
+    "SCHEMA_VERSION": "v932.8.4",
+    "RELEASE_DATE": "2023-10-23"
+  },
+  {
+    "VERSION_ID": 933,
+    "SCHEMA_VERSION": "v933.3.5",
+    "RELEASE_DATE": "2022-05-06"
+  },
+  {
+    "VERSION_ID": 934,
+    "SCHEMA_VERSION": "v934.1.4",
+    "RELEASE_DATE": "2023-06-08"
+  },
+  {
+    "VERSION_ID": 935,
+    "SCHEMA_VERSION": "v935.6.0",
+    "RELEASE_DATE": "2023-07-07"
+  },
+  {
+    "VERSION_ID": 936,
+    "SCHEMA_VERSION": "v936.5.8",
+    "RELEASE_DATE": "2022-08-01"
+  },
+  {
+    "VERSION_ID": 937,
+    "SCHEMA_VERSION": "v937.2.1",
+    "RELEASE_DATE": "2023-03-17"
+  },
+  {
+    "VERSION_ID": 938,
+    "SCHEMA_VERSION": "v938.3.3",
+    "RELEASE_DATE": "2022-07-24"
+  },
+  {
+    "VERSION_ID": 939,
+    "SCHEMA_VERSION": "v939.2.3",
+    "RELEASE_DATE": "2023-02-27"
+  },
+  {
+    "VERSION_ID": 940,
+    "SCHEMA_VERSION": "v940.2.8",
+    "RELEASE_DATE": "2023-04-06"
+  },
+  {
+    "VERSION_ID": 941,
+    "SCHEMA_VERSION": "v941.4.8",
+    "RELEASE_DATE": "2023-03-14"
+  },
+  {
+    "VERSION_ID": 942,
+    "SCHEMA_VERSION": "v942.5.9",
+    "RELEASE_DATE": "2023-11-27"
+  },
+  {
+    "VERSION_ID": 943,
+    "SCHEMA_VERSION": "v943.9.7",
+    "RELEASE_DATE": "2023-06-17"
+  },
+  {
+    "VERSION_ID": 944,
+    "SCHEMA_VERSION": "v944.2.2",
+    "RELEASE_DATE": "2023-01-11"
+  },
+  {
+    "VERSION_ID": 945,
+    "SCHEMA_VERSION": "v945.3.9",
+    "RELEASE_DATE": "2023-10-05"
+  },
+  {
+    "VERSION_ID": 946,
+    "SCHEMA_VERSION": "v946.0.8",
+    "RELEASE_DATE": "2022-05-07"
+  },
+  {
+    "VERSION_ID": 947,
+    "SCHEMA_VERSION": "v947.3.6",
+    "RELEASE_DATE": "2023-03-30"
+  },
+  {
+    "VERSION_ID": 948,
+    "SCHEMA_VERSION": "v948.4.3",
+    "RELEASE_DATE": "2022-05-25"
+  },
+  {
+    "VERSION_ID": 949,
+    "SCHEMA_VERSION": "v949.8.6",
+    "RELEASE_DATE": "2023-03-24"
+  },
+  {
+    "VERSION_ID": 950,
+    "SCHEMA_VERSION": "v950.4.9",
+    "RELEASE_DATE": "2023-06-11"
+  },
+  {
+    "VERSION_ID": 951,
+    "SCHEMA_VERSION": "v951.9.1",
+    "RELEASE_DATE": "2022-07-06"
+  },
+  {
+    "VERSION_ID": 952,
+    "SCHEMA_VERSION": "v952.3.2",
+    "RELEASE_DATE": "2023-10-02"
+  },
+  {
+    "VERSION_ID": 953,
+    "SCHEMA_VERSION": "v953.6.3",
+    "RELEASE_DATE": "2022-08-25"
+  },
+  {
+    "VERSION_ID": 954,
+    "SCHEMA_VERSION": "v954.3.6",
+    "RELEASE_DATE": "2023-04-12"
+  },
+  {
+    "VERSION_ID": 955,
+    "SCHEMA_VERSION": "v955.1.4",
+    "RELEASE_DATE": "2023-11-11"
+  },
+  {
+    "VERSION_ID": 956,
+    "SCHEMA_VERSION": "v956.3.0",
+    "RELEASE_DATE": "2022-04-18"
+  },
+  {
+    "VERSION_ID": 957,
+    "SCHEMA_VERSION": "v957.0.2",
+    "RELEASE_DATE": "2022-06-28"
+  },
+  {
+    "VERSION_ID": 958,
+    "SCHEMA_VERSION": "v958.3.9",
+    "RELEASE_DATE": "2023-12-30"
+  },
+  {
+    "VERSION_ID": 959,
+    "SCHEMA_VERSION": "v959.7.2",
+    "RELEASE_DATE": "2022-11-13"
+  },
+  {
+    "VERSION_ID": 960,
+    "SCHEMA_VERSION": "v960.2.5",
+    "RELEASE_DATE": "2023-05-08"
+  },
+  {
+    "VERSION_ID": 961,
+    "SCHEMA_VERSION": "v961.8.1",
+    "RELEASE_DATE": "2023-04-10"
+  },
+  {
+    "VERSION_ID": 962,
+    "SCHEMA_VERSION": "v962.0.1",
+    "RELEASE_DATE": "2023-11-23"
+  },
+  {
+    "VERSION_ID": 963,
+    "SCHEMA_VERSION": "v963.0.4",
+    "RELEASE_DATE": "2022-05-17"
+  },
+  {
+    "VERSION_ID": 964,
+    "SCHEMA_VERSION": "v964.5.8",
+    "RELEASE_DATE": "2022-03-20"
+  },
+  {
+    "VERSION_ID": 965,
+    "SCHEMA_VERSION": "v965.0.1",
+    "RELEASE_DATE": "2023-03-17"
+  },
+  {
+    "VERSION_ID": 966,
+    "SCHEMA_VERSION": "v966.1.9",
+    "RELEASE_DATE": "2023-03-02"
+  },
+  {
+    "VERSION_ID": 967,
+    "SCHEMA_VERSION": "v967.2.3",
+    "RELEASE_DATE": "2022-08-08"
+  },
+  {
+    "VERSION_ID": 968,
+    "SCHEMA_VERSION": "v968.4.2",
+    "RELEASE_DATE": "2022-09-27"
+  },
+  {
+    "VERSION_ID": 969,
+    "SCHEMA_VERSION": "v969.7.9",
+    "RELEASE_DATE": "2023-09-28"
+  },
+  {
+    "VERSION_ID": 970,
+    "SCHEMA_VERSION": "v970.5.7",
+    "RELEASE_DATE": "2022-04-05"
+  },
+  {
+    "VERSION_ID": 971,
+    "SCHEMA_VERSION": "v971.5.8",
+    "RELEASE_DATE": "2023-08-04"
+  },
+  {
+    "VERSION_ID": 972,
+    "SCHEMA_VERSION": "v972.5.5",
+    "RELEASE_DATE": "2023-03-09"
+  },
+  {
+    "VERSION_ID": 973,
+    "SCHEMA_VERSION": "v973.8.5",
+    "RELEASE_DATE": "2023-09-10"
+  },
+  {
+    "VERSION_ID": 974,
+    "SCHEMA_VERSION": "v974.0.8",
+    "RELEASE_DATE": "2022-09-11"
+  },
+  {
+    "VERSION_ID": 975,
+    "SCHEMA_VERSION": "v975.4.3",
+    "RELEASE_DATE": "2022-11-13"
+  },
+  {
+    "VERSION_ID": 976,
+    "SCHEMA_VERSION": "v976.0.7",
+    "RELEASE_DATE": "2023-11-29"
+  },
+  {
+    "VERSION_ID": 977,
+    "SCHEMA_VERSION": "v977.0.8",
+    "RELEASE_DATE": "2022-09-28"
+  },
+  {
+    "VERSION_ID": 978,
+    "SCHEMA_VERSION": "v978.0.7",
+    "RELEASE_DATE": "2022-08-20"
+  },
+  {
+    "VERSION_ID": 979,
+    "SCHEMA_VERSION": "v979.3.6",
+    "RELEASE_DATE": "2023-03-04"
+  },
+  {
+    "VERSION_ID": 980,
+    "SCHEMA_VERSION": "v980.2.7",
+    "RELEASE_DATE": "2023-11-04"
+  },
+  {
+    "VERSION_ID": 981,
+    "SCHEMA_VERSION": "v981.4.0",
+    "RELEASE_DATE": "2023-05-02"
+  },
+  {
+    "VERSION_ID": 982,
+    "SCHEMA_VERSION": "v982.0.3",
+    "RELEASE_DATE": "2022-09-30"
+  },
+  {
+    "VERSION_ID": 983,
+    "SCHEMA_VERSION": "v983.0.6",
+    "RELEASE_DATE": "2023-12-31"
+  },
+  {
+    "VERSION_ID": 984,
+    "SCHEMA_VERSION": "v984.4.1",
+    "RELEASE_DATE": "2022-06-11"
+  },
+  {
+    "VERSION_ID": 985,
+    "SCHEMA_VERSION": "v985.0.0",
+    "RELEASE_DATE": "2023-03-05"
+  },
+  {
+    "VERSION_ID": 986,
+    "SCHEMA_VERSION": "v986.8.0",
+    "RELEASE_DATE": "2022-04-25"
+  },
+  {
+    "VERSION_ID": 987,
+    "SCHEMA_VERSION": "v987.4.7",
+    "RELEASE_DATE": "2023-05-01"
+  },
+  {
+    "VERSION_ID": 988,
+    "SCHEMA_VERSION": "v988.2.4",
+    "RELEASE_DATE": "2022-09-25"
+  },
+  {
+    "VERSION_ID": 989,
+    "SCHEMA_VERSION": "v989.6.8",
+    "RELEASE_DATE": "2023-11-11"
+  },
+  {
+    "VERSION_ID": 990,
+    "SCHEMA_VERSION": "v990.1.0",
+    "RELEASE_DATE": "2022-04-22"
+  },
+  {
+    "VERSION_ID": 991,
+    "SCHEMA_VERSION": "v991.4.2",
+    "RELEASE_DATE": "2023-09-13"
+  },
+  {
+    "VERSION_ID": 992,
+    "SCHEMA_VERSION": "v992.8.2",
+    "RELEASE_DATE": "2023-10-20"
+  },
+  {
+    "VERSION_ID": 993,
+    "SCHEMA_VERSION": "v993.4.8",
+    "RELEASE_DATE": "2023-06-07"
+  },
+  {
+    "VERSION_ID": 994,
+    "SCHEMA_VERSION": "v994.2.4",
+    "RELEASE_DATE": "2022-01-14"
+  },
+  {
+    "VERSION_ID": 995,
+    "SCHEMA_VERSION": "v995.4.6",
+    "RELEASE_DATE": "2023-01-18"
+  },
+  {
+    "VERSION_ID": 996,
+    "SCHEMA_VERSION": "v996.0.5",
+    "RELEASE_DATE": "2022-02-21"
+  },
+  {
+    "VERSION_ID": 997,
+    "SCHEMA_VERSION": "v997.4.1",
+    "RELEASE_DATE": "2023-12-16"
+  },
+  {
+    "VERSION_ID": 998,
+    "SCHEMA_VERSION": "v998.7.6",
+    "RELEASE_DATE": "2022-09-24"
+  },
+  {
+    "VERSION_ID": 999,
+    "SCHEMA_VERSION": "v999.5.7",
+    "RELEASE_DATE": "2023-09-13"
+  },
+  {
+    "VERSION_ID": 1000,
+    "SCHEMA_VERSION": "v1000.8.3",
+    "RELEASE_DATE": "2022-10-28"
+  }
+]

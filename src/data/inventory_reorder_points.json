@@ -1,0 +1,5002 @@
+[
+  {
+    "PRODUCT_ID": 319,
+    "MIN_QUANTITY": 52,
+    "REORDER_QUANTITY": 318
+  },
+  {
+    "PRODUCT_ID": 395,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 135
+  },
+  {
+    "PRODUCT_ID": 552,
+    "MIN_QUANTITY": 86,
+    "REORDER_QUANTITY": 451
+  },
+  {
+    "PRODUCT_ID": 432,
+    "MIN_QUANTITY": 91,
+    "REORDER_QUANTITY": 126
+  },
+  {
+    "PRODUCT_ID": 328,
+    "MIN_QUANTITY": 55,
+    "REORDER_QUANTITY": 367
+  },
+  {
+    "PRODUCT_ID": 932,
+    "MIN_QUANTITY": 51,
+    "REORDER_QUANTITY": 474
+  },
+  {
+    "PRODUCT_ID": 154,
+    "MIN_QUANTITY": 66,
+    "REORDER_QUANTITY": 176
+  },
+  {
+    "PRODUCT_ID": 178,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 68
+  },
+  {
+    "PRODUCT_ID": 505,
+    "MIN_QUANTITY": 59,
+    "REORDER_QUANTITY": 81
+  },
+  {
+    "PRODUCT_ID": 29,
+    "MIN_QUANTITY": 18,
+    "REORDER_QUANTITY": 261
+  },
+  {
+    "PRODUCT_ID": 317,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 198
+  },
+  {
+    "PRODUCT_ID": 572,
+    "MIN_QUANTITY": 90,
+    "REORDER_QUANTITY": 384
+  },
+  {
+    "PRODUCT_ID": 206,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 294
+  },
+  {
+    "PRODUCT_ID": 843,
+    "MIN_QUANTITY": 80,
+    "REORDER_QUANTITY": 433
+  },
+  {
+    "PRODUCT_ID": 687,
+    "MIN_QUANTITY": 42,
+    "REORDER_QUANTITY": 197
+  },
+  {
+    "PRODUCT_ID": 827,
+    "MIN_QUANTITY": 48,
+    "REORDER_QUANTITY": 431
+  },
+  {
+    "PRODUCT_ID": 82,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 386
+  },
+  {
+    "PRODUCT_ID": 623,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 239
+  },
+  {
+    "PRODUCT_ID": 100,
+    "MIN_QUANTITY": 63,
+    "REORDER_QUANTITY": 252
+  },
+  {
+    "PRODUCT_ID": 680,
+    "MIN_QUANTITY": 19,
+    "REORDER_QUANTITY": 194
+  },
+  {
+    "PRODUCT_ID": 106,
+    "MIN_QUANTITY": 35,
+    "REORDER_QUANTITY": 57
+  },
+  {
+    "PRODUCT_ID": 95,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 391
+  },
+  {
+    "PRODUCT_ID": 94,
+    "MIN_QUANTITY": 64,
+    "REORDER_QUANTITY": 428
+  },
+  {
+    "PRODUCT_ID": 613,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 438
+  },
+  {
+    "PRODUCT_ID": 111,
+    "MIN_QUANTITY": 91,
+    "REORDER_QUANTITY": 414
+  },
+  {
+    "PRODUCT_ID": 711,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 448
+  },
+  {
+    "PRODUCT_ID": 34,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 439
+  },
+  {
+    "PRODUCT_ID": 565,
+    "MIN_QUANTITY": 41,
+    "REORDER_QUANTITY": 276
+  },
+  {
+    "PRODUCT_ID": 977,
+    "MIN_QUANTITY": 52,
+    "REORDER_QUANTITY": 339
+  },
+  {
+    "PRODUCT_ID": 756,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 402
+  },
+  {
+    "PRODUCT_ID": 12,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 60
+  },
+  {
+    "PRODUCT_ID": 425,
+    "MIN_QUANTITY": 57,
+    "REORDER_QUANTITY": 438
+  },
+  {
+    "PRODUCT_ID": 354,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 498
+  },
+  {
+    "PRODUCT_ID": 959,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 217
+  },
+  {
+    "PRODUCT_ID": 712,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 186
+  },
+  {
+    "PRODUCT_ID": 685,
+    "MIN_QUANTITY": 14,
+    "REORDER_QUANTITY": 284
+  },
+  {
+    "PRODUCT_ID": 783,
+    "MIN_QUANTITY": 79,
+    "REORDER_QUANTITY": 460
+  },
+  {
+    "PRODUCT_ID": 303,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 54
+  },
+  {
+    "PRODUCT_ID": 457,
+    "MIN_QUANTITY": 30,
+    "REORDER_QUANTITY": 194
+  },
+  {
+    "PRODUCT_ID": 571,
+    "MIN_QUANTITY": 23,
+    "REORDER_QUANTITY": 173
+  },
+  {
+    "PRODUCT_ID": 68,
+    "MIN_QUANTITY": 92,
+    "REORDER_QUANTITY": 341
+  },
+  {
+    "PRODUCT_ID": 241,
+    "MIN_QUANTITY": 15,
+    "REORDER_QUANTITY": 237
+  },
+  {
+    "PRODUCT_ID": 740,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 429
+  },
+  {
+    "PRODUCT_ID": 676,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 67
+  },
+  {
+    "PRODUCT_ID": 705,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 286
+  },
+  {
+    "PRODUCT_ID": 448,
+    "MIN_QUANTITY": 98,
+    "REORDER_QUANTITY": 404
+  },
+  {
+    "PRODUCT_ID": 546,
+    "MIN_QUANTITY": 93,
+    "REORDER_QUANTITY": 443
+  },
+  {
+    "PRODUCT_ID": 302,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 463
+  },
+  {
+    "PRODUCT_ID": 312,
+    "MIN_QUANTITY": 54,
+    "REORDER_QUANTITY": 153
+  },
+  {
+    "PRODUCT_ID": 74,
+    "MIN_QUANTITY": 22,
+    "REORDER_QUANTITY": 170
+  },
+  {
+    "PRODUCT_ID": 139,
+    "MIN_QUANTITY": 76,
+    "REORDER_QUANTITY": 497
+  },
+  {
+    "PRODUCT_ID": 389,
+    "MIN_QUANTITY": 54,
+    "REORDER_QUANTITY": 205
+  },
+  {
+    "PRODUCT_ID": 129,
+    "MIN_QUANTITY": 73,
+    "REORDER_QUANTITY": 227
+  },
+  {
+    "PRODUCT_ID": 945,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 222
+  },
+  {
+    "PRODUCT_ID": 204,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 220
+  },
+  {
+    "PRODUCT_ID": 909,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 379
+  },
+  {
+    "PRODUCT_ID": 313,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 297
+  },
+  {
+    "PRODUCT_ID": 58,
+    "MIN_QUANTITY": 46,
+    "REORDER_QUANTITY": 492
+  },
+  {
+    "PRODUCT_ID": 825,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 53
+  },
+  {
+    "PRODUCT_ID": 974,
+    "MIN_QUANTITY": 54,
+    "REORDER_QUANTITY": 97
+  },
+  {
+    "PRODUCT_ID": 226,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 165
+  },
+  {
+    "PRODUCT_ID": 835,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 375
+  },
+  {
+    "PRODUCT_ID": 132,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 371
+  },
+  {
+    "PRODUCT_ID": 456,
+    "MIN_QUANTITY": 14,
+    "REORDER_QUANTITY": 410
+  },
+  {
+    "PRODUCT_ID": 187,
+    "MIN_QUANTITY": 72,
+    "REORDER_QUANTITY": 249
+  },
+  {
+    "PRODUCT_ID": 844,
+    "MIN_QUANTITY": 28,
+    "REORDER_QUANTITY": 364
+  },
+  {
+    "PRODUCT_ID": 833,
+    "MIN_QUANTITY": 14,
+    "REORDER_QUANTITY": 273
+  },
+  {
+    "PRODUCT_ID": 573,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 312
+  },
+  {
+    "PRODUCT_ID": 838,
+    "MIN_QUANTITY": 92,
+    "REORDER_QUANTITY": 79
+  },
+  {
+    "PRODUCT_ID": 198,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 434
+  },
+  {
+    "PRODUCT_ID": 784,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 213
+  },
+  {
+    "PRODUCT_ID": 363,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 191
+  },
+  {
+    "PRODUCT_ID": 166,
+    "MIN_QUANTITY": 79,
+    "REORDER_QUANTITY": 209
+  },
+  {
+    "PRODUCT_ID": 438,
+    "MIN_QUANTITY": 68,
+    "REORDER_QUANTITY": 336
+  },
+  {
+    "PRODUCT_ID": 458,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 496
+  },
+  {
+    "PRODUCT_ID": 297,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 179
+  },
+  {
+    "PRODUCT_ID": 376,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 451
+  },
+  {
+    "PRODUCT_ID": 113,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 498
+  },
+  {
+    "PRODUCT_ID": 849,
+    "MIN_QUANTITY": 42,
+    "REORDER_QUANTITY": 175
+  },
+  {
+    "PRODUCT_ID": 438,
+    "MIN_QUANTITY": 37,
+    "REORDER_QUANTITY": 401
+  },
+  {
+    "PRODUCT_ID": 456,
+    "MIN_QUANTITY": 18,
+    "REORDER_QUANTITY": 163
+  },
+  {
+    "PRODUCT_ID": 989,
+    "MIN_QUANTITY": 11,
+    "REORDER_QUANTITY": 312
+  },
+  {
+    "PRODUCT_ID": 1,
+    "MIN_QUANTITY": 71,
+    "REORDER_QUANTITY": 64
+  },
+  {
+    "PRODUCT_ID": 627,
+    "MIN_QUANTITY": 76,
+    "REORDER_QUANTITY": 476
+  },
+  {
+    "PRODUCT_ID": 35,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 241
+  },
+  {
+    "PRODUCT_ID": 174,
+    "MIN_QUANTITY": 68,
+    "REORDER_QUANTITY": 140
+  },
+  {
+    "PRODUCT_ID": 955,
+    "MIN_QUANTITY": 53,
+    "REORDER_QUANTITY": 245
+  },
+  {
+    "PRODUCT_ID": 381,
+    "MIN_QUANTITY": 49,
+    "REORDER_QUANTITY": 192
+  },
+  {
+    "PRODUCT_ID": 578,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 107
+  },
+  {
+    "PRODUCT_ID": 20,
+    "MIN_QUANTITY": 60,
+    "REORDER_QUANTITY": 102
+  },
+  {
+    "PRODUCT_ID": 404,
+    "MIN_QUANTITY": 37,
+    "REORDER_QUANTITY": 196
+  },
+  {
+    "PRODUCT_ID": 691,
+    "MIN_QUANTITY": 68,
+    "REORDER_QUANTITY": 333
+  },
+  {
+    "PRODUCT_ID": 511,
+    "MIN_QUANTITY": 79,
+    "REORDER_QUANTITY": 78
+  },
+  {
+    "PRODUCT_ID": 967,
+    "MIN_QUANTITY": 45,
+    "REORDER_QUANTITY": 474
+  },
+  {
+    "PRODUCT_ID": 38,
+    "MIN_QUANTITY": 68,
+    "REORDER_QUANTITY": 309
+  },
+  {
+    "PRODUCT_ID": 864,
+    "MIN_QUANTITY": 30,
+    "REORDER_QUANTITY": 437
+  },
+  {
+    "PRODUCT_ID": 122,
+    "MIN_QUANTITY": 36,
+    "REORDER_QUANTITY": 230
+  },
+  {
+    "PRODUCT_ID": 419,
+    "MIN_QUANTITY": 95,
+    "REORDER_QUANTITY": 478
+  },
+  {
+    "PRODUCT_ID": 94,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 215
+  },
+  {
+    "PRODUCT_ID": 972,
+    "MIN_QUANTITY": 45,
+    "REORDER_QUANTITY": 137
+  },
+  {
+    "PRODUCT_ID": 88,
+    "MIN_QUANTITY": 41,
+    "REORDER_QUANTITY": 176
+  },
+  {
+    "PRODUCT_ID": 445,
+    "MIN_QUANTITY": 98,
+    "REORDER_QUANTITY": 174
+  },
+  {
+    "PRODUCT_ID": 796,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 282
+  },
+  {
+    "PRODUCT_ID": 992,
+    "MIN_QUANTITY": 41,
+    "REORDER_QUANTITY": 339
+  },
+  {
+    "PRODUCT_ID": 372,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 91
+  },
+  {
+    "PRODUCT_ID": 880,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 86
+  },
+  {
+    "PRODUCT_ID": 412,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 262
+  },
+  {
+    "PRODUCT_ID": 635,
+    "MIN_QUANTITY": 96,
+    "REORDER_QUANTITY": 238
+  },
+  {
+    "PRODUCT_ID": 85,
+    "MIN_QUANTITY": 53,
+    "REORDER_QUANTITY": 276
+  },
+  {
+    "PRODUCT_ID": 409,
+    "MIN_QUANTITY": 47,
+    "REORDER_QUANTITY": 285
+  },
+  {
+    "PRODUCT_ID": 185,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 432
+  },
+  {
+    "PRODUCT_ID": 886,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 433
+  },
+  {
+    "PRODUCT_ID": 379,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 193
+  },
+  {
+    "PRODUCT_ID": 952,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 92
+  },
+  {
+    "PRODUCT_ID": 989,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 159
+  },
+  {
+    "PRODUCT_ID": 193,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 200
+  },
+  {
+    "PRODUCT_ID": 263,
+    "MIN_QUANTITY": 47,
+    "REORDER_QUANTITY": 281
+  },
+  {
+    "PRODUCT_ID": 145,
+    "MIN_QUANTITY": 79,
+    "REORDER_QUANTITY": 359
+  },
+  {
+    "PRODUCT_ID": 788,
+    "MIN_QUANTITY": 41,
+    "REORDER_QUANTITY": 366
+  },
+  {
+    "PRODUCT_ID": 588,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 454
+  },
+  {
+    "PRODUCT_ID": 552,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 384
+  },
+  {
+    "PRODUCT_ID": 562,
+    "MIN_QUANTITY": 71,
+    "REORDER_QUANTITY": 197
+  },
+  {
+    "PRODUCT_ID": 791,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 104
+  },
+  {
+    "PRODUCT_ID": 236,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 108
+  },
+  {
+    "PRODUCT_ID": 727,
+    "MIN_QUANTITY": 81,
+    "REORDER_QUANTITY": 239
+  },
+  {
+    "PRODUCT_ID": 113,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 464
+  },
+  {
+    "PRODUCT_ID": 570,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 205
+  },
+  {
+    "PRODUCT_ID": 475,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 475
+  },
+  {
+    "PRODUCT_ID": 183,
+    "MIN_QUANTITY": 90,
+    "REORDER_QUANTITY": 223
+  },
+  {
+    "PRODUCT_ID": 274,
+    "MIN_QUANTITY": 69,
+    "REORDER_QUANTITY": 298
+  },
+  {
+    "PRODUCT_ID": 503,
+    "MIN_QUANTITY": 45,
+    "REORDER_QUANTITY": 139
+  },
+  {
+    "PRODUCT_ID": 956,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 366
+  },
+  {
+    "PRODUCT_ID": 586,
+    "MIN_QUANTITY": 76,
+    "REORDER_QUANTITY": 211
+  },
+  {
+    "PRODUCT_ID": 888,
+    "MIN_QUANTITY": 86,
+    "REORDER_QUANTITY": 75
+  },
+  {
+    "PRODUCT_ID": 415,
+    "MIN_QUANTITY": 71,
+    "REORDER_QUANTITY": 72
+  },
+  {
+    "PRODUCT_ID": 868,
+    "MIN_QUANTITY": 59,
+    "REORDER_QUANTITY": 251
+  },
+  {
+    "PRODUCT_ID": 471,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 197
+  },
+  {
+    "PRODUCT_ID": 60,
+    "MIN_QUANTITY": 29,
+    "REORDER_QUANTITY": 326
+  },
+  {
+    "PRODUCT_ID": 355,
+    "MIN_QUANTITY": 73,
+    "REORDER_QUANTITY": 328
+  },
+  {
+    "PRODUCT_ID": 326,
+    "MIN_QUANTITY": 44,
+    "REORDER_QUANTITY": 323
+  },
+  {
+    "PRODUCT_ID": 858,
+    "MIN_QUANTITY": 46,
+    "REORDER_QUANTITY": 219
+  },
+  {
+    "PRODUCT_ID": 26,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 238
+  },
+  {
+    "PRODUCT_ID": 581,
+    "MIN_QUANTITY": 50,
+    "REORDER_QUANTITY": 142
+  },
+  {
+    "PRODUCT_ID": 149,
+    "MIN_QUANTITY": 66,
+    "REORDER_QUANTITY": 164
+  },
+  {
+    "PRODUCT_ID": 582,
+    "MIN_QUANTITY": 66,
+    "REORDER_QUANTITY": 160
+  },
+  {
+    "PRODUCT_ID": 884,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 441
+  },
+  {
+    "PRODUCT_ID": 805,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 500
+  },
+  {
+    "PRODUCT_ID": 285,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 225
+  },
+  {
+    "PRODUCT_ID": 32,
+    "MIN_QUANTITY": 58,
+    "REORDER_QUANTITY": 210
+  },
+  {
+    "PRODUCT_ID": 810,
+    "MIN_QUANTITY": 65,
+    "REORDER_QUANTITY": 285
+  },
+  {
+    "PRODUCT_ID": 369,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 238
+  },
+  {
+    "PRODUCT_ID": 913,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 328
+  },
+  {
+    "PRODUCT_ID": 426,
+    "MIN_QUANTITY": 81,
+    "REORDER_QUANTITY": 473
+  },
+  {
+    "PRODUCT_ID": 845,
+    "MIN_QUANTITY": 18,
+    "REORDER_QUANTITY": 97
+  },
+  {
+    "PRODUCT_ID": 776,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 268
+  },
+  {
+    "PRODUCT_ID": 477,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 410
+  },
+  {
+    "PRODUCT_ID": 842,
+    "MIN_QUANTITY": 23,
+    "REORDER_QUANTITY": 157
+  },
+  {
+    "PRODUCT_ID": 541,
+    "MIN_QUANTITY": 50,
+    "REORDER_QUANTITY": 108
+  },
+  {
+    "PRODUCT_ID": 791,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 66
+  },
+  {
+    "PRODUCT_ID": 156,
+    "MIN_QUANTITY": 18,
+    "REORDER_QUANTITY": 137
+  },
+  {
+    "PRODUCT_ID": 232,
+    "MIN_QUANTITY": 51,
+    "REORDER_QUANTITY": 493
+  },
+  {
+    "PRODUCT_ID": 472,
+    "MIN_QUANTITY": 76,
+    "REORDER_QUANTITY": 190
+  },
+  {
+    "PRODUCT_ID": 106,
+    "MIN_QUANTITY": 64,
+    "REORDER_QUANTITY": 309
+  },
+  {
+    "PRODUCT_ID": 110,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 452
+  },
+  {
+    "PRODUCT_ID": 43,
+    "MIN_QUANTITY": 24,
+    "REORDER_QUANTITY": 321
+  },
+  {
+    "PRODUCT_ID": 608,
+    "MIN_QUANTITY": 47,
+    "REORDER_QUANTITY": 172
+  },
+  {
+    "PRODUCT_ID": 497,
+    "MIN_QUANTITY": 53,
+    "REORDER_QUANTITY": 421
+  },
+  {
+    "PRODUCT_ID": 462,
+    "MIN_QUANTITY": 73,
+    "REORDER_QUANTITY": 487
+  },
+  {
+    "PRODUCT_ID": 432,
+    "MIN_QUANTITY": 24,
+    "REORDER_QUANTITY": 130
+  },
+  {
+    "PRODUCT_ID": 2,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 325
+  },
+  {
+    "PRODUCT_ID": 348,
+    "MIN_QUANTITY": 49,
+    "REORDER_QUANTITY": 237
+  },
+  {
+    "PRODUCT_ID": 403,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 320
+  },
+  {
+    "PRODUCT_ID": 177,
+    "MIN_QUANTITY": 25,
+    "REORDER_QUANTITY": 415
+  },
+  {
+    "PRODUCT_ID": 210,
+    "MIN_QUANTITY": 91,
+    "REORDER_QUANTITY": 352
+  },
+  {
+    "PRODUCT_ID": 528,
+    "MIN_QUANTITY": 63,
+    "REORDER_QUANTITY": 346
+  },
+  {
+    "PRODUCT_ID": 372,
+    "MIN_QUANTITY": 19,
+    "REORDER_QUANTITY": 287
+  },
+  {
+    "PRODUCT_ID": 304,
+    "MIN_QUANTITY": 65,
+    "REORDER_QUANTITY": 256
+  },
+  {
+    "PRODUCT_ID": 375,
+    "MIN_QUANTITY": 37,
+    "REORDER_QUANTITY": 161
+  },
+  {
+    "PRODUCT_ID": 632,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 476
+  },
+  {
+    "PRODUCT_ID": 78,
+    "MIN_QUANTITY": 46,
+    "REORDER_QUANTITY": 351
+  },
+  {
+    "PRODUCT_ID": 826,
+    "MIN_QUANTITY": 29,
+    "REORDER_QUANTITY": 148
+  },
+  {
+    "PRODUCT_ID": 810,
+    "MIN_QUANTITY": 23,
+    "REORDER_QUANTITY": 179
+  },
+  {
+    "PRODUCT_ID": 90,
+    "MIN_QUANTITY": 49,
+    "REORDER_QUANTITY": 67
+  },
+  {
+    "PRODUCT_ID": 962,
+    "MIN_QUANTITY": 65,
+    "REORDER_QUANTITY": 333
+  },
+  {
+    "PRODUCT_ID": 828,
+    "MIN_QUANTITY": 92,
+    "REORDER_QUANTITY": 446
+  },
+  {
+    "PRODUCT_ID": 730,
+    "MIN_QUANTITY": 70,
+    "REORDER_QUANTITY": 81
+  },
+  {
+    "PRODUCT_ID": 841,
+    "MIN_QUANTITY": 26,
+    "REORDER_QUANTITY": 251
+  },
+  {
+    "PRODUCT_ID": 48,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 410
+  },
+  {
+    "PRODUCT_ID": 285,
+    "MIN_QUANTITY": 37,
+    "REORDER_QUANTITY": 215
+  },
+  {
+    "PRODUCT_ID": 447,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 372
+  },
+  {
+    "PRODUCT_ID": 259,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 128
+  },
+  {
+    "PRODUCT_ID": 400,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 183
+  },
+  {
+    "PRODUCT_ID": 49,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 473
+  },
+  {
+    "PRODUCT_ID": 346,
+    "MIN_QUANTITY": 37,
+    "REORDER_QUANTITY": 140
+  },
+  {
+    "PRODUCT_ID": 288,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 219
+  },
+  {
+    "PRODUCT_ID": 635,
+    "MIN_QUANTITY": 45,
+    "REORDER_QUANTITY": 231
+  },
+  {
+    "PRODUCT_ID": 246,
+    "MIN_QUANTITY": 33,
+    "REORDER_QUANTITY": 377
+  },
+  {
+    "PRODUCT_ID": 886,
+    "MIN_QUANTITY": 98,
+    "REORDER_QUANTITY": 322
+  },
+  {
+    "PRODUCT_ID": 815,
+    "MIN_QUANTITY": 25,
+    "REORDER_QUANTITY": 482
+  },
+  {
+    "PRODUCT_ID": 518,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 443
+  },
+  {
+    "PRODUCT_ID": 26,
+    "MIN_QUANTITY": 81,
+    "REORDER_QUANTITY": 178
+  },
+  {
+    "PRODUCT_ID": 623,
+    "MIN_QUANTITY": 26,
+    "REORDER_QUANTITY": 387
+  },
+  {
+    "PRODUCT_ID": 747,
+    "MIN_QUANTITY": 26,
+    "REORDER_QUANTITY": 445
+  },
+  {
+    "PRODUCT_ID": 80,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 237
+  },
+  {
+    "PRODUCT_ID": 15,
+    "MIN_QUANTITY": 63,
+    "REORDER_QUANTITY": 266
+  },
+  {
+    "PRODUCT_ID": 532,
+    "MIN_QUANTITY": 92,
+    "REORDER_QUANTITY": 120
+  },
+  {
+    "PRODUCT_ID": 938,
+    "MIN_QUANTITY": 72,
+    "REORDER_QUANTITY": 224
+  },
+  {
+    "PRODUCT_ID": 959,
+    "MIN_QUANTITY": 21,
+    "REORDER_QUANTITY": 225
+  },
+  {
+    "PRODUCT_ID": 658,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 108
+  },
+  {
+    "PRODUCT_ID": 829,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 340
+  },
+  {
+    "PRODUCT_ID": 157,
+    "MIN_QUANTITY": 86,
+    "REORDER_QUANTITY": 188
+  },
+  {
+    "PRODUCT_ID": 827,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 438
+  },
+  {
+    "PRODUCT_ID": 277,
+    "MIN_QUANTITY": 21,
+    "REORDER_QUANTITY": 365
+  },
+  {
+    "PRODUCT_ID": 43,
+    "MIN_QUANTITY": 80,
+    "REORDER_QUANTITY": 306
+  },
+  {
+    "PRODUCT_ID": 465,
+    "MIN_QUANTITY": 99,
+    "REORDER_QUANTITY": 60
+  },
+  {
+    "PRODUCT_ID": 273,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 222
+  },
+  {
+    "PRODUCT_ID": 25,
+    "MIN_QUANTITY": 41,
+    "REORDER_QUANTITY": 484
+  },
+  {
+    "PRODUCT_ID": 305,
+    "MIN_QUANTITY": 93,
+    "REORDER_QUANTITY": 451
+  },
+  {
+    "PRODUCT_ID": 773,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 216
+  },
+  {
+    "PRODUCT_ID": 709,
+    "MIN_QUANTITY": 11,
+    "REORDER_QUANTITY": 348
+  },
+  {
+    "PRODUCT_ID": 505,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 122
+  },
+  {
+    "PRODUCT_ID": 331,
+    "MIN_QUANTITY": 81,
+    "REORDER_QUANTITY": 244
+  },
+  {
+    "PRODUCT_ID": 786,
+    "MIN_QUANTITY": 51,
+    "REORDER_QUANTITY": 326
+  },
+  {
+    "PRODUCT_ID": 66,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 164
+  },
+  {
+    "PRODUCT_ID": 167,
+    "MIN_QUANTITY": 69,
+    "REORDER_QUANTITY": 371
+  },
+  {
+    "PRODUCT_ID": 179,
+    "MIN_QUANTITY": 60,
+    "REORDER_QUANTITY": 94
+  },
+  {
+    "PRODUCT_ID": 676,
+    "MIN_QUANTITY": 19,
+    "REORDER_QUANTITY": 400
+  },
+  {
+    "PRODUCT_ID": 814,
+    "MIN_QUANTITY": 46,
+    "REORDER_QUANTITY": 387
+  },
+  {
+    "PRODUCT_ID": 843,
+    "MIN_QUANTITY": 59,
+    "REORDER_QUANTITY": 394
+  },
+  {
+    "PRODUCT_ID": 878,
+    "MIN_QUANTITY": 91,
+    "REORDER_QUANTITY": 84
+  },
+  {
+    "PRODUCT_ID": 33,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 411
+  },
+  {
+    "PRODUCT_ID": 82,
+    "MIN_QUANTITY": 13,
+    "REORDER_QUANTITY": 245
+  },
+  {
+    "PRODUCT_ID": 567,
+    "MIN_QUANTITY": 37,
+    "REORDER_QUANTITY": 435
+  },
+  {
+    "PRODUCT_ID": 399,
+    "MIN_QUANTITY": 59,
+    "REORDER_QUANTITY": 281
+  },
+  {
+    "PRODUCT_ID": 533,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 92
+  },
+  {
+    "PRODUCT_ID": 238,
+    "MIN_QUANTITY": 58,
+    "REORDER_QUANTITY": 183
+  },
+  {
+    "PRODUCT_ID": 898,
+    "MIN_QUANTITY": 61,
+    "REORDER_QUANTITY": 477
+  },
+  {
+    "PRODUCT_ID": 555,
+    "MIN_QUANTITY": 87,
+    "REORDER_QUANTITY": 386
+  },
+  {
+    "PRODUCT_ID": 336,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 292
+  },
+  {
+    "PRODUCT_ID": 702,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 63
+  },
+  {
+    "PRODUCT_ID": 570,
+    "MIN_QUANTITY": 99,
+    "REORDER_QUANTITY": 95
+  },
+  {
+    "PRODUCT_ID": 480,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 423
+  },
+  {
+    "PRODUCT_ID": 595,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 274
+  },
+  {
+    "PRODUCT_ID": 471,
+    "MIN_QUANTITY": 52,
+    "REORDER_QUANTITY": 174
+  },
+  {
+    "PRODUCT_ID": 255,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 400
+  },
+  {
+    "PRODUCT_ID": 280,
+    "MIN_QUANTITY": 60,
+    "REORDER_QUANTITY": 394
+  },
+  {
+    "PRODUCT_ID": 565,
+    "MIN_QUANTITY": 25,
+    "REORDER_QUANTITY": 316
+  },
+  {
+    "PRODUCT_ID": 631,
+    "MIN_QUANTITY": 61,
+    "REORDER_QUANTITY": 106
+  },
+  {
+    "PRODUCT_ID": 605,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 392
+  },
+  {
+    "PRODUCT_ID": 382,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 338
+  },
+  {
+    "PRODUCT_ID": 994,
+    "MIN_QUANTITY": 66,
+    "REORDER_QUANTITY": 239
+  },
+  {
+    "PRODUCT_ID": 704,
+    "MIN_QUANTITY": 79,
+    "REORDER_QUANTITY": 247
+  },
+  {
+    "PRODUCT_ID": 771,
+    "MIN_QUANTITY": 60,
+    "REORDER_QUANTITY": 365
+  },
+  {
+    "PRODUCT_ID": 977,
+    "MIN_QUANTITY": 13,
+    "REORDER_QUANTITY": 271
+  },
+  {
+    "PRODUCT_ID": 108,
+    "MIN_QUANTITY": 63,
+    "REORDER_QUANTITY": 348
+  },
+  {
+    "PRODUCT_ID": 479,
+    "MIN_QUANTITY": 94,
+    "REORDER_QUANTITY": 82
+  },
+  {
+    "PRODUCT_ID": 995,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 257
+  },
+  {
+    "PRODUCT_ID": 719,
+    "MIN_QUANTITY": 33,
+    "REORDER_QUANTITY": 164
+  },
+  {
+    "PRODUCT_ID": 591,
+    "MIN_QUANTITY": 92,
+    "REORDER_QUANTITY": 243
+  },
+  {
+    "PRODUCT_ID": 669,
+    "MIN_QUANTITY": 65,
+    "REORDER_QUANTITY": 90
+  },
+  {
+    "PRODUCT_ID": 404,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 157
+  },
+  {
+    "PRODUCT_ID": 146,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 55
+  },
+  {
+    "PRODUCT_ID": 384,
+    "MIN_QUANTITY": 44,
+    "REORDER_QUANTITY": 413
+  },
+  {
+    "PRODUCT_ID": 349,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 361
+  },
+  {
+    "PRODUCT_ID": 246,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 214
+  },
+  {
+    "PRODUCT_ID": 967,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 266
+  },
+  {
+    "PRODUCT_ID": 980,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 231
+  },
+  {
+    "PRODUCT_ID": 896,
+    "MIN_QUANTITY": 44,
+    "REORDER_QUANTITY": 134
+  },
+  {
+    "PRODUCT_ID": 659,
+    "MIN_QUANTITY": 11,
+    "REORDER_QUANTITY": 471
+  },
+  {
+    "PRODUCT_ID": 286,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 439
+  },
+  {
+    "PRODUCT_ID": 614,
+    "MIN_QUANTITY": 98,
+    "REORDER_QUANTITY": 167
+  },
+  {
+    "PRODUCT_ID": 421,
+    "MIN_QUANTITY": 18,
+    "REORDER_QUANTITY": 385
+  },
+  {
+    "PRODUCT_ID": 701,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 215
+  },
+  {
+    "PRODUCT_ID": 783,
+    "MIN_QUANTITY": 55,
+    "REORDER_QUANTITY": 340
+  },
+  {
+    "PRODUCT_ID": 574,
+    "MIN_QUANTITY": 29,
+    "REORDER_QUANTITY": 325
+  },
+  {
+    "PRODUCT_ID": 664,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 474
+  },
+  {
+    "PRODUCT_ID": 359,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 387
+  },
+  {
+    "PRODUCT_ID": 782,
+    "MIN_QUANTITY": 18,
+    "REORDER_QUANTITY": 374
+  },
+  {
+    "PRODUCT_ID": 391,
+    "MIN_QUANTITY": 58,
+    "REORDER_QUANTITY": 472
+  },
+  {
+    "PRODUCT_ID": 610,
+    "MIN_QUANTITY": 26,
+    "REORDER_QUANTITY": 316
+  },
+  {
+    "PRODUCT_ID": 864,
+    "MIN_QUANTITY": 19,
+    "REORDER_QUANTITY": 399
+  },
+  {
+    "PRODUCT_ID": 408,
+    "MIN_QUANTITY": 79,
+    "REORDER_QUANTITY": 497
+  },
+  {
+    "PRODUCT_ID": 789,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 82
+  },
+  {
+    "PRODUCT_ID": 572,
+    "MIN_QUANTITY": 95,
+    "REORDER_QUANTITY": 414
+  },
+  {
+    "PRODUCT_ID": 914,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 113
+  },
+  {
+    "PRODUCT_ID": 680,
+    "MIN_QUANTITY": 10,
+    "REORDER_QUANTITY": 211
+  },
+  {
+    "PRODUCT_ID": 754,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 125
+  },
+  {
+    "PRODUCT_ID": 157,
+    "MIN_QUANTITY": 48,
+    "REORDER_QUANTITY": 274
+  },
+  {
+    "PRODUCT_ID": 527,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 371
+  },
+  {
+    "PRODUCT_ID": 620,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 466
+  },
+  {
+    "PRODUCT_ID": 934,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 138
+  },
+  {
+    "PRODUCT_ID": 190,
+    "MIN_QUANTITY": 16,
+    "REORDER_QUANTITY": 351
+  },
+  {
+    "PRODUCT_ID": 386,
+    "MIN_QUANTITY": 99,
+    "REORDER_QUANTITY": 443
+  },
+  {
+    "PRODUCT_ID": 421,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 231
+  },
+  {
+    "PRODUCT_ID": 820,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 187
+  },
+  {
+    "PRODUCT_ID": 646,
+    "MIN_QUANTITY": 61,
+    "REORDER_QUANTITY": 239
+  },
+  {
+    "PRODUCT_ID": 954,
+    "MIN_QUANTITY": 19,
+    "REORDER_QUANTITY": 460
+  },
+  {
+    "PRODUCT_ID": 586,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 239
+  },
+  {
+    "PRODUCT_ID": 840,
+    "MIN_QUANTITY": 63,
+    "REORDER_QUANTITY": 477
+  },
+  {
+    "PRODUCT_ID": 227,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 143
+  },
+  {
+    "PRODUCT_ID": 283,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 277
+  },
+  {
+    "PRODUCT_ID": 872,
+    "MIN_QUANTITY": 33,
+    "REORDER_QUANTITY": 478
+  },
+  {
+    "PRODUCT_ID": 340,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 90
+  },
+  {
+    "PRODUCT_ID": 966,
+    "MIN_QUANTITY": 13,
+    "REORDER_QUANTITY": 456
+  },
+  {
+    "PRODUCT_ID": 587,
+    "MIN_QUANTITY": 56,
+    "REORDER_QUANTITY": 129
+  },
+  {
+    "PRODUCT_ID": 173,
+    "MIN_QUANTITY": 27,
+    "REORDER_QUANTITY": 487
+  },
+  {
+    "PRODUCT_ID": 909,
+    "MIN_QUANTITY": 80,
+    "REORDER_QUANTITY": 467
+  },
+  {
+    "PRODUCT_ID": 12,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 208
+  },
+  {
+    "PRODUCT_ID": 39,
+    "MIN_QUANTITY": 18,
+    "REORDER_QUANTITY": 457
+  },
+  {
+    "PRODUCT_ID": 247,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 379
+  },
+  {
+    "PRODUCT_ID": 109,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 322
+  },
+  {
+    "PRODUCT_ID": 247,
+    "MIN_QUANTITY": 51,
+    "REORDER_QUANTITY": 75
+  },
+  {
+    "PRODUCT_ID": 144,
+    "MIN_QUANTITY": 92,
+    "REORDER_QUANTITY": 239
+  },
+  {
+    "PRODUCT_ID": 10,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 208
+  },
+  {
+    "PRODUCT_ID": 715,
+    "MIN_QUANTITY": 70,
+    "REORDER_QUANTITY": 60
+  },
+  {
+    "PRODUCT_ID": 731,
+    "MIN_QUANTITY": 66,
+    "REORDER_QUANTITY": 183
+  },
+  {
+    "PRODUCT_ID": 876,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 403
+  },
+  {
+    "PRODUCT_ID": 960,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 481
+  },
+  {
+    "PRODUCT_ID": 148,
+    "MIN_QUANTITY": 54,
+    "REORDER_QUANTITY": 382
+  },
+  {
+    "PRODUCT_ID": 178,
+    "MIN_QUANTITY": 30,
+    "REORDER_QUANTITY": 286
+  },
+  {
+    "PRODUCT_ID": 725,
+    "MIN_QUANTITY": 22,
+    "REORDER_QUANTITY": 367
+  },
+  {
+    "PRODUCT_ID": 534,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 54
+  },
+  {
+    "PRODUCT_ID": 524,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 238
+  },
+  {
+    "PRODUCT_ID": 421,
+    "MIN_QUANTITY": 72,
+    "REORDER_QUANTITY": 90
+  },
+  {
+    "PRODUCT_ID": 673,
+    "MIN_QUANTITY": 27,
+    "REORDER_QUANTITY": 271
+  },
+  {
+    "PRODUCT_ID": 644,
+    "MIN_QUANTITY": 52,
+    "REORDER_QUANTITY": 105
+  },
+  {
+    "PRODUCT_ID": 26,
+    "MIN_QUANTITY": 15,
+    "REORDER_QUANTITY": 435
+  },
+  {
+    "PRODUCT_ID": 833,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 442
+  },
+  {
+    "PRODUCT_ID": 151,
+    "MIN_QUANTITY": 50,
+    "REORDER_QUANTITY": 265
+  },
+  {
+    "PRODUCT_ID": 915,
+    "MIN_QUANTITY": 55,
+    "REORDER_QUANTITY": 380
+  },
+  {
+    "PRODUCT_ID": 956,
+    "MIN_QUANTITY": 79,
+    "REORDER_QUANTITY": 250
+  },
+  {
+    "PRODUCT_ID": 857,
+    "MIN_QUANTITY": 91,
+    "REORDER_QUANTITY": 287
+  },
+  {
+    "PRODUCT_ID": 286,
+    "MIN_QUANTITY": 21,
+    "REORDER_QUANTITY": 447
+  },
+  {
+    "PRODUCT_ID": 390,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 325
+  },
+  {
+    "PRODUCT_ID": 591,
+    "MIN_QUANTITY": 51,
+    "REORDER_QUANTITY": 280
+  },
+  {
+    "PRODUCT_ID": 43,
+    "MIN_QUANTITY": 27,
+    "REORDER_QUANTITY": 241
+  },
+  {
+    "PRODUCT_ID": 618,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 500
+  },
+  {
+    "PRODUCT_ID": 163,
+    "MIN_QUANTITY": 64,
+    "REORDER_QUANTITY": 489
+  },
+  {
+    "PRODUCT_ID": 401,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 150
+  },
+  {
+    "PRODUCT_ID": 479,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 282
+  },
+  {
+    "PRODUCT_ID": 577,
+    "MIN_QUANTITY": 11,
+    "REORDER_QUANTITY": 424
+  },
+  {
+    "PRODUCT_ID": 821,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 196
+  },
+  {
+    "PRODUCT_ID": 127,
+    "MIN_QUANTITY": 56,
+    "REORDER_QUANTITY": 147
+  },
+  {
+    "PRODUCT_ID": 895,
+    "MIN_QUANTITY": 68,
+    "REORDER_QUANTITY": 173
+  },
+  {
+    "PRODUCT_ID": 354,
+    "MIN_QUANTITY": 50,
+    "REORDER_QUANTITY": 336
+  },
+  {
+    "PRODUCT_ID": 599,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 78
+  },
+  {
+    "PRODUCT_ID": 860,
+    "MIN_QUANTITY": 83,
+    "REORDER_QUANTITY": 317
+  },
+  {
+    "PRODUCT_ID": 880,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 357
+  },
+  {
+    "PRODUCT_ID": 601,
+    "MIN_QUANTITY": 11,
+    "REORDER_QUANTITY": 192
+  },
+  {
+    "PRODUCT_ID": 505,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 434
+  },
+  {
+    "PRODUCT_ID": 988,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 74
+  },
+  {
+    "PRODUCT_ID": 514,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 229
+  },
+  {
+    "PRODUCT_ID": 119,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 198
+  },
+  {
+    "PRODUCT_ID": 498,
+    "MIN_QUANTITY": 53,
+    "REORDER_QUANTITY": 324
+  },
+  {
+    "PRODUCT_ID": 838,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 137
+  },
+  {
+    "PRODUCT_ID": 111,
+    "MIN_QUANTITY": 11,
+    "REORDER_QUANTITY": 153
+  },
+  {
+    "PRODUCT_ID": 688,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 318
+  },
+  {
+    "PRODUCT_ID": 683,
+    "MIN_QUANTITY": 87,
+    "REORDER_QUANTITY": 404
+  },
+  {
+    "PRODUCT_ID": 969,
+    "MIN_QUANTITY": 95,
+    "REORDER_QUANTITY": 394
+  },
+  {
+    "PRODUCT_ID": 746,
+    "MIN_QUANTITY": 29,
+    "REORDER_QUANTITY": 79
+  },
+  {
+    "PRODUCT_ID": 383,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 260
+  },
+  {
+    "PRODUCT_ID": 249,
+    "MIN_QUANTITY": 27,
+    "REORDER_QUANTITY": 282
+  },
+  {
+    "PRODUCT_ID": 238,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 97
+  },
+  {
+    "PRODUCT_ID": 565,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 368
+  },
+  {
+    "PRODUCT_ID": 239,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 457
+  },
+  {
+    "PRODUCT_ID": 953,
+    "MIN_QUANTITY": 69,
+    "REORDER_QUANTITY": 257
+  },
+  {
+    "PRODUCT_ID": 753,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 467
+  },
+  {
+    "PRODUCT_ID": 116,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 346
+  },
+  {
+    "PRODUCT_ID": 227,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 343
+  },
+  {
+    "PRODUCT_ID": 288,
+    "MIN_QUANTITY": 19,
+    "REORDER_QUANTITY": 461
+  },
+  {
+    "PRODUCT_ID": 32,
+    "MIN_QUANTITY": 47,
+    "REORDER_QUANTITY": 172
+  },
+  {
+    "PRODUCT_ID": 651,
+    "MIN_QUANTITY": 42,
+    "REORDER_QUANTITY": 472
+  },
+  {
+    "PRODUCT_ID": 944,
+    "MIN_QUANTITY": 80,
+    "REORDER_QUANTITY": 396
+  },
+  {
+    "PRODUCT_ID": 665,
+    "MIN_QUANTITY": 80,
+    "REORDER_QUANTITY": 417
+  },
+  {
+    "PRODUCT_ID": 372,
+    "MIN_QUANTITY": 45,
+    "REORDER_QUANTITY": 352
+  },
+  {
+    "PRODUCT_ID": 259,
+    "MIN_QUANTITY": 49,
+    "REORDER_QUANTITY": 237
+  },
+  {
+    "PRODUCT_ID": 359,
+    "MIN_QUANTITY": 79,
+    "REORDER_QUANTITY": 215
+  },
+  {
+    "PRODUCT_ID": 679,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 222
+  },
+  {
+    "PRODUCT_ID": 49,
+    "MIN_QUANTITY": 59,
+    "REORDER_QUANTITY": 156
+  },
+  {
+    "PRODUCT_ID": 901,
+    "MIN_QUANTITY": 64,
+    "REORDER_QUANTITY": 360
+  },
+  {
+    "PRODUCT_ID": 804,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 77
+  },
+  {
+    "PRODUCT_ID": 897,
+    "MIN_QUANTITY": 28,
+    "REORDER_QUANTITY": 188
+  },
+  {
+    "PRODUCT_ID": 73,
+    "MIN_QUANTITY": 36,
+    "REORDER_QUANTITY": 386
+  },
+  {
+    "PRODUCT_ID": 860,
+    "MIN_QUANTITY": 26,
+    "REORDER_QUANTITY": 146
+  },
+  {
+    "PRODUCT_ID": 595,
+    "MIN_QUANTITY": 46,
+    "REORDER_QUANTITY": 55
+  },
+  {
+    "PRODUCT_ID": 286,
+    "MIN_QUANTITY": 21,
+    "REORDER_QUANTITY": 313
+  },
+  {
+    "PRODUCT_ID": 945,
+    "MIN_QUANTITY": 28,
+    "REORDER_QUANTITY": 370
+  },
+  {
+    "PRODUCT_ID": 548,
+    "MIN_QUANTITY": 23,
+    "REORDER_QUANTITY": 130
+  },
+  {
+    "PRODUCT_ID": 92,
+    "MIN_QUANTITY": 72,
+    "REORDER_QUANTITY": 304
+  },
+  {
+    "PRODUCT_ID": 16,
+    "MIN_QUANTITY": 55,
+    "REORDER_QUANTITY": 473
+  },
+  {
+    "PRODUCT_ID": 999,
+    "MIN_QUANTITY": 45,
+    "REORDER_QUANTITY": 122
+  },
+  {
+    "PRODUCT_ID": 99,
+    "MIN_QUANTITY": 56,
+    "REORDER_QUANTITY": 465
+  },
+  {
+    "PRODUCT_ID": 977,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 105
+  },
+  {
+    "PRODUCT_ID": 828,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 70
+  },
+  {
+    "PRODUCT_ID": 248,
+    "MIN_QUANTITY": 57,
+    "REORDER_QUANTITY": 220
+  },
+  {
+    "PRODUCT_ID": 411,
+    "MIN_QUANTITY": 52,
+    "REORDER_QUANTITY": 325
+  },
+  {
+    "PRODUCT_ID": 334,
+    "MIN_QUANTITY": 53,
+    "REORDER_QUANTITY": 408
+  },
+  {
+    "PRODUCT_ID": 643,
+    "MIN_QUANTITY": 92,
+    "REORDER_QUANTITY": 358
+  },
+  {
+    "PRODUCT_ID": 119,
+    "MIN_QUANTITY": 51,
+    "REORDER_QUANTITY": 399
+  },
+  {
+    "PRODUCT_ID": 247,
+    "MIN_QUANTITY": 76,
+    "REORDER_QUANTITY": 426
+  },
+  {
+    "PRODUCT_ID": 882,
+    "MIN_QUANTITY": 25,
+    "REORDER_QUANTITY": 425
+  },
+  {
+    "PRODUCT_ID": 511,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 111
+  },
+  {
+    "PRODUCT_ID": 802,
+    "MIN_QUANTITY": 19,
+    "REORDER_QUANTITY": 136
+  },
+  {
+    "PRODUCT_ID": 621,
+    "MIN_QUANTITY": 10,
+    "REORDER_QUANTITY": 450
+  },
+  {
+    "PRODUCT_ID": 349,
+    "MIN_QUANTITY": 19,
+    "REORDER_QUANTITY": 63
+  },
+  {
+    "PRODUCT_ID": 126,
+    "MIN_QUANTITY": 57,
+    "REORDER_QUANTITY": 281
+  },
+  {
+    "PRODUCT_ID": 544,
+    "MIN_QUANTITY": 99,
+    "REORDER_QUANTITY": 284
+  },
+  {
+    "PRODUCT_ID": 402,
+    "MIN_QUANTITY": 71,
+    "REORDER_QUANTITY": 407
+  },
+  {
+    "PRODUCT_ID": 197,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 160
+  },
+  {
+    "PRODUCT_ID": 932,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 150
+  },
+  {
+    "PRODUCT_ID": 977,
+    "MIN_QUANTITY": 11,
+    "REORDER_QUANTITY": 361
+  },
+  {
+    "PRODUCT_ID": 391,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 399
+  },
+  {
+    "PRODUCT_ID": 533,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 268
+  },
+  {
+    "PRODUCT_ID": 317,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 357
+  },
+  {
+    "PRODUCT_ID": 133,
+    "MIN_QUANTITY": 69,
+    "REORDER_QUANTITY": 227
+  },
+  {
+    "PRODUCT_ID": 343,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 173
+  },
+  {
+    "PRODUCT_ID": 509,
+    "MIN_QUANTITY": 83,
+    "REORDER_QUANTITY": 461
+  },
+  {
+    "PRODUCT_ID": 10,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 210
+  },
+  {
+    "PRODUCT_ID": 741,
+    "MIN_QUANTITY": 58,
+    "REORDER_QUANTITY": 225
+  },
+  {
+    "PRODUCT_ID": 838,
+    "MIN_QUANTITY": 71,
+    "REORDER_QUANTITY": 427
+  },
+  {
+    "PRODUCT_ID": 385,
+    "MIN_QUANTITY": 45,
+    "REORDER_QUANTITY": 474
+  },
+  {
+    "PRODUCT_ID": 84,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 210
+  },
+  {
+    "PRODUCT_ID": 370,
+    "MIN_QUANTITY": 95,
+    "REORDER_QUANTITY": 52
+  },
+  {
+    "PRODUCT_ID": 358,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 392
+  },
+  {
+    "PRODUCT_ID": 206,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 187
+  },
+  {
+    "PRODUCT_ID": 79,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 135
+  },
+  {
+    "PRODUCT_ID": 743,
+    "MIN_QUANTITY": 23,
+    "REORDER_QUANTITY": 439
+  },
+  {
+    "PRODUCT_ID": 788,
+    "MIN_QUANTITY": 29,
+    "REORDER_QUANTITY": 281
+  },
+  {
+    "PRODUCT_ID": 711,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 333
+  },
+  {
+    "PRODUCT_ID": 886,
+    "MIN_QUANTITY": 55,
+    "REORDER_QUANTITY": 435
+  },
+  {
+    "PRODUCT_ID": 507,
+    "MIN_QUANTITY": 80,
+    "REORDER_QUANTITY": 390
+  },
+  {
+    "PRODUCT_ID": 343,
+    "MIN_QUANTITY": 98,
+    "REORDER_QUANTITY": 492
+  },
+  {
+    "PRODUCT_ID": 255,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 290
+  },
+  {
+    "PRODUCT_ID": 581,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 92
+  },
+  {
+    "PRODUCT_ID": 857,
+    "MIN_QUANTITY": 100,
+    "REORDER_QUANTITY": 194
+  },
+  {
+    "PRODUCT_ID": 37,
+    "MIN_QUANTITY": 86,
+    "REORDER_QUANTITY": 148
+  },
+  {
+    "PRODUCT_ID": 443,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 419
+  },
+  {
+    "PRODUCT_ID": 622,
+    "MIN_QUANTITY": 35,
+    "REORDER_QUANTITY": 483
+  },
+  {
+    "PRODUCT_ID": 461,
+    "MIN_QUANTITY": 18,
+    "REORDER_QUANTITY": 322
+  },
+  {
+    "PRODUCT_ID": 823,
+    "MIN_QUANTITY": 36,
+    "REORDER_QUANTITY": 379
+  },
+  {
+    "PRODUCT_ID": 436,
+    "MIN_QUANTITY": 66,
+    "REORDER_QUANTITY": 251
+  },
+  {
+    "PRODUCT_ID": 868,
+    "MIN_QUANTITY": 13,
+    "REORDER_QUANTITY": 114
+  },
+  {
+    "PRODUCT_ID": 377,
+    "MIN_QUANTITY": 93,
+    "REORDER_QUANTITY": 479
+  },
+  {
+    "PRODUCT_ID": 549,
+    "MIN_QUANTITY": 19,
+    "REORDER_QUANTITY": 148
+  },
+  {
+    "PRODUCT_ID": 834,
+    "MIN_QUANTITY": 92,
+    "REORDER_QUANTITY": 59
+  },
+  {
+    "PRODUCT_ID": 564,
+    "MIN_QUANTITY": 87,
+    "REORDER_QUANTITY": 80
+  },
+  {
+    "PRODUCT_ID": 448,
+    "MIN_QUANTITY": 25,
+    "REORDER_QUANTITY": 208
+  },
+  {
+    "PRODUCT_ID": 984,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 440
+  },
+  {
+    "PRODUCT_ID": 759,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 309
+  },
+  {
+    "PRODUCT_ID": 464,
+    "MIN_QUANTITY": 15,
+    "REORDER_QUANTITY": 302
+  },
+  {
+    "PRODUCT_ID": 666,
+    "MIN_QUANTITY": 80,
+    "REORDER_QUANTITY": 210
+  },
+  {
+    "PRODUCT_ID": 367,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 281
+  },
+  {
+    "PRODUCT_ID": 368,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 499
+  },
+  {
+    "PRODUCT_ID": 76,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 51
+  },
+  {
+    "PRODUCT_ID": 644,
+    "MIN_QUANTITY": 71,
+    "REORDER_QUANTITY": 474
+  },
+  {
+    "PRODUCT_ID": 345,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 64
+  },
+  {
+    "PRODUCT_ID": 392,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 478
+  },
+  {
+    "PRODUCT_ID": 167,
+    "MIN_QUANTITY": 99,
+    "REORDER_QUANTITY": 308
+  },
+  {
+    "PRODUCT_ID": 883,
+    "MIN_QUANTITY": 68,
+    "REORDER_QUANTITY": 137
+  },
+  {
+    "PRODUCT_ID": 681,
+    "MIN_QUANTITY": 73,
+    "REORDER_QUANTITY": 446
+  },
+  {
+    "PRODUCT_ID": 643,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 269
+  },
+  {
+    "PRODUCT_ID": 462,
+    "MIN_QUANTITY": 18,
+    "REORDER_QUANTITY": 150
+  },
+  {
+    "PRODUCT_ID": 612,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 58
+  },
+  {
+    "PRODUCT_ID": 398,
+    "MIN_QUANTITY": 11,
+    "REORDER_QUANTITY": 489
+  },
+  {
+    "PRODUCT_ID": 260,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 140
+  },
+  {
+    "PRODUCT_ID": 488,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 331
+  },
+  {
+    "PRODUCT_ID": 493,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 269
+  },
+  {
+    "PRODUCT_ID": 203,
+    "MIN_QUANTITY": 27,
+    "REORDER_QUANTITY": 388
+  },
+  {
+    "PRODUCT_ID": 321,
+    "MIN_QUANTITY": 36,
+    "REORDER_QUANTITY": 422
+  },
+  {
+    "PRODUCT_ID": 110,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 240
+  },
+  {
+    "PRODUCT_ID": 960,
+    "MIN_QUANTITY": 50,
+    "REORDER_QUANTITY": 467
+  },
+  {
+    "PRODUCT_ID": 528,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 103
+  },
+  {
+    "PRODUCT_ID": 338,
+    "MIN_QUANTITY": 96,
+    "REORDER_QUANTITY": 286
+  },
+  {
+    "PRODUCT_ID": 654,
+    "MIN_QUANTITY": 60,
+    "REORDER_QUANTITY": 143
+  },
+  {
+    "PRODUCT_ID": 992,
+    "MIN_QUANTITY": 81,
+    "REORDER_QUANTITY": 385
+  },
+  {
+    "PRODUCT_ID": 686,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 163
+  },
+  {
+    "PRODUCT_ID": 834,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 268
+  },
+  {
+    "PRODUCT_ID": 79,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 202
+  },
+  {
+    "PRODUCT_ID": 902,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 164
+  },
+  {
+    "PRODUCT_ID": 872,
+    "MIN_QUANTITY": 41,
+    "REORDER_QUANTITY": 227
+  },
+  {
+    "PRODUCT_ID": 388,
+    "MIN_QUANTITY": 15,
+    "REORDER_QUANTITY": 164
+  },
+  {
+    "PRODUCT_ID": 961,
+    "MIN_QUANTITY": 23,
+    "REORDER_QUANTITY": 88
+  },
+  {
+    "PRODUCT_ID": 159,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 257
+  },
+  {
+    "PRODUCT_ID": 799,
+    "MIN_QUANTITY": 98,
+    "REORDER_QUANTITY": 355
+  },
+  {
+    "PRODUCT_ID": 917,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 310
+  },
+  {
+    "PRODUCT_ID": 814,
+    "MIN_QUANTITY": 58,
+    "REORDER_QUANTITY": 440
+  },
+  {
+    "PRODUCT_ID": 631,
+    "MIN_QUANTITY": 30,
+    "REORDER_QUANTITY": 264
+  },
+  {
+    "PRODUCT_ID": 39,
+    "MIN_QUANTITY": 29,
+    "REORDER_QUANTITY": 125
+  },
+  {
+    "PRODUCT_ID": 427,
+    "MIN_QUANTITY": 92,
+    "REORDER_QUANTITY": 142
+  },
+  {
+    "PRODUCT_ID": 212,
+    "MIN_QUANTITY": 96,
+    "REORDER_QUANTITY": 76
+  },
+  {
+    "PRODUCT_ID": 109,
+    "MIN_QUANTITY": 91,
+    "REORDER_QUANTITY": 494
+  },
+  {
+    "PRODUCT_ID": 440,
+    "MIN_QUANTITY": 80,
+    "REORDER_QUANTITY": 208
+  },
+  {
+    "PRODUCT_ID": 297,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 251
+  },
+  {
+    "PRODUCT_ID": 63,
+    "MIN_QUANTITY": 56,
+    "REORDER_QUANTITY": 176
+  },
+  {
+    "PRODUCT_ID": 534,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 348
+  },
+  {
+    "PRODUCT_ID": 66,
+    "MIN_QUANTITY": 48,
+    "REORDER_QUANTITY": 277
+  },
+  {
+    "PRODUCT_ID": 115,
+    "MIN_QUANTITY": 68,
+    "REORDER_QUANTITY": 253
+  },
+  {
+    "PRODUCT_ID": 472,
+    "MIN_QUANTITY": 93,
+    "REORDER_QUANTITY": 194
+  },
+  {
+    "PRODUCT_ID": 439,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 118
+  },
+  {
+    "PRODUCT_ID": 639,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 410
+  },
+  {
+    "PRODUCT_ID": 743,
+    "MIN_QUANTITY": 65,
+    "REORDER_QUANTITY": 382
+  },
+  {
+    "PRODUCT_ID": 7,
+    "MIN_QUANTITY": 24,
+    "REORDER_QUANTITY": 371
+  },
+  {
+    "PRODUCT_ID": 390,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 209
+  },
+  {
+    "PRODUCT_ID": 556,
+    "MIN_QUANTITY": 24,
+    "REORDER_QUANTITY": 399
+  },
+  {
+    "PRODUCT_ID": 416,
+    "MIN_QUANTITY": 69,
+    "REORDER_QUANTITY": 496
+  },
+  {
+    "PRODUCT_ID": 974,
+    "MIN_QUANTITY": 14,
+    "REORDER_QUANTITY": 210
+  },
+  {
+    "PRODUCT_ID": 778,
+    "MIN_QUANTITY": 25,
+    "REORDER_QUANTITY": 444
+  },
+  {
+    "PRODUCT_ID": 293,
+    "MIN_QUANTITY": 65,
+    "REORDER_QUANTITY": 481
+  },
+  {
+    "PRODUCT_ID": 448,
+    "MIN_QUANTITY": 87,
+    "REORDER_QUANTITY": 392
+  },
+  {
+    "PRODUCT_ID": 329,
+    "MIN_QUANTITY": 22,
+    "REORDER_QUANTITY": 174
+  },
+  {
+    "PRODUCT_ID": 33,
+    "MIN_QUANTITY": 73,
+    "REORDER_QUANTITY": 329
+  },
+  {
+    "PRODUCT_ID": 435,
+    "MIN_QUANTITY": 71,
+    "REORDER_QUANTITY": 72
+  },
+  {
+    "PRODUCT_ID": 521,
+    "MIN_QUANTITY": 94,
+    "REORDER_QUANTITY": 112
+  },
+  {
+    "PRODUCT_ID": 861,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 457
+  },
+  {
+    "PRODUCT_ID": 674,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 490
+  },
+  {
+    "PRODUCT_ID": 240,
+    "MIN_QUANTITY": 53,
+    "REORDER_QUANTITY": 286
+  },
+  {
+    "PRODUCT_ID": 835,
+    "MIN_QUANTITY": 36,
+    "REORDER_QUANTITY": 83
+  },
+  {
+    "PRODUCT_ID": 951,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 186
+  },
+  {
+    "PRODUCT_ID": 245,
+    "MIN_QUANTITY": 53,
+    "REORDER_QUANTITY": 275
+  },
+  {
+    "PRODUCT_ID": 447,
+    "MIN_QUANTITY": 93,
+    "REORDER_QUANTITY": 200
+  },
+  {
+    "PRODUCT_ID": 3,
+    "MIN_QUANTITY": 72,
+    "REORDER_QUANTITY": 147
+  },
+  {
+    "PRODUCT_ID": 692,
+    "MIN_QUANTITY": 60,
+    "REORDER_QUANTITY": 214
+  },
+  {
+    "PRODUCT_ID": 478,
+    "MIN_QUANTITY": 22,
+    "REORDER_QUANTITY": 284
+  },
+  {
+    "PRODUCT_ID": 76,
+    "MIN_QUANTITY": 91,
+    "REORDER_QUANTITY": 69
+  },
+  {
+    "PRODUCT_ID": 456,
+    "MIN_QUANTITY": 24,
+    "REORDER_QUANTITY": 263
+  },
+  {
+    "PRODUCT_ID": 608,
+    "MIN_QUANTITY": 60,
+    "REORDER_QUANTITY": 423
+  },
+  {
+    "PRODUCT_ID": 178,
+    "MIN_QUANTITY": 49,
+    "REORDER_QUANTITY": 203
+  },
+  {
+    "PRODUCT_ID": 987,
+    "MIN_QUANTITY": 51,
+    "REORDER_QUANTITY": 286
+  },
+  {
+    "PRODUCT_ID": 12,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 299
+  },
+  {
+    "PRODUCT_ID": 805,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 183
+  },
+  {
+    "PRODUCT_ID": 455,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 429
+  },
+  {
+    "PRODUCT_ID": 773,
+    "MIN_QUANTITY": 21,
+    "REORDER_QUANTITY": 223
+  },
+  {
+    "PRODUCT_ID": 972,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 87
+  },
+  {
+    "PRODUCT_ID": 458,
+    "MIN_QUANTITY": 21,
+    "REORDER_QUANTITY": 237
+  },
+  {
+    "PRODUCT_ID": 983,
+    "MIN_QUANTITY": 10,
+    "REORDER_QUANTITY": 357
+  },
+  {
+    "PRODUCT_ID": 276,
+    "MIN_QUANTITY": 55,
+    "REORDER_QUANTITY": 464
+  },
+  {
+    "PRODUCT_ID": 646,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 480
+  },
+  {
+    "PRODUCT_ID": 589,
+    "MIN_QUANTITY": 48,
+    "REORDER_QUANTITY": 248
+  },
+  {
+    "PRODUCT_ID": 281,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 451
+  },
+  {
+    "PRODUCT_ID": 107,
+    "MIN_QUANTITY": 94,
+    "REORDER_QUANTITY": 464
+  },
+  {
+    "PRODUCT_ID": 877,
+    "MIN_QUANTITY": 73,
+    "REORDER_QUANTITY": 328
+  },
+  {
+    "PRODUCT_ID": 516,
+    "MIN_QUANTITY": 93,
+    "REORDER_QUANTITY": 223
+  },
+  {
+    "PRODUCT_ID": 945,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 257
+  },
+  {
+    "PRODUCT_ID": 944,
+    "MIN_QUANTITY": 94,
+    "REORDER_QUANTITY": 109
+  },
+  {
+    "PRODUCT_ID": 61,
+    "MIN_QUANTITY": 44,
+    "REORDER_QUANTITY": 495
+  },
+  {
+    "PRODUCT_ID": 999,
+    "MIN_QUANTITY": 72,
+    "REORDER_QUANTITY": 113
+  },
+  {
+    "PRODUCT_ID": 386,
+    "MIN_QUANTITY": 90,
+    "REORDER_QUANTITY": 64
+  },
+  {
+    "PRODUCT_ID": 479,
+    "MIN_QUANTITY": 91,
+    "REORDER_QUANTITY": 439
+  },
+  {
+    "PRODUCT_ID": 360,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 136
+  },
+  {
+    "PRODUCT_ID": 4,
+    "MIN_QUANTITY": 70,
+    "REORDER_QUANTITY": 452
+  },
+  {
+    "PRODUCT_ID": 60,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 356
+  },
+  {
+    "PRODUCT_ID": 942,
+    "MIN_QUANTITY": 42,
+    "REORDER_QUANTITY": 483
+  },
+  {
+    "PRODUCT_ID": 181,
+    "MIN_QUANTITY": 87,
+    "REORDER_QUANTITY": 392
+  },
+  {
+    "PRODUCT_ID": 555,
+    "MIN_QUANTITY": 52,
+    "REORDER_QUANTITY": 140
+  },
+  {
+    "PRODUCT_ID": 265,
+    "MIN_QUANTITY": 68,
+    "REORDER_QUANTITY": 388
+  },
+  {
+    "PRODUCT_ID": 26,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 217
+  },
+  {
+    "PRODUCT_ID": 96,
+    "MIN_QUANTITY": 42,
+    "REORDER_QUANTITY": 66
+  },
+  {
+    "PRODUCT_ID": 183,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 363
+  },
+  {
+    "PRODUCT_ID": 43,
+    "MIN_QUANTITY": 36,
+    "REORDER_QUANTITY": 465
+  },
+  {
+    "PRODUCT_ID": 114,
+    "MIN_QUANTITY": 48,
+    "REORDER_QUANTITY": 75
+  },
+  {
+    "PRODUCT_ID": 912,
+    "MIN_QUANTITY": 46,
+    "REORDER_QUANTITY": 52
+  },
+  {
+    "PRODUCT_ID": 794,
+    "MIN_QUANTITY": 93,
+    "REORDER_QUANTITY": 364
+  },
+  {
+    "PRODUCT_ID": 699,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 372
+  },
+  {
+    "PRODUCT_ID": 723,
+    "MIN_QUANTITY": 99,
+    "REORDER_QUANTITY": 269
+  },
+  {
+    "PRODUCT_ID": 108,
+    "MIN_QUANTITY": 98,
+    "REORDER_QUANTITY": 59
+  },
+  {
+    "PRODUCT_ID": 270,
+    "MIN_QUANTITY": 70,
+    "REORDER_QUANTITY": 290
+  },
+  {
+    "PRODUCT_ID": 911,
+    "MIN_QUANTITY": 13,
+    "REORDER_QUANTITY": 204
+  },
+  {
+    "PRODUCT_ID": 812,
+    "MIN_QUANTITY": 22,
+    "REORDER_QUANTITY": 484
+  },
+  {
+    "PRODUCT_ID": 805,
+    "MIN_QUANTITY": 52,
+    "REORDER_QUANTITY": 235
+  },
+  {
+    "PRODUCT_ID": 396,
+    "MIN_QUANTITY": 64,
+    "REORDER_QUANTITY": 428
+  },
+  {
+    "PRODUCT_ID": 524,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 181
+  },
+  {
+    "PRODUCT_ID": 73,
+    "MIN_QUANTITY": 64,
+    "REORDER_QUANTITY": 423
+  },
+  {
+    "PRODUCT_ID": 396,
+    "MIN_QUANTITY": 41,
+    "REORDER_QUANTITY": 254
+  },
+  {
+    "PRODUCT_ID": 454,
+    "MIN_QUANTITY": 27,
+    "REORDER_QUANTITY": 192
+  },
+  {
+    "PRODUCT_ID": 120,
+    "MIN_QUANTITY": 96,
+    "REORDER_QUANTITY": 367
+  },
+  {
+    "PRODUCT_ID": 725,
+    "MIN_QUANTITY": 21,
+    "REORDER_QUANTITY": 58
+  },
+  {
+    "PRODUCT_ID": 85,
+    "MIN_QUANTITY": 55,
+    "REORDER_QUANTITY": 473
+  },
+  {
+    "PRODUCT_ID": 939,
+    "MIN_QUANTITY": 14,
+    "REORDER_QUANTITY": 181
+  },
+  {
+    "PRODUCT_ID": 40,
+    "MIN_QUANTITY": 58,
+    "REORDER_QUANTITY": 125
+  },
+  {
+    "PRODUCT_ID": 392,
+    "MIN_QUANTITY": 58,
+    "REORDER_QUANTITY": 212
+  },
+  {
+    "PRODUCT_ID": 264,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 133
+  },
+  {
+    "PRODUCT_ID": 582,
+    "MIN_QUANTITY": 45,
+    "REORDER_QUANTITY": 365
+  },
+  {
+    "PRODUCT_ID": 219,
+    "MIN_QUANTITY": 87,
+    "REORDER_QUANTITY": 133
+  },
+  {
+    "PRODUCT_ID": 215,
+    "MIN_QUANTITY": 70,
+    "REORDER_QUANTITY": 446
+  },
+  {
+    "PRODUCT_ID": 748,
+    "MIN_QUANTITY": 56,
+    "REORDER_QUANTITY": 222
+  },
+  {
+    "PRODUCT_ID": 340,
+    "MIN_QUANTITY": 35,
+    "REORDER_QUANTITY": 435
+  },
+  {
+    "PRODUCT_ID": 638,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 245
+  },
+  {
+    "PRODUCT_ID": 768,
+    "MIN_QUANTITY": 71,
+    "REORDER_QUANTITY": 345
+  },
+  {
+    "PRODUCT_ID": 836,
+    "MIN_QUANTITY": 60,
+    "REORDER_QUANTITY": 257
+  },
+  {
+    "PRODUCT_ID": 255,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 178
+  },
+  {
+    "PRODUCT_ID": 197,
+    "MIN_QUANTITY": 16,
+    "REORDER_QUANTITY": 365
+  },
+  {
+    "PRODUCT_ID": 633,
+    "MIN_QUANTITY": 37,
+    "REORDER_QUANTITY": 445
+  },
+  {
+    "PRODUCT_ID": 688,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 333
+  },
+  {
+    "PRODUCT_ID": 949,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 459
+  },
+  {
+    "PRODUCT_ID": 207,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 329
+  },
+  {
+    "PRODUCT_ID": 53,
+    "MIN_QUANTITY": 25,
+    "REORDER_QUANTITY": 421
+  },
+  {
+    "PRODUCT_ID": 818,
+    "MIN_QUANTITY": 22,
+    "REORDER_QUANTITY": 100
+  },
+  {
+    "PRODUCT_ID": 434,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 165
+  },
+  {
+    "PRODUCT_ID": 178,
+    "MIN_QUANTITY": 13,
+    "REORDER_QUANTITY": 262
+  },
+  {
+    "PRODUCT_ID": 582,
+    "MIN_QUANTITY": 15,
+    "REORDER_QUANTITY": 230
+  },
+  {
+    "PRODUCT_ID": 21,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 437
+  },
+  {
+    "PRODUCT_ID": 403,
+    "MIN_QUANTITY": 51,
+    "REORDER_QUANTITY": 73
+  },
+  {
+    "PRODUCT_ID": 239,
+    "MIN_QUANTITY": 33,
+    "REORDER_QUANTITY": 490
+  },
+  {
+    "PRODUCT_ID": 989,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 54
+  },
+  {
+    "PRODUCT_ID": 90,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 193
+  },
+  {
+    "PRODUCT_ID": 802,
+    "MIN_QUANTITY": 29,
+    "REORDER_QUANTITY": 298
+  },
+  {
+    "PRODUCT_ID": 866,
+    "MIN_QUANTITY": 69,
+    "REORDER_QUANTITY": 82
+  },
+  {
+    "PRODUCT_ID": 450,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 117
+  },
+  {
+    "PRODUCT_ID": 621,
+    "MIN_QUANTITY": 91,
+    "REORDER_QUANTITY": 491
+  },
+  {
+    "PRODUCT_ID": 780,
+    "MIN_QUANTITY": 69,
+    "REORDER_QUANTITY": 63
+  },
+  {
+    "PRODUCT_ID": 22,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 117
+  },
+  {
+    "PRODUCT_ID": 752,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 428
+  },
+  {
+    "PRODUCT_ID": 918,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 224
+  },
+  {
+    "PRODUCT_ID": 220,
+    "MIN_QUANTITY": 98,
+    "REORDER_QUANTITY": 267
+  },
+  {
+    "PRODUCT_ID": 790,
+    "MIN_QUANTITY": 92,
+    "REORDER_QUANTITY": 402
+  },
+  {
+    "PRODUCT_ID": 358,
+    "MIN_QUANTITY": 83,
+    "REORDER_QUANTITY": 347
+  },
+  {
+    "PRODUCT_ID": 676,
+    "MIN_QUANTITY": 44,
+    "REORDER_QUANTITY": 168
+  },
+  {
+    "PRODUCT_ID": 549,
+    "MIN_QUANTITY": 53,
+    "REORDER_QUANTITY": 289
+  },
+  {
+    "PRODUCT_ID": 946,
+    "MIN_QUANTITY": 64,
+    "REORDER_QUANTITY": 360
+  },
+  {
+    "PRODUCT_ID": 562,
+    "MIN_QUANTITY": 83,
+    "REORDER_QUANTITY": 383
+  },
+  {
+    "PRODUCT_ID": 274,
+    "MIN_QUANTITY": 26,
+    "REORDER_QUANTITY": 90
+  },
+  {
+    "PRODUCT_ID": 872,
+    "MIN_QUANTITY": 30,
+    "REORDER_QUANTITY": 437
+  },
+  {
+    "PRODUCT_ID": 385,
+    "MIN_QUANTITY": 73,
+    "REORDER_QUANTITY": 118
+  },
+  {
+    "PRODUCT_ID": 802,
+    "MIN_QUANTITY": 60,
+    "REORDER_QUANTITY": 272
+  },
+  {
+    "PRODUCT_ID": 431,
+    "MIN_QUANTITY": 68,
+    "REORDER_QUANTITY": 58
+  },
+  {
+    "PRODUCT_ID": 764,
+    "MIN_QUANTITY": 24,
+    "REORDER_QUANTITY": 108
+  },
+  {
+    "PRODUCT_ID": 345,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 483
+  },
+  {
+    "PRODUCT_ID": 484,
+    "MIN_QUANTITY": 54,
+    "REORDER_QUANTITY": 473
+  },
+  {
+    "PRODUCT_ID": 99,
+    "MIN_QUANTITY": 45,
+    "REORDER_QUANTITY": 303
+  },
+  {
+    "PRODUCT_ID": 698,
+    "MIN_QUANTITY": 81,
+    "REORDER_QUANTITY": 137
+  },
+  {
+    "PRODUCT_ID": 845,
+    "MIN_QUANTITY": 35,
+    "REORDER_QUANTITY": 437
+  },
+  {
+    "PRODUCT_ID": 864,
+    "MIN_QUANTITY": 22,
+    "REORDER_QUANTITY": 132
+  },
+  {
+    "PRODUCT_ID": 570,
+    "MIN_QUANTITY": 11,
+    "REORDER_QUANTITY": 467
+  },
+  {
+    "PRODUCT_ID": 657,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 96
+  },
+  {
+    "PRODUCT_ID": 670,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 96
+  },
+  {
+    "PRODUCT_ID": 36,
+    "MIN_QUANTITY": 48,
+    "REORDER_QUANTITY": 487
+  },
+  {
+    "PRODUCT_ID": 499,
+    "MIN_QUANTITY": 14,
+    "REORDER_QUANTITY": 393
+  },
+  {
+    "PRODUCT_ID": 459,
+    "MIN_QUANTITY": 80,
+    "REORDER_QUANTITY": 108
+  },
+  {
+    "PRODUCT_ID": 853,
+    "MIN_QUANTITY": 35,
+    "REORDER_QUANTITY": 483
+  },
+  {
+    "PRODUCT_ID": 283,
+    "MIN_QUANTITY": 98,
+    "REORDER_QUANTITY": 247
+  },
+  {
+    "PRODUCT_ID": 240,
+    "MIN_QUANTITY": 26,
+    "REORDER_QUANTITY": 101
+  },
+  {
+    "PRODUCT_ID": 747,
+    "MIN_QUANTITY": 23,
+    "REORDER_QUANTITY": 377
+  },
+  {
+    "PRODUCT_ID": 787,
+    "MIN_QUANTITY": 64,
+    "REORDER_QUANTITY": 420
+  },
+  {
+    "PRODUCT_ID": 787,
+    "MIN_QUANTITY": 65,
+    "REORDER_QUANTITY": 431
+  },
+  {
+    "PRODUCT_ID": 408,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 125
+  },
+  {
+    "PRODUCT_ID": 672,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 55
+  },
+  {
+    "PRODUCT_ID": 907,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 183
+  },
+  {
+    "PRODUCT_ID": 910,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 236
+  },
+  {
+    "PRODUCT_ID": 134,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 266
+  },
+  {
+    "PRODUCT_ID": 650,
+    "MIN_QUANTITY": 81,
+    "REORDER_QUANTITY": 364
+  },
+  {
+    "PRODUCT_ID": 493,
+    "MIN_QUANTITY": 83,
+    "REORDER_QUANTITY": 50
+  },
+  {
+    "PRODUCT_ID": 652,
+    "MIN_QUANTITY": 70,
+    "REORDER_QUANTITY": 285
+  },
+  {
+    "PRODUCT_ID": 552,
+    "MIN_QUANTITY": 61,
+    "REORDER_QUANTITY": 279
+  },
+  {
+    "PRODUCT_ID": 483,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 63
+  },
+  {
+    "PRODUCT_ID": 64,
+    "MIN_QUANTITY": 63,
+    "REORDER_QUANTITY": 468
+  },
+  {
+    "PRODUCT_ID": 459,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 376
+  },
+  {
+    "PRODUCT_ID": 624,
+    "MIN_QUANTITY": 65,
+    "REORDER_QUANTITY": 293
+  },
+  {
+    "PRODUCT_ID": 946,
+    "MIN_QUANTITY": 51,
+    "REORDER_QUANTITY": 424
+  },
+  {
+    "PRODUCT_ID": 570,
+    "MIN_QUANTITY": 96,
+    "REORDER_QUANTITY": 108
+  },
+  {
+    "PRODUCT_ID": 934,
+    "MIN_QUANTITY": 100,
+    "REORDER_QUANTITY": 465
+  },
+  {
+    "PRODUCT_ID": 956,
+    "MIN_QUANTITY": 47,
+    "REORDER_QUANTITY": 55
+  },
+  {
+    "PRODUCT_ID": 701,
+    "MIN_QUANTITY": 81,
+    "REORDER_QUANTITY": 269
+  },
+  {
+    "PRODUCT_ID": 707,
+    "MIN_QUANTITY": 50,
+    "REORDER_QUANTITY": 428
+  },
+  {
+    "PRODUCT_ID": 737,
+    "MIN_QUANTITY": 14,
+    "REORDER_QUANTITY": 125
+  },
+  {
+    "PRODUCT_ID": 117,
+    "MIN_QUANTITY": 93,
+    "REORDER_QUANTITY": 116
+  },
+  {
+    "PRODUCT_ID": 706,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 427
+  },
+  {
+    "PRODUCT_ID": 921,
+    "MIN_QUANTITY": 51,
+    "REORDER_QUANTITY": 208
+  },
+  {
+    "PRODUCT_ID": 997,
+    "MIN_QUANTITY": 57,
+    "REORDER_QUANTITY": 129
+  },
+  {
+    "PRODUCT_ID": 398,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 373
+  },
+  {
+    "PRODUCT_ID": 766,
+    "MIN_QUANTITY": 49,
+    "REORDER_QUANTITY": 144
+  },
+  {
+    "PRODUCT_ID": 243,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 116
+  },
+  {
+    "PRODUCT_ID": 802,
+    "MIN_QUANTITY": 87,
+    "REORDER_QUANTITY": 184
+  },
+  {
+    "PRODUCT_ID": 27,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 488
+  },
+  {
+    "PRODUCT_ID": 88,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 399
+  },
+  {
+    "PRODUCT_ID": 166,
+    "MIN_QUANTITY": 18,
+    "REORDER_QUANTITY": 398
+  },
+  {
+    "PRODUCT_ID": 866,
+    "MIN_QUANTITY": 63,
+    "REORDER_QUANTITY": 209
+  },
+  {
+    "PRODUCT_ID": 451,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 111
+  },
+  {
+    "PRODUCT_ID": 395,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 327
+  },
+  {
+    "PRODUCT_ID": 814,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 385
+  },
+  {
+    "PRODUCT_ID": 337,
+    "MIN_QUANTITY": 95,
+    "REORDER_QUANTITY": 119
+  },
+  {
+    "PRODUCT_ID": 754,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 477
+  },
+  {
+    "PRODUCT_ID": 706,
+    "MIN_QUANTITY": 30,
+    "REORDER_QUANTITY": 137
+  },
+  {
+    "PRODUCT_ID": 386,
+    "MIN_QUANTITY": 11,
+    "REORDER_QUANTITY": 156
+  },
+  {
+    "PRODUCT_ID": 737,
+    "MIN_QUANTITY": 18,
+    "REORDER_QUANTITY": 111
+  },
+  {
+    "PRODUCT_ID": 461,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 186
+  },
+  {
+    "PRODUCT_ID": 7,
+    "MIN_QUANTITY": 76,
+    "REORDER_QUANTITY": 278
+  },
+  {
+    "PRODUCT_ID": 816,
+    "MIN_QUANTITY": 35,
+    "REORDER_QUANTITY": 112
+  },
+  {
+    "PRODUCT_ID": 783,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 468
+  },
+  {
+    "PRODUCT_ID": 679,
+    "MIN_QUANTITY": 15,
+    "REORDER_QUANTITY": 226
+  },
+  {
+    "PRODUCT_ID": 137,
+    "MIN_QUANTITY": 50,
+    "REORDER_QUANTITY": 356
+  },
+  {
+    "PRODUCT_ID": 116,
+    "MIN_QUANTITY": 66,
+    "REORDER_QUANTITY": 461
+  },
+  {
+    "PRODUCT_ID": 92,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 264
+  },
+  {
+    "PRODUCT_ID": 205,
+    "MIN_QUANTITY": 55,
+    "REORDER_QUANTITY": 210
+  },
+  {
+    "PRODUCT_ID": 380,
+    "MIN_QUANTITY": 100,
+    "REORDER_QUANTITY": 338
+  },
+  {
+    "PRODUCT_ID": 938,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 354
+  },
+  {
+    "PRODUCT_ID": 288,
+    "MIN_QUANTITY": 56,
+    "REORDER_QUANTITY": 486
+  },
+  {
+    "PRODUCT_ID": 19,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 484
+  },
+  {
+    "PRODUCT_ID": 569,
+    "MIN_QUANTITY": 94,
+    "REORDER_QUANTITY": 264
+  },
+  {
+    "PRODUCT_ID": 321,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 354
+  },
+  {
+    "PRODUCT_ID": 666,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 437
+  },
+  {
+    "PRODUCT_ID": 52,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 419
+  },
+  {
+    "PRODUCT_ID": 91,
+    "MIN_QUANTITY": 65,
+    "REORDER_QUANTITY": 408
+  },
+  {
+    "PRODUCT_ID": 568,
+    "MIN_QUANTITY": 30,
+    "REORDER_QUANTITY": 254
+  },
+  {
+    "PRODUCT_ID": 83,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 398
+  },
+  {
+    "PRODUCT_ID": 295,
+    "MIN_QUANTITY": 68,
+    "REORDER_QUANTITY": 312
+  },
+  {
+    "PRODUCT_ID": 902,
+    "MIN_QUANTITY": 42,
+    "REORDER_QUANTITY": 250
+  },
+  {
+    "PRODUCT_ID": 486,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 105
+  },
+  {
+    "PRODUCT_ID": 988,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 208
+  },
+  {
+    "PRODUCT_ID": 563,
+    "MIN_QUANTITY": 21,
+    "REORDER_QUANTITY": 132
+  },
+  {
+    "PRODUCT_ID": 93,
+    "MIN_QUANTITY": 33,
+    "REORDER_QUANTITY": 489
+  },
+  {
+    "PRODUCT_ID": 434,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 336
+  },
+  {
+    "PRODUCT_ID": 977,
+    "MIN_QUANTITY": 53,
+    "REORDER_QUANTITY": 213
+  },
+  {
+    "PRODUCT_ID": 202,
+    "MIN_QUANTITY": 28,
+    "REORDER_QUANTITY": 228
+  },
+  {
+    "PRODUCT_ID": 137,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 493
+  },
+  {
+    "PRODUCT_ID": 143,
+    "MIN_QUANTITY": 95,
+    "REORDER_QUANTITY": 251
+  },
+  {
+    "PRODUCT_ID": 486,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 311
+  },
+  {
+    "PRODUCT_ID": 859,
+    "MIN_QUANTITY": 54,
+    "REORDER_QUANTITY": 465
+  },
+  {
+    "PRODUCT_ID": 71,
+    "MIN_QUANTITY": 49,
+    "REORDER_QUANTITY": 103
+  },
+  {
+    "PRODUCT_ID": 111,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 185
+  },
+  {
+    "PRODUCT_ID": 712,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 324
+  },
+  {
+    "PRODUCT_ID": 865,
+    "MIN_QUANTITY": 87,
+    "REORDER_QUANTITY": 173
+  },
+  {
+    "PRODUCT_ID": 139,
+    "MIN_QUANTITY": 70,
+    "REORDER_QUANTITY": 195
+  },
+  {
+    "PRODUCT_ID": 36,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 85
+  },
+  {
+    "PRODUCT_ID": 92,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 450
+  },
+  {
+    "PRODUCT_ID": 179,
+    "MIN_QUANTITY": 71,
+    "REORDER_QUANTITY": 259
+  },
+  {
+    "PRODUCT_ID": 192,
+    "MIN_QUANTITY": 90,
+    "REORDER_QUANTITY": 388
+  },
+  {
+    "PRODUCT_ID": 771,
+    "MIN_QUANTITY": 27,
+    "REORDER_QUANTITY": 468
+  },
+  {
+    "PRODUCT_ID": 335,
+    "MIN_QUANTITY": 10,
+    "REORDER_QUANTITY": 454
+  },
+  {
+    "PRODUCT_ID": 302,
+    "MIN_QUANTITY": 50,
+    "REORDER_QUANTITY": 154
+  },
+  {
+    "PRODUCT_ID": 174,
+    "MIN_QUANTITY": 52,
+    "REORDER_QUANTITY": 432
+  },
+  {
+    "PRODUCT_ID": 625,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 271
+  },
+  {
+    "PRODUCT_ID": 386,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 456
+  },
+  {
+    "PRODUCT_ID": 522,
+    "MIN_QUANTITY": 36,
+    "REORDER_QUANTITY": 174
+  },
+  {
+    "PRODUCT_ID": 505,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 125
+  },
+  {
+    "PRODUCT_ID": 112,
+    "MIN_QUANTITY": 37,
+    "REORDER_QUANTITY": 475
+  },
+  {
+    "PRODUCT_ID": 785,
+    "MIN_QUANTITY": 61,
+    "REORDER_QUANTITY": 291
+  },
+  {
+    "PRODUCT_ID": 722,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 74
+  },
+  {
+    "PRODUCT_ID": 922,
+    "MIN_QUANTITY": 91,
+    "REORDER_QUANTITY": 442
+  },
+  {
+    "PRODUCT_ID": 277,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 346
+  },
+  {
+    "PRODUCT_ID": 280,
+    "MIN_QUANTITY": 36,
+    "REORDER_QUANTITY": 113
+  },
+  {
+    "PRODUCT_ID": 832,
+    "MIN_QUANTITY": 41,
+    "REORDER_QUANTITY": 441
+  },
+  {
+    "PRODUCT_ID": 986,
+    "MIN_QUANTITY": 24,
+    "REORDER_QUANTITY": 493
+  },
+  {
+    "PRODUCT_ID": 612,
+    "MIN_QUANTITY": 44,
+    "REORDER_QUANTITY": 402
+  },
+  {
+    "PRODUCT_ID": 910,
+    "MIN_QUANTITY": 57,
+    "REORDER_QUANTITY": 170
+  },
+  {
+    "PRODUCT_ID": 866,
+    "MIN_QUANTITY": 96,
+    "REORDER_QUANTITY": 233
+  },
+  {
+    "PRODUCT_ID": 167,
+    "MIN_QUANTITY": 41,
+    "REORDER_QUANTITY": 345
+  },
+  {
+    "PRODUCT_ID": 860,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 198
+  },
+  {
+    "PRODUCT_ID": 78,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 57
+  },
+  {
+    "PRODUCT_ID": 170,
+    "MIN_QUANTITY": 64,
+    "REORDER_QUANTITY": 364
+  },
+  {
+    "PRODUCT_ID": 384,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 74
+  },
+  {
+    "PRODUCT_ID": 238,
+    "MIN_QUANTITY": 14,
+    "REORDER_QUANTITY": 479
+  },
+  {
+    "PRODUCT_ID": 232,
+    "MIN_QUANTITY": 94,
+    "REORDER_QUANTITY": 89
+  },
+  {
+    "PRODUCT_ID": 724,
+    "MIN_QUANTITY": 71,
+    "REORDER_QUANTITY": 224
+  },
+  {
+    "PRODUCT_ID": 418,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 305
+  },
+  {
+    "PRODUCT_ID": 798,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 72
+  },
+  {
+    "PRODUCT_ID": 836,
+    "MIN_QUANTITY": 66,
+    "REORDER_QUANTITY": 107
+  },
+  {
+    "PRODUCT_ID": 534,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 447
+  },
+  {
+    "PRODUCT_ID": 354,
+    "MIN_QUANTITY": 13,
+    "REORDER_QUANTITY": 294
+  },
+  {
+    "PRODUCT_ID": 670,
+    "MIN_QUANTITY": 95,
+    "REORDER_QUANTITY": 234
+  },
+  {
+    "PRODUCT_ID": 251,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 67
+  },
+  {
+    "PRODUCT_ID": 172,
+    "MIN_QUANTITY": 45,
+    "REORDER_QUANTITY": 461
+  },
+  {
+    "PRODUCT_ID": 154,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 495
+  },
+  {
+    "PRODUCT_ID": 405,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 359
+  },
+  {
+    "PRODUCT_ID": 390,
+    "MIN_QUANTITY": 39,
+    "REORDER_QUANTITY": 197
+  },
+  {
+    "PRODUCT_ID": 92,
+    "MIN_QUANTITY": 60,
+    "REORDER_QUANTITY": 456
+  },
+  {
+    "PRODUCT_ID": 269,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 335
+  },
+  {
+    "PRODUCT_ID": 927,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 385
+  },
+  {
+    "PRODUCT_ID": 748,
+    "MIN_QUANTITY": 73,
+    "REORDER_QUANTITY": 473
+  },
+  {
+    "PRODUCT_ID": 373,
+    "MIN_QUANTITY": 60,
+    "REORDER_QUANTITY": 440
+  },
+  {
+    "PRODUCT_ID": 713,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 83
+  },
+  {
+    "PRODUCT_ID": 293,
+    "MIN_QUANTITY": 81,
+    "REORDER_QUANTITY": 178
+  },
+  {
+    "PRODUCT_ID": 300,
+    "MIN_QUANTITY": 53,
+    "REORDER_QUANTITY": 487
+  },
+  {
+    "PRODUCT_ID": 187,
+    "MIN_QUANTITY": 100,
+    "REORDER_QUANTITY": 73
+  },
+  {
+    "PRODUCT_ID": 338,
+    "MIN_QUANTITY": 13,
+    "REORDER_QUANTITY": 393
+  },
+  {
+    "PRODUCT_ID": 862,
+    "MIN_QUANTITY": 76,
+    "REORDER_QUANTITY": 208
+  },
+  {
+    "PRODUCT_ID": 977,
+    "MIN_QUANTITY": 100,
+    "REORDER_QUANTITY": 273
+  },
+  {
+    "PRODUCT_ID": 350,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 469
+  },
+  {
+    "PRODUCT_ID": 796,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 266
+  },
+  {
+    "PRODUCT_ID": 177,
+    "MIN_QUANTITY": 96,
+    "REORDER_QUANTITY": 464
+  },
+  {
+    "PRODUCT_ID": 374,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 95
+  },
+  {
+    "PRODUCT_ID": 211,
+    "MIN_QUANTITY": 95,
+    "REORDER_QUANTITY": 378
+  },
+  {
+    "PRODUCT_ID": 165,
+    "MIN_QUANTITY": 44,
+    "REORDER_QUANTITY": 258
+  },
+  {
+    "PRODUCT_ID": 172,
+    "MIN_QUANTITY": 16,
+    "REORDER_QUANTITY": 447
+  },
+  {
+    "PRODUCT_ID": 899,
+    "MIN_QUANTITY": 91,
+    "REORDER_QUANTITY": 160
+  },
+  {
+    "PRODUCT_ID": 696,
+    "MIN_QUANTITY": 66,
+    "REORDER_QUANTITY": 404
+  },
+  {
+    "PRODUCT_ID": 78,
+    "MIN_QUANTITY": 80,
+    "REORDER_QUANTITY": 468
+  },
+  {
+    "PRODUCT_ID": 944,
+    "MIN_QUANTITY": 21,
+    "REORDER_QUANTITY": 464
+  },
+  {
+    "PRODUCT_ID": 269,
+    "MIN_QUANTITY": 44,
+    "REORDER_QUANTITY": 258
+  },
+  {
+    "PRODUCT_ID": 115,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 464
+  },
+  {
+    "PRODUCT_ID": 247,
+    "MIN_QUANTITY": 49,
+    "REORDER_QUANTITY": 332
+  },
+  {
+    "PRODUCT_ID": 396,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 280
+  },
+  {
+    "PRODUCT_ID": 989,
+    "MIN_QUANTITY": 60,
+    "REORDER_QUANTITY": 382
+  },
+  {
+    "PRODUCT_ID": 776,
+    "MIN_QUANTITY": 69,
+    "REORDER_QUANTITY": 379
+  },
+  {
+    "PRODUCT_ID": 745,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 374
+  },
+  {
+    "PRODUCT_ID": 235,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 122
+  },
+  {
+    "PRODUCT_ID": 781,
+    "MIN_QUANTITY": 36,
+    "REORDER_QUANTITY": 206
+  },
+  {
+    "PRODUCT_ID": 2,
+    "MIN_QUANTITY": 100,
+    "REORDER_QUANTITY": 146
+  },
+  {
+    "PRODUCT_ID": 673,
+    "MIN_QUANTITY": 99,
+    "REORDER_QUANTITY": 281
+  },
+  {
+    "PRODUCT_ID": 191,
+    "MIN_QUANTITY": 95,
+    "REORDER_QUANTITY": 412
+  },
+  {
+    "PRODUCT_ID": 611,
+    "MIN_QUANTITY": 81,
+    "REORDER_QUANTITY": 383
+  },
+  {
+    "PRODUCT_ID": 357,
+    "MIN_QUANTITY": 13,
+    "REORDER_QUANTITY": 177
+  },
+  {
+    "PRODUCT_ID": 962,
+    "MIN_QUANTITY": 28,
+    "REORDER_QUANTITY": 368
+  },
+  {
+    "PRODUCT_ID": 663,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 229
+  },
+  {
+    "PRODUCT_ID": 629,
+    "MIN_QUANTITY": 94,
+    "REORDER_QUANTITY": 161
+  },
+  {
+    "PRODUCT_ID": 224,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 258
+  },
+  {
+    "PRODUCT_ID": 453,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 76
+  },
+  {
+    "PRODUCT_ID": 333,
+    "MIN_QUANTITY": 73,
+    "REORDER_QUANTITY": 286
+  },
+  {
+    "PRODUCT_ID": 31,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 323
+  },
+  {
+    "PRODUCT_ID": 258,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 323
+  },
+  {
+    "PRODUCT_ID": 925,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 182
+  },
+  {
+    "PRODUCT_ID": 572,
+    "MIN_QUANTITY": 29,
+    "REORDER_QUANTITY": 384
+  },
+  {
+    "PRODUCT_ID": 746,
+    "MIN_QUANTITY": 47,
+    "REORDER_QUANTITY": 469
+  },
+  {
+    "PRODUCT_ID": 758,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 197
+  },
+  {
+    "PRODUCT_ID": 702,
+    "MIN_QUANTITY": 47,
+    "REORDER_QUANTITY": 329
+  },
+  {
+    "PRODUCT_ID": 173,
+    "MIN_QUANTITY": 18,
+    "REORDER_QUANTITY": 273
+  },
+  {
+    "PRODUCT_ID": 1000,
+    "MIN_QUANTITY": 53,
+    "REORDER_QUANTITY": 278
+  },
+  {
+    "PRODUCT_ID": 806,
+    "MIN_QUANTITY": 29,
+    "REORDER_QUANTITY": 74
+  },
+  {
+    "PRODUCT_ID": 998,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 241
+  },
+  {
+    "PRODUCT_ID": 541,
+    "MIN_QUANTITY": 58,
+    "REORDER_QUANTITY": 306
+  },
+  {
+    "PRODUCT_ID": 906,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 272
+  },
+  {
+    "PRODUCT_ID": 925,
+    "MIN_QUANTITY": 36,
+    "REORDER_QUANTITY": 386
+  },
+  {
+    "PRODUCT_ID": 710,
+    "MIN_QUANTITY": 79,
+    "REORDER_QUANTITY": 339
+  },
+  {
+    "PRODUCT_ID": 835,
+    "MIN_QUANTITY": 80,
+    "REORDER_QUANTITY": 467
+  },
+  {
+    "PRODUCT_ID": 721,
+    "MIN_QUANTITY": 64,
+    "REORDER_QUANTITY": 383
+  },
+  {
+    "PRODUCT_ID": 144,
+    "MIN_QUANTITY": 11,
+    "REORDER_QUANTITY": 407
+  },
+  {
+    "PRODUCT_ID": 762,
+    "MIN_QUANTITY": 71,
+    "REORDER_QUANTITY": 146
+  },
+  {
+    "PRODUCT_ID": 409,
+    "MIN_QUANTITY": 74,
+    "REORDER_QUANTITY": 249
+  },
+  {
+    "PRODUCT_ID": 124,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 471
+  },
+  {
+    "PRODUCT_ID": 344,
+    "MIN_QUANTITY": 85,
+    "REORDER_QUANTITY": 357
+  },
+  {
+    "PRODUCT_ID": 571,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 367
+  },
+  {
+    "PRODUCT_ID": 722,
+    "MIN_QUANTITY": 57,
+    "REORDER_QUANTITY": 61
+  },
+  {
+    "PRODUCT_ID": 489,
+    "MIN_QUANTITY": 99,
+    "REORDER_QUANTITY": 182
+  },
+  {
+    "PRODUCT_ID": 122,
+    "MIN_QUANTITY": 28,
+    "REORDER_QUANTITY": 496
+  },
+  {
+    "PRODUCT_ID": 463,
+    "MIN_QUANTITY": 82,
+    "REORDER_QUANTITY": 86
+  },
+  {
+    "PRODUCT_ID": 836,
+    "MIN_QUANTITY": 58,
+    "REORDER_QUANTITY": 192
+  },
+  {
+    "PRODUCT_ID": 727,
+    "MIN_QUANTITY": 92,
+    "REORDER_QUANTITY": 80
+  },
+  {
+    "PRODUCT_ID": 506,
+    "MIN_QUANTITY": 69,
+    "REORDER_QUANTITY": 331
+  },
+  {
+    "PRODUCT_ID": 195,
+    "MIN_QUANTITY": 99,
+    "REORDER_QUANTITY": 300
+  },
+  {
+    "PRODUCT_ID": 444,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 112
+  },
+  {
+    "PRODUCT_ID": 29,
+    "MIN_QUANTITY": 67,
+    "REORDER_QUANTITY": 208
+  },
+  {
+    "PRODUCT_ID": 337,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 407
+  },
+  {
+    "PRODUCT_ID": 957,
+    "MIN_QUANTITY": 16,
+    "REORDER_QUANTITY": 336
+  },
+  {
+    "PRODUCT_ID": 764,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 207
+  },
+  {
+    "PRODUCT_ID": 465,
+    "MIN_QUANTITY": 16,
+    "REORDER_QUANTITY": 85
+  },
+  {
+    "PRODUCT_ID": 871,
+    "MIN_QUANTITY": 14,
+    "REORDER_QUANTITY": 204
+  },
+  {
+    "PRODUCT_ID": 647,
+    "MIN_QUANTITY": 14,
+    "REORDER_QUANTITY": 112
+  },
+  {
+    "PRODUCT_ID": 81,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 170
+  },
+  {
+    "PRODUCT_ID": 511,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 243
+  },
+  {
+    "PRODUCT_ID": 176,
+    "MIN_QUANTITY": 29,
+    "REORDER_QUANTITY": 336
+  },
+  {
+    "PRODUCT_ID": 173,
+    "MIN_QUANTITY": 30,
+    "REORDER_QUANTITY": 424
+  },
+  {
+    "PRODUCT_ID": 276,
+    "MIN_QUANTITY": 81,
+    "REORDER_QUANTITY": 445
+  },
+  {
+    "PRODUCT_ID": 182,
+    "MIN_QUANTITY": 37,
+    "REORDER_QUANTITY": 181
+  },
+  {
+    "PRODUCT_ID": 167,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 269
+  },
+  {
+    "PRODUCT_ID": 887,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 392
+  },
+  {
+    "PRODUCT_ID": 295,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 302
+  },
+  {
+    "PRODUCT_ID": 129,
+    "MIN_QUANTITY": 93,
+    "REORDER_QUANTITY": 242
+  },
+  {
+    "PRODUCT_ID": 91,
+    "MIN_QUANTITY": 54,
+    "REORDER_QUANTITY": 243
+  },
+  {
+    "PRODUCT_ID": 793,
+    "MIN_QUANTITY": 52,
+    "REORDER_QUANTITY": 113
+  },
+  {
+    "PRODUCT_ID": 315,
+    "MIN_QUANTITY": 66,
+    "REORDER_QUANTITY": 309
+  },
+  {
+    "PRODUCT_ID": 552,
+    "MIN_QUANTITY": 73,
+    "REORDER_QUANTITY": 161
+  },
+  {
+    "PRODUCT_ID": 912,
+    "MIN_QUANTITY": 83,
+    "REORDER_QUANTITY": 53
+  },
+  {
+    "PRODUCT_ID": 787,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 492
+  },
+  {
+    "PRODUCT_ID": 717,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 296
+  },
+  {
+    "PRODUCT_ID": 132,
+    "MIN_QUANTITY": 49,
+    "REORDER_QUANTITY": 384
+  },
+  {
+    "PRODUCT_ID": 912,
+    "MIN_QUANTITY": 80,
+    "REORDER_QUANTITY": 458
+  },
+  {
+    "PRODUCT_ID": 431,
+    "MIN_QUANTITY": 29,
+    "REORDER_QUANTITY": 325
+  },
+  {
+    "PRODUCT_ID": 109,
+    "MIN_QUANTITY": 49,
+    "REORDER_QUANTITY": 418
+  },
+  {
+    "PRODUCT_ID": 267,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 301
+  },
+  {
+    "PRODUCT_ID": 7,
+    "MIN_QUANTITY": 61,
+    "REORDER_QUANTITY": 426
+  },
+  {
+    "PRODUCT_ID": 168,
+    "MIN_QUANTITY": 100,
+    "REORDER_QUANTITY": 285
+  },
+  {
+    "PRODUCT_ID": 208,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 334
+  },
+  {
+    "PRODUCT_ID": 296,
+    "MIN_QUANTITY": 94,
+    "REORDER_QUANTITY": 251
+  },
+  {
+    "PRODUCT_ID": 174,
+    "MIN_QUANTITY": 61,
+    "REORDER_QUANTITY": 351
+  },
+  {
+    "PRODUCT_ID": 621,
+    "MIN_QUANTITY": 59,
+    "REORDER_QUANTITY": 364
+  },
+  {
+    "PRODUCT_ID": 492,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 439
+  },
+  {
+    "PRODUCT_ID": 959,
+    "MIN_QUANTITY": 33,
+    "REORDER_QUANTITY": 433
+  },
+  {
+    "PRODUCT_ID": 809,
+    "MIN_QUANTITY": 42,
+    "REORDER_QUANTITY": 334
+  },
+  {
+    "PRODUCT_ID": 340,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 249
+  },
+  {
+    "PRODUCT_ID": 690,
+    "MIN_QUANTITY": 59,
+    "REORDER_QUANTITY": 151
+  },
+  {
+    "PRODUCT_ID": 117,
+    "MIN_QUANTITY": 23,
+    "REORDER_QUANTITY": 214
+  },
+  {
+    "PRODUCT_ID": 728,
+    "MIN_QUANTITY": 66,
+    "REORDER_QUANTITY": 469
+  },
+  {
+    "PRODUCT_ID": 263,
+    "MIN_QUANTITY": 22,
+    "REORDER_QUANTITY": 372
+  },
+  {
+    "PRODUCT_ID": 887,
+    "MIN_QUANTITY": 55,
+    "REORDER_QUANTITY": 381
+  },
+  {
+    "PRODUCT_ID": 545,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 496
+  },
+  {
+    "PRODUCT_ID": 688,
+    "MIN_QUANTITY": 99,
+    "REORDER_QUANTITY": 290
+  },
+  {
+    "PRODUCT_ID": 108,
+    "MIN_QUANTITY": 28,
+    "REORDER_QUANTITY": 434
+  },
+  {
+    "PRODUCT_ID": 458,
+    "MIN_QUANTITY": 23,
+    "REORDER_QUANTITY": 384
+  },
+  {
+    "PRODUCT_ID": 315,
+    "MIN_QUANTITY": 88,
+    "REORDER_QUANTITY": 333
+  },
+  {
+    "PRODUCT_ID": 329,
+    "MIN_QUANTITY": 22,
+    "REORDER_QUANTITY": 271
+  },
+  {
+    "PRODUCT_ID": 506,
+    "MIN_QUANTITY": 20,
+    "REORDER_QUANTITY": 383
+  },
+  {
+    "PRODUCT_ID": 669,
+    "MIN_QUANTITY": 16,
+    "REORDER_QUANTITY": 435
+  },
+  {
+    "PRODUCT_ID": 909,
+    "MIN_QUANTITY": 80,
+    "REORDER_QUANTITY": 384
+  },
+  {
+    "PRODUCT_ID": 946,
+    "MIN_QUANTITY": 16,
+    "REORDER_QUANTITY": 443
+  },
+  {
+    "PRODUCT_ID": 237,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 81
+  },
+  {
+    "PRODUCT_ID": 114,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 461
+  },
+  {
+    "PRODUCT_ID": 86,
+    "MIN_QUANTITY": 23,
+    "REORDER_QUANTITY": 288
+  },
+  {
+    "PRODUCT_ID": 241,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 425
+  },
+  {
+    "PRODUCT_ID": 751,
+    "MIN_QUANTITY": 77,
+    "REORDER_QUANTITY": 241
+  },
+  {
+    "PRODUCT_ID": 459,
+    "MIN_QUANTITY": 84,
+    "REORDER_QUANTITY": 91
+  },
+  {
+    "PRODUCT_ID": 551,
+    "MIN_QUANTITY": 37,
+    "REORDER_QUANTITY": 434
+  },
+  {
+    "PRODUCT_ID": 862,
+    "MIN_QUANTITY": 52,
+    "REORDER_QUANTITY": 342
+  },
+  {
+    "PRODUCT_ID": 83,
+    "MIN_QUANTITY": 25,
+    "REORDER_QUANTITY": 305
+  },
+  {
+    "PRODUCT_ID": 192,
+    "MIN_QUANTITY": 72,
+    "REORDER_QUANTITY": 95
+  },
+  {
+    "PRODUCT_ID": 596,
+    "MIN_QUANTITY": 25,
+    "REORDER_QUANTITY": 110
+  },
+  {
+    "PRODUCT_ID": 692,
+    "MIN_QUANTITY": 71,
+    "REORDER_QUANTITY": 450
+  },
+  {
+    "PRODUCT_ID": 689,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 219
+  },
+  {
+    "PRODUCT_ID": 652,
+    "MIN_QUANTITY": 59,
+    "REORDER_QUANTITY": 123
+  },
+  {
+    "PRODUCT_ID": 12,
+    "MIN_QUANTITY": 50,
+    "REORDER_QUANTITY": 132
+  },
+  {
+    "PRODUCT_ID": 797,
+    "MIN_QUANTITY": 90,
+    "REORDER_QUANTITY": 358
+  },
+  {
+    "PRODUCT_ID": 890,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 433
+  },
+  {
+    "PRODUCT_ID": 87,
+    "MIN_QUANTITY": 86,
+    "REORDER_QUANTITY": 463
+  },
+  {
+    "PRODUCT_ID": 12,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 370
+  },
+  {
+    "PRODUCT_ID": 401,
+    "MIN_QUANTITY": 75,
+    "REORDER_QUANTITY": 236
+  },
+  {
+    "PRODUCT_ID": 676,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 422
+  },
+  {
+    "PRODUCT_ID": 837,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 210
+  },
+  {
+    "PRODUCT_ID": 897,
+    "MIN_QUANTITY": 24,
+    "REORDER_QUANTITY": 109
+  },
+  {
+    "PRODUCT_ID": 580,
+    "MIN_QUANTITY": 22,
+    "REORDER_QUANTITY": 231
+  },
+  {
+    "PRODUCT_ID": 367,
+    "MIN_QUANTITY": 19,
+    "REORDER_QUANTITY": 343
+  },
+  {
+    "PRODUCT_ID": 291,
+    "MIN_QUANTITY": 41,
+    "REORDER_QUANTITY": 244
+  },
+  {
+    "PRODUCT_ID": 574,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 195
+  },
+  {
+    "PRODUCT_ID": 277,
+    "MIN_QUANTITY": 15,
+    "REORDER_QUANTITY": 247
+  },
+  {
+    "PRODUCT_ID": 741,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 72
+  },
+  {
+    "PRODUCT_ID": 256,
+    "MIN_QUANTITY": 32,
+    "REORDER_QUANTITY": 96
+  },
+  {
+    "PRODUCT_ID": 58,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 433
+  },
+  {
+    "PRODUCT_ID": 885,
+    "MIN_QUANTITY": 100,
+    "REORDER_QUANTITY": 336
+  },
+  {
+    "PRODUCT_ID": 9,
+    "MIN_QUANTITY": 49,
+    "REORDER_QUANTITY": 191
+  },
+  {
+    "PRODUCT_ID": 201,
+    "MIN_QUANTITY": 28,
+    "REORDER_QUANTITY": 71
+  },
+  {
+    "PRODUCT_ID": 314,
+    "MIN_QUANTITY": 13,
+    "REORDER_QUANTITY": 69
+  },
+  {
+    "PRODUCT_ID": 515,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 497
+  },
+  {
+    "PRODUCT_ID": 17,
+    "MIN_QUANTITY": 48,
+    "REORDER_QUANTITY": 289
+  },
+  {
+    "PRODUCT_ID": 973,
+    "MIN_QUANTITY": 63,
+    "REORDER_QUANTITY": 309
+  },
+  {
+    "PRODUCT_ID": 925,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 395
+  },
+  {
+    "PRODUCT_ID": 40,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 345
+  },
+  {
+    "PRODUCT_ID": 603,
+    "MIN_QUANTITY": 33,
+    "REORDER_QUANTITY": 221
+  },
+  {
+    "PRODUCT_ID": 881,
+    "MIN_QUANTITY": 59,
+    "REORDER_QUANTITY": 420
+  },
+  {
+    "PRODUCT_ID": 762,
+    "MIN_QUANTITY": 65,
+    "REORDER_QUANTITY": 332
+  },
+  {
+    "PRODUCT_ID": 524,
+    "MIN_QUANTITY": 54,
+    "REORDER_QUANTITY": 67
+  },
+  {
+    "PRODUCT_ID": 592,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 133
+  },
+  {
+    "PRODUCT_ID": 27,
+    "MIN_QUANTITY": 99,
+    "REORDER_QUANTITY": 65
+  },
+  {
+    "PRODUCT_ID": 559,
+    "MIN_QUANTITY": 72,
+    "REORDER_QUANTITY": 164
+  },
+  {
+    "PRODUCT_ID": 840,
+    "MIN_QUANTITY": 14,
+    "REORDER_QUANTITY": 311
+  },
+  {
+    "PRODUCT_ID": 29,
+    "MIN_QUANTITY": 27,
+    "REORDER_QUANTITY": 217
+  },
+  {
+    "PRODUCT_ID": 819,
+    "MIN_QUANTITY": 89,
+    "REORDER_QUANTITY": 161
+  },
+  {
+    "PRODUCT_ID": 129,
+    "MIN_QUANTITY": 54,
+    "REORDER_QUANTITY": 112
+  },
+  {
+    "PRODUCT_ID": 758,
+    "MIN_QUANTITY": 71,
+    "REORDER_QUANTITY": 423
+  },
+  {
+    "PRODUCT_ID": 209,
+    "MIN_QUANTITY": 46,
+    "REORDER_QUANTITY": 181
+  },
+  {
+    "PRODUCT_ID": 163,
+    "MIN_QUANTITY": 47,
+    "REORDER_QUANTITY": 482
+  },
+  {
+    "PRODUCT_ID": 770,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 460
+  },
+  {
+    "PRODUCT_ID": 263,
+    "MIN_QUANTITY": 72,
+    "REORDER_QUANTITY": 174
+  },
+  {
+    "PRODUCT_ID": 61,
+    "MIN_QUANTITY": 28,
+    "REORDER_QUANTITY": 80
+  },
+  {
+    "PRODUCT_ID": 640,
+    "MIN_QUANTITY": 43,
+    "REORDER_QUANTITY": 226
+  },
+  {
+    "PRODUCT_ID": 420,
+    "MIN_QUANTITY": 49,
+    "REORDER_QUANTITY": 67
+  },
+  {
+    "PRODUCT_ID": 182,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 178
+  },
+  {
+    "PRODUCT_ID": 422,
+    "MIN_QUANTITY": 33,
+    "REORDER_QUANTITY": 232
+  },
+  {
+    "PRODUCT_ID": 156,
+    "MIN_QUANTITY": 12,
+    "REORDER_QUANTITY": 354
+  },
+  {
+    "PRODUCT_ID": 15,
+    "MIN_QUANTITY": 40,
+    "REORDER_QUANTITY": 312
+  },
+  {
+    "PRODUCT_ID": 935,
+    "MIN_QUANTITY": 76,
+    "REORDER_QUANTITY": 335
+  },
+  {
+    "PRODUCT_ID": 278,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 277
+  },
+  {
+    "PRODUCT_ID": 31,
+    "MIN_QUANTITY": 96,
+    "REORDER_QUANTITY": 268
+  },
+  {
+    "PRODUCT_ID": 657,
+    "MIN_QUANTITY": 29,
+    "REORDER_QUANTITY": 104
+  },
+  {
+    "PRODUCT_ID": 170,
+    "MIN_QUANTITY": 34,
+    "REORDER_QUANTITY": 134
+  },
+  {
+    "PRODUCT_ID": 598,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 104
+  },
+  {
+    "PRODUCT_ID": 584,
+    "MIN_QUANTITY": 60,
+    "REORDER_QUANTITY": 136
+  },
+  {
+    "PRODUCT_ID": 115,
+    "MIN_QUANTITY": 10,
+    "REORDER_QUANTITY": 158
+  },
+  {
+    "PRODUCT_ID": 475,
+    "MIN_QUANTITY": 49,
+    "REORDER_QUANTITY": 129
+  },
+  {
+    "PRODUCT_ID": 132,
+    "MIN_QUANTITY": 17,
+    "REORDER_QUANTITY": 446
+  },
+  {
+    "PRODUCT_ID": 546,
+    "MIN_QUANTITY": 66,
+    "REORDER_QUANTITY": 126
+  },
+  {
+    "PRODUCT_ID": 112,
+    "MIN_QUANTITY": 68,
+    "REORDER_QUANTITY": 403
+  },
+  {
+    "PRODUCT_ID": 957,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 105
+  },
+  {
+    "PRODUCT_ID": 237,
+    "MIN_QUANTITY": 72,
+    "REORDER_QUANTITY": 410
+  },
+  {
+    "PRODUCT_ID": 623,
+    "MIN_QUANTITY": 92,
+    "REORDER_QUANTITY": 453
+  },
+  {
+    "PRODUCT_ID": 298,
+    "MIN_QUANTITY": 66,
+    "REORDER_QUANTITY": 277
+  },
+  {
+    "PRODUCT_ID": 704,
+    "MIN_QUANTITY": 70,
+    "REORDER_QUANTITY": 208
+  },
+  {
+    "PRODUCT_ID": 256,
+    "MIN_QUANTITY": 98,
+    "REORDER_QUANTITY": 443
+  },
+  {
+    "PRODUCT_ID": 594,
+    "MIN_QUANTITY": 10,
+    "REORDER_QUANTITY": 80
+  },
+  {
+    "PRODUCT_ID": 324,
+    "MIN_QUANTITY": 14,
+    "REORDER_QUANTITY": 131
+  },
+  {
+    "PRODUCT_ID": 555,
+    "MIN_QUANTITY": 57,
+    "REORDER_QUANTITY": 264
+  },
+  {
+    "PRODUCT_ID": 673,
+    "MIN_QUANTITY": 86,
+    "REORDER_QUANTITY": 478
+  },
+  {
+    "PRODUCT_ID": 1000,
+    "MIN_QUANTITY": 62,
+    "REORDER_QUANTITY": 407
+  },
+  {
+    "PRODUCT_ID": 74,
+    "MIN_QUANTITY": 38,
+    "REORDER_QUANTITY": 83
+  },
+  {
+    "PRODUCT_ID": 285,
+    "MIN_QUANTITY": 18,
+    "REORDER_QUANTITY": 499
+  },
+  {
+    "PRODUCT_ID": 298,
+    "MIN_QUANTITY": 33,
+    "REORDER_QUANTITY": 475
+  },
+  {
+    "PRODUCT_ID": 501,
+    "MIN_QUANTITY": 78,
+    "REORDER_QUANTITY": 172
+  },
+  {
+    "PRODUCT_ID": 56,
+    "MIN_QUANTITY": 50,
+    "REORDER_QUANTITY": 441
+  },
+  {
+    "PRODUCT_ID": 468,
+    "MIN_QUANTITY": 52,
+    "REORDER_QUANTITY": 381
+  },
+  {
+    "PRODUCT_ID": 491,
+    "MIN_QUANTITY": 31,
+    "REORDER_QUANTITY": 165
+  },
+  {
+    "PRODUCT_ID": 577,
+    "MIN_QUANTITY": 28,
+    "REORDER_QUANTITY": 480
+  },
+  {
+    "PRODUCT_ID": 904,
+    "MIN_QUANTITY": 54,
+    "REORDER_QUANTITY": 478
+  },
+  {
+    "PRODUCT_ID": 334,
+    "MIN_QUANTITY": 30,
+    "REORDER_QUANTITY": 498
+  },
+  {
+    "PRODUCT_ID": 677,
+    "MIN_QUANTITY": 47,
+    "REORDER_QUANTITY": 358
+  },
+  {
+    "PRODUCT_ID": 263,
+    "MIN_QUANTITY": 11,
+    "REORDER_QUANTITY": 318
+  },
+  {
+    "PRODUCT_ID": 333,
+    "MIN_QUANTITY": 58,
+    "REORDER_QUANTITY": 439
+  },
+  {
+    "PRODUCT_ID": 110,
+    "MIN_QUANTITY": 97,
+    "REORDER_QUANTITY": 63
+  },
+  {
+    "PRODUCT_ID": 976,
+    "MIN_QUANTITY": 58,
+    "REORDER_QUANTITY": 126
+  },
+  {
+    "PRODUCT_ID": 259,
+    "MIN_QUANTITY": 94,
+    "REORDER_QUANTITY": 77
+  },
+  {
+    "PRODUCT_ID": 466,
+    "MIN_QUANTITY": 98,
+    "REORDER_QUANTITY": 411
+  },
+  {
+    "PRODUCT_ID": 970,
+    "MIN_QUANTITY": 72,
+    "REORDER_QUANTITY": 483
+  },
+  {
+    "PRODUCT_ID": 382,
+    "MIN_QUANTITY": 59,
+    "REORDER_QUANTITY": 164
+  },
+  {
+    "PRODUCT_ID": 846,
+    "MIN_QUANTITY": 41,
+    "REORDER_QUANTITY": 430
+  },
+  {
+    "PRODUCT_ID": 307,
+    "MIN_QUANTITY": 27,
+    "REORDER_QUANTITY": 491
+  }
+]

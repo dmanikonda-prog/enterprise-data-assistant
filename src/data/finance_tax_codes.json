@@ -1,0 +1,5002 @@
+[
+  {
+    "TAX_CODE": "T0001",
+    "TAX_DESCRIPTION": "Tax code 1",
+    "RATE_PERCENT": 17.83
+  },
+  {
+    "TAX_CODE": "T0002",
+    "TAX_DESCRIPTION": "Tax code 2",
+    "RATE_PERCENT": 2.69
+  },
+  {
+    "TAX_CODE": "T0003",
+    "TAX_DESCRIPTION": "Tax code 3",
+    "RATE_PERCENT": 24.62
+  },
+  {
+    "TAX_CODE": "T0004",
+    "TAX_DESCRIPTION": "Tax code 4",
+    "RATE_PERCENT": 14.25
+  },
+  {
+    "TAX_CODE": "T0005",
+    "TAX_DESCRIPTION": "Tax code 5",
+    "RATE_PERCENT": 15.03
+  },
+  {
+    "TAX_CODE": "T0006",
+    "TAX_DESCRIPTION": "Tax code 6",
+    "RATE_PERCENT": 14.58
+  },
+  {
+    "TAX_CODE": "T0007",
+    "TAX_DESCRIPTION": "Tax code 7",
+    "RATE_PERCENT": 15.25
+  },
+  {
+    "TAX_CODE": "T0008",
+    "TAX_DESCRIPTION": "Tax code 8",
+    "RATE_PERCENT": 21.18
+  },
+  {
+    "TAX_CODE": "T0009",
+    "TAX_DESCRIPTION": "Tax code 9",
+    "RATE_PERCENT": 3.87
+  },
+  {
+    "TAX_CODE": "T0010",
+    "TAX_DESCRIPTION": "Tax code 10",
+    "RATE_PERCENT": 12.13
+  },
+  {
+    "TAX_CODE": "T0011",
+    "TAX_DESCRIPTION": "Tax code 11",
+    "RATE_PERCENT": 17.25
+  },
+  {
+    "TAX_CODE": "T0012",
+    "TAX_DESCRIPTION": "Tax code 12",
+    "RATE_PERCENT": 16.69
+  },
+  {
+    "TAX_CODE": "T0013",
+    "TAX_DESCRIPTION": "Tax code 13",
+    "RATE_PERCENT": 8.56
+  },
+  {
+    "TAX_CODE": "T0014",
+    "TAX_DESCRIPTION": "Tax code 14",
+    "RATE_PERCENT": 21.09
+  },
+  {
+    "TAX_CODE": "T0015",
+    "TAX_DESCRIPTION": "Tax code 15",
+    "RATE_PERCENT": 5.16
+  },
+  {
+    "TAX_CODE": "T0016",
+    "TAX_DESCRIPTION": "Tax code 16",
+    "RATE_PERCENT": 21.28
+  },
+  {
+    "TAX_CODE": "T0017",
+    "TAX_DESCRIPTION": "Tax code 17",
+    "RATE_PERCENT": 11.89
+  },
+  {
+    "TAX_CODE": "T0018",
+    "TAX_DESCRIPTION": "Tax code 18",
+    "RATE_PERCENT": 1.33
+  },
+  {
+    "TAX_CODE": "T0019",
+    "TAX_DESCRIPTION": "Tax code 19",
+    "RATE_PERCENT": 20.14
+  },
+  {
+    "TAX_CODE": "T0020",
+    "TAX_DESCRIPTION": "Tax code 20",
+    "RATE_PERCENT": 6.38
+  },
+  {
+    "TAX_CODE": "T0021",
+    "TAX_DESCRIPTION": "Tax code 21",
+    "RATE_PERCENT": 17.33
+  },
+  {
+    "TAX_CODE": "T0022",
+    "TAX_DESCRIPTION": "Tax code 22",
+    "RATE_PERCENT": 23.97
+  },
+  {
+    "TAX_CODE": "T0023",
+    "TAX_DESCRIPTION": "Tax code 23",
+    "RATE_PERCENT": 7.54
+  },
+  {
+    "TAX_CODE": "T0024",
+    "TAX_DESCRIPTION": "Tax code 24",
+    "RATE_PERCENT": 8.03
+  },
+  {
+    "TAX_CODE": "T0025",
+    "TAX_DESCRIPTION": "Tax code 25",
+    "RATE_PERCENT": 14.9
+  },
+  {
+    "TAX_CODE": "T0026",
+    "TAX_DESCRIPTION": "Tax code 26",
+    "RATE_PERCENT": 8.99
+  },
+  {
+    "TAX_CODE": "T0027",
+    "TAX_DESCRIPTION": "Tax code 27",
+    "RATE_PERCENT": 8.41
+  },
+  {
+    "TAX_CODE": "T0028",
+    "TAX_DESCRIPTION": "Tax code 28",
+    "RATE_PERCENT": 3.71
+  },
+  {
+    "TAX_CODE": "T0029",
+    "TAX_DESCRIPTION": "Tax code 29",
+    "RATE_PERCENT": 4.43
+  },
+  {
+    "TAX_CODE": "T0030",
+    "TAX_DESCRIPTION": "Tax code 30",
+    "RATE_PERCENT": 23.99
+  },
+  {
+    "TAX_CODE": "T0031",
+    "TAX_DESCRIPTION": "Tax code 31",
+    "RATE_PERCENT": 9.2
+  },
+  {
+    "TAX_CODE": "T0032",
+    "TAX_DESCRIPTION": "Tax code 32",
+    "RATE_PERCENT": 1.36
+  },
+  {
+    "TAX_CODE": "T0033",
+    "TAX_DESCRIPTION": "Tax code 33",
+    "RATE_PERCENT": 11.98
+  },
+  {
+    "TAX_CODE": "T0034",
+    "TAX_DESCRIPTION": "Tax code 34",
+    "RATE_PERCENT": 5.38
+  },
+  {
+    "TAX_CODE": "T0035",
+    "TAX_DESCRIPTION": "Tax code 35",
+    "RATE_PERCENT": 13.37
+  },
+  {
+    "TAX_CODE": "T0036",
+    "TAX_DESCRIPTION": "Tax code 36",
+    "RATE_PERCENT": 5.17
+  },
+  {
+    "TAX_CODE": "T0037",
+    "TAX_DESCRIPTION": "Tax code 37",
+    "RATE_PERCENT": 21.25
+  },
+  {
+    "TAX_CODE": "T0038",
+    "TAX_DESCRIPTION": "Tax code 38",
+    "RATE_PERCENT": 4.74
+  },
+  {
+    "TAX_CODE": "T0039",
+    "TAX_DESCRIPTION": "Tax code 39",
+    "RATE_PERCENT": 1.62
+  },
+  {
+    "TAX_CODE": "T0040",
+    "TAX_DESCRIPTION": "Tax code 40",
+    "RATE_PERCENT": 23.81
+  },
+  {
+    "TAX_CODE": "T0041",
+    "TAX_DESCRIPTION": "Tax code 41",
+    "RATE_PERCENT": 6.7
+  },
+  {
+    "TAX_CODE": "T0042",
+    "TAX_DESCRIPTION": "Tax code 42",
+    "RATE_PERCENT": 4.72
+  },
+  {
+    "TAX_CODE": "T0043",
+    "TAX_DESCRIPTION": "Tax code 43",
+    "RATE_PERCENT": 18.66
+  },
+  {
+    "TAX_CODE": "T0044",
+    "TAX_DESCRIPTION": "Tax code 44",
+    "RATE_PERCENT": 12.04
+  },
+  {
+    "TAX_CODE": "T0045",
+    "TAX_DESCRIPTION": "Tax code 45",
+    "RATE_PERCENT": 15.73
+  },
+  {
+    "TAX_CODE": "T0046",
+    "TAX_DESCRIPTION": "Tax code 46",
+    "RATE_PERCENT": 10.83
+  },
+  {
+    "TAX_CODE": "T0047",
+    "TAX_DESCRIPTION": "Tax code 47",
+    "RATE_PERCENT": 0.83
+  },
+  {
+    "TAX_CODE": "T0048",
+    "TAX_DESCRIPTION": "Tax code 48",
+    "RATE_PERCENT": 10.14
+  },
+  {
+    "TAX_CODE": "T0049",
+    "TAX_DESCRIPTION": "Tax code 49",
+    "RATE_PERCENT": 19.16
+  },
+  {
+    "TAX_CODE": "T0050",
+    "TAX_DESCRIPTION": "Tax code 50",
+    "RATE_PERCENT": 22.7
+  },
+  {
+    "TAX_CODE": "T0051",
+    "TAX_DESCRIPTION": "Tax code 51",
+    "RATE_PERCENT": 9.96
+  },
+  {
+    "TAX_CODE": "T0052",
+    "TAX_DESCRIPTION": "Tax code 52",
+    "RATE_PERCENT": 13.52
+  },
+  {
+    "TAX_CODE": "T0053",
+    "TAX_DESCRIPTION": "Tax code 53",
+    "RATE_PERCENT": 14.38
+  },
+  {
+    "TAX_CODE": "T0054",
+    "TAX_DESCRIPTION": "Tax code 54",
+    "RATE_PERCENT": 7.67
+  },
+  {
+    "TAX_CODE": "T0055",
+    "TAX_DESCRIPTION": "Tax code 55",
+    "RATE_PERCENT": 10.93
+  },
+  {
+    "TAX_CODE": "T0056",
+    "TAX_DESCRIPTION": "Tax code 56",
+    "RATE_PERCENT": 10.09
+  },
+  {
+    "TAX_CODE": "T0057",
+    "TAX_DESCRIPTION": "Tax code 57",
+    "RATE_PERCENT": 6.74
+  },
+  {
+    "TAX_CODE": "T0058",
+    "TAX_DESCRIPTION": "Tax code 58",
+    "RATE_PERCENT": 4.21
+  },
+  {
+    "TAX_CODE": "T0059",
+    "TAX_DESCRIPTION": "Tax code 59",
+    "RATE_PERCENT": 11.81
+  },
+  {
+    "TAX_CODE": "T0060",
+    "TAX_DESCRIPTION": "Tax code 60",
+    "RATE_PERCENT": 0.45
+  },
+  {
+    "TAX_CODE": "T0061",
+    "TAX_DESCRIPTION": "Tax code 61",
+    "RATE_PERCENT": 20.73
+  },
+  {
+    "TAX_CODE": "T0062",
+    "TAX_DESCRIPTION": "Tax code 62",
+    "RATE_PERCENT": 11.53
+  },
+  {
+    "TAX_CODE": "T0063",
+    "TAX_DESCRIPTION": "Tax code 63",
+    "RATE_PERCENT": 13.38
+  },
+  {
+    "TAX_CODE": "T0064",
+    "TAX_DESCRIPTION": "Tax code 64",
+    "RATE_PERCENT": 2.8
+  },
+  {
+    "TAX_CODE": "T0065",
+    "TAX_DESCRIPTION": "Tax code 65",
+    "RATE_PERCENT": 6.38
+  },
+  {
+    "TAX_CODE": "T0066",
+    "TAX_DESCRIPTION": "Tax code 66",
+    "RATE_PERCENT": 19.39
+  },
+  {
+    "TAX_CODE": "T0067",
+    "TAX_DESCRIPTION": "Tax code 67",
+    "RATE_PERCENT": 8.19
+  },
+  {
+    "TAX_CODE": "T0068",
+    "TAX_DESCRIPTION": "Tax code 68",
+    "RATE_PERCENT": 14.68
+  },
+  {
+    "TAX_CODE": "T0069",
+    "TAX_DESCRIPTION": "Tax code 69",
+    "RATE_PERCENT": 10.7
+  },
+  {
+    "TAX_CODE": "T0070",
+    "TAX_DESCRIPTION": "Tax code 70",
+    "RATE_PERCENT": 24.89
+  },
+  {
+    "TAX_CODE": "T0071",
+    "TAX_DESCRIPTION": "Tax code 71",
+    "RATE_PERCENT": 3.04
+  },
+  {
+    "TAX_CODE": "T0072",
+    "TAX_DESCRIPTION": "Tax code 72",
+    "RATE_PERCENT": 7.11
+  },
+  {
+    "TAX_CODE": "T0073",
+    "TAX_DESCRIPTION": "Tax code 73",
+    "RATE_PERCENT": 11.49
+  },
+  {
+    "TAX_CODE": "T0074",
+    "TAX_DESCRIPTION": "Tax code 74",
+    "RATE_PERCENT": 7.14
+  },
+  {
+    "TAX_CODE": "T0075",
+    "TAX_DESCRIPTION": "Tax code 75",
+    "RATE_PERCENT": 19.33
+  },
+  {
+    "TAX_CODE": "T0076",
+    "TAX_DESCRIPTION": "Tax code 76",
+    "RATE_PERCENT": 0.78
+  },
+  {
+    "TAX_CODE": "T0077",
+    "TAX_DESCRIPTION": "Tax code 77",
+    "RATE_PERCENT": 17.84
+  },
+  {
+    "TAX_CODE": "T0078",
+    "TAX_DESCRIPTION": "Tax code 78",
+    "RATE_PERCENT": 9.13
+  },
+  {
+    "TAX_CODE": "T0079",
+    "TAX_DESCRIPTION": "Tax code 79",
+    "RATE_PERCENT": 4.13
+  },
+  {
+    "TAX_CODE": "T0080",
+    "TAX_DESCRIPTION": "Tax code 80",
+    "RATE_PERCENT": 6.31
+  },
+  {
+    "TAX_CODE": "T0081",
+    "TAX_DESCRIPTION": "Tax code 81",
+    "RATE_PERCENT": 18.81
+  },
+  {
+    "TAX_CODE": "T0082",
+    "TAX_DESCRIPTION": "Tax code 82",
+    "RATE_PERCENT": 23.77
+  },
+  {
+    "TAX_CODE": "T0083",
+    "TAX_DESCRIPTION": "Tax code 83",
+    "RATE_PERCENT": 21.13
+  },
+  {
+    "TAX_CODE": "T0084",
+    "TAX_DESCRIPTION": "Tax code 84",
+    "RATE_PERCENT": 7.66
+  },
+  {
+    "TAX_CODE": "T0085",
+    "TAX_DESCRIPTION": "Tax code 85",
+    "RATE_PERCENT": 12.26
+  },
+  {
+    "TAX_CODE": "T0086",
+    "TAX_DESCRIPTION": "Tax code 86",
+    "RATE_PERCENT": 19.44
+  },
+  {
+    "TAX_CODE": "T0087",
+    "TAX_DESCRIPTION": "Tax code 87",
+    "RATE_PERCENT": 18.36
+  },
+  {
+    "TAX_CODE": "T0088",
+    "TAX_DESCRIPTION": "Tax code 88",
+    "RATE_PERCENT": 8.14
+  },
+  {
+    "TAX_CODE": "T0089",
+    "TAX_DESCRIPTION": "Tax code 89",
+    "RATE_PERCENT": 21.09
+  },
+  {
+    "TAX_CODE": "T0090",
+    "TAX_DESCRIPTION": "Tax code 90",
+    "RATE_PERCENT": 1.97
+  },
+  {
+    "TAX_CODE": "T0091",
+    "TAX_DESCRIPTION": "Tax code 91",
+    "RATE_PERCENT": 4.25
+  },
+  {
+    "TAX_CODE": "T0092",
+    "TAX_DESCRIPTION": "Tax code 92",
+    "RATE_PERCENT": 22.73
+  },
+  {
+    "TAX_CODE": "T0093",
+    "TAX_DESCRIPTION": "Tax code 93",
+    "RATE_PERCENT": 1.32
+  },
+  {
+    "TAX_CODE": "T0094",
+    "TAX_DESCRIPTION": "Tax code 94",
+    "RATE_PERCENT": 15.05
+  },
+  {
+    "TAX_CODE": "T0095",
+    "TAX_DESCRIPTION": "Tax code 95",
+    "RATE_PERCENT": 7.48
+  },
+  {
+    "TAX_CODE": "T0096",
+    "TAX_DESCRIPTION": "Tax code 96",
+    "RATE_PERCENT": 18.77
+  },
+  {
+    "TAX_CODE": "T0097",
+    "TAX_DESCRIPTION": "Tax code 97",
+    "RATE_PERCENT": 23.28
+  },
+  {
+    "TAX_CODE": "T0098",
+    "TAX_DESCRIPTION": "Tax code 98",
+    "RATE_PERCENT": 10.16
+  },
+  {
+    "TAX_CODE": "T0099",
+    "TAX_DESCRIPTION": "Tax code 99",
+    "RATE_PERCENT": 18.3
+  },
+  {
+    "TAX_CODE": "T0100",
+    "TAX_DESCRIPTION": "Tax code 100",
+    "RATE_PERCENT": 19.7
+  },
+  {
+    "TAX_CODE": "T0101",
+    "TAX_DESCRIPTION": "Tax code 101",
+    "RATE_PERCENT": 2.98
+  },
+  {
+    "TAX_CODE": "T0102",
+    "TAX_DESCRIPTION": "Tax code 102",
+    "RATE_PERCENT": 4.6
+  },
+  {
+    "TAX_CODE": "T0103",
+    "TAX_DESCRIPTION": "Tax code 103",
+    "RATE_PERCENT": 17.95
+  },
+  {
+    "TAX_CODE": "T0104",
+    "TAX_DESCRIPTION": "Tax code 104",
+    "RATE_PERCENT": 20.17
+  },
+  {
+    "TAX_CODE": "T0105",
+    "TAX_DESCRIPTION": "Tax code 105",
+    "RATE_PERCENT": 13.08
+  },
+  {
+    "TAX_CODE": "T0106",
+    "TAX_DESCRIPTION": "Tax code 106",
+    "RATE_PERCENT": 17.31
+  },
+  {
+    "TAX_CODE": "T0107",
+    "TAX_DESCRIPTION": "Tax code 107",
+    "RATE_PERCENT": 5.81
+  },
+  {
+    "TAX_CODE": "T0108",
+    "TAX_DESCRIPTION": "Tax code 108",
+    "RATE_PERCENT": 2.57
+  },
+  {
+    "TAX_CODE": "T0109",
+    "TAX_DESCRIPTION": "Tax code 109",
+    "RATE_PERCENT": 19.87
+  },
+  {
+    "TAX_CODE": "T0110",
+    "TAX_DESCRIPTION": "Tax code 110",
+    "RATE_PERCENT": 2.72
+  },
+  {
+    "TAX_CODE": "T0111",
+    "TAX_DESCRIPTION": "Tax code 111",
+    "RATE_PERCENT": 11.64
+  },
+  {
+    "TAX_CODE": "T0112",
+    "TAX_DESCRIPTION": "Tax code 112",
+    "RATE_PERCENT": 3.3
+  },
+  {
+    "TAX_CODE": "T0113",
+    "TAX_DESCRIPTION": "Tax code 113",
+    "RATE_PERCENT": 16.48
+  },
+  {
+    "TAX_CODE": "T0114",
+    "TAX_DESCRIPTION": "Tax code 114",
+    "RATE_PERCENT": 18.5
+  },
+  {
+    "TAX_CODE": "T0115",
+    "TAX_DESCRIPTION": "Tax code 115",
+    "RATE_PERCENT": 23.08
+  },
+  {
+    "TAX_CODE": "T0116",
+    "TAX_DESCRIPTION": "Tax code 116",
+    "RATE_PERCENT": 22.91
+  },
+  {
+    "TAX_CODE": "T0117",
+    "TAX_DESCRIPTION": "Tax code 117",
+    "RATE_PERCENT": 11.16
+  },
+  {
+    "TAX_CODE": "T0118",
+    "TAX_DESCRIPTION": "Tax code 118",
+    "RATE_PERCENT": 18.89
+  },
+  {
+    "TAX_CODE": "T0119",
+    "TAX_DESCRIPTION": "Tax code 119",
+    "RATE_PERCENT": 5.78
+  },
+  {
+    "TAX_CODE": "T0120",
+    "TAX_DESCRIPTION": "Tax code 120",
+    "RATE_PERCENT": 2.26
+  },
+  {
+    "TAX_CODE": "T0121",
+    "TAX_DESCRIPTION": "Tax code 121",
+    "RATE_PERCENT": 5.68
+  },
+  {
+    "TAX_CODE": "T0122",
+    "TAX_DESCRIPTION": "Tax code 122",
+    "RATE_PERCENT": 9.51
+  },
+  {
+    "TAX_CODE": "T0123",
+    "TAX_DESCRIPTION": "Tax code 123",
+    "RATE_PERCENT": 7.28
+  },
+  {
+    "TAX_CODE": "T0124",
+    "TAX_DESCRIPTION": "Tax code 124",
+    "RATE_PERCENT": 24.79
+  },
+  {
+    "TAX_CODE": "T0125",
+    "TAX_DESCRIPTION": "Tax code 125",
+    "RATE_PERCENT": 3.32
+  },
+  {
+    "TAX_CODE": "T0126",
+    "TAX_DESCRIPTION": "Tax code 126",
+    "RATE_PERCENT": 3.31
+  },
+  {
+    "TAX_CODE": "T0127",
+    "TAX_DESCRIPTION": "Tax code 127",
+    "RATE_PERCENT": 17.05
+  },
+  {
+    "TAX_CODE": "T0128",
+    "TAX_DESCRIPTION": "Tax code 128",
+    "RATE_PERCENT": 3.98
+  },
+  {
+    "TAX_CODE": "T0129",
+    "TAX_DESCRIPTION": "Tax code 129",
+    "RATE_PERCENT": 4.34
+  },
+  {
+    "TAX_CODE": "T0130",
+    "TAX_DESCRIPTION": "Tax code 130",
+    "RATE_PERCENT": 17.86
+  },
+  {
+    "TAX_CODE": "T0131",
+    "TAX_DESCRIPTION": "Tax code 131",
+    "RATE_PERCENT": 15.98
+  },
+  {
+    "TAX_CODE": "T0132",
+    "TAX_DESCRIPTION": "Tax code 132",
+    "RATE_PERCENT": 8.75
+  },
+  {
+    "TAX_CODE": "T0133",
+    "TAX_DESCRIPTION": "Tax code 133",
+    "RATE_PERCENT": 3.09
+  },
+  {
+    "TAX_CODE": "T0134",
+    "TAX_DESCRIPTION": "Tax code 134",
+    "RATE_PERCENT": 5.86
+  },
+  {
+    "TAX_CODE": "T0135",
+    "TAX_DESCRIPTION": "Tax code 135",
+    "RATE_PERCENT": 3.1
+  },
+  {
+    "TAX_CODE": "T0136",
+    "TAX_DESCRIPTION": "Tax code 136",
+    "RATE_PERCENT": 3.81
+  },
+  {
+    "TAX_CODE": "T0137",
+    "TAX_DESCRIPTION": "Tax code 137",
+    "RATE_PERCENT": 0.36
+  },
+  {
+    "TAX_CODE": "T0138",
+    "TAX_DESCRIPTION": "Tax code 138",
+    "RATE_PERCENT": 23.66
+  },
+  {
+    "TAX_CODE": "T0139",
+    "TAX_DESCRIPTION": "Tax code 139",
+    "RATE_PERCENT": 17.36
+  },
+  {
+    "TAX_CODE": "T0140",
+    "TAX_DESCRIPTION": "Tax code 140",
+    "RATE_PERCENT": 14.91
+  },
+  {
+    "TAX_CODE": "T0141",
+    "TAX_DESCRIPTION": "Tax code 141",
+    "RATE_PERCENT": 13.45
+  },
+  {
+    "TAX_CODE": "T0142",
+    "TAX_DESCRIPTION": "Tax code 142",
+    "RATE_PERCENT": 12.87
+  },
+  {
+    "TAX_CODE": "T0143",
+    "TAX_DESCRIPTION": "Tax code 143",
+    "RATE_PERCENT": 1.82
+  },
+  {
+    "TAX_CODE": "T0144",
+    "TAX_DESCRIPTION": "Tax code 144",
+    "RATE_PERCENT": 23.07
+  },
+  {
+    "TAX_CODE": "T0145",
+    "TAX_DESCRIPTION": "Tax code 145",
+    "RATE_PERCENT": 6.63
+  },
+  {
+    "TAX_CODE": "T0146",
+    "TAX_DESCRIPTION": "Tax code 146",
+    "RATE_PERCENT": 13.13
+  },
+  {
+    "TAX_CODE": "T0147",
+    "TAX_DESCRIPTION": "Tax code 147",
+    "RATE_PERCENT": 10.06
+  },
+  {
+    "TAX_CODE": "T0148",
+    "TAX_DESCRIPTION": "Tax code 148",
+    "RATE_PERCENT": 23.05
+  },
+  {
+    "TAX_CODE": "T0149",
+    "TAX_DESCRIPTION": "Tax code 149",
+    "RATE_PERCENT": 16.15
+  },
+  {
+    "TAX_CODE": "T0150",
+    "TAX_DESCRIPTION": "Tax code 150",
+    "RATE_PERCENT": 20.66
+  },
+  {
+    "TAX_CODE": "T0151",
+    "TAX_DESCRIPTION": "Tax code 151",
+    "RATE_PERCENT": 4.83
+  },
+  {
+    "TAX_CODE": "T0152",
+    "TAX_DESCRIPTION": "Tax code 152",
+    "RATE_PERCENT": 6.98
+  },
+  {
+    "TAX_CODE": "T0153",
+    "TAX_DESCRIPTION": "Tax code 153",
+    "RATE_PERCENT": 18.79
+  },
+  {
+    "TAX_CODE": "T0154",
+    "TAX_DESCRIPTION": "Tax code 154",
+    "RATE_PERCENT": 20.9
+  },
+  {
+    "TAX_CODE": "T0155",
+    "TAX_DESCRIPTION": "Tax code 155",
+    "RATE_PERCENT": 19.96
+  },
+  {
+    "TAX_CODE": "T0156",
+    "TAX_DESCRIPTION": "Tax code 156",
+    "RATE_PERCENT": 2.03
+  },
+  {
+    "TAX_CODE": "T0157",
+    "TAX_DESCRIPTION": "Tax code 157",
+    "RATE_PERCENT": 10.91
+  },
+  {
+    "TAX_CODE": "T0158",
+    "TAX_DESCRIPTION": "Tax code 158",
+    "RATE_PERCENT": 16.66
+  },
+  {
+    "TAX_CODE": "T0159",
+    "TAX_DESCRIPTION": "Tax code 159",
+    "RATE_PERCENT": 18.22
+  },
+  {
+    "TAX_CODE": "T0160",
+    "TAX_DESCRIPTION": "Tax code 160",
+    "RATE_PERCENT": 20.17
+  },
+  {
+    "TAX_CODE": "T0161",
+    "TAX_DESCRIPTION": "Tax code 161",
+    "RATE_PERCENT": 6.36
+  },
+  {
+    "TAX_CODE": "T0162",
+    "TAX_DESCRIPTION": "Tax code 162",
+    "RATE_PERCENT": 17.52
+  },
+  {
+    "TAX_CODE": "T0163",
+    "TAX_DESCRIPTION": "Tax code 163",
+    "RATE_PERCENT": 11.87
+  },
+  {
+    "TAX_CODE": "T0164",
+    "TAX_DESCRIPTION": "Tax code 164",
+    "RATE_PERCENT": 24.57
+  },
+  {
+    "TAX_CODE": "T0165",
+    "TAX_DESCRIPTION": "Tax code 165",
+    "RATE_PERCENT": 8.67
+  },
+  {
+    "TAX_CODE": "T0166",
+    "TAX_DESCRIPTION": "Tax code 166",
+    "RATE_PERCENT": 13.58
+  },
+  {
+    "TAX_CODE": "T0167",
+    "TAX_DESCRIPTION": "Tax code 167",
+    "RATE_PERCENT": 19.6
+  },
+  {
+    "TAX_CODE": "T0168",
+    "TAX_DESCRIPTION": "Tax code 168",
+    "RATE_PERCENT": 13.58
+  },
+  {
+    "TAX_CODE": "T0169",
+    "TAX_DESCRIPTION": "Tax code 169",
+    "RATE_PERCENT": 2.81
+  },
+  {
+    "TAX_CODE": "T0170",
+    "TAX_DESCRIPTION": "Tax code 170",
+    "RATE_PERCENT": 17.98
+  },
+  {
+    "TAX_CODE": "T0171",
+    "TAX_DESCRIPTION": "Tax code 171",
+    "RATE_PERCENT": 12.42
+  },
+  {
+    "TAX_CODE": "T0172",
+    "TAX_DESCRIPTION": "Tax code 172",
+    "RATE_PERCENT": 1.14
+  },
+  {
+    "TAX_CODE": "T0173",
+    "TAX_DESCRIPTION": "Tax code 173",
+    "RATE_PERCENT": 21.2
+  },
+  {
+    "TAX_CODE": "T0174",
+    "TAX_DESCRIPTION": "Tax code 174",
+    "RATE_PERCENT": 15.73
+  },
+  {
+    "TAX_CODE": "T0175",
+    "TAX_DESCRIPTION": "Tax code 175",
+    "RATE_PERCENT": 2.62
+  },
+  {
+    "TAX_CODE": "T0176",
+    "TAX_DESCRIPTION": "Tax code 176",
+    "RATE_PERCENT": 20.14
+  },
+  {
+    "TAX_CODE": "T0177",
+    "TAX_DESCRIPTION": "Tax code 177",
+    "RATE_PERCENT": 4.12
+  },
+  {
+    "TAX_CODE": "T0178",
+    "TAX_DESCRIPTION": "Tax code 178",
+    "RATE_PERCENT": 20.28
+  },
+  {
+    "TAX_CODE": "T0179",
+    "TAX_DESCRIPTION": "Tax code 179",
+    "RATE_PERCENT": 5.2
+  },
+  {
+    "TAX_CODE": "T0180",
+    "TAX_DESCRIPTION": "Tax code 180",
+    "RATE_PERCENT": 22.65
+  },
+  {
+    "TAX_CODE": "T0181",
+    "TAX_DESCRIPTION": "Tax code 181",
+    "RATE_PERCENT": 0.87
+  },
+  {
+    "TAX_CODE": "T0182",
+    "TAX_DESCRIPTION": "Tax code 182",
+    "RATE_PERCENT": 10.35
+  },
+  {
+    "TAX_CODE": "T0183",
+    "TAX_DESCRIPTION": "Tax code 183",
+    "RATE_PERCENT": 9.46
+  },
+  {
+    "TAX_CODE": "T0184",
+    "TAX_DESCRIPTION": "Tax code 184",
+    "RATE_PERCENT": 2.22
+  },
+  {
+    "TAX_CODE": "T0185",
+    "TAX_DESCRIPTION": "Tax code 185",
+    "RATE_PERCENT": 22.73
+  },
+  {
+    "TAX_CODE": "T0186",
+    "TAX_DESCRIPTION": "Tax code 186",
+    "RATE_PERCENT": 6.64
+  },
+  {
+    "TAX_CODE": "T0187",
+    "TAX_DESCRIPTION": "Tax code 187",
+    "RATE_PERCENT": 14.98
+  },
+  {
+    "TAX_CODE": "T0188",
+    "TAX_DESCRIPTION": "Tax code 188",
+    "RATE_PERCENT": 23.35
+  },
+  {
+    "TAX_CODE": "T0189",
+    "TAX_DESCRIPTION": "Tax code 189",
+    "RATE_PERCENT": 21.64
+  },
+  {
+    "TAX_CODE": "T0190",
+    "TAX_DESCRIPTION": "Tax code 190",
+    "RATE_PERCENT": 11.49
+  },
+  {
+    "TAX_CODE": "T0191",
+    "TAX_DESCRIPTION": "Tax code 191",
+    "RATE_PERCENT": 22.26
+  },
+  {
+    "TAX_CODE": "T0192",
+    "TAX_DESCRIPTION": "Tax code 192",
+    "RATE_PERCENT": 9.43
+  },
+  {
+    "TAX_CODE": "T0193",
+    "TAX_DESCRIPTION": "Tax code 193",
+    "RATE_PERCENT": 16.41
+  },
+  {
+    "TAX_CODE": "T0194",
+    "TAX_DESCRIPTION": "Tax code 194",
+    "RATE_PERCENT": 9.05
+  },
+  {
+    "TAX_CODE": "T0195",
+    "TAX_DESCRIPTION": "Tax code 195",
+    "RATE_PERCENT": 21.18
+  },
+  {
+    "TAX_CODE": "T0196",
+    "TAX_DESCRIPTION": "Tax code 196",
+    "RATE_PERCENT": 3.27
+  },
+  {
+    "TAX_CODE": "T0197",
+    "TAX_DESCRIPTION": "Tax code 197",
+    "RATE_PERCENT": 3.4
+  },
+  {
+    "TAX_CODE": "T0198",
+    "TAX_DESCRIPTION": "Tax code 198",
+    "RATE_PERCENT": 16.32
+  },
+  {
+    "TAX_CODE": "T0199",
+    "TAX_DESCRIPTION": "Tax code 199",
+    "RATE_PERCENT": 24.32
+  },
+  {
+    "TAX_CODE": "T0200",
+    "TAX_DESCRIPTION": "Tax code 200",
+    "RATE_PERCENT": 2.12
+  },
+  {
+    "TAX_CODE": "T0201",
+    "TAX_DESCRIPTION": "Tax code 201",
+    "RATE_PERCENT": 7.75
+  },
+  {
+    "TAX_CODE": "T0202",
+    "TAX_DESCRIPTION": "Tax code 202",
+    "RATE_PERCENT": 4.12
+  },
+  {
+    "TAX_CODE": "T0203",
+    "TAX_DESCRIPTION": "Tax code 203",
+    "RATE_PERCENT": 8.55
+  },
+  {
+    "TAX_CODE": "T0204",
+    "TAX_DESCRIPTION": "Tax code 204",
+    "RATE_PERCENT": 6.99
+  },
+  {
+    "TAX_CODE": "T0205",
+    "TAX_DESCRIPTION": "Tax code 205",
+    "RATE_PERCENT": 17.26
+  },
+  {
+    "TAX_CODE": "T0206",
+    "TAX_DESCRIPTION": "Tax code 206",
+    "RATE_PERCENT": 17.91
+  },
+  {
+    "TAX_CODE": "T0207",
+    "TAX_DESCRIPTION": "Tax code 207",
+    "RATE_PERCENT": 3.19
+  },
+  {
+    "TAX_CODE": "T0208",
+    "TAX_DESCRIPTION": "Tax code 208",
+    "RATE_PERCENT": 2.37
+  },
+  {
+    "TAX_CODE": "T0209",
+    "TAX_DESCRIPTION": "Tax code 209",
+    "RATE_PERCENT": 2.96
+  },
+  {
+    "TAX_CODE": "T0210",
+    "TAX_DESCRIPTION": "Tax code 210",
+    "RATE_PERCENT": 15.17
+  },
+  {
+    "TAX_CODE": "T0211",
+    "TAX_DESCRIPTION": "Tax code 211",
+    "RATE_PERCENT": 3.23
+  },
+  {
+    "TAX_CODE": "T0212",
+    "TAX_DESCRIPTION": "Tax code 212",
+    "RATE_PERCENT": 18.57
+  },
+  {
+    "TAX_CODE": "T0213",
+    "TAX_DESCRIPTION": "Tax code 213",
+    "RATE_PERCENT": 21.91
+  },
+  {
+    "TAX_CODE": "T0214",
+    "TAX_DESCRIPTION": "Tax code 214",
+    "RATE_PERCENT": 4.35
+  },
+  {
+    "TAX_CODE": "T0215",
+    "TAX_DESCRIPTION": "Tax code 215",
+    "RATE_PERCENT": 20.6
+  },
+  {
+    "TAX_CODE": "T0216",
+    "TAX_DESCRIPTION": "Tax code 216",
+    "RATE_PERCENT": 13.57
+  },
+  {
+    "TAX_CODE": "T0217",
+    "TAX_DESCRIPTION": "Tax code 217",
+    "RATE_PERCENT": 9.13
+  },
+  {
+    "TAX_CODE": "T0218",
+    "TAX_DESCRIPTION": "Tax code 218",
+    "RATE_PERCENT": 14.93
+  },
+  {
+    "TAX_CODE": "T0219",
+    "TAX_DESCRIPTION": "Tax code 219",
+    "RATE_PERCENT": 6.1
+  },
+  {
+    "TAX_CODE": "T0220",
+    "TAX_DESCRIPTION": "Tax code 220",
+    "RATE_PERCENT": 20.38
+  },
+  {
+    "TAX_CODE": "T0221",
+    "TAX_DESCRIPTION": "Tax code 221",
+    "RATE_PERCENT": 8.93
+  },
+  {
+    "TAX_CODE": "T0222",
+    "TAX_DESCRIPTION": "Tax code 222",
+    "RATE_PERCENT": 0.29
+  },
+  {
+    "TAX_CODE": "T0223",
+    "TAX_DESCRIPTION": "Tax code 223",
+    "RATE_PERCENT": 16.73
+  },
+  {
+    "TAX_CODE": "T0224",
+    "TAX_DESCRIPTION": "Tax code 224",
+    "RATE_PERCENT": 8.9
+  },
+  {
+    "TAX_CODE": "T0225",
+    "TAX_DESCRIPTION": "Tax code 225",
+    "RATE_PERCENT": 19.65
+  },
+  {
+    "TAX_CODE": "T0226",
+    "TAX_DESCRIPTION": "Tax code 226",
+    "RATE_PERCENT": 22.66
+  },
+  {
+    "TAX_CODE": "T0227",
+    "TAX_DESCRIPTION": "Tax code 227",
+    "RATE_PERCENT": 24.13
+  },
+  {
+    "TAX_CODE": "T0228",
+    "TAX_DESCRIPTION": "Tax code 228",
+    "RATE_PERCENT": 4.14
+  },
+  {
+    "TAX_CODE": "T0229",
+    "TAX_DESCRIPTION": "Tax code 229",
+    "RATE_PERCENT": 5.36
+  },
+  {
+    "TAX_CODE": "T0230",
+    "TAX_DESCRIPTION": "Tax code 230",
+    "RATE_PERCENT": 14.55
+  },
+  {
+    "TAX_CODE": "T0231",
+    "TAX_DESCRIPTION": "Tax code 231",
+    "RATE_PERCENT": 21.7
+  },
+  {
+    "TAX_CODE": "T0232",
+    "TAX_DESCRIPTION": "Tax code 232",
+    "RATE_PERCENT": 12.05
+  },
+  {
+    "TAX_CODE": "T0233",
+    "TAX_DESCRIPTION": "Tax code 233",
+    "RATE_PERCENT": 11.37
+  },
+  {
+    "TAX_CODE": "T0234",
+    "TAX_DESCRIPTION": "Tax code 234",
+    "RATE_PERCENT": 23.32
+  },
+  {
+    "TAX_CODE": "T0235",
+    "TAX_DESCRIPTION": "Tax code 235",
+    "RATE_PERCENT": 20.32
+  },
+  {
+    "TAX_CODE": "T0236",
+    "TAX_DESCRIPTION": "Tax code 236",
+    "RATE_PERCENT": 10.53
+  },
+  {
+    "TAX_CODE": "T0237",
+    "TAX_DESCRIPTION": "Tax code 237",
+    "RATE_PERCENT": 5.99
+  },
+  {
+    "TAX_CODE": "T0238",
+    "TAX_DESCRIPTION": "Tax code 238",
+    "RATE_PERCENT": 8.57
+  },
+  {
+    "TAX_CODE": "T0239",
+    "TAX_DESCRIPTION": "Tax code 239",
+    "RATE_PERCENT": 9.73
+  },
+  {
+    "TAX_CODE": "T0240",
+    "TAX_DESCRIPTION": "Tax code 240",
+    "RATE_PERCENT": 1.07
+  },
+  {
+    "TAX_CODE": "T0241",
+    "TAX_DESCRIPTION": "Tax code 241",
+    "RATE_PERCENT": 4.73
+  },
+  {
+    "TAX_CODE": "T0242",
+    "TAX_DESCRIPTION": "Tax code 242",
+    "RATE_PERCENT": 22.82
+  },
+  {
+    "TAX_CODE": "T0243",
+    "TAX_DESCRIPTION": "Tax code 243",
+    "RATE_PERCENT": 22.42
+  },
+  {
+    "TAX_CODE": "T0244",
+    "TAX_DESCRIPTION": "Tax code 244",
+    "RATE_PERCENT": 11.24
+  },
+  {
+    "TAX_CODE": "T0245",
+    "TAX_DESCRIPTION": "Tax code 245",
+    "RATE_PERCENT": 11.47
+  },
+  {
+    "TAX_CODE": "T0246",
+    "TAX_DESCRIPTION": "Tax code 246",
+    "RATE_PERCENT": 12.64
+  },
+  {
+    "TAX_CODE": "T0247",
+    "TAX_DESCRIPTION": "Tax code 247",
+    "RATE_PERCENT": 14.27
+  },
+  {
+    "TAX_CODE": "T0248",
+    "TAX_DESCRIPTION": "Tax code 248",
+    "RATE_PERCENT": 17.83
+  },
+  {
+    "TAX_CODE": "T0249",
+    "TAX_DESCRIPTION": "Tax code 249",
+    "RATE_PERCENT": 2.38
+  },
+  {
+    "TAX_CODE": "T0250",
+    "TAX_DESCRIPTION": "Tax code 250",
+    "RATE_PERCENT": 1.29
+  },
+  {
+    "TAX_CODE": "T0251",
+    "TAX_DESCRIPTION": "Tax code 251",
+    "RATE_PERCENT": 22.53
+  },
+  {
+    "TAX_CODE": "T0252",
+    "TAX_DESCRIPTION": "Tax code 252",
+    "RATE_PERCENT": 6.03
+  },
+  {
+    "TAX_CODE": "T0253",
+    "TAX_DESCRIPTION": "Tax code 253",
+    "RATE_PERCENT": 12.51
+  },
+  {
+    "TAX_CODE": "T0254",
+    "TAX_DESCRIPTION": "Tax code 254",
+    "RATE_PERCENT": 24.9
+  },
+  {
+    "TAX_CODE": "T0255",
+    "TAX_DESCRIPTION": "Tax code 255",
+    "RATE_PERCENT": 8.6
+  },
+  {
+    "TAX_CODE": "T0256",
+    "TAX_DESCRIPTION": "Tax code 256",
+    "RATE_PERCENT": 12.41
+  },
+  {
+    "TAX_CODE": "T0257",
+    "TAX_DESCRIPTION": "Tax code 257",
+    "RATE_PERCENT": 19.56
+  },
+  {
+    "TAX_CODE": "T0258",
+    "TAX_DESCRIPTION": "Tax code 258",
+    "RATE_PERCENT": 11.09
+  },
+  {
+    "TAX_CODE": "T0259",
+    "TAX_DESCRIPTION": "Tax code 259",
+    "RATE_PERCENT": 20.99
+  },
+  {
+    "TAX_CODE": "T0260",
+    "TAX_DESCRIPTION": "Tax code 260",
+    "RATE_PERCENT": 23.31
+  },
+  {
+    "TAX_CODE": "T0261",
+    "TAX_DESCRIPTION": "Tax code 261",
+    "RATE_PERCENT": 23.88
+  },
+  {
+    "TAX_CODE": "T0262",
+    "TAX_DESCRIPTION": "Tax code 262",
+    "RATE_PERCENT": 4.01
+  },
+  {
+    "TAX_CODE": "T0263",
+    "TAX_DESCRIPTION": "Tax code 263",
+    "RATE_PERCENT": 7.65
+  },
+  {
+    "TAX_CODE": "T0264",
+    "TAX_DESCRIPTION": "Tax code 264",
+    "RATE_PERCENT": 16.1
+  },
+  {
+    "TAX_CODE": "T0265",
+    "TAX_DESCRIPTION": "Tax code 265",
+    "RATE_PERCENT": 24.95
+  },
+  {
+    "TAX_CODE": "T0266",
+    "TAX_DESCRIPTION": "Tax code 266",
+    "RATE_PERCENT": 13.62
+  },
+  {
+    "TAX_CODE": "T0267",
+    "TAX_DESCRIPTION": "Tax code 267",
+    "RATE_PERCENT": 9.98
+  },
+  {
+    "TAX_CODE": "T0268",
+    "TAX_DESCRIPTION": "Tax code 268",
+    "RATE_PERCENT": 14.28
+  },
+  {
+    "TAX_CODE": "T0269",
+    "TAX_DESCRIPTION": "Tax code 269",
+    "RATE_PERCENT": 8.01
+  },
+  {
+    "TAX_CODE": "T0270",
+    "TAX_DESCRIPTION": "Tax code 270",
+    "RATE_PERCENT": 21.63
+  },
+  {
+    "TAX_CODE": "T0271",
+    "TAX_DESCRIPTION": "Tax code 271",
+    "RATE_PERCENT": 16.01
+  },
+  {
+    "TAX_CODE": "T0272",
+    "TAX_DESCRIPTION": "Tax code 272",
+    "RATE_PERCENT": 4.79
+  },
+  {
+    "TAX_CODE": "T0273",
+    "TAX_DESCRIPTION": "Tax code 273",
+    "RATE_PERCENT": 22.12
+  },
+  {
+    "TAX_CODE": "T0274",
+    "TAX_DESCRIPTION": "Tax code 274",
+    "RATE_PERCENT": 1.42
+  },
+  {
+    "TAX_CODE": "T0275",
+    "TAX_DESCRIPTION": "Tax code 275",
+    "RATE_PERCENT": 24.58
+  },
+  {
+    "TAX_CODE": "T0276",
+    "TAX_DESCRIPTION": "Tax code 276",
+    "RATE_PERCENT": 6.3
+  },
+  {
+    "TAX_CODE": "T0277",
+    "TAX_DESCRIPTION": "Tax code 277",
+    "RATE_PERCENT": 10.19
+  },
+  {
+    "TAX_CODE": "T0278",
+    "TAX_DESCRIPTION": "Tax code 278",
+    "RATE_PERCENT": 14.59
+  },
+  {
+    "TAX_CODE": "T0279",
+    "TAX_DESCRIPTION": "Tax code 279",
+    "RATE_PERCENT": 15.68
+  },
+  {
+    "TAX_CODE": "T0280",
+    "TAX_DESCRIPTION": "Tax code 280",
+    "RATE_PERCENT": 5.5
+  },
+  {
+    "TAX_CODE": "T0281",
+    "TAX_DESCRIPTION": "Tax code 281",
+    "RATE_PERCENT": 21.31
+  },
+  {
+    "TAX_CODE": "T0282",
+    "TAX_DESCRIPTION": "Tax code 282",
+    "RATE_PERCENT": 24.05
+  },
+  {
+    "TAX_CODE": "T0283",
+    "TAX_DESCRIPTION": "Tax code 283",
+    "RATE_PERCENT": 14.53
+  },
+  {
+    "TAX_CODE": "T0284",
+    "TAX_DESCRIPTION": "Tax code 284",
+    "RATE_PERCENT": 20.63
+  },
+  {
+    "TAX_CODE": "T0285",
+    "TAX_DESCRIPTION": "Tax code 285",
+    "RATE_PERCENT": 8.84
+  },
+  {
+    "TAX_CODE": "T0286",
+    "TAX_DESCRIPTION": "Tax code 286",
+    "RATE_PERCENT": 17.14
+  },
+  {
+    "TAX_CODE": "T0287",
+    "TAX_DESCRIPTION": "Tax code 287",
+    "RATE_PERCENT": 7.58
+  },
+  {
+    "TAX_CODE": "T0288",
+    "TAX_DESCRIPTION": "Tax code 288",
+    "RATE_PERCENT": 19.66
+  },
+  {
+    "TAX_CODE": "T0289",
+    "TAX_DESCRIPTION": "Tax code 289",
+    "RATE_PERCENT": 6.01
+  },
+  {
+    "TAX_CODE": "T0290",
+    "TAX_DESCRIPTION": "Tax code 290",
+    "RATE_PERCENT": 11.8
+  },
+  {
+    "TAX_CODE": "T0291",
+    "TAX_DESCRIPTION": "Tax code 291",
+    "RATE_PERCENT": 2.52
+  },
+  {
+    "TAX_CODE": "T0292",
+    "TAX_DESCRIPTION": "Tax code 292",
+    "RATE_PERCENT": 17.26
+  },
+  {
+    "TAX_CODE": "T0293",
+    "TAX_DESCRIPTION": "Tax code 293",
+    "RATE_PERCENT": 9.09
+  },
+  {
+    "TAX_CODE": "T0294",
+    "TAX_DESCRIPTION": "Tax code 294",
+    "RATE_PERCENT": 11.24
+  },
+  {
+    "TAX_CODE": "T0295",
+    "TAX_DESCRIPTION": "Tax code 295",
+    "RATE_PERCENT": 21.23
+  },
+  {
+    "TAX_CODE": "T0296",
+    "TAX_DESCRIPTION": "Tax code 296",
+    "RATE_PERCENT": 7.48
+  },
+  {
+    "TAX_CODE": "T0297",
+    "TAX_DESCRIPTION": "Tax code 297",
+    "RATE_PERCENT": 6.08
+  },
+  {
+    "TAX_CODE": "T0298",
+    "TAX_DESCRIPTION": "Tax code 298",
+    "RATE_PERCENT": 10.18
+  },
+  {
+    "TAX_CODE": "T0299",
+    "TAX_DESCRIPTION": "Tax code 299",
+    "RATE_PERCENT": 15.72
+  },
+  {
+    "TAX_CODE": "T0300",
+    "TAX_DESCRIPTION": "Tax code 300",
+    "RATE_PERCENT": 11.02
+  },
+  {
+    "TAX_CODE": "T0301",
+    "TAX_DESCRIPTION": "Tax code 301",
+    "RATE_PERCENT": 23.82
+  },
+  {
+    "TAX_CODE": "T0302",
+    "TAX_DESCRIPTION": "Tax code 302",
+    "RATE_PERCENT": 10.63
+  },
+  {
+    "TAX_CODE": "T0303",
+    "TAX_DESCRIPTION": "Tax code 303",
+    "RATE_PERCENT": 19.01
+  },
+  {
+    "TAX_CODE": "T0304",
+    "TAX_DESCRIPTION": "Tax code 304",
+    "RATE_PERCENT": 21.24
+  },
+  {
+    "TAX_CODE": "T0305",
+    "TAX_DESCRIPTION": "Tax code 305",
+    "RATE_PERCENT": 14.6
+  },
+  {
+    "TAX_CODE": "T0306",
+    "TAX_DESCRIPTION": "Tax code 306",
+    "RATE_PERCENT": 2.55
+  },
+  {
+    "TAX_CODE": "T0307",
+    "TAX_DESCRIPTION": "Tax code 307",
+    "RATE_PERCENT": 14.04
+  },
+  {
+    "TAX_CODE": "T0308",
+    "TAX_DESCRIPTION": "Tax code 308",
+    "RATE_PERCENT": 8.65
+  },
+  {
+    "TAX_CODE": "T0309",
+    "TAX_DESCRIPTION": "Tax code 309",
+    "RATE_PERCENT": 14.93
+  },
+  {
+    "TAX_CODE": "T0310",
+    "TAX_DESCRIPTION": "Tax code 310",
+    "RATE_PERCENT": 8.08
+  },
+  {
+    "TAX_CODE": "T0311",
+    "TAX_DESCRIPTION": "Tax code 311",
+    "RATE_PERCENT": 3.14
+  },
+  {
+    "TAX_CODE": "T0312",
+    "TAX_DESCRIPTION": "Tax code 312",
+    "RATE_PERCENT": 15.91
+  },
+  {
+    "TAX_CODE": "T0313",
+    "TAX_DESCRIPTION": "Tax code 313",
+    "RATE_PERCENT": 17.95
+  },
+  {
+    "TAX_CODE": "T0314",
+    "TAX_DESCRIPTION": "Tax code 314",
+    "RATE_PERCENT": 12.74
+  },
+  {
+    "TAX_CODE": "T0315",
+    "TAX_DESCRIPTION": "Tax code 315",
+    "RATE_PERCENT": 6.2
+  },
+  {
+    "TAX_CODE": "T0316",
+    "TAX_DESCRIPTION": "Tax code 316",
+    "RATE_PERCENT": 23.1
+  },
+  {
+    "TAX_CODE": "T0317",
+    "TAX_DESCRIPTION": "Tax code 317",
+    "RATE_PERCENT": 15.34
+  },
+  {
+    "TAX_CODE": "T0318",
+    "TAX_DESCRIPTION": "Tax code 318",
+    "RATE_PERCENT": 0.67
+  },
+  {
+    "TAX_CODE": "T0319",
+    "TAX_DESCRIPTION": "Tax code 319",
+    "RATE_PERCENT": 16.1
+  },
+  {
+    "TAX_CODE": "T0320",
+    "TAX_DESCRIPTION": "Tax code 320",
+    "RATE_PERCENT": 5.14
+  },
+  {
+    "TAX_CODE": "T0321",
+    "TAX_DESCRIPTION": "Tax code 321",
+    "RATE_PERCENT": 16
+  },
+  {
+    "TAX_CODE": "T0322",
+    "TAX_DESCRIPTION": "Tax code 322",
+    "RATE_PERCENT": 14.28
+  },
+  {
+    "TAX_CODE": "T0323",
+    "TAX_DESCRIPTION": "Tax code 323",
+    "RATE_PERCENT": 7.97
+  },
+  {
+    "TAX_CODE": "T0324",
+    "TAX_DESCRIPTION": "Tax code 324",
+    "RATE_PERCENT": 7.67
+  },
+  {
+    "TAX_CODE": "T0325",
+    "TAX_DESCRIPTION": "Tax code 325",
+    "RATE_PERCENT": 3.68
+  },
+  {
+    "TAX_CODE": "T0326",
+    "TAX_DESCRIPTION": "Tax code 326",
+    "RATE_PERCENT": 5.31
+  },
+  {
+    "TAX_CODE": "T0327",
+    "TAX_DESCRIPTION": "Tax code 327",
+    "RATE_PERCENT": 16.56
+  },
+  {
+    "TAX_CODE": "T0328",
+    "TAX_DESCRIPTION": "Tax code 328",
+    "RATE_PERCENT": 18.7
+  },
+  {
+    "TAX_CODE": "T0329",
+    "TAX_DESCRIPTION": "Tax code 329",
+    "RATE_PERCENT": 7.88
+  },
+  {
+    "TAX_CODE": "T0330",
+    "TAX_DESCRIPTION": "Tax code 330",
+    "RATE_PERCENT": 21
+  },
+  {
+    "TAX_CODE": "T0331",
+    "TAX_DESCRIPTION": "Tax code 331",
+    "RATE_PERCENT": 10.84
+  },
+  {
+    "TAX_CODE": "T0332",
+    "TAX_DESCRIPTION": "Tax code 332",
+    "RATE_PERCENT": 17.81
+  },
+  {
+    "TAX_CODE": "T0333",
+    "TAX_DESCRIPTION": "Tax code 333",
+    "RATE_PERCENT": 15.68
+  },
+  {
+    "TAX_CODE": "T0334",
+    "TAX_DESCRIPTION": "Tax code 334",
+    "RATE_PERCENT": 7.08
+  },
+  {
+    "TAX_CODE": "T0335",
+    "TAX_DESCRIPTION": "Tax code 335",
+    "RATE_PERCENT": 7.15
+  },
+  {
+    "TAX_CODE": "T0336",
+    "TAX_DESCRIPTION": "Tax code 336",
+    "RATE_PERCENT": 9.47
+  },
+  {
+    "TAX_CODE": "T0337",
+    "TAX_DESCRIPTION": "Tax code 337",
+    "RATE_PERCENT": 15.68
+  },
+  {
+    "TAX_CODE": "T0338",
+    "TAX_DESCRIPTION": "Tax code 338",
+    "RATE_PERCENT": 17.78
+  },
+  {
+    "TAX_CODE": "T0339",
+    "TAX_DESCRIPTION": "Tax code 339",
+    "RATE_PERCENT": 20.62
+  },
+  {
+    "TAX_CODE": "T0340",
+    "TAX_DESCRIPTION": "Tax code 340",
+    "RATE_PERCENT": 13.13
+  },
+  {
+    "TAX_CODE": "T0341",
+    "TAX_DESCRIPTION": "Tax code 341",
+    "RATE_PERCENT": 4.64
+  },
+  {
+    "TAX_CODE": "T0342",
+    "TAX_DESCRIPTION": "Tax code 342",
+    "RATE_PERCENT": 21.12
+  },
+  {
+    "TAX_CODE": "T0343",
+    "TAX_DESCRIPTION": "Tax code 343",
+    "RATE_PERCENT": 8.21
+  },
+  {
+    "TAX_CODE": "T0344",
+    "TAX_DESCRIPTION": "Tax code 344",
+    "RATE_PERCENT": 16.81
+  },
+  {
+    "TAX_CODE": "T0345",
+    "TAX_DESCRIPTION": "Tax code 345",
+    "RATE_PERCENT": 16.71
+  },
+  {
+    "TAX_CODE": "T0346",
+    "TAX_DESCRIPTION": "Tax code 346",
+    "RATE_PERCENT": 1.44
+  },
+  {
+    "TAX_CODE": "T0347",
+    "TAX_DESCRIPTION": "Tax code 347",
+    "RATE_PERCENT": 16.95
+  },
+  {
+    "TAX_CODE": "T0348",
+    "TAX_DESCRIPTION": "Tax code 348",
+    "RATE_PERCENT": 0.91
+  },
+  {
+    "TAX_CODE": "T0349",
+    "TAX_DESCRIPTION": "Tax code 349",
+    "RATE_PERCENT": 20.56
+  },
+  {
+    "TAX_CODE": "T0350",
+    "TAX_DESCRIPTION": "Tax code 350",
+    "RATE_PERCENT": 24.92
+  },
+  {
+    "TAX_CODE": "T0351",
+    "TAX_DESCRIPTION": "Tax code 351",
+    "RATE_PERCENT": 23.6
+  },
+  {
+    "TAX_CODE": "T0352",
+    "TAX_DESCRIPTION": "Tax code 352",
+    "RATE_PERCENT": 3.87
+  },
+  {
+    "TAX_CODE": "T0353",
+    "TAX_DESCRIPTION": "Tax code 353",
+    "RATE_PERCENT": 3.38
+  },
+  {
+    "TAX_CODE": "T0354",
+    "TAX_DESCRIPTION": "Tax code 354",
+    "RATE_PERCENT": 0.25
+  },
+  {
+    "TAX_CODE": "T0355",
+    "TAX_DESCRIPTION": "Tax code 355",
+    "RATE_PERCENT": 12.07
+  },
+  {
+    "TAX_CODE": "T0356",
+    "TAX_DESCRIPTION": "Tax code 356",
+    "RATE_PERCENT": 12.11
+  },
+  {
+    "TAX_CODE": "T0357",
+    "TAX_DESCRIPTION": "Tax code 357",
+    "RATE_PERCENT": 19.15
+  },
+  {
+    "TAX_CODE": "T0358",
+    "TAX_DESCRIPTION": "Tax code 358",
+    "RATE_PERCENT": 10.2
+  },
+  {
+    "TAX_CODE": "T0359",
+    "TAX_DESCRIPTION": "Tax code 359",
+    "RATE_PERCENT": 19.32
+  },
+  {
+    "TAX_CODE": "T0360",
+    "TAX_DESCRIPTION": "Tax code 360",
+    "RATE_PERCENT": 14.05
+  },
+  {
+    "TAX_CODE": "T0361",
+    "TAX_DESCRIPTION": "Tax code 361",
+    "RATE_PERCENT": 20.23
+  },
+  {
+    "TAX_CODE": "T0362",
+    "TAX_DESCRIPTION": "Tax code 362",
+    "RATE_PERCENT": 13.22
+  },
+  {
+    "TAX_CODE": "T0363",
+    "TAX_DESCRIPTION": "Tax code 363",
+    "RATE_PERCENT": 23.62
+  },
+  {
+    "TAX_CODE": "T0364",
+    "TAX_DESCRIPTION": "Tax code 364",
+    "RATE_PERCENT": 6.35
+  },
+  {
+    "TAX_CODE": "T0365",
+    "TAX_DESCRIPTION": "Tax code 365",
+    "RATE_PERCENT": 0.2
+  },
+  {
+    "TAX_CODE": "T0366",
+    "TAX_DESCRIPTION": "Tax code 366",
+    "RATE_PERCENT": 1.35
+  },
+  {
+    "TAX_CODE": "T0367",
+    "TAX_DESCRIPTION": "Tax code 367",
+    "RATE_PERCENT": 12.21
+  },
+  {
+    "TAX_CODE": "T0368",
+    "TAX_DESCRIPTION": "Tax code 368",
+    "RATE_PERCENT": 10.62
+  },
+  {
+    "TAX_CODE": "T0369",
+    "TAX_DESCRIPTION": "Tax code 369",
+    "RATE_PERCENT": 18.41
+  },
+  {
+    "TAX_CODE": "T0370",
+    "TAX_DESCRIPTION": "Tax code 370",
+    "RATE_PERCENT": 4.23
+  },
+  {
+    "TAX_CODE": "T0371",
+    "TAX_DESCRIPTION": "Tax code 371",
+    "RATE_PERCENT": 10.33
+  },
+  {
+    "TAX_CODE": "T0372",
+    "TAX_DESCRIPTION": "Tax code 372",
+    "RATE_PERCENT": 13.84
+  },
+  {
+    "TAX_CODE": "T0373",
+    "TAX_DESCRIPTION": "Tax code 373",
+    "RATE_PERCENT": 24.06
+  },
+  {
+    "TAX_CODE": "T0374",
+    "TAX_DESCRIPTION": "Tax code 374",
+    "RATE_PERCENT": 18.94
+  },
+  {
+    "TAX_CODE": "T0375",
+    "TAX_DESCRIPTION": "Tax code 375",
+    "RATE_PERCENT": 16.59
+  },
+  {
+    "TAX_CODE": "T0376",
+    "TAX_DESCRIPTION": "Tax code 376",
+    "RATE_PERCENT": 8.44
+  },
+  {
+    "TAX_CODE": "T0377",
+    "TAX_DESCRIPTION": "Tax code 377",
+    "RATE_PERCENT": 23.57
+  },
+  {
+    "TAX_CODE": "T0378",
+    "TAX_DESCRIPTION": "Tax code 378",
+    "RATE_PERCENT": 14.81
+  },
+  {
+    "TAX_CODE": "T0379",
+    "TAX_DESCRIPTION": "Tax code 379",
+    "RATE_PERCENT": 19.24
+  },
+  {
+    "TAX_CODE": "T0380",
+    "TAX_DESCRIPTION": "Tax code 380",
+    "RATE_PERCENT": 22.57
+  },
+  {
+    "TAX_CODE": "T0381",
+    "TAX_DESCRIPTION": "Tax code 381",
+    "RATE_PERCENT": 8.89
+  },
+  {
+    "TAX_CODE": "T0382",
+    "TAX_DESCRIPTION": "Tax code 382",
+    "RATE_PERCENT": 24.44
+  },
+  {
+    "TAX_CODE": "T0383",
+    "TAX_DESCRIPTION": "Tax code 383",
+    "RATE_PERCENT": 12.86
+  },
+  {
+    "TAX_CODE": "T0384",
+    "TAX_DESCRIPTION": "Tax code 384",
+    "RATE_PERCENT": 12.22
+  },
+  {
+    "TAX_CODE": "T0385",
+    "TAX_DESCRIPTION": "Tax code 385",
+    "RATE_PERCENT": 16.78
+  },
+  {
+    "TAX_CODE": "T0386",
+    "TAX_DESCRIPTION": "Tax code 386",
+    "RATE_PERCENT": 11.55
+  },
+  {
+    "TAX_CODE": "T0387",
+    "TAX_DESCRIPTION": "Tax code 387",
+    "RATE_PERCENT": 9.34
+  },
+  {
+    "TAX_CODE": "T0388",
+    "TAX_DESCRIPTION": "Tax code 388",
+    "RATE_PERCENT": 17.2
+  },
+  {
+    "TAX_CODE": "T0389",
+    "TAX_DESCRIPTION": "Tax code 389",
+    "RATE_PERCENT": 7.76
+  },
+  {
+    "TAX_CODE": "T0390",
+    "TAX_DESCRIPTION": "Tax code 390",
+    "RATE_PERCENT": 17.19
+  },
+  {
+    "TAX_CODE": "T0391",
+    "TAX_DESCRIPTION": "Tax code 391",
+    "RATE_PERCENT": 9.34
+  },
+  {
+    "TAX_CODE": "T0392",
+    "TAX_DESCRIPTION": "Tax code 392",
+    "RATE_PERCENT": 19.89
+  },
+  {
+    "TAX_CODE": "T0393",
+    "TAX_DESCRIPTION": "Tax code 393",
+    "RATE_PERCENT": 9.37
+  },
+  {
+    "TAX_CODE": "T0394",
+    "TAX_DESCRIPTION": "Tax code 394",
+    "RATE_PERCENT": 9.01
+  },
+  {
+    "TAX_CODE": "T0395",
+    "TAX_DESCRIPTION": "Tax code 395",
+    "RATE_PERCENT": 21.5
+  },
+  {
+    "TAX_CODE": "T0396",
+    "TAX_DESCRIPTION": "Tax code 396",
+    "RATE_PERCENT": 19.78
+  },
+  {
+    "TAX_CODE": "T0397",
+    "TAX_DESCRIPTION": "Tax code 397",
+    "RATE_PERCENT": 21.76
+  },
+  {
+    "TAX_CODE": "T0398",
+    "TAX_DESCRIPTION": "Tax code 398",
+    "RATE_PERCENT": 11.69
+  },
+  {
+    "TAX_CODE": "T0399",
+    "TAX_DESCRIPTION": "Tax code 399",
+    "RATE_PERCENT": 7.97
+  },
+  {
+    "TAX_CODE": "T0400",
+    "TAX_DESCRIPTION": "Tax code 400",
+    "RATE_PERCENT": 19.33
+  },
+  {
+    "TAX_CODE": "T0401",
+    "TAX_DESCRIPTION": "Tax code 401",
+    "RATE_PERCENT": 7.08
+  },
+  {
+    "TAX_CODE": "T0402",
+    "TAX_DESCRIPTION": "Tax code 402",
+    "RATE_PERCENT": 17.29
+  },
+  {
+    "TAX_CODE": "T0403",
+    "TAX_DESCRIPTION": "Tax code 403",
+    "RATE_PERCENT": 14.17
+  },
+  {
+    "TAX_CODE": "T0404",
+    "TAX_DESCRIPTION": "Tax code 404",
+    "RATE_PERCENT": 9.76
+  },
+  {
+    "TAX_CODE": "T0405",
+    "TAX_DESCRIPTION": "Tax code 405",
+    "RATE_PERCENT": 10.48
+  },
+  {
+    "TAX_CODE": "T0406",
+    "TAX_DESCRIPTION": "Tax code 406",
+    "RATE_PERCENT": 14.26
+  },
+  {
+    "TAX_CODE": "T0407",
+    "TAX_DESCRIPTION": "Tax code 407",
+    "RATE_PERCENT": 22.06
+  },
+  {
+    "TAX_CODE": "T0408",
+    "TAX_DESCRIPTION": "Tax code 408",
+    "RATE_PERCENT": 3.6
+  },
+  {
+    "TAX_CODE": "T0409",
+    "TAX_DESCRIPTION": "Tax code 409",
+    "RATE_PERCENT": 5.63
+  },
+  {
+    "TAX_CODE": "T0410",
+    "TAX_DESCRIPTION": "Tax code 410",
+    "RATE_PERCENT": 16.24
+  },
+  {
+    "TAX_CODE": "T0411",
+    "TAX_DESCRIPTION": "Tax code 411",
+    "RATE_PERCENT": 13.66
+  },
+  {
+    "TAX_CODE": "T0412",
+    "TAX_DESCRIPTION": "Tax code 412",
+    "RATE_PERCENT": 9.73
+  },
+  {
+    "TAX_CODE": "T0413",
+    "TAX_DESCRIPTION": "Tax code 413",
+    "RATE_PERCENT": 12.75
+  },
+  {
+    "TAX_CODE": "T0414",
+    "TAX_DESCRIPTION": "Tax code 414",
+    "RATE_PERCENT": 10.03
+  },
+  {
+    "TAX_CODE": "T0415",
+    "TAX_DESCRIPTION": "Tax code 415",
+    "RATE_PERCENT": 0.29
+  },
+  {
+    "TAX_CODE": "T0416",
+    "TAX_DESCRIPTION": "Tax code 416",
+    "RATE_PERCENT": 14.18
+  },
+  {
+    "TAX_CODE": "T0417",
+    "TAX_DESCRIPTION": "Tax code 417",
+    "RATE_PERCENT": 15.92
+  },
+  {
+    "TAX_CODE": "T0418",
+    "TAX_DESCRIPTION": "Tax code 418",
+    "RATE_PERCENT": 1.43
+  },
+  {
+    "TAX_CODE": "T0419",
+    "TAX_DESCRIPTION": "Tax code 419",
+    "RATE_PERCENT": 13.83
+  },
+  {
+    "TAX_CODE": "T0420",
+    "TAX_DESCRIPTION": "Tax code 420",
+    "RATE_PERCENT": 6.49
+  },
+  {
+    "TAX_CODE": "T0421",
+    "TAX_DESCRIPTION": "Tax code 421",
+    "RATE_PERCENT": 2.44
+  },
+  {
+    "TAX_CODE": "T0422",
+    "TAX_DESCRIPTION": "Tax code 422",
+    "RATE_PERCENT": 7.52
+  },
+  {
+    "TAX_CODE": "T0423",
+    "TAX_DESCRIPTION": "Tax code 423",
+    "RATE_PERCENT": 16.61
+  },
+  {
+    "TAX_CODE": "T0424",
+    "TAX_DESCRIPTION": "Tax code 424",
+    "RATE_PERCENT": 10.11
+  },
+  {
+    "TAX_CODE": "T0425",
+    "TAX_DESCRIPTION": "Tax code 425",
+    "RATE_PERCENT": 11.38
+  },
+  {
+    "TAX_CODE": "T0426",
+    "TAX_DESCRIPTION": "Tax code 426",
+    "RATE_PERCENT": 5.13
+  },
+  {
+    "TAX_CODE": "T0427",
+    "TAX_DESCRIPTION": "Tax code 427",
+    "RATE_PERCENT": 6.86
+  },
+  {
+    "TAX_CODE": "T0428",
+    "TAX_DESCRIPTION": "Tax code 428",
+    "RATE_PERCENT": 4.57
+  },
+  {
+    "TAX_CODE": "T0429",
+    "TAX_DESCRIPTION": "Tax code 429",
+    "RATE_PERCENT": 9.03
+  },
+  {
+    "TAX_CODE": "T0430",
+    "TAX_DESCRIPTION": "Tax code 430",
+    "RATE_PERCENT": 10.75
+  },
+  {
+    "TAX_CODE": "T0431",
+    "TAX_DESCRIPTION": "Tax code 431",
+    "RATE_PERCENT": 6.84
+  },
+  {
+    "TAX_CODE": "T0432",
+    "TAX_DESCRIPTION": "Tax code 432",
+    "RATE_PERCENT": 14.43
+  },
+  {
+    "TAX_CODE": "T0433",
+    "TAX_DESCRIPTION": "Tax code 433",
+    "RATE_PERCENT": 17.08
+  },
+  {
+    "TAX_CODE": "T0434",
+    "TAX_DESCRIPTION": "Tax code 434",
+    "RATE_PERCENT": 14.51
+  },
+  {
+    "TAX_CODE": "T0435",
+    "TAX_DESCRIPTION": "Tax code 435",
+    "RATE_PERCENT": 21.81
+  },
+  {
+    "TAX_CODE": "T0436",
+    "TAX_DESCRIPTION": "Tax code 436",
+    "RATE_PERCENT": 19.57
+  },
+  {
+    "TAX_CODE": "T0437",
+    "TAX_DESCRIPTION": "Tax code 437",
+    "RATE_PERCENT": 24.63
+  },
+  {
+    "TAX_CODE": "T0438",
+    "TAX_DESCRIPTION": "Tax code 438",
+    "RATE_PERCENT": 8.98
+  },
+  {
+    "TAX_CODE": "T0439",
+    "TAX_DESCRIPTION": "Tax code 439",
+    "RATE_PERCENT": 9.15
+  },
+  {
+    "TAX_CODE": "T0440",
+    "TAX_DESCRIPTION": "Tax code 440",
+    "RATE_PERCENT": 0.51
+  },
+  {
+    "TAX_CODE": "T0441",
+    "TAX_DESCRIPTION": "Tax code 441",
+    "RATE_PERCENT": 24.47
+  },
+  {
+    "TAX_CODE": "T0442",
+    "TAX_DESCRIPTION": "Tax code 442",
+    "RATE_PERCENT": 20.47
+  },
+  {
+    "TAX_CODE": "T0443",
+    "TAX_DESCRIPTION": "Tax code 443",
+    "RATE_PERCENT": 12.83
+  },
+  {
+    "TAX_CODE": "T0444",
+    "TAX_DESCRIPTION": "Tax code 444",
+    "RATE_PERCENT": 7.07
+  },
+  {
+    "TAX_CODE": "T0445",
+    "TAX_DESCRIPTION": "Tax code 445",
+    "RATE_PERCENT": 17.31
+  },
+  {
+    "TAX_CODE": "T0446",
+    "TAX_DESCRIPTION": "Tax code 446",
+    "RATE_PERCENT": 17.77
+  },
+  {
+    "TAX_CODE": "T0447",
+    "TAX_DESCRIPTION": "Tax code 447",
+    "RATE_PERCENT": 22.62
+  },
+  {
+    "TAX_CODE": "T0448",
+    "TAX_DESCRIPTION": "Tax code 448",
+    "RATE_PERCENT": 4.57
+  },
+  {
+    "TAX_CODE": "T0449",
+    "TAX_DESCRIPTION": "Tax code 449",
+    "RATE_PERCENT": 23.72
+  },
+  {
+    "TAX_CODE": "T0450",
+    "TAX_DESCRIPTION": "Tax code 450",
+    "RATE_PERCENT": 19.61
+  },
+  {
+    "TAX_CODE": "T0451",
+    "TAX_DESCRIPTION": "Tax code 451",
+    "RATE_PERCENT": 3.48
+  },
+  {
+    "TAX_CODE": "T0452",
+    "TAX_DESCRIPTION": "Tax code 452",
+    "RATE_PERCENT": 9.35
+  },
+  {
+    "TAX_CODE": "T0453",
+    "TAX_DESCRIPTION": "Tax code 453",
+    "RATE_PERCENT": 10.26
+  },
+  {
+    "TAX_CODE": "T0454",
+    "TAX_DESCRIPTION": "Tax code 454",
+    "RATE_PERCENT": 6.99
+  },
+  {
+    "TAX_CODE": "T0455",
+    "TAX_DESCRIPTION": "Tax code 455",
+    "RATE_PERCENT": 10.16
+  },
+  {
+    "TAX_CODE": "T0456",
+    "TAX_DESCRIPTION": "Tax code 456",
+    "RATE_PERCENT": 10.21
+  },
+  {
+    "TAX_CODE": "T0457",
+    "TAX_DESCRIPTION": "Tax code 457",
+    "RATE_PERCENT": 24.34
+  },
+  {
+    "TAX_CODE": "T0458",
+    "TAX_DESCRIPTION": "Tax code 458",
+    "RATE_PERCENT": 20.56
+  },
+  {
+    "TAX_CODE": "T0459",
+    "TAX_DESCRIPTION": "Tax code 459",
+    "RATE_PERCENT": 13.42
+  },
+  {
+    "TAX_CODE": "T0460",
+    "TAX_DESCRIPTION": "Tax code 460",
+    "RATE_PERCENT": 5.53
+  },
+  {
+    "TAX_CODE": "T0461",
+    "TAX_DESCRIPTION": "Tax code 461",
+    "RATE_PERCENT": 12.12
+  },
+  {
+    "TAX_CODE": "T0462",
+    "TAX_DESCRIPTION": "Tax code 462",
+    "RATE_PERCENT": 3.55
+  },
+  {
+    "TAX_CODE": "T0463",
+    "TAX_DESCRIPTION": "Tax code 463",
+    "RATE_PERCENT": 20.87
+  },
+  {
+    "TAX_CODE": "T0464",
+    "TAX_DESCRIPTION": "Tax code 464",
+    "RATE_PERCENT": 8.53
+  },
+  {
+    "TAX_CODE": "T0465",
+    "TAX_DESCRIPTION": "Tax code 465",
+    "RATE_PERCENT": 10.65
+  },
+  {
+    "TAX_CODE": "T0466",
+    "TAX_DESCRIPTION": "Tax code 466",
+    "RATE_PERCENT": 24.61
+  },
+  {
+    "TAX_CODE": "T0467",
+    "TAX_DESCRIPTION": "Tax code 467",
+    "RATE_PERCENT": 3.85
+  },
+  {
+    "TAX_CODE": "T0468",
+    "TAX_DESCRIPTION": "Tax code 468",
+    "RATE_PERCENT": 1.08
+  },
+  {
+    "TAX_CODE": "T0469",
+    "TAX_DESCRIPTION": "Tax code 469",
+    "RATE_PERCENT": 19.13
+  },
+  {
+    "TAX_CODE": "T0470",
+    "TAX_DESCRIPTION": "Tax code 470",
+    "RATE_PERCENT": 24.58
+  },
+  {
+    "TAX_CODE": "T0471",
+    "TAX_DESCRIPTION": "Tax code 471",
+    "RATE_PERCENT": 5.54
+  },
+  {
+    "TAX_CODE": "T0472",
+    "TAX_DESCRIPTION": "Tax code 472",
+    "RATE_PERCENT": 13.85
+  },
+  {
+    "TAX_CODE": "T0473",
+    "TAX_DESCRIPTION": "Tax code 473",
+    "RATE_PERCENT": 11.19
+  },
+  {
+    "TAX_CODE": "T0474",
+    "TAX_DESCRIPTION": "Tax code 474",
+    "RATE_PERCENT": 10.89
+  },
+  {
+    "TAX_CODE": "T0475",
+    "TAX_DESCRIPTION": "Tax code 475",
+    "RATE_PERCENT": 22.87
+  },
+  {
+    "TAX_CODE": "T0476",
+    "TAX_DESCRIPTION": "Tax code 476",
+    "RATE_PERCENT": 20.73
+  },
+  {
+    "TAX_CODE": "T0477",
+    "TAX_DESCRIPTION": "Tax code 477",
+    "RATE_PERCENT": 11.7
+  },
+  {
+    "TAX_CODE": "T0478",
+    "TAX_DESCRIPTION": "Tax code 478",
+    "RATE_PERCENT": 1.75
+  },
+  {
+    "TAX_CODE": "T0479",
+    "TAX_DESCRIPTION": "Tax code 479",
+    "RATE_PERCENT": 19.72
+  },
+  {
+    "TAX_CODE": "T0480",
+    "TAX_DESCRIPTION": "Tax code 480",
+    "RATE_PERCENT": 2.8
+  },
+  {
+    "TAX_CODE": "T0481",
+    "TAX_DESCRIPTION": "Tax code 481",
+    "RATE_PERCENT": 14.05
+  },
+  {
+    "TAX_CODE": "T0482",
+    "TAX_DESCRIPTION": "Tax code 482",
+    "RATE_PERCENT": 3.26
+  },
+  {
+    "TAX_CODE": "T0483",
+    "TAX_DESCRIPTION": "Tax code 483",
+    "RATE_PERCENT": 1.71
+  },
+  {
+    "TAX_CODE": "T0484",
+    "TAX_DESCRIPTION": "Tax code 484",
+    "RATE_PERCENT": 7.85
+  },
+  {
+    "TAX_CODE": "T0485",
+    "TAX_DESCRIPTION": "Tax code 485",
+    "RATE_PERCENT": 12.8
+  },
+  {
+    "TAX_CODE": "T0486",
+    "TAX_DESCRIPTION": "Tax code 486",
+    "RATE_PERCENT": 1.26
+  },
+  {
+    "TAX_CODE": "T0487",
+    "TAX_DESCRIPTION": "Tax code 487",
+    "RATE_PERCENT": 17.2
+  },
+  {
+    "TAX_CODE": "T0488",
+    "TAX_DESCRIPTION": "Tax code 488",
+    "RATE_PERCENT": 18.34
+  },
+  {
+    "TAX_CODE": "T0489",
+    "TAX_DESCRIPTION": "Tax code 489",
+    "RATE_PERCENT": 18.21
+  },
+  {
+    "TAX_CODE": "T0490",
+    "TAX_DESCRIPTION": "Tax code 490",
+    "RATE_PERCENT": 8.95
+  },
+  {
+    "TAX_CODE": "T0491",
+    "TAX_DESCRIPTION": "Tax code 491",
+    "RATE_PERCENT": 10.7
+  },
+  {
+    "TAX_CODE": "T0492",
+    "TAX_DESCRIPTION": "Tax code 492",
+    "RATE_PERCENT": 9.51
+  },
+  {
+    "TAX_CODE": "T0493",
+    "TAX_DESCRIPTION": "Tax code 493",
+    "RATE_PERCENT": 24.18
+  },
+  {
+    "TAX_CODE": "T0494",
+    "TAX_DESCRIPTION": "Tax code 494",
+    "RATE_PERCENT": 0.63
+  },
+  {
+    "TAX_CODE": "T0495",
+    "TAX_DESCRIPTION": "Tax code 495",
+    "RATE_PERCENT": 13.78
+  },
+  {
+    "TAX_CODE": "T0496",
+    "TAX_DESCRIPTION": "Tax code 496",
+    "RATE_PERCENT": 22.37
+  },
+  {
+    "TAX_CODE": "T0497",
+    "TAX_DESCRIPTION": "Tax code 497",
+    "RATE_PERCENT": 1.41
+  },
+  {
+    "TAX_CODE": "T0498",
+    "TAX_DESCRIPTION": "Tax code 498",
+    "RATE_PERCENT": 9.28
+  },
+  {
+    "TAX_CODE": "T0499",
+    "TAX_DESCRIPTION": "Tax code 499",
+    "RATE_PERCENT": 20.14
+  },
+  {
+    "TAX_CODE": "T0500",
+    "TAX_DESCRIPTION": "Tax code 500",
+    "RATE_PERCENT": 0.85
+  },
+  {
+    "TAX_CODE": "T0501",
+    "TAX_DESCRIPTION": "Tax code 501",
+    "RATE_PERCENT": 23.78
+  },
+  {
+    "TAX_CODE": "T0502",
+    "TAX_DESCRIPTION": "Tax code 502",
+    "RATE_PERCENT": 24.99
+  },
+  {
+    "TAX_CODE": "T0503",
+    "TAX_DESCRIPTION": "Tax code 503",
+    "RATE_PERCENT": 8.32
+  },
+  {
+    "TAX_CODE": "T0504",
+    "TAX_DESCRIPTION": "Tax code 504",
+    "RATE_PERCENT": 6.3
+  },
+  {
+    "TAX_CODE": "T0505",
+    "TAX_DESCRIPTION": "Tax code 505",
+    "RATE_PERCENT": 5.68
+  },
+  {
+    "TAX_CODE": "T0506",
+    "TAX_DESCRIPTION": "Tax code 506",
+    "RATE_PERCENT": 22.77
+  },
+  {
+    "TAX_CODE": "T0507",
+    "TAX_DESCRIPTION": "Tax code 507",
+    "RATE_PERCENT": 22.28
+  },
+  {
+    "TAX_CODE": "T0508",
+    "TAX_DESCRIPTION": "Tax code 508",
+    "RATE_PERCENT": 12.38
+  },
+  {
+    "TAX_CODE": "T0509",
+    "TAX_DESCRIPTION": "Tax code 509",
+    "RATE_PERCENT": 22.96
+  },
+  {
+    "TAX_CODE": "T0510",
+    "TAX_DESCRIPTION": "Tax code 510",
+    "RATE_PERCENT": 5.2
+  },
+  {
+    "TAX_CODE": "T0511",
+    "TAX_DESCRIPTION": "Tax code 511",
+    "RATE_PERCENT": 10.46
+  },
+  {
+    "TAX_CODE": "T0512",
+    "TAX_DESCRIPTION": "Tax code 512",
+    "RATE_PERCENT": 14.77
+  },
+  {
+    "TAX_CODE": "T0513",
+    "TAX_DESCRIPTION": "Tax code 513",
+    "RATE_PERCENT": 15.52
+  },
+  {
+    "TAX_CODE": "T0514",
+    "TAX_DESCRIPTION": "Tax code 514",
+    "RATE_PERCENT": 2.75
+  },
+  {
+    "TAX_CODE": "T0515",
+    "TAX_DESCRIPTION": "Tax code 515",
+    "RATE_PERCENT": 20.42
+  },
+  {
+    "TAX_CODE": "T0516",
+    "TAX_DESCRIPTION": "Tax code 516",
+    "RATE_PERCENT": 6.31
+  },
+  {
+    "TAX_CODE": "T0517",
+    "TAX_DESCRIPTION": "Tax code 517",
+    "RATE_PERCENT": 4.91
+  },
+  {
+    "TAX_CODE": "T0518",
+    "TAX_DESCRIPTION": "Tax code 518",
+    "RATE_PERCENT": 18.34
+  },
+  {
+    "TAX_CODE": "T0519",
+    "TAX_DESCRIPTION": "Tax code 519",
+    "RATE_PERCENT": 14.88
+  },
+  {
+    "TAX_CODE": "T0520",
+    "TAX_DESCRIPTION": "Tax code 520",
+    "RATE_PERCENT": 14.66
+  },
+  {
+    "TAX_CODE": "T0521",
+    "TAX_DESCRIPTION": "Tax code 521",
+    "RATE_PERCENT": 15.23
+  },
+  {
+    "TAX_CODE": "T0522",
+    "TAX_DESCRIPTION": "Tax code 522",
+    "RATE_PERCENT": 14.72
+  },
+  {
+    "TAX_CODE": "T0523",
+    "TAX_DESCRIPTION": "Tax code 523",
+    "RATE_PERCENT": 23.29
+  },
+  {
+    "TAX_CODE": "T0524",
+    "TAX_DESCRIPTION": "Tax code 524",
+    "RATE_PERCENT": 9.21
+  },
+  {
+    "TAX_CODE": "T0525",
+    "TAX_DESCRIPTION": "Tax code 525",
+    "RATE_PERCENT": 4.96
+  },
+  {
+    "TAX_CODE": "T0526",
+    "TAX_DESCRIPTION": "Tax code 526",
+    "RATE_PERCENT": 1.49
+  },
+  {
+    "TAX_CODE": "T0527",
+    "TAX_DESCRIPTION": "Tax code 527",
+    "RATE_PERCENT": 7.24
+  },
+  {
+    "TAX_CODE": "T0528",
+    "TAX_DESCRIPTION": "Tax code 528",
+    "RATE_PERCENT": 13.07
+  },
+  {
+    "TAX_CODE": "T0529",
+    "TAX_DESCRIPTION": "Tax code 529",
+    "RATE_PERCENT": 24.19
+  },
+  {
+    "TAX_CODE": "T0530",
+    "TAX_DESCRIPTION": "Tax code 530",
+    "RATE_PERCENT": 2.46
+  },
+  {
+    "TAX_CODE": "T0531",
+    "TAX_DESCRIPTION": "Tax code 531",
+    "RATE_PERCENT": 10.12
+  },
+  {
+    "TAX_CODE": "T0532",
+    "TAX_DESCRIPTION": "Tax code 532",
+    "RATE_PERCENT": 24
+  },
+  {
+    "TAX_CODE": "T0533",
+    "TAX_DESCRIPTION": "Tax code 533",
+    "RATE_PERCENT": 20.02
+  },
+  {
+    "TAX_CODE": "T0534",
+    "TAX_DESCRIPTION": "Tax code 534",
+    "RATE_PERCENT": 16.05
+  },
+  {
+    "TAX_CODE": "T0535",
+    "TAX_DESCRIPTION": "Tax code 535",
+    "RATE_PERCENT": 23.24
+  },
+  {
+    "TAX_CODE": "T0536",
+    "TAX_DESCRIPTION": "Tax code 536",
+    "RATE_PERCENT": 2.13
+  },
+  {
+    "TAX_CODE": "T0537",
+    "TAX_DESCRIPTION": "Tax code 537",
+    "RATE_PERCENT": 17.64
+  },
+  {
+    "TAX_CODE": "T0538",
+    "TAX_DESCRIPTION": "Tax code 538",
+    "RATE_PERCENT": 21.3
+  },
+  {
+    "TAX_CODE": "T0539",
+    "TAX_DESCRIPTION": "Tax code 539",
+    "RATE_PERCENT": 7.67
+  },
+  {
+    "TAX_CODE": "T0540",
+    "TAX_DESCRIPTION": "Tax code 540",
+    "RATE_PERCENT": 1.55
+  },
+  {
+    "TAX_CODE": "T0541",
+    "TAX_DESCRIPTION": "Tax code 541",
+    "RATE_PERCENT": 0.41
+  },
+  {
+    "TAX_CODE": "T0542",
+    "TAX_DESCRIPTION": "Tax code 542",
+    "RATE_PERCENT": 24.49
+  },
+  {
+    "TAX_CODE": "T0543",
+    "TAX_DESCRIPTION": "Tax code 543",
+    "RATE_PERCENT": 22.3
+  },
+  {
+    "TAX_CODE": "T0544",
+    "TAX_DESCRIPTION": "Tax code 544",
+    "RATE_PERCENT": 2.27
+  },
+  {
+    "TAX_CODE": "T0545",
+    "TAX_DESCRIPTION": "Tax code 545",
+    "RATE_PERCENT": 23.81
+  },
+  {
+    "TAX_CODE": "T0546",
+    "TAX_DESCRIPTION": "Tax code 546",
+    "RATE_PERCENT": 16.17
+  },
+  {
+    "TAX_CODE": "T0547",
+    "TAX_DESCRIPTION": "Tax code 547",
+    "RATE_PERCENT": 3.52
+  },
+  {
+    "TAX_CODE": "T0548",
+    "TAX_DESCRIPTION": "Tax code 548",
+    "RATE_PERCENT": 23.51
+  },
+  {
+    "TAX_CODE": "T0549",
+    "TAX_DESCRIPTION": "Tax code 549",
+    "RATE_PERCENT": 1.31
+  },
+  {
+    "TAX_CODE": "T0550",
+    "TAX_DESCRIPTION": "Tax code 550",
+    "RATE_PERCENT": 20.77
+  },
+  {
+    "TAX_CODE": "T0551",
+    "TAX_DESCRIPTION": "Tax code 551",
+    "RATE_PERCENT": 3.96
+  },
+  {
+    "TAX_CODE": "T0552",
+    "TAX_DESCRIPTION": "Tax code 552",
+    "RATE_PERCENT": 13.27
+  },
+  {
+    "TAX_CODE": "T0553",
+    "TAX_DESCRIPTION": "Tax code 553",
+    "RATE_PERCENT": 5.73
+  },
+  {
+    "TAX_CODE": "T0554",
+    "TAX_DESCRIPTION": "Tax code 554",
+    "RATE_PERCENT": 12.8
+  },
+  {
+    "TAX_CODE": "T0555",
+    "TAX_DESCRIPTION": "Tax code 555",
+    "RATE_PERCENT": 19.12
+  },
+  {
+    "TAX_CODE": "T0556",
+    "TAX_DESCRIPTION": "Tax code 556",
+    "RATE_PERCENT": 22.36
+  },
+  {
+    "TAX_CODE": "T0557",
+    "TAX_DESCRIPTION": "Tax code 557",
+    "RATE_PERCENT": 16.29
+  },
+  {
+    "TAX_CODE": "T0558",
+    "TAX_DESCRIPTION": "Tax code 558",
+    "RATE_PERCENT": 6.65
+  },
+  {
+    "TAX_CODE": "T0559",
+    "TAX_DESCRIPTION": "Tax code 559",
+    "RATE_PERCENT": 14.2
+  },
+  {
+    "TAX_CODE": "T0560",
+    "TAX_DESCRIPTION": "Tax code 560",
+    "RATE_PERCENT": 13.07
+  },
+  {
+    "TAX_CODE": "T0561",
+    "TAX_DESCRIPTION": "Tax code 561",
+    "RATE_PERCENT": 8.43
+  },
+  {
+    "TAX_CODE": "T0562",
+    "TAX_DESCRIPTION": "Tax code 562",
+    "RATE_PERCENT": 9.26
+  },
+  {
+    "TAX_CODE": "T0563",
+    "TAX_DESCRIPTION": "Tax code 563",
+    "RATE_PERCENT": 8.66
+  },
+  {
+    "TAX_CODE": "T0564",
+    "TAX_DESCRIPTION": "Tax code 564",
+    "RATE_PERCENT": 1.77
+  },
+  {
+    "TAX_CODE": "T0565",
+    "TAX_DESCRIPTION": "Tax code 565",
+    "RATE_PERCENT": 0.46
+  },
+  {
+    "TAX_CODE": "T0566",
+    "TAX_DESCRIPTION": "Tax code 566",
+    "RATE_PERCENT": 2.14
+  },
+  {
+    "TAX_CODE": "T0567",
+    "TAX_DESCRIPTION": "Tax code 567",
+    "RATE_PERCENT": 3.99
+  },
+  {
+    "TAX_CODE": "T0568",
+    "TAX_DESCRIPTION": "Tax code 568",
+    "RATE_PERCENT": 10.22
+  },
+  {
+    "TAX_CODE": "T0569",
+    "TAX_DESCRIPTION": "Tax code 569",
+    "RATE_PERCENT": 11.82
+  },
+  {
+    "TAX_CODE": "T0570",
+    "TAX_DESCRIPTION": "Tax code 570",
+    "RATE_PERCENT": 1.8
+  },
+  {
+    "TAX_CODE": "T0571",
+    "TAX_DESCRIPTION": "Tax code 571",
+    "RATE_PERCENT": 11.15
+  },
+  {
+    "TAX_CODE": "T0572",
+    "TAX_DESCRIPTION": "Tax code 572",
+    "RATE_PERCENT": 2.11
+  },
+  {
+    "TAX_CODE": "T0573",
+    "TAX_DESCRIPTION": "Tax code 573",
+    "RATE_PERCENT": 3.91
+  },
+  {
+    "TAX_CODE": "T0574",
+    "TAX_DESCRIPTION": "Tax code 574",
+    "RATE_PERCENT": 23.7
+  },
+  {
+    "TAX_CODE": "T0575",
+    "TAX_DESCRIPTION": "Tax code 575",
+    "RATE_PERCENT": 1.93
+  },
+  {
+    "TAX_CODE": "T0576",
+    "TAX_DESCRIPTION": "Tax code 576",
+    "RATE_PERCENT": 1.16
+  },
+  {
+    "TAX_CODE": "T0577",
+    "TAX_DESCRIPTION": "Tax code 577",
+    "RATE_PERCENT": 15.52
+  },
+  {
+    "TAX_CODE": "T0578",
+    "TAX_DESCRIPTION": "Tax code 578",
+    "RATE_PERCENT": 9.27
+  },
+  {
+    "TAX_CODE": "T0579",
+    "TAX_DESCRIPTION": "Tax code 579",
+    "RATE_PERCENT": 9.05
+  },
+  {
+    "TAX_CODE": "T0580",
+    "TAX_DESCRIPTION": "Tax code 580",
+    "RATE_PERCENT": 11.99
+  },
+  {
+    "TAX_CODE": "T0581",
+    "TAX_DESCRIPTION": "Tax code 581",
+    "RATE_PERCENT": 0.41
+  },
+  {
+    "TAX_CODE": "T0582",
+    "TAX_DESCRIPTION": "Tax code 582",
+    "RATE_PERCENT": 18
+  },
+  {
+    "TAX_CODE": "T0583",
+    "TAX_DESCRIPTION": "Tax code 583",
+    "RATE_PERCENT": 1.78
+  },
+  {
+    "TAX_CODE": "T0584",
+    "TAX_DESCRIPTION": "Tax code 584",
+    "RATE_PERCENT": 4.4
+  },
+  {
+    "TAX_CODE": "T0585",
+    "TAX_DESCRIPTION": "Tax code 585",
+    "RATE_PERCENT": 18.87
+  },
+  {
+    "TAX_CODE": "T0586",
+    "TAX_DESCRIPTION": "Tax code 586",
+    "RATE_PERCENT": 13.77
+  },
+  {
+    "TAX_CODE": "T0587",
+    "TAX_DESCRIPTION": "Tax code 587",
+    "RATE_PERCENT": 12.19
+  },
+  {
+    "TAX_CODE": "T0588",
+    "TAX_DESCRIPTION": "Tax code 588",
+    "RATE_PERCENT": 2.34
+  },
+  {
+    "TAX_CODE": "T0589",
+    "TAX_DESCRIPTION": "Tax code 589",
+    "RATE_PERCENT": 5.01
+  },
+  {
+    "TAX_CODE": "T0590",
+    "TAX_DESCRIPTION": "Tax code 590",
+    "RATE_PERCENT": 14.3
+  },
+  {
+    "TAX_CODE": "T0591",
+    "TAX_DESCRIPTION": "Tax code 591",
+    "RATE_PERCENT": 10.41
+  },
+  {
+    "TAX_CODE": "T0592",
+    "TAX_DESCRIPTION": "Tax code 592",
+    "RATE_PERCENT": 17.51
+  },
+  {
+    "TAX_CODE": "T0593",
+    "TAX_DESCRIPTION": "Tax code 593",
+    "RATE_PERCENT": 3.16
+  },
+  {
+    "TAX_CODE": "T0594",
+    "TAX_DESCRIPTION": "Tax code 594",
+    "RATE_PERCENT": 3.38
+  },
+  {
+    "TAX_CODE": "T0595",
+    "TAX_DESCRIPTION": "Tax code 595",
+    "RATE_PERCENT": 8.25
+  },
+  {
+    "TAX_CODE": "T0596",
+    "TAX_DESCRIPTION": "Tax code 596",
+    "RATE_PERCENT": 5.43
+  },
+  {
+    "TAX_CODE": "T0597",
+    "TAX_DESCRIPTION": "Tax code 597",
+    "RATE_PERCENT": 4.16
+  },
+  {
+    "TAX_CODE": "T0598",
+    "TAX_DESCRIPTION": "Tax code 598",
+    "RATE_PERCENT": 24.15
+  },
+  {
+    "TAX_CODE": "T0599",
+    "TAX_DESCRIPTION": "Tax code 599",
+    "RATE_PERCENT": 13.82
+  },
+  {
+    "TAX_CODE": "T0600",
+    "TAX_DESCRIPTION": "Tax code 600",
+    "RATE_PERCENT": 5.81
+  },
+  {
+    "TAX_CODE": "T0601",
+    "TAX_DESCRIPTION": "Tax code 601",
+    "RATE_PERCENT": 15.3
+  },
+  {
+    "TAX_CODE": "T0602",
+    "TAX_DESCRIPTION": "Tax code 602",
+    "RATE_PERCENT": 15.76
+  },
+  {
+    "TAX_CODE": "T0603",
+    "TAX_DESCRIPTION": "Tax code 603",
+    "RATE_PERCENT": 19.42
+  },
+  {
+    "TAX_CODE": "T0604",
+    "TAX_DESCRIPTION": "Tax code 604",
+    "RATE_PERCENT": 17.15
+  },
+  {
+    "TAX_CODE": "T0605",
+    "TAX_DESCRIPTION": "Tax code 605",
+    "RATE_PERCENT": 20.73
+  },
+  {
+    "TAX_CODE": "T0606",
+    "TAX_DESCRIPTION": "Tax code 606",
+    "RATE_PERCENT": 5.43
+  },
+  {
+    "TAX_CODE": "T0607",
+    "TAX_DESCRIPTION": "Tax code 607",
+    "RATE_PERCENT": 7.57
+  },
+  {
+    "TAX_CODE": "T0608",
+    "TAX_DESCRIPTION": "Tax code 608",
+    "RATE_PERCENT": 20.51
+  },
+  {
+    "TAX_CODE": "T0609",
+    "TAX_DESCRIPTION": "Tax code 609",
+    "RATE_PERCENT": 23.6
+  },
+  {
+    "TAX_CODE": "T0610",
+    "TAX_DESCRIPTION": "Tax code 610",
+    "RATE_PERCENT": 17.09
+  },
+  {
+    "TAX_CODE": "T0611",
+    "TAX_DESCRIPTION": "Tax code 611",
+    "RATE_PERCENT": 14.86
+  },
+  {
+    "TAX_CODE": "T0612",
+    "TAX_DESCRIPTION": "Tax code 612",
+    "RATE_PERCENT": 23.41
+  },
+  {
+    "TAX_CODE": "T0613",
+    "TAX_DESCRIPTION": "Tax code 613",
+    "RATE_PERCENT": 11.39
+  },
+  {
+    "TAX_CODE": "T0614",
+    "TAX_DESCRIPTION": "Tax code 614",
+    "RATE_PERCENT": 17.57
+  },
+  {
+    "TAX_CODE": "T0615",
+    "TAX_DESCRIPTION": "Tax code 615",
+    "RATE_PERCENT": 6.48
+  },
+  {
+    "TAX_CODE": "T0616",
+    "TAX_DESCRIPTION": "Tax code 616",
+    "RATE_PERCENT": 19.11
+  },
+  {
+    "TAX_CODE": "T0617",
+    "TAX_DESCRIPTION": "Tax code 617",
+    "RATE_PERCENT": 15.04
+  },
+  {
+    "TAX_CODE": "T0618",
+    "TAX_DESCRIPTION": "Tax code 618",
+    "RATE_PERCENT": 23.65
+  },
+  {
+    "TAX_CODE": "T0619",
+    "TAX_DESCRIPTION": "Tax code 619",
+    "RATE_PERCENT": 12.08
+  },
+  {
+    "TAX_CODE": "T0620",
+    "TAX_DESCRIPTION": "Tax code 620",
+    "RATE_PERCENT": 5.44
+  },
+  {
+    "TAX_CODE": "T0621",
+    "TAX_DESCRIPTION": "Tax code 621",
+    "RATE_PERCENT": 3.78
+  },
+  {
+    "TAX_CODE": "T0622",
+    "TAX_DESCRIPTION": "Tax code 622",
+    "RATE_PERCENT": 12.78
+  },
+  {
+    "TAX_CODE": "T0623",
+    "TAX_DESCRIPTION": "Tax code 623",
+    "RATE_PERCENT": 23.8
+  },
+  {
+    "TAX_CODE": "T0624",
+    "TAX_DESCRIPTION": "Tax code 624",
+    "RATE_PERCENT": 0.33
+  },
+  {
+    "TAX_CODE": "T0625",
+    "TAX_DESCRIPTION": "Tax code 625",
+    "RATE_PERCENT": 20.23
+  },
+  {
+    "TAX_CODE": "T0626",
+    "TAX_DESCRIPTION": "Tax code 626",
+    "RATE_PERCENT": 10.4
+  },
+  {
+    "TAX_CODE": "T0627",
+    "TAX_DESCRIPTION": "Tax code 627",
+    "RATE_PERCENT": 23.15
+  },
+  {
+    "TAX_CODE": "T0628",
+    "TAX_DESCRIPTION": "Tax code 628",
+    "RATE_PERCENT": 19.25
+  },
+  {
+    "TAX_CODE": "T0629",
+    "TAX_DESCRIPTION": "Tax code 629",
+    "RATE_PERCENT": 1.75
+  },
+  {
+    "TAX_CODE": "T0630",
+    "TAX_DESCRIPTION": "Tax code 630",
+    "RATE_PERCENT": 21.45
+  },
+  {
+    "TAX_CODE": "T0631",
+    "TAX_DESCRIPTION": "Tax code 631",
+    "RATE_PERCENT": 4.91
+  },
+  {
+    "TAX_CODE": "T0632",
+    "TAX_DESCRIPTION": "Tax code 632",
+    "RATE_PERCENT": 21
+  },
+  {
+    "TAX_CODE": "T0633",
+    "TAX_DESCRIPTION": "Tax code 633",
+    "RATE_PERCENT": 0.78
+  },
+  {
+    "TAX_CODE": "T0634",
+    "TAX_DESCRIPTION": "Tax code 634",
+    "RATE_PERCENT": 16.53
+  },
+  {
+    "TAX_CODE": "T0635",
+    "TAX_DESCRIPTION": "Tax code 635",
+    "RATE_PERCENT": 3.88
+  },
+  {
+    "TAX_CODE": "T0636",
+    "TAX_DESCRIPTION": "Tax code 636",
+    "RATE_PERCENT": 3.31
+  },
+  {
+    "TAX_CODE": "T0637",
+    "TAX_DESCRIPTION": "Tax code 637",
+    "RATE_PERCENT": 15.3
+  },
+  {
+    "TAX_CODE": "T0638",
+    "TAX_DESCRIPTION": "Tax code 638",
+    "RATE_PERCENT": 7.59
+  },
+  {
+    "TAX_CODE": "T0639",
+    "TAX_DESCRIPTION": "Tax code 639",
+    "RATE_PERCENT": 21.77
+  },
+  {
+    "TAX_CODE": "T0640",
+    "TAX_DESCRIPTION": "Tax code 640",
+    "RATE_PERCENT": 9.94
+  },
+  {
+    "TAX_CODE": "T0641",
+    "TAX_DESCRIPTION": "Tax code 641",
+    "RATE_PERCENT": 14.59
+  },
+  {
+    "TAX_CODE": "T0642",
+    "TAX_DESCRIPTION": "Tax code 642",
+    "RATE_PERCENT": 20.95
+  },
+  {
+    "TAX_CODE": "T0643",
+    "TAX_DESCRIPTION": "Tax code 643",
+    "RATE_PERCENT": 5.38
+  },
+  {
+    "TAX_CODE": "T0644",
+    "TAX_DESCRIPTION": "Tax code 644",
+    "RATE_PERCENT": 14.7
+  },
+  {
+    "TAX_CODE": "T0645",
+    "TAX_DESCRIPTION": "Tax code 645",
+    "RATE_PERCENT": 19.23
+  },
+  {
+    "TAX_CODE": "T0646",
+    "TAX_DESCRIPTION": "Tax code 646",
+    "RATE_PERCENT": 1.73
+  },
+  {
+    "TAX_CODE": "T0647",
+    "TAX_DESCRIPTION": "Tax code 647",
+    "RATE_PERCENT": 14.42
+  },
+  {
+    "TAX_CODE": "T0648",
+    "TAX_DESCRIPTION": "Tax code 648",
+    "RATE_PERCENT": 5.13
+  },
+  {
+    "TAX_CODE": "T0649",
+    "TAX_DESCRIPTION": "Tax code 649",
+    "RATE_PERCENT": 4.15
+  },
+  {
+    "TAX_CODE": "T0650",
+    "TAX_DESCRIPTION": "Tax code 650",
+    "RATE_PERCENT": 2
+  },
+  {
+    "TAX_CODE": "T0651",
+    "TAX_DESCRIPTION": "Tax code 651",
+    "RATE_PERCENT": 14.35
+  },
+  {
+    "TAX_CODE": "T0652",
+    "TAX_DESCRIPTION": "Tax code 652",
+    "RATE_PERCENT": 1.46
+  },
+  {
+    "TAX_CODE": "T0653",
+    "TAX_DESCRIPTION": "Tax code 653",
+    "RATE_PERCENT": 16.34
+  },
+  {
+    "TAX_CODE": "T0654",
+    "TAX_DESCRIPTION": "Tax code 654",
+    "RATE_PERCENT": 12.27
+  },
+  {
+    "TAX_CODE": "T0655",
+    "TAX_DESCRIPTION": "Tax code 655",
+    "RATE_PERCENT": 14.23
+  },
+  {
+    "TAX_CODE": "T0656",
+    "TAX_DESCRIPTION": "Tax code 656",
+    "RATE_PERCENT": 21.64
+  },
+  {
+    "TAX_CODE": "T0657",
+    "TAX_DESCRIPTION": "Tax code 657",
+    "RATE_PERCENT": 14.47
+  },
+  {
+    "TAX_CODE": "T0658",
+    "TAX_DESCRIPTION": "Tax code 658",
+    "RATE_PERCENT": 19.34
+  },
+  {
+    "TAX_CODE": "T0659",
+    "TAX_DESCRIPTION": "Tax code 659",
+    "RATE_PERCENT": 16.18
+  },
+  {
+    "TAX_CODE": "T0660",
+    "TAX_DESCRIPTION": "Tax code 660",
+    "RATE_PERCENT": 4.26
+  },
+  {
+    "TAX_CODE": "T0661",
+    "TAX_DESCRIPTION": "Tax code 661",
+    "RATE_PERCENT": 24.6
+  },
+  {
+    "TAX_CODE": "T0662",
+    "TAX_DESCRIPTION": "Tax code 662",
+    "RATE_PERCENT": 7.32
+  },
+  {
+    "TAX_CODE": "T0663",
+    "TAX_DESCRIPTION": "Tax code 663",
+    "RATE_PERCENT": 14.39
+  },
+  {
+    "TAX_CODE": "T0664",
+    "TAX_DESCRIPTION": "Tax code 664",
+    "RATE_PERCENT": 10.72
+  },
+  {
+    "TAX_CODE": "T0665",
+    "TAX_DESCRIPTION": "Tax code 665",
+    "RATE_PERCENT": 8.22
+  },
+  {
+    "TAX_CODE": "T0666",
+    "TAX_DESCRIPTION": "Tax code 666",
+    "RATE_PERCENT": 20.6
+  },
+  {
+    "TAX_CODE": "T0667",
+    "TAX_DESCRIPTION": "Tax code 667",
+    "RATE_PERCENT": 11.87
+  },
+  {
+    "TAX_CODE": "T0668",
+    "TAX_DESCRIPTION": "Tax code 668",
+    "RATE_PERCENT": 6.17
+  },
+  {
+    "TAX_CODE": "T0669",
+    "TAX_DESCRIPTION": "Tax code 669",
+    "RATE_PERCENT": 21.93
+  },
+  {
+    "TAX_CODE": "T0670",
+    "TAX_DESCRIPTION": "Tax code 670",
+    "RATE_PERCENT": 1.32
+  },
+  {
+    "TAX_CODE": "T0671",
+    "TAX_DESCRIPTION": "Tax code 671",
+    "RATE_PERCENT": 2.76
+  },
+  {
+    "TAX_CODE": "T0672",
+    "TAX_DESCRIPTION": "Tax code 672",
+    "RATE_PERCENT": 24.31
+  },
+  {
+    "TAX_CODE": "T0673",
+    "TAX_DESCRIPTION": "Tax code 673",
+    "RATE_PERCENT": 2.65
+  },
+  {
+    "TAX_CODE": "T0674",
+    "TAX_DESCRIPTION": "Tax code 674",
+    "RATE_PERCENT": 1.83
+  },
+  {
+    "TAX_CODE": "T0675",
+    "TAX_DESCRIPTION": "Tax code 675",
+    "RATE_PERCENT": 4.4
+  },
+  {
+    "TAX_CODE": "T0676",
+    "TAX_DESCRIPTION": "Tax code 676",
+    "RATE_PERCENT": 14.37
+  },
+  {
+    "TAX_CODE": "T0677",
+    "TAX_DESCRIPTION": "Tax code 677",
+    "RATE_PERCENT": 8.28
+  },
+  {
+    "TAX_CODE": "T0678",
+    "TAX_DESCRIPTION": "Tax code 678",
+    "RATE_PERCENT": 8.51
+  },
+  {
+    "TAX_CODE": "T0679",
+    "TAX_DESCRIPTION": "Tax code 679",
+    "RATE_PERCENT": 18.96
+  },
+  {
+    "TAX_CODE": "T0680",
+    "TAX_DESCRIPTION": "Tax code 680",
+    "RATE_PERCENT": 20.49
+  },
+  {
+    "TAX_CODE": "T0681",
+    "TAX_DESCRIPTION": "Tax code 681",
+    "RATE_PERCENT": 12.59
+  },
+  {
+    "TAX_CODE": "T0682",
+    "TAX_DESCRIPTION": "Tax code 682",
+    "RATE_PERCENT": 20.98
+  },
+  {
+    "TAX_CODE": "T0683",
+    "TAX_DESCRIPTION": "Tax code 683",
+    "RATE_PERCENT": 7.04
+  },
+  {
+    "TAX_CODE": "T0684",
+    "TAX_DESCRIPTION": "Tax code 684",
+    "RATE_PERCENT": 8.99
+  },
+  {
+    "TAX_CODE": "T0685",
+    "TAX_DESCRIPTION": "Tax code 685",
+    "RATE_PERCENT": 8.99
+  },
+  {
+    "TAX_CODE": "T0686",
+    "TAX_DESCRIPTION": "Tax code 686",
+    "RATE_PERCENT": 4.71
+  },
+  {
+    "TAX_CODE": "T0687",
+    "TAX_DESCRIPTION": "Tax code 687",
+    "RATE_PERCENT": 16.14
+  },
+  {
+    "TAX_CODE": "T0688",
+    "TAX_DESCRIPTION": "Tax code 688",
+    "RATE_PERCENT": 23.18
+  },
+  {
+    "TAX_CODE": "T0689",
+    "TAX_DESCRIPTION": "Tax code 689",
+    "RATE_PERCENT": 24.64
+  },
+  {
+    "TAX_CODE": "T0690",
+    "TAX_DESCRIPTION": "Tax code 690",
+    "RATE_PERCENT": 2.17
+  },
+  {
+    "TAX_CODE": "T0691",
+    "TAX_DESCRIPTION": "Tax code 691",
+    "RATE_PERCENT": 4.12
+  },
+  {
+    "TAX_CODE": "T0692",
+    "TAX_DESCRIPTION": "Tax code 692",
+    "RATE_PERCENT": 24.05
+  },
+  {
+    "TAX_CODE": "T0693",
+    "TAX_DESCRIPTION": "Tax code 693",
+    "RATE_PERCENT": 9.21
+  },
+  {
+    "TAX_CODE": "T0694",
+    "TAX_DESCRIPTION": "Tax code 694",
+    "RATE_PERCENT": 21.44
+  },
+  {
+    "TAX_CODE": "T0695",
+    "TAX_DESCRIPTION": "Tax code 695",
+    "RATE_PERCENT": 17.47
+  },
+  {
+    "TAX_CODE": "T0696",
+    "TAX_DESCRIPTION": "Tax code 696",
+    "RATE_PERCENT": 8.59
+  },
+  {
+    "TAX_CODE": "T0697",
+    "TAX_DESCRIPTION": "Tax code 697",
+    "RATE_PERCENT": 2.09
+  },
+  {
+    "TAX_CODE": "T0698",
+    "TAX_DESCRIPTION": "Tax code 698",
+    "RATE_PERCENT": 15.7
+  },
+  {
+    "TAX_CODE": "T0699",
+    "TAX_DESCRIPTION": "Tax code 699",
+    "RATE_PERCENT": 4.61
+  },
+  {
+    "TAX_CODE": "T0700",
+    "TAX_DESCRIPTION": "Tax code 700",
+    "RATE_PERCENT": 6.88
+  },
+  {
+    "TAX_CODE": "T0701",
+    "TAX_DESCRIPTION": "Tax code 701",
+    "RATE_PERCENT": 14.84
+  },
+  {
+    "TAX_CODE": "T0702",
+    "TAX_DESCRIPTION": "Tax code 702",
+    "RATE_PERCENT": 8.65
+  },
+  {
+    "TAX_CODE": "T0703",
+    "TAX_DESCRIPTION": "Tax code 703",
+    "RATE_PERCENT": 15.43
+  },
+  {
+    "TAX_CODE": "T0704",
+    "TAX_DESCRIPTION": "Tax code 704",
+    "RATE_PERCENT": 22.94
+  },
+  {
+    "TAX_CODE": "T0705",
+    "TAX_DESCRIPTION": "Tax code 705",
+    "RATE_PERCENT": 10.66
+  },
+  {
+    "TAX_CODE": "T0706",
+    "TAX_DESCRIPTION": "Tax code 706",
+    "RATE_PERCENT": 12.98
+  },
+  {
+    "TAX_CODE": "T0707",
+    "TAX_DESCRIPTION": "Tax code 707",
+    "RATE_PERCENT": 18.52
+  },
+  {
+    "TAX_CODE": "T0708",
+    "TAX_DESCRIPTION": "Tax code 708",
+    "RATE_PERCENT": 24.1
+  },
+  {
+    "TAX_CODE": "T0709",
+    "TAX_DESCRIPTION": "Tax code 709",
+    "RATE_PERCENT": 16.51
+  },
+  {
+    "TAX_CODE": "T0710",
+    "TAX_DESCRIPTION": "Tax code 710",
+    "RATE_PERCENT": 13.77
+  },
+  {
+    "TAX_CODE": "T0711",
+    "TAX_DESCRIPTION": "Tax code 711",
+    "RATE_PERCENT": 8.04
+  },
+  {
+    "TAX_CODE": "T0712",
+    "TAX_DESCRIPTION": "Tax code 712",
+    "RATE_PERCENT": 3.52
+  },
+  {
+    "TAX_CODE": "T0713",
+    "TAX_DESCRIPTION": "Tax code 713",
+    "RATE_PERCENT": 13.06
+  },
+  {
+    "TAX_CODE": "T0714",
+    "TAX_DESCRIPTION": "Tax code 714",
+    "RATE_PERCENT": 17.4
+  },
+  {
+    "TAX_CODE": "T0715",
+    "TAX_DESCRIPTION": "Tax code 715",
+    "RATE_PERCENT": 22.84
+  },
+  {
+    "TAX_CODE": "T0716",
+    "TAX_DESCRIPTION": "Tax code 716",
+    "RATE_PERCENT": 16.41
+  },
+  {
+    "TAX_CODE": "T0717",
+    "TAX_DESCRIPTION": "Tax code 717",
+    "RATE_PERCENT": 15.79
+  },
+  {
+    "TAX_CODE": "T0718",
+    "TAX_DESCRIPTION": "Tax code 718",
+    "RATE_PERCENT": 6.05
+  },
+  {
+    "TAX_CODE": "T0719",
+    "TAX_DESCRIPTION": "Tax code 719",
+    "RATE_PERCENT": 10.7
+  },
+  {
+    "TAX_CODE": "T0720",
+    "TAX_DESCRIPTION": "Tax code 720",
+    "RATE_PERCENT": 14.69
+  },
+  {
+    "TAX_CODE": "T0721",
+    "TAX_DESCRIPTION": "Tax code 721",
+    "RATE_PERCENT": 18.77
+  },
+  {
+    "TAX_CODE": "T0722",
+    "TAX_DESCRIPTION": "Tax code 722",
+    "RATE_PERCENT": 14.63
+  },
+  {
+    "TAX_CODE": "T0723",
+    "TAX_DESCRIPTION": "Tax code 723",
+    "RATE_PERCENT": 5.91
+  },
+  {
+    "TAX_CODE": "T0724",
+    "TAX_DESCRIPTION": "Tax code 724",
+    "RATE_PERCENT": 2.7
+  },
+  {
+    "TAX_CODE": "T0725",
+    "TAX_DESCRIPTION": "Tax code 725",
+    "RATE_PERCENT": 23.64
+  },
+  {
+    "TAX_CODE": "T0726",
+    "TAX_DESCRIPTION": "Tax code 726",
+    "RATE_PERCENT": 6.72
+  },
+  {
+    "TAX_CODE": "T0727",
+    "TAX_DESCRIPTION": "Tax code 727",
+    "RATE_PERCENT": 7.57
+  },
+  {
+    "TAX_CODE": "T0728",
+    "TAX_DESCRIPTION": "Tax code 728",
+    "RATE_PERCENT": 12.59
+  },
+  {
+    "TAX_CODE": "T0729",
+    "TAX_DESCRIPTION": "Tax code 729",
+    "RATE_PERCENT": 24.43
+  },
+  {
+    "TAX_CODE": "T0730",
+    "TAX_DESCRIPTION": "Tax code 730",
+    "RATE_PERCENT": 6.96
+  },
+  {
+    "TAX_CODE": "T0731",
+    "TAX_DESCRIPTION": "Tax code 731",
+    "RATE_PERCENT": 9.51
+  },
+  {
+    "TAX_CODE": "T0732",
+    "TAX_DESCRIPTION": "Tax code 732",
+    "RATE_PERCENT": 21.89
+  },
+  {
+    "TAX_CODE": "T0733",
+    "TAX_DESCRIPTION": "Tax code 733",
+    "RATE_PERCENT": 22.25
+  },
+  {
+    "TAX_CODE": "T0734",
+    "TAX_DESCRIPTION": "Tax code 734",
+    "RATE_PERCENT": 5.5
+  },
+  {
+    "TAX_CODE": "T0735",
+    "TAX_DESCRIPTION": "Tax code 735",
+    "RATE_PERCENT": 17.18
+  },
+  {
+    "TAX_CODE": "T0736",
+    "TAX_DESCRIPTION": "Tax code 736",
+    "RATE_PERCENT": 6.29
+  },
+  {
+    "TAX_CODE": "T0737",
+    "TAX_DESCRIPTION": "Tax code 737",
+    "RATE_PERCENT": 2.42
+  },
+  {
+    "TAX_CODE": "T0738",
+    "TAX_DESCRIPTION": "Tax code 738",
+    "RATE_PERCENT": 20.24
+  },
+  {
+    "TAX_CODE": "T0739",
+    "TAX_DESCRIPTION": "Tax code 739",
+    "RATE_PERCENT": 1.96
+  },
+  {
+    "TAX_CODE": "T0740",
+    "TAX_DESCRIPTION": "Tax code 740",
+    "RATE_PERCENT": 20.56
+  },
+  {
+    "TAX_CODE": "T0741",
+    "TAX_DESCRIPTION": "Tax code 741",
+    "RATE_PERCENT": 7.91
+  },
+  {
+    "TAX_CODE": "T0742",
+    "TAX_DESCRIPTION": "Tax code 742",
+    "RATE_PERCENT": 0.8
+  },
+  {
+    "TAX_CODE": "T0743",
+    "TAX_DESCRIPTION": "Tax code 743",
+    "RATE_PERCENT": 12.99
+  },
+  {
+    "TAX_CODE": "T0744",
+    "TAX_DESCRIPTION": "Tax code 744",
+    "RATE_PERCENT": 5.87
+  },
+  {
+    "TAX_CODE": "T0745",
+    "TAX_DESCRIPTION": "Tax code 745",
+    "RATE_PERCENT": 24.61
+  },
+  {
+    "TAX_CODE": "T0746",
+    "TAX_DESCRIPTION": "Tax code 746",
+    "RATE_PERCENT": 17.31
+  },
+  {
+    "TAX_CODE": "T0747",
+    "TAX_DESCRIPTION": "Tax code 747",
+    "RATE_PERCENT": 18.09
+  },
+  {
+    "TAX_CODE": "T0748",
+    "TAX_DESCRIPTION": "Tax code 748",
+    "RATE_PERCENT": 16.64
+  },
+  {
+    "TAX_CODE": "T0749",
+    "TAX_DESCRIPTION": "Tax code 749",
+    "RATE_PERCENT": 1.24
+  },
+  {
+    "TAX_CODE": "T0750",
+    "TAX_DESCRIPTION": "Tax code 750",
+    "RATE_PERCENT": 10.47
+  },
+  {
+    "TAX_CODE": "T0751",
+    "TAX_DESCRIPTION": "Tax code 751",
+    "RATE_PERCENT": 18.71
+  },
+  {
+    "TAX_CODE": "T0752",
+    "TAX_DESCRIPTION": "Tax code 752",
+    "RATE_PERCENT": 1.66
+  },
+  {
+    "TAX_CODE": "T0753",
+    "TAX_DESCRIPTION": "Tax code 753",
+    "RATE_PERCENT": 14.05
+  },
+  {
+    "TAX_CODE": "T0754",
+    "TAX_DESCRIPTION": "Tax code 754",
+    "RATE_PERCENT": 15.43
+  },
+  {
+    "TAX_CODE": "T0755",
+    "TAX_DESCRIPTION": "Tax code 755",
+    "RATE_PERCENT": 7.65
+  },
+  {
+    "TAX_CODE": "T0756",
+    "TAX_DESCRIPTION": "Tax code 756",
+    "RATE_PERCENT": 3.89
+  },
+  {
+    "TAX_CODE": "T0757",
+    "TAX_DESCRIPTION": "Tax code 757",
+    "RATE_PERCENT": 17.69
+  },
+  {
+    "TAX_CODE": "T0758",
+    "TAX_DESCRIPTION": "Tax code 758",
+    "RATE_PERCENT": 19.51
+  },
+  {
+    "TAX_CODE": "T0759",
+    "TAX_DESCRIPTION": "Tax code 759",
+    "RATE_PERCENT": 12.8
+  },
+  {
+    "TAX_CODE": "T0760",
+    "TAX_DESCRIPTION": "Tax code 760",
+    "RATE_PERCENT": 20.77
+  },
+  {
+    "TAX_CODE": "T0761",
+    "TAX_DESCRIPTION": "Tax code 761",
+    "RATE_PERCENT": 17.65
+  },
+  {
+    "TAX_CODE": "T0762",
+    "TAX_DESCRIPTION": "Tax code 762",
+    "RATE_PERCENT": 1.81
+  },
+  {
+    "TAX_CODE": "T0763",
+    "TAX_DESCRIPTION": "Tax code 763",
+    "RATE_PERCENT": 11.62
+  },
+  {
+    "TAX_CODE": "T0764",
+    "TAX_DESCRIPTION": "Tax code 764",
+    "RATE_PERCENT": 19.07
+  },
+  {
+    "TAX_CODE": "T0765",
+    "TAX_DESCRIPTION": "Tax code 765",
+    "RATE_PERCENT": 12.87
+  },
+  {
+    "TAX_CODE": "T0766",
+    "TAX_DESCRIPTION": "Tax code 766",
+    "RATE_PERCENT": 23.57
+  },
+  {
+    "TAX_CODE": "T0767",
+    "TAX_DESCRIPTION": "Tax code 767",
+    "RATE_PERCENT": 2.01
+  },
+  {
+    "TAX_CODE": "T0768",
+    "TAX_DESCRIPTION": "Tax code 768",
+    "RATE_PERCENT": 22.14
+  },
+  {
+    "TAX_CODE": "T0769",
+    "TAX_DESCRIPTION": "Tax code 769",
+    "RATE_PERCENT": 3.53
+  },
+  {
+    "TAX_CODE": "T0770",
+    "TAX_DESCRIPTION": "Tax code 770",
+    "RATE_PERCENT": 11.81
+  },
+  {
+    "TAX_CODE": "T0771",
+    "TAX_DESCRIPTION": "Tax code 771",
+    "RATE_PERCENT": 17.76
+  },
+  {
+    "TAX_CODE": "T0772",
+    "TAX_DESCRIPTION": "Tax code 772",
+    "RATE_PERCENT": 16.6
+  },
+  {
+    "TAX_CODE": "T0773",
+    "TAX_DESCRIPTION": "Tax code 773",
+    "RATE_PERCENT": 11.72
+  },
+  {
+    "TAX_CODE": "T0774",
+    "TAX_DESCRIPTION": "Tax code 774",
+    "RATE_PERCENT": 5.95
+  },
+  {
+    "TAX_CODE": "T0775",
+    "TAX_DESCRIPTION": "Tax code 775",
+    "RATE_PERCENT": 13.4
+  },
+  {
+    "TAX_CODE": "T0776",
+    "TAX_DESCRIPTION": "Tax code 776",
+    "RATE_PERCENT": 14.3
+  },
+  {
+    "TAX_CODE": "T0777",
+    "TAX_DESCRIPTION": "Tax code 777",
+    "RATE_PERCENT": 2.3
+  },
+  {
+    "TAX_CODE": "T0778",
+    "TAX_DESCRIPTION": "Tax code 778",
+    "RATE_PERCENT": 24.63
+  },
+  {
+    "TAX_CODE": "T0779",
+    "TAX_DESCRIPTION": "Tax code 779",
+    "RATE_PERCENT": 4.86
+  },
+  {
+    "TAX_CODE": "T0780",
+    "TAX_DESCRIPTION": "Tax code 780",
+    "RATE_PERCENT": 17.22
+  },
+  {
+    "TAX_CODE": "T0781",
+    "TAX_DESCRIPTION": "Tax code 781",
+    "RATE_PERCENT": 15.41
+  },
+  {
+    "TAX_CODE": "T0782",
+    "TAX_DESCRIPTION": "Tax code 782",
+    "RATE_PERCENT": 8.95
+  },
+  {
+    "TAX_CODE": "T0783",
+    "TAX_DESCRIPTION": "Tax code 783",
+    "RATE_PERCENT": 19.71
+  },
+  {
+    "TAX_CODE": "T0784",
+    "TAX_DESCRIPTION": "Tax code 784",
+    "RATE_PERCENT": 14.62
+  },
+  {
+    "TAX_CODE": "T0785",
+    "TAX_DESCRIPTION": "Tax code 785",
+    "RATE_PERCENT": 16.28
+  },
+  {
+    "TAX_CODE": "T0786",
+    "TAX_DESCRIPTION": "Tax code 786",
+    "RATE_PERCENT": 6.63
+  },
+  {
+    "TAX_CODE": "T0787",
+    "TAX_DESCRIPTION": "Tax code 787",
+    "RATE_PERCENT": 6.52
+  },
+  {
+    "TAX_CODE": "T0788",
+    "TAX_DESCRIPTION": "Tax code 788",
+    "RATE_PERCENT": 2.69
+  },
+  {
+    "TAX_CODE": "T0789",
+    "TAX_DESCRIPTION": "Tax code 789",
+    "RATE_PERCENT": 14.41
+  },
+  {
+    "TAX_CODE": "T0790",
+    "TAX_DESCRIPTION": "Tax code 790",
+    "RATE_PERCENT": 23.85
+  },
+  {
+    "TAX_CODE": "T0791",
+    "TAX_DESCRIPTION": "Tax code 791",
+    "RATE_PERCENT": 1.25
+  },
+  {
+    "TAX_CODE": "T0792",
+    "TAX_DESCRIPTION": "Tax code 792",
+    "RATE_PERCENT": 6.48
+  },
+  {
+    "TAX_CODE": "T0793",
+    "TAX_DESCRIPTION": "Tax code 793",
+    "RATE_PERCENT": 9.97
+  },
+  {
+    "TAX_CODE": "T0794",
+    "TAX_DESCRIPTION": "Tax code 794",
+    "RATE_PERCENT": 14.48
+  },
+  {
+    "TAX_CODE": "T0795",
+    "TAX_DESCRIPTION": "Tax code 795",
+    "RATE_PERCENT": 18.47
+  },
+  {
+    "TAX_CODE": "T0796",
+    "TAX_DESCRIPTION": "Tax code 796",
+    "RATE_PERCENT": 21.6
+  },
+  {
+    "TAX_CODE": "T0797",
+    "TAX_DESCRIPTION": "Tax code 797",
+    "RATE_PERCENT": 24.17
+  },
+  {
+    "TAX_CODE": "T0798",
+    "TAX_DESCRIPTION": "Tax code 798",
+    "RATE_PERCENT": 15.46
+  },
+  {
+    "TAX_CODE": "T0799",
+    "TAX_DESCRIPTION": "Tax code 799",
+    "RATE_PERCENT": 18.81
+  },
+  {
+    "TAX_CODE": "T0800",
+    "TAX_DESCRIPTION": "Tax code 800",
+    "RATE_PERCENT": 24.21
+  },
+  {
+    "TAX_CODE": "T0801",
+    "TAX_DESCRIPTION": "Tax code 801",
+    "RATE_PERCENT": 23.17
+  },
+  {
+    "TAX_CODE": "T0802",
+    "TAX_DESCRIPTION": "Tax code 802",
+    "RATE_PERCENT": 18.42
+  },
+  {
+    "TAX_CODE": "T0803",
+    "TAX_DESCRIPTION": "Tax code 803",
+    "RATE_PERCENT": 22.58
+  },
+  {
+    "TAX_CODE": "T0804",
+    "TAX_DESCRIPTION": "Tax code 804",
+    "RATE_PERCENT": 7.49
+  },
+  {
+    "TAX_CODE": "T0805",
+    "TAX_DESCRIPTION": "Tax code 805",
+    "RATE_PERCENT": 9.98
+  },
+  {
+    "TAX_CODE": "T0806",
+    "TAX_DESCRIPTION": "Tax code 806",
+    "RATE_PERCENT": 17.46
+  },
+  {
+    "TAX_CODE": "T0807",
+    "TAX_DESCRIPTION": "Tax code 807",
+    "RATE_PERCENT": 13.2
+  },
+  {
+    "TAX_CODE": "T0808",
+    "TAX_DESCRIPTION": "Tax code 808",
+    "RATE_PERCENT": 14.38
+  },
+  {
+    "TAX_CODE": "T0809",
+    "TAX_DESCRIPTION": "Tax code 809",
+    "RATE_PERCENT": 10.97
+  },
+  {
+    "TAX_CODE": "T0810",
+    "TAX_DESCRIPTION": "Tax code 810",
+    "RATE_PERCENT": 24.7
+  },
+  {
+    "TAX_CODE": "T0811",
+    "TAX_DESCRIPTION": "Tax code 811",
+    "RATE_PERCENT": 11.43
+  },
+  {
+    "TAX_CODE": "T0812",
+    "TAX_DESCRIPTION": "Tax code 812",
+    "RATE_PERCENT": 14.21
+  },
+  {
+    "TAX_CODE": "T0813",
+    "TAX_DESCRIPTION": "Tax code 813",
+    "RATE_PERCENT": 1.85
+  },
+  {
+    "TAX_CODE": "T0814",
+    "TAX_DESCRIPTION": "Tax code 814",
+    "RATE_PERCENT": 13.16
+  },
+  {
+    "TAX_CODE": "T0815",
+    "TAX_DESCRIPTION": "Tax code 815",
+    "RATE_PERCENT": 13.23
+  },
+  {
+    "TAX_CODE": "T0816",
+    "TAX_DESCRIPTION": "Tax code 816",
+    "RATE_PERCENT": 0.97
+  },
+  {
+    "TAX_CODE": "T0817",
+    "TAX_DESCRIPTION": "Tax code 817",
+    "RATE_PERCENT": 12.11
+  },
+  {
+    "TAX_CODE": "T0818",
+    "TAX_DESCRIPTION": "Tax code 818",
+    "RATE_PERCENT": 8.92
+  },
+  {
+    "TAX_CODE": "T0819",
+    "TAX_DESCRIPTION": "Tax code 819",
+    "RATE_PERCENT": 1.36
+  },
+  {
+    "TAX_CODE": "T0820",
+    "TAX_DESCRIPTION": "Tax code 820",
+    "RATE_PERCENT": 4.59
+  },
+  {
+    "TAX_CODE": "T0821",
+    "TAX_DESCRIPTION": "Tax code 821",
+    "RATE_PERCENT": 23.37
+  },
+  {
+    "TAX_CODE": "T0822",
+    "TAX_DESCRIPTION": "Tax code 822",
+    "RATE_PERCENT": 13.55
+  },
+  {
+    "TAX_CODE": "T0823",
+    "TAX_DESCRIPTION": "Tax code 823",
+    "RATE_PERCENT": 22.37
+  },
+  {
+    "TAX_CODE": "T0824",
+    "TAX_DESCRIPTION": "Tax code 824",
+    "RATE_PERCENT": 22.82
+  },
+  {
+    "TAX_CODE": "T0825",
+    "TAX_DESCRIPTION": "Tax code 825",
+    "RATE_PERCENT": 24.91
+  },
+  {
+    "TAX_CODE": "T0826",
+    "TAX_DESCRIPTION": "Tax code 826",
+    "RATE_PERCENT": 20.65
+  },
+  {
+    "TAX_CODE": "T0827",
+    "TAX_DESCRIPTION": "Tax code 827",
+    "RATE_PERCENT": 8.77
+  },
+  {
+    "TAX_CODE": "T0828",
+    "TAX_DESCRIPTION": "Tax code 828",
+    "RATE_PERCENT": 2.99
+  },
+  {
+    "TAX_CODE": "T0829",
+    "TAX_DESCRIPTION": "Tax code 829",
+    "RATE_PERCENT": 15.59
+  },
+  {
+    "TAX_CODE": "T0830",
+    "TAX_DESCRIPTION": "Tax code 830",
+    "RATE_PERCENT": 7.5
+  },
+  {
+    "TAX_CODE": "T0831",
+    "TAX_DESCRIPTION": "Tax code 831",
+    "RATE_PERCENT": 8.54
+  },
+  {
+    "TAX_CODE": "T0832",
+    "TAX_DESCRIPTION": "Tax code 832",
+    "RATE_PERCENT": 5.73
+  },
+  {
+    "TAX_CODE": "T0833",
+    "TAX_DESCRIPTION": "Tax code 833",
+    "RATE_PERCENT": 14.74
+  },
+  {
+    "TAX_CODE": "T0834",
+    "TAX_DESCRIPTION": "Tax code 834",
+    "RATE_PERCENT": 17.41
+  },
+  {
+    "TAX_CODE": "T0835",
+    "TAX_DESCRIPTION": "Tax code 835",
+    "RATE_PERCENT": 0.2
+  },
+  {
+    "TAX_CODE": "T0836",
+    "TAX_DESCRIPTION": "Tax code 836",
+    "RATE_PERCENT": 11.55
+  },
+  {
+    "TAX_CODE": "T0837",
+    "TAX_DESCRIPTION": "Tax code 837",
+    "RATE_PERCENT": 15.61
+  },
+  {
+    "TAX_CODE": "T0838",
+    "TAX_DESCRIPTION": "Tax code 838",
+    "RATE_PERCENT": 11.01
+  },
+  {
+    "TAX_CODE": "T0839",
+    "TAX_DESCRIPTION": "Tax code 839",
+    "RATE_PERCENT": 8.09
+  },
+  {
+    "TAX_CODE": "T0840",
+    "TAX_DESCRIPTION": "Tax code 840",
+    "RATE_PERCENT": 9.67
+  },
+  {
+    "TAX_CODE": "T0841",
+    "TAX_DESCRIPTION": "Tax code 841",
+    "RATE_PERCENT": 6.66
+  },
+  {
+    "TAX_CODE": "T0842",
+    "TAX_DESCRIPTION": "Tax code 842",
+    "RATE_PERCENT": 15.62
+  },
+  {
+    "TAX_CODE": "T0843",
+    "TAX_DESCRIPTION": "Tax code 843",
+    "RATE_PERCENT": 9.42
+  },
+  {
+    "TAX_CODE": "T0844",
+    "TAX_DESCRIPTION": "Tax code 844",
+    "RATE_PERCENT": 11.65
+  },
+  {
+    "TAX_CODE": "T0845",
+    "TAX_DESCRIPTION": "Tax code 845",
+    "RATE_PERCENT": 23.39
+  },
+  {
+    "TAX_CODE": "T0846",
+    "TAX_DESCRIPTION": "Tax code 846",
+    "RATE_PERCENT": 0.18
+  },
+  {
+    "TAX_CODE": "T0847",
+    "TAX_DESCRIPTION": "Tax code 847",
+    "RATE_PERCENT": 5.55
+  },
+  {
+    "TAX_CODE": "T0848",
+    "TAX_DESCRIPTION": "Tax code 848",
+    "RATE_PERCENT": 13.03
+  },
+  {
+    "TAX_CODE": "T0849",
+    "TAX_DESCRIPTION": "Tax code 849",
+    "RATE_PERCENT": 17.83
+  },
+  {
+    "TAX_CODE": "T0850",
+    "TAX_DESCRIPTION": "Tax code 850",
+    "RATE_PERCENT": 24
+  },
+  {
+    "TAX_CODE": "T0851",
+    "TAX_DESCRIPTION": "Tax code 851",
+    "RATE_PERCENT": 16.12
+  },
+  {
+    "TAX_CODE": "T0852",
+    "TAX_DESCRIPTION": "Tax code 852",
+    "RATE_PERCENT": 1.49
+  },
+  {
+    "TAX_CODE": "T0853",
+    "TAX_DESCRIPTION": "Tax code 853",
+    "RATE_PERCENT": 1.56
+  },
+  {
+    "TAX_CODE": "T0854",
+    "TAX_DESCRIPTION": "Tax code 854",
+    "RATE_PERCENT": 6.8
+  },
+  {
+    "TAX_CODE": "T0855",
+    "TAX_DESCRIPTION": "Tax code 855",
+    "RATE_PERCENT": 3.35
+  },
+  {
+    "TAX_CODE": "T0856",
+    "TAX_DESCRIPTION": "Tax code 856",
+    "RATE_PERCENT": 3.49
+  },
+  {
+    "TAX_CODE": "T0857",
+    "TAX_DESCRIPTION": "Tax code 857",
+    "RATE_PERCENT": 12.64
+  },
+  {
+    "TAX_CODE": "T0858",
+    "TAX_DESCRIPTION": "Tax code 858",
+    "RATE_PERCENT": 13.76
+  },
+  {
+    "TAX_CODE": "T0859",
+    "TAX_DESCRIPTION": "Tax code 859",
+    "RATE_PERCENT": 9.44
+  },
+  {
+    "TAX_CODE": "T0860",
+    "TAX_DESCRIPTION": "Tax code 860",
+    "RATE_PERCENT": 9.74
+  },
+  {
+    "TAX_CODE": "T0861",
+    "TAX_DESCRIPTION": "Tax code 861",
+    "RATE_PERCENT": 2.43
+  },
+  {
+    "TAX_CODE": "T0862",
+    "TAX_DESCRIPTION": "Tax code 862",
+    "RATE_PERCENT": 3.01
+  },
+  {
+    "TAX_CODE": "T0863",
+    "TAX_DESCRIPTION": "Tax code 863",
+    "RATE_PERCENT": 2.16
+  },
+  {
+    "TAX_CODE": "T0864",
+    "TAX_DESCRIPTION": "Tax code 864",
+    "RATE_PERCENT": 4.07
+  },
+  {
+    "TAX_CODE": "T0865",
+    "TAX_DESCRIPTION": "Tax code 865",
+    "RATE_PERCENT": 17.15
+  },
+  {
+    "TAX_CODE": "T0866",
+    "TAX_DESCRIPTION": "Tax code 866",
+    "RATE_PERCENT": 3.98
+  },
+  {
+    "TAX_CODE": "T0867",
+    "TAX_DESCRIPTION": "Tax code 867",
+    "RATE_PERCENT": 16.62
+  },
+  {
+    "TAX_CODE": "T0868",
+    "TAX_DESCRIPTION": "Tax code 868",
+    "RATE_PERCENT": 13.08
+  },
+  {
+    "TAX_CODE": "T0869",
+    "TAX_DESCRIPTION": "Tax code 869",
+    "RATE_PERCENT": 5.11
+  },
+  {
+    "TAX_CODE": "T0870",
+    "TAX_DESCRIPTION": "Tax code 870",
+    "RATE_PERCENT": 9.66
+  },
+  {
+    "TAX_CODE": "T0871",
+    "TAX_DESCRIPTION": "Tax code 871",
+    "RATE_PERCENT": 0.67
+  },
+  {
+    "TAX_CODE": "T0872",
+    "TAX_DESCRIPTION": "Tax code 872",
+    "RATE_PERCENT": 14.76
+  },
+  {
+    "TAX_CODE": "T0873",
+    "TAX_DESCRIPTION": "Tax code 873",
+    "RATE_PERCENT": 16.2
+  },
+  {
+    "TAX_CODE": "T0874",
+    "TAX_DESCRIPTION": "Tax code 874",
+    "RATE_PERCENT": 18.71
+  },
+  {
+    "TAX_CODE": "T0875",
+    "TAX_DESCRIPTION": "Tax code 875",
+    "RATE_PERCENT": 17.79
+  },
+  {
+    "TAX_CODE": "T0876",
+    "TAX_DESCRIPTION": "Tax code 876",
+    "RATE_PERCENT": 0.22
+  },
+  {
+    "TAX_CODE": "T0877",
+    "TAX_DESCRIPTION": "Tax code 877",
+    "RATE_PERCENT": 22.77
+  },
+  {
+    "TAX_CODE": "T0878",
+    "TAX_DESCRIPTION": "Tax code 878",
+    "RATE_PERCENT": 6.71
+  },
+  {
+    "TAX_CODE": "T0879",
+    "TAX_DESCRIPTION": "Tax code 879",
+    "RATE_PERCENT": 7.53
+  },
+  {
+    "TAX_CODE": "T0880",
+    "TAX_DESCRIPTION": "Tax code 880",
+    "RATE_PERCENT": 0.61
+  },
+  {
+    "TAX_CODE": "T0881",
+    "TAX_DESCRIPTION": "Tax code 881",
+    "RATE_PERCENT": 15.47
+  },
+  {
+    "TAX_CODE": "T0882",
+    "TAX_DESCRIPTION": "Tax code 882",
+    "RATE_PERCENT": 22.23
+  },
+  {
+    "TAX_CODE": "T0883",
+    "TAX_DESCRIPTION": "Tax code 883",
+    "RATE_PERCENT": 8.36
+  },
+  {
+    "TAX_CODE": "T0884",
+    "TAX_DESCRIPTION": "Tax code 884",
+    "RATE_PERCENT": 19.41
+  },
+  {
+    "TAX_CODE": "T0885",
+    "TAX_DESCRIPTION": "Tax code 885",
+    "RATE_PERCENT": 13.73
+  },
+  {
+    "TAX_CODE": "T0886",
+    "TAX_DESCRIPTION": "Tax code 886",
+    "RATE_PERCENT": 3.46
+  },
+  {
+    "TAX_CODE": "T0887",
+    "TAX_DESCRIPTION": "Tax code 887",
+    "RATE_PERCENT": 23.35
+  },
+  {
+    "TAX_CODE": "T0888",
+    "TAX_DESCRIPTION": "Tax code 888",
+    "RATE_PERCENT": 17.78
+  },
+  {
+    "TAX_CODE": "T0889",
+    "TAX_DESCRIPTION": "Tax code 889",
+    "RATE_PERCENT": 8.05
+  },
+  {
+    "TAX_CODE": "T0890",
+    "TAX_DESCRIPTION": "Tax code 890",
+    "RATE_PERCENT": 19.66
+  },
+  {
+    "TAX_CODE": "T0891",
+    "TAX_DESCRIPTION": "Tax code 891",
+    "RATE_PERCENT": 2.66
+  },
+  {
+    "TAX_CODE": "T0892",
+    "TAX_DESCRIPTION": "Tax code 892",
+    "RATE_PERCENT": 13.97
+  },
+  {
+    "TAX_CODE": "T0893",
+    "TAX_DESCRIPTION": "Tax code 893",
+    "RATE_PERCENT": 9.91
+  },
+  {
+    "TAX_CODE": "T0894",
+    "TAX_DESCRIPTION": "Tax code 894",
+    "RATE_PERCENT": 11.56
+  },
+  {
+    "TAX_CODE": "T0895",
+    "TAX_DESCRIPTION": "Tax code 895",
+    "RATE_PERCENT": 21.21
+  },
+  {
+    "TAX_CODE": "T0896",
+    "TAX_DESCRIPTION": "Tax code 896",
+    "RATE_PERCENT": 21.74
+  },
+  {
+    "TAX_CODE": "T0897",
+    "TAX_DESCRIPTION": "Tax code 897",
+    "RATE_PERCENT": 17.81
+  },
+  {
+    "TAX_CODE": "T0898",
+    "TAX_DESCRIPTION": "Tax code 898",
+    "RATE_PERCENT": 8.81
+  },
+  {
+    "TAX_CODE": "T0899",
+    "TAX_DESCRIPTION": "Tax code 899",
+    "RATE_PERCENT": 18.33
+  },
+  {
+    "TAX_CODE": "T0900",
+    "TAX_DESCRIPTION": "Tax code 900",
+    "RATE_PERCENT": 1.7
+  },
+  {
+    "TAX_CODE": "T0901",
+    "TAX_DESCRIPTION": "Tax code 901",
+    "RATE_PERCENT": 8.83
+  },
+  {
+    "TAX_CODE": "T0902",
+    "TAX_DESCRIPTION": "Tax code 902",
+    "RATE_PERCENT": 20.4
+  },
+  {
+    "TAX_CODE": "T0903",
+    "TAX_DESCRIPTION": "Tax code 903",
+    "RATE_PERCENT": 9.28
+  },
+  {
+    "TAX_CODE": "T0904",
+    "TAX_DESCRIPTION": "Tax code 904",
+    "RATE_PERCENT": 16.54
+  },
+  {
+    "TAX_CODE": "T0905",
+    "TAX_DESCRIPTION": "Tax code 905",
+    "RATE_PERCENT": 9.14
+  },
+  {
+    "TAX_CODE": "T0906",
+    "TAX_DESCRIPTION": "Tax code 906",
+    "RATE_PERCENT": 8.73
+  },
+  {
+    "TAX_CODE": "T0907",
+    "TAX_DESCRIPTION": "Tax code 907",
+    "RATE_PERCENT": 11.45
+  },
+  {
+    "TAX_CODE": "T0908",
+    "TAX_DESCRIPTION": "Tax code 908",
+    "RATE_PERCENT": 2.14
+  },
+  {
+    "TAX_CODE": "T0909",
+    "TAX_DESCRIPTION": "Tax code 909",
+    "RATE_PERCENT": 18.41
+  },
+  {
+    "TAX_CODE": "T0910",
+    "TAX_DESCRIPTION": "Tax code 910",
+    "RATE_PERCENT": 5.99
+  },
+  {
+    "TAX_CODE": "T0911",
+    "TAX_DESCRIPTION": "Tax code 911",
+    "RATE_PERCENT": 12.35
+  },
+  {
+    "TAX_CODE": "T0912",
+    "TAX_DESCRIPTION": "Tax code 912",
+    "RATE_PERCENT": 14.61
+  },
+  {
+    "TAX_CODE": "T0913",
+    "TAX_DESCRIPTION": "Tax code 913",
+    "RATE_PERCENT": 8.34
+  },
+  {
+    "TAX_CODE": "T0914",
+    "TAX_DESCRIPTION": "Tax code 914",
+    "RATE_PERCENT": 20.66
+  },
+  {
+    "TAX_CODE": "T0915",
+    "TAX_DESCRIPTION": "Tax code 915",
+    "RATE_PERCENT": 4.48
+  },
+  {
+    "TAX_CODE": "T0916",
+    "TAX_DESCRIPTION": "Tax code 916",
+    "RATE_PERCENT": 11.18
+  },
+  {
+    "TAX_CODE": "T0917",
+    "TAX_DESCRIPTION": "Tax code 917",
+    "RATE_PERCENT": 13.1
+  },
+  {
+    "TAX_CODE": "T0918",
+    "TAX_DESCRIPTION": "Tax code 918",
+    "RATE_PERCENT": 5.88
+  },
+  {
+    "TAX_CODE": "T0919",
+    "TAX_DESCRIPTION": "Tax code 919",
+    "RATE_PERCENT": 9.94
+  },
+  {
+    "TAX_CODE": "T0920",
+    "TAX_DESCRIPTION": "Tax code 920",
+    "RATE_PERCENT": 21.76
+  },
+  {
+    "TAX_CODE": "T0921",
+    "TAX_DESCRIPTION": "Tax code 921",
+    "RATE_PERCENT": 3.4
+  },
+  {
+    "TAX_CODE": "T0922",
+    "TAX_DESCRIPTION": "Tax code 922",
+    "RATE_PERCENT": 11.91
+  },
+  {
+    "TAX_CODE": "T0923",
+    "TAX_DESCRIPTION": "Tax code 923",
+    "RATE_PERCENT": 13.74
+  },
+  {
+    "TAX_CODE": "T0924",
+    "TAX_DESCRIPTION": "Tax code 924",
+    "RATE_PERCENT": 16.93
+  },
+  {
+    "TAX_CODE": "T0925",
+    "TAX_DESCRIPTION": "Tax code 925",
+    "RATE_PERCENT": 7
+  },
+  {
+    "TAX_CODE": "T0926",
+    "TAX_DESCRIPTION": "Tax code 926",
+    "RATE_PERCENT": 24.26
+  },
+  {
+    "TAX_CODE": "T0927",
+    "TAX_DESCRIPTION": "Tax code 927",
+    "RATE_PERCENT": 17.72
+  },
+  {
+    "TAX_CODE": "T0928",
+    "TAX_DESCRIPTION": "Tax code 928",
+    "RATE_PERCENT": 10.65
+  },
+  {
+    "TAX_CODE": "T0929",
+    "TAX_DESCRIPTION": "Tax code 929",
+    "RATE_PERCENT": 16.84
+  },
+  {
+    "TAX_CODE": "T0930",
+    "TAX_DESCRIPTION": "Tax code 930",
+    "RATE_PERCENT": 2.35
+  },
+  {
+    "TAX_CODE": "T0931",
+    "TAX_DESCRIPTION": "Tax code 931",
+    "RATE_PERCENT": 15.36
+  },
+  {
+    "TAX_CODE": "T0932",
+    "TAX_DESCRIPTION": "Tax code 932",
+    "RATE_PERCENT": 20.89
+  },
+  {
+    "TAX_CODE": "T0933",
+    "TAX_DESCRIPTION": "Tax code 933",
+    "RATE_PERCENT": 15.2
+  },
+  {
+    "TAX_CODE": "T0934",
+    "TAX_DESCRIPTION": "Tax code 934",
+    "RATE_PERCENT": 17.46
+  },
+  {
+    "TAX_CODE": "T0935",
+    "TAX_DESCRIPTION": "Tax code 935",
+    "RATE_PERCENT": 8.49
+  },
+  {
+    "TAX_CODE": "T0936",
+    "TAX_DESCRIPTION": "Tax code 936",
+    "RATE_PERCENT": 14.04
+  },
+  {
+    "TAX_CODE": "T0937",
+    "TAX_DESCRIPTION": "Tax code 937",
+    "RATE_PERCENT": 8.3
+  },
+  {
+    "TAX_CODE": "T0938",
+    "TAX_DESCRIPTION": "Tax code 938",
+    "RATE_PERCENT": 2.22
+  },
+  {
+    "TAX_CODE": "T0939",
+    "TAX_DESCRIPTION": "Tax code 939",
+    "RATE_PERCENT": 0.2
+  },
+  {
+    "TAX_CODE": "T0940",
+    "TAX_DESCRIPTION": "Tax code 940",
+    "RATE_PERCENT": 10.37
+  },
+  {
+    "TAX_CODE": "T0941",
+    "TAX_DESCRIPTION": "Tax code 941",
+    "RATE_PERCENT": 3.37
+  },
+  {
+    "TAX_CODE": "T0942",
+    "TAX_DESCRIPTION": "Tax code 942",
+    "RATE_PERCENT": 3.37
+  },
+  {
+    "TAX_CODE": "T0943",
+    "TAX_DESCRIPTION": "Tax code 943",
+    "RATE_PERCENT": 11.29
+  },
+  {
+    "TAX_CODE": "T0944",
+    "TAX_DESCRIPTION": "Tax code 944",
+    "RATE_PERCENT": 13.28
+  },
+  {
+    "TAX_CODE": "T0945",
+    "TAX_DESCRIPTION": "Tax code 945",
+    "RATE_PERCENT": 15.1
+  },
+  {
+    "TAX_CODE": "T0946",
+    "TAX_DESCRIPTION": "Tax code 946",
+    "RATE_PERCENT": 9.66
+  },
+  {
+    "TAX_CODE": "T0947",
+    "TAX_DESCRIPTION": "Tax code 947",
+    "RATE_PERCENT": 3.74
+  },
+  {
+    "TAX_CODE": "T0948",
+    "TAX_DESCRIPTION": "Tax code 948",
+    "RATE_PERCENT": 4.43
+  },
+  {
+    "TAX_CODE": "T0949",
+    "TAX_DESCRIPTION": "Tax code 949",
+    "RATE_PERCENT": 18.68
+  },
+  {
+    "TAX_CODE": "T0950",
+    "TAX_DESCRIPTION": "Tax code 950",
+    "RATE_PERCENT": 3.48
+  },
+  {
+    "TAX_CODE": "T0951",
+    "TAX_DESCRIPTION": "Tax code 951",
+    "RATE_PERCENT": 6.75
+  },
+  {
+    "TAX_CODE": "T0952",
+    "TAX_DESCRIPTION": "Tax code 952",
+    "RATE_PERCENT": 18.01
+  },
+  {
+    "TAX_CODE": "T0953",
+    "TAX_DESCRIPTION": "Tax code 953",
+    "RATE_PERCENT": 17.52
+  },
+  {
+    "TAX_CODE": "T0954",
+    "TAX_DESCRIPTION": "Tax code 954",
+    "RATE_PERCENT": 3.51
+  },
+  {
+    "TAX_CODE": "T0955",
+    "TAX_DESCRIPTION": "Tax code 955",
+    "RATE_PERCENT": 18.16
+  },
+  {
+    "TAX_CODE": "T0956",
+    "TAX_DESCRIPTION": "Tax code 956",
+    "RATE_PERCENT": 19.9
+  },
+  {
+    "TAX_CODE": "T0957",
+    "TAX_DESCRIPTION": "Tax code 957",
+    "RATE_PERCENT": 7.13
+  },
+  {
+    "TAX_CODE": "T0958",
+    "TAX_DESCRIPTION": "Tax code 958",
+    "RATE_PERCENT": 5.08
+  },
+  {
+    "TAX_CODE": "T0959",
+    "TAX_DESCRIPTION": "Tax code 959",
+    "RATE_PERCENT": 0.31
+  },
+  {
+    "TAX_CODE": "T0960",
+    "TAX_DESCRIPTION": "Tax code 960",
+    "RATE_PERCENT": 14.46
+  },
+  {
+    "TAX_CODE": "T0961",
+    "TAX_DESCRIPTION": "Tax code 961",
+    "RATE_PERCENT": 6.2
+  },
+  {
+    "TAX_CODE": "T0962",
+    "TAX_DESCRIPTION": "Tax code 962",
+    "RATE_PERCENT": 22.86
+  },
+  {
+    "TAX_CODE": "T0963",
+    "TAX_DESCRIPTION": "Tax code 963",
+    "RATE_PERCENT": 14.37
+  },
+  {
+    "TAX_CODE": "T0964",
+    "TAX_DESCRIPTION": "Tax code 964",
+    "RATE_PERCENT": 21.52
+  },
+  {
+    "TAX_CODE": "T0965",
+    "TAX_DESCRIPTION": "Tax code 965",
+    "RATE_PERCENT": 13.87
+  },
+  {
+    "TAX_CODE": "T0966",
+    "TAX_DESCRIPTION": "Tax code 966",
+    "RATE_PERCENT": 16.87
+  },
+  {
+    "TAX_CODE": "T0967",
+    "TAX_DESCRIPTION": "Tax code 967",
+    "RATE_PERCENT": 24.6
+  },
+  {
+    "TAX_CODE": "T0968",
+    "TAX_DESCRIPTION": "Tax code 968",
+    "RATE_PERCENT": 16.34
+  },
+  {
+    "TAX_CODE": "T0969",
+    "TAX_DESCRIPTION": "Tax code 969",
+    "RATE_PERCENT": 11.02
+  },
+  {
+    "TAX_CODE": "T0970",
+    "TAX_DESCRIPTION": "Tax code 970",
+    "RATE_PERCENT": 22.23
+  },
+  {
+    "TAX_CODE": "T0971",
+    "TAX_DESCRIPTION": "Tax code 971",
+    "RATE_PERCENT": 4.18
+  },
+  {
+    "TAX_CODE": "T0972",
+    "TAX_DESCRIPTION": "Tax code 972",
+    "RATE_PERCENT": 22.97
+  },
+  {
+    "TAX_CODE": "T0973",
+    "TAX_DESCRIPTION": "Tax code 973",
+    "RATE_PERCENT": 20.68
+  },
+  {
+    "TAX_CODE": "T0974",
+    "TAX_DESCRIPTION": "Tax code 974",
+    "RATE_PERCENT": 17.35
+  },
+  {
+    "TAX_CODE": "T0975",
+    "TAX_DESCRIPTION": "Tax code 975",
+    "RATE_PERCENT": 12.85
+  },
+  {
+    "TAX_CODE": "T0976",
+    "TAX_DESCRIPTION": "Tax code 976",
+    "RATE_PERCENT": 10.38
+  },
+  {
+    "TAX_CODE": "T0977",
+    "TAX_DESCRIPTION": "Tax code 977",
+    "RATE_PERCENT": 21.78
+  },
+  {
+    "TAX_CODE": "T0978",
+    "TAX_DESCRIPTION": "Tax code 978",
+    "RATE_PERCENT": 11.34
+  },
+  {
+    "TAX_CODE": "T0979",
+    "TAX_DESCRIPTION": "Tax code 979",
+    "RATE_PERCENT": 6.5
+  },
+  {
+    "TAX_CODE": "T0980",
+    "TAX_DESCRIPTION": "Tax code 980",
+    "RATE_PERCENT": 22.18
+  },
+  {
+    "TAX_CODE": "T0981",
+    "TAX_DESCRIPTION": "Tax code 981",
+    "RATE_PERCENT": 24.51
+  },
+  {
+    "TAX_CODE": "T0982",
+    "TAX_DESCRIPTION": "Tax code 982",
+    "RATE_PERCENT": 18.74
+  },
+  {
+    "TAX_CODE": "T0983",
+    "TAX_DESCRIPTION": "Tax code 983",
+    "RATE_PERCENT": 6.36
+  },
+  {
+    "TAX_CODE": "T0984",
+    "TAX_DESCRIPTION": "Tax code 984",
+    "RATE_PERCENT": 13.82
+  },
+  {
+    "TAX_CODE": "T0985",
+    "TAX_DESCRIPTION": "Tax code 985",
+    "RATE_PERCENT": 20.67
+  },
+  {
+    "TAX_CODE": "T0986",
+    "TAX_DESCRIPTION": "Tax code 986",
+    "RATE_PERCENT": 23.16
+  },
+  {
+    "TAX_CODE": "T0987",
+    "TAX_DESCRIPTION": "Tax code 987",
+    "RATE_PERCENT": 19.28
+  },
+  {
+    "TAX_CODE": "T0988",
+    "TAX_DESCRIPTION": "Tax code 988",
+    "RATE_PERCENT": 13.25
+  },
+  {
+    "TAX_CODE": "T0989",
+    "TAX_DESCRIPTION": "Tax code 989",
+    "RATE_PERCENT": 0.57
+  },
+  {
+    "TAX_CODE": "T0990",
+    "TAX_DESCRIPTION": "Tax code 990",
+    "RATE_PERCENT": 14.71
+  },
+  {
+    "TAX_CODE": "T0991",
+    "TAX_DESCRIPTION": "Tax code 991",
+    "RATE_PERCENT": 19.34
+  },
+  {
+    "TAX_CODE": "T0992",
+    "TAX_DESCRIPTION": "Tax code 992",
+    "RATE_PERCENT": 5.8
+  },
+  {
+    "TAX_CODE": "T0993",
+    "TAX_DESCRIPTION": "Tax code 993",
+    "RATE_PERCENT": 19.5
+  },
+  {
+    "TAX_CODE": "T0994",
+    "TAX_DESCRIPTION": "Tax code 994",
+    "RATE_PERCENT": 6.39
+  },
+  {
+    "TAX_CODE": "T0995",
+    "TAX_DESCRIPTION": "Tax code 995",
+    "RATE_PERCENT": 10.38
+  },
+  {
+    "TAX_CODE": "T0996",
+    "TAX_DESCRIPTION": "Tax code 996",
+    "RATE_PERCENT": 5.74
+  },
+  {
+    "TAX_CODE": "T0997",
+    "TAX_DESCRIPTION": "Tax code 997",
+    "RATE_PERCENT": 13.82
+  },
+  {
+    "TAX_CODE": "T0998",
+    "TAX_DESCRIPTION": "Tax code 998",
+    "RATE_PERCENT": 22.93
+  },
+  {
+    "TAX_CODE": "T0999",
+    "TAX_DESCRIPTION": "Tax code 999",
+    "RATE_PERCENT": 21.18
+  },
+  {
+    "TAX_CODE": "T1000",
+    "TAX_DESCRIPTION": "Tax code 1000",
+    "RATE_PERCENT": 17.11
+  }
+]
