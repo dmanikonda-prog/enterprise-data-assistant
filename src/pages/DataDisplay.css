@@ -1,14 +1,14 @@
 .data-display-container {
   min-height: 100vh;
-  background: #f5f7fa;
+  background: var(--bg-primary);
   padding-bottom: 2rem;
 }
 
 .data-header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: var(--bg-secondary);
+  color: var(--text-primary);
   padding: 2rem;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid var(--border-color);
 }
 
 .header-content {
@@ -17,36 +17,37 @@
 }
 
 .back-link {
-  color: white;
+  color: var(--text-secondary);
   text-decoration: none;
   font-size: 1rem;
   margin-bottom: 1rem;
   display: inline-block;
-  transition: opacity 0.3s ease;
+  transition: color 0.3s ease;
 }
 
 .back-link:hover {
-  opacity: 0.8;
+  color: var(--text-primary);
 }
 
 .data-header h1 {
   font-size: 2.5rem;
   margin: 1rem 0 0.5rem 0;
   font-weight: 700;
+  color: var(--text-primary);
 }
 
 .record-count {
-  opacity: 0.9;
+  color: var(--text-secondary);
   font-size: 1rem;
 }
 
 .search-section {
-  background: white;
+  background: var(--bg-secondary);
   padding: 2rem;
   margin: 0 2rem;
   margin-top: -1rem;
   border-radius: 12px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--border-color);
   position: relative;
   z-index: 5;
 }
@@ -65,25 +66,27 @@
 .search-input {
   flex: 1;
   padding: 0.875rem 1.25rem;
-  border: 2px solid #e0e0e0;
+  border: 1px solid var(--border-color);
   border-radius: 8px;
   font-size: 1rem;
+  background: var(--bg-input);
+  color: var(--text-primary);
   transition: all 0.3s ease;
 }
 
 .search-input:focus {
   outline: none;
-  border-color: #667eea;
-  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+  border-color: var(--accent-primary);
+  box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.15);
 }
 
 .search-input::placeholder {
-  color: #999;
+  color: var(--text-muted);
 }
 
 .search-btn {
   padding: 0.875rem 2rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: var(--accent-gradient);
   color: white;
   border: none;
   border-radius: 8px;
@@ -105,9 +108,9 @@
 
 .clear-btn {
   padding: 0.875rem 1.5rem;
-  background: #f5f5f5;
-  color: #666;
-  border: 2px solid #e0e0e0;
+  background: var(--bg-input);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-color);
   border-radius: 8px;
   font-weight: 600;
   cursor: pointer;
@@ -116,9 +119,9 @@
 }
 
 .clear-btn:hover {
-  background: #ffebee;
-  border-color: #ef5350;
-  color: #ef5350;
+  background: rgba(239, 68, 68, 0.15);
+  border-color: rgba(239, 68, 68, 0.4);
+  color: #f87171;
 }
 
 .search-toggle {
@@ -126,9 +129,9 @@
   align-items: center;
   gap: 1rem;
   padding: 0.75rem 1rem;
-  background: #f8f9ff;
+  background: var(--bg-card);
   border-radius: 8px;
-  border: 1px solid #e8ebff;
+  border: 1px solid var(--border-color);
 }
 
 .toggle-label {
@@ -137,14 +140,14 @@
   gap: 0.5rem;
   cursor: pointer;
   font-weight: 600;
-  color: #333;
+  color: var(--text-primary);
 }
 
 .toggle-label input[type="checkbox"] {
   width: 18px;
   height: 18px;
   cursor: pointer;
-  accent-color: #667eea;
+  accent-color: var(--accent-primary);
 }
 
 .toggle-text {
@@ -153,7 +156,7 @@
 
 .search-hint {
   font-size: 0.85rem;
-  color: #777;
+  color: var(--text-muted);
   font-style: italic;
 }
 
@@ -166,16 +169,15 @@
 
 .data-table {
   width: 100%;
-  background: white;
+  background: var(--bg-secondary);
   border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border: 1px solid var(--border-color);
   border-collapse: collapse;
   overflow: hidden;
 }
 
 .data-table thead {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: rgba(102, 126, 234, 0.15);
 }
 
 .data-table thead th {
@@ -187,15 +189,17 @@
   position: sticky;
   top: 0;
   z-index: 10;
+  color: var(--accent-primary);
+  border-bottom: 1px solid var(--border-color);
 }
 
 .data-table tbody tr {
-  border-bottom: 1px solid #f0f0f0;
+  border-bottom: 1px solid var(--border-color);
   transition: background-color 0.2s ease;
 }
 
 .data-table tbody tr:hover {
-  background-color: #f8f9ff;
+  background-color: var(--bg-card-hover);
 }
 
 .data-table tbody tr:last-child {
@@ -204,30 +208,32 @@
 
 .data-table tbody td {
   padding: 1rem;
-  color: #333;
+  color: var(--text-secondary);
   font-size: 0.9rem;
   vertical-align: top;
 }
 
 .data-table .column-name {
   font-weight: 600;
-  color: #667eea;
+  color: var(--accent-primary);
 }
 
 .data-table .ai-comment {
-  background: #f0f7ff;
+  background: rgba(102, 126, 234, 0.1);
   padding: 0.5rem;
   border-radius: 4px;
-  border-left: 3px solid #667eea;
+  border-left: 3px solid var(--accent-primary);
   font-size: 0.85rem;
+  color: var(--text-secondary);
 }
 
 .data-table .analyst-comment {
-  background: #fff5f0;
+  background: rgba(251, 191, 36, 0.1);
   padding: 0.5rem;
   border-radius: 4px;
-  border-left: 3px solid #ff9f66;
+  border-left: 3px solid var(--accent-warning);
   font-size: 0.85rem;
+  color: var(--text-secondary);
 }
 
 .pagination {
@@ -242,9 +248,9 @@
 
 .pagination-btn {
   padding: 0.6rem 1.5rem;
-  background: white;
-  color: #667eea;
-  border: 2px solid #667eea;
+  background: var(--bg-card);
+  color: var(--accent-primary);
+  border: 1px solid var(--border-color);
   border-radius: 8px;
   font-weight: 600;
   cursor: pointer;
@@ -252,8 +258,9 @@
 }
 
 .pagination-btn:hover:not(:disabled) {
-  background: #667eea;
+  background: var(--accent-primary);
   color: white;
+  border-color: var(--accent-primary);
 }
 
 .pagination-btn:disabled {
@@ -269,9 +276,9 @@
 
 .page-number {
   padding: 0.5rem 0.8rem;
-  background: white;
-  color: #667eea;
-  border: 2px solid #e0e0e0;
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-color);
   border-radius: 6px;
   font-weight: 600;
   cursor: pointer;
@@ -280,17 +287,18 @@
 }
 
 .page-number:hover {
-  border-color: #667eea;
+  border-color: var(--accent-primary);
+  color: var(--accent-primary);
 }
 
 .page-number.active {
-  background: #667eea;
+  background: var(--accent-primary);
   color: white;
-  border-color: #667eea;
+  border-color: var(--accent-primary);
 }
 
 .ellipsis {
-  color: #999;
+  color: var(--text-muted);
   padding: 0 0.5rem;
 }
 

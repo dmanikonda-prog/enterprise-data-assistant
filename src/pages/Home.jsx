@@ -2,6 +2,36 @@ import { Link } from 'react-router-dom';
 import { useAuth } from '../AuthContext';
 import './Home.css';
 
+const projects = [
+  {
+    id: 'schema',
+    icon: '📊',
+    title: 'Schema Details',
+    description: 'Browse table and column information from multiple Oracle schemas. View data types, relationships, and metadata.',
+    status: 'active',
+    link: '/data',
+    linkText: 'Browse Data',
+  },
+  {
+    id: 'assistant',
+    icon: '🤖',
+    title: 'AI Assistant',
+    description: 'Ask questions about your enterprise data in natural language. Multi-agent system across Sales, HR, Finance, Inventory, Audit & Schema.',
+    status: 'active',
+    link: '/chat',
+    linkText: 'Ask AI Assistant',
+  },
+  {
+    id: 'insights',
+    icon: '💡',
+    title: 'Insights',
+    description: 'Advanced analytics dashboards, trend analysis, and AI-powered recommendations across your enterprise data.',
+    status: 'coming-soon',
+    link: null,
+    linkText: 'Coming Soon',
+  },
+];
+
 function Home() {
   const { user, signOut } = useAuth();
 
@@ -12,31 +42,31 @@ function Home() {
         <button className="logout-btn" onClick={signOut}>Sign Out</button>
       </div>
       <div className="home-content">
-        <h1>Database Schema Viewer</h1>
+        <h1>Welcome to Dhar's Pilot Project Explorer</h1>
         <p className="subtitle">
-          View and explore Oracle database schema information
+          Your unified hub for data exploration, AI-powered analytics, and insights
         </p>
-        <div className="features">
-          <div className="feature-card">
-            <h3>📊 Schema Details</h3>
-            <p>Browse table and column information from multiple Oracle schemas</p>
-          </div>
-          <div className="feature-card">
-            <h3>🤖 AI Assistant</h3>
-            <p>Ask questions about your database in natural language</p>
-          </div>
-          <div className="feature-card">
-            <h3>💬 Comments & Insights</h3>
-            <p>View Oracle comments, AI insights, and analyst notes</p>
-          </div>
-        </div>
-        <div className="action-buttons">
-          <Link to="/chat" className="chat-btn">
-            🤖 Ask AI Assistant
-          </Link>
-          <Link to="/data" className="view-data-btn">
-            📊 Browse Data
-          </Link>
+        <h2 className="section-heading">Projects</h2>
+        <div className="project-grid">
+          {projects.map(project => (
+            <div key={project.id} className={`project-card ${project.status === 'coming-soon' ? 'disabled' : ''}`}>
+              <div className="project-card-header">
+                <span className="project-icon">{project.icon}</span>
+                <span className={`status-badge ${project.status}`}>
+                  {project.status === 'active' ? 'Active' : 'Coming Soon'}
+                </span>
+              </div>
+              <h3 className="project-title">{project.title}</h3>
+              <p className="project-description">{project.description}</p>
+              {project.link ? (
+                <Link to={project.link} className="project-link">
+                  {project.linkText} →
+                </Link>
+              ) : (
+                <span className="project-link-disabled">{project.linkText}</span>
+              )}
+            </div>
+          ))}
         </div>
       </div>
     </div>
