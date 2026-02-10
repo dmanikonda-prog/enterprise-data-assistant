@@ -1,9 +1,16 @@
 import { Link } from 'react-router-dom';
+import { useAuth } from '../AuthContext';
 import './Home.css';
 
 function Home() {
+  const { user, signOut } = useAuth();
+
   return (
     <div className="home-container">
+      <div className="home-topbar">
+        <span className="user-email">{user?.email}</span>
+        <button className="logout-btn" onClick={signOut}>Sign Out</button>
+      </div>
       <div className="home-content">
         <h1>Database Schema Viewer</h1>
         <p className="subtitle">
