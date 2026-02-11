@@ -19,7 +19,9 @@ function Chatbot() {
   const [showApiKeyInput, setShowApiKeyInput] = useState(!apiKey);
   const [pendingQuestion, setPendingQuestion] = useState(null);
   const [activeDomain, setActiveDomain] = useState(null);
+  const [isListening, setIsListening] = useState(false);
   const messagesEndRef = useRef(null);
+  const recognitionRef = useRef(null);
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -28,6 +30,41 @@ function Chatbot() {
   useEffect(() => {
     scrollToBottom();
   }, [messages]);
+
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+
+  const toggleListening = () => {
+    if (!SpeechRecognition) {
+      alert('Speech recognition is not supported in your browser. Please use Chrome or Edge.');
+      return;
+    }
+
+    if (isListening) {
+      recognitionRef.current?.stop();
+      setIsListening(false);
+      return;
+    }
+
+    const recognition = new SpeechRecognition();
+    recognition.lang = 'en-US';
+    recognition.interimResults = true;
+    recognition.continuous = false;
+    recognitionRef.current = recognition;
+
+    recognition.onstart = () => setIsListening(true);
+
+    recognition.onresult = (event) => {
+      const transcript = Array.from(event.results)
+        .map(result => result[0].transcript)
+        .join('');
+      setInput(transcript);
+    };
+
+    recognition.onend = () => setIsListening(false);
+    recognition.onerror = () => setIsListening(false);
+
+    recognition.start();
+  };
 
   const saveApiKey = () => {
     localStorage.setItem('anthropic_api_key', apiKey);
@@ -298,6 +335,14 @@ function Chatbot() {
             rows="1"
             disabled={isLoading || !!pendingQuestion}
           />
+          <button
+            className={`mic-btn ${isListening ? 'listening' : ''}`}
+            onClick={toggleListening}
+            disabled={isLoading || !!pendingQuestion}
+            title={isListening ? 'Stop listening' : 'Voice input'}
+          >
+            🎤
+          </button>
           <button
             className="send-btn"
             onClick={handleSend}
